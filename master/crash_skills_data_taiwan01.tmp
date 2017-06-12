@@ -1,0 +1,12 @@
+8001,"[effect:damage_anti_type, target:enemy_one, type:hp, val1:3.375, val2:1.3, animation:damage_one_yellow04]",3
+8002,"[effect:damage_anti_type, target:enemy_one, type:hp, val1:3.75, val2:1.5, animation:damage_one_yellow04]",3
+8003,"[effect:damage, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04]",3
+8004,"[effect:damage, target:enemy_one, color:blue, val:2.5, animation:damage_one_blue04]",3
+8005,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:3.375, val2:1.31,  animation:damage_one_blue05]",3
+8006,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:3.75, val2:1.31,  animation:damage_one_blue05]",3
+8007,"[effect:damage, target:enemy_all, color:red, val:0.675, animation:damage_all_red04],[effect:damage, target:enemy_one, color:red, val:1.4, animation:damage_one_red04]",3
+8008,"[effect:damage, target:enemy_all, color:red, val:0.875, animation:damage_all_red04],[effect:damage, target:enemy_one, color:red, val:1.4, animation:damage_one_red04]",3
+8009,"[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green02],[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green02],[effect:damage_fix_pierce, target:enemy_one, color:green, val:1000]",3
+8010,"[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green02],[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green02],[effect:damage_fix_pierce, target:enemy_one, color:green, val:1000]",3
+8011,"[effect:damage, target:enemy_all, color:yellow, val:1, animation:damage_all_yellow03],[effect:damage, target:enemy_one, color:yellow, val:1.5, animation:damage_one_yellow04]",3
+8012,"[effect:damage, target:enemy_all, color:yellow, val:1, animation:damage_all_yellow03],[effect:damage, target:enemy_one, color:yellow, val:1.5, animation:damage_one_yellow04]",3

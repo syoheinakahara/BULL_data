@@ -1,0 +1,51 @@
+40008000,"[effect:fix_speed,target:myself,turn:2]",3
+40008001,"[effect:nothing]",3
+40008002,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+40008003,"[effect:rush, count:5, val:0.25]",3
+40008004,"[effect:hungup, target:unit_one, turn:3, rate:1, animation:hungup01],[effect:rush, count:1, val:1.0]",3
+40008005,"[effect:enhance_enemy, target:enemy_all, turn:4, status:attack, val:0.5, animation:enemy_enhance_attack],[effect:enhance_enemy, target:enemy_all, turn:4, status:defense, val:1500, calc:add, animation:enemy_enhance_defense]",3
+40008006,"[effect:nothing]",3
+40008007,"[effect:virus, turn:10, rate:1, val:0.3, animation:enemy_virus]",3
+40008008,"[effect:degrade_unit, target:unit_all, turn:-1, status:attack, val:0.5]",3
+40008009,"[effect:suicide, val:1, dead_type:escape, target:enemy_all]",3
+40008010,"[effect:degrade_unit, target:unit_all, turn:-1, status:heal, val:0.5]",3
+40008011,"[effect:suicide, val:1, dead_type:escape, target:enemy_all]",3
+40008012,"[effect:fix_speed,target:myself,turn:1]",3
+40008013,"[effect:change_attribute, target:myself, color:green, turn:-1, animation:change_attribute_green],[effect:rush, count:2, val:0.7]",3
+40008014,"[effect:break_enchance_enemy, val:0.05, lowest_val:0.01, count :10, status:attack, turn:3, block:block_green, target:myself, calc:mul, animation:enemy_enhance_attack]",3
+40008015,"[effect:nothing]",3
+40008016,"[effect:spread, val:0.35],[effect:rush, count:4, val:0.15]",3
+40008017,"[effect:fix_speed,target:myself,turn:1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance],[effect:hungup, target:unit_all, turn:1, rate:1, animation:hungup01],[effect:force_change_block, new_block:jammer, target:block_all, count:0, val:0, animation:change_block],[effect:enhance_fever, val:1000.0, animation:fevergauge_up04]",3
+40008018,"[effect:hungup, target:unit_all, turn:5, rate:1, animation:hungup01],[effect:suicide, val:1, dead_type:escape, target:myself, animation:enemy_suicide]",3
+40008019,"[effect:suicide, val:1, dead_type:escape, target:myself, animation:enemy_suicide]",3
+40008020,"[effect:force_change_block, new_block:crack_bomb, target:block_all, ignore:block_green, ignore02:crash, color:block_green, count:3, val:24, animation:change_block],[effect:suicide, val:1, dead_type:escape, target:myself, animation:enemy_suicide]",3
+40008021,"[effect:suicide, val:1, dead_type:escape, target:myself, animation:enemy_suicide]",0
+40008022,"[effect:fix_speed,target:myself,turn:1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40008023,"[effect:freq_turn, target:enemy_green, turn:2, val:1, animation:enemy_freq_turn]",3
+40008024,"[effect:enhance_enemy, target:enemy_blue, turn:1, status:attack, val:0.4, animation:enemy_enhance_attack]",3
+40008025,"[effect:sleep, target:unit_all, turn:1, rate:1, animation:sleep01]",3
+40008026,"[effect:hungup, target:unit_all, turn:1, rate:1, animation:hungup01]",0
+40008027,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:buff, animation:frozen_wave],[effect:spread, val:5.0]",3
+40008028,"[effect:nothing]",3
+40008029,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:buff, animation:frozen_wave]",3
+40008030,"[effect:rush, count:5, val:0.25]",3
+40008031,"[effect:critical, val:1.5]",3
+40008032,"[effect:suicide, val:1, dead_type:suicide, target:enemy_green, animation:enemy_suicide],[effect:suicide, val:1, dead_type:suicide, target:enemy_blue, animation:enemy_suicide],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40008033,"[effect:degrade_fever, val:150, animation:fevergauge_down],[effect:rush, count:1, val:1.3]",3
+40008034,"[effect:rush, count:10, val:0.15]",3
+40008035,"[effect:degrade_unit, target:unit_all, turn:-1, status:attack, val:1.0],[effect:degrade_unit, target:unit_all, turn:-1, status:heal, val:1.0]",3
+40008036,"[effect:break_attack, val:0.5, lowest_val:12500, count:-1, block:crack_bomb, target:unit_one],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+40008037,"[effect:hungup, target:unit_all, turn:8, rate:1, animation:hungup01]",3
+40008038,"[effect:enhance_enemy, target:myself, turn:10, status:attack, val:0.5, animation:enemy_enhance_attack]",3
+40008039,"[effect:fix_speed,target:myself,turn:1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:dis_panel, target:block_red, turn:-1],[effect:dis_panel, target:block_blue, turn:-1],[effect:dis_panel, target:block_yellow, turn:-1]",3
+40008040,"[effect:suicide, val:0.1, dead_type:suicide, target:myself, animation:enemy_suicide],[effect:spread, val:0.4]",3
+40008041,"[effect:break_attack, val:0.5, lowest_val:6250, count:-1, block:crack_bomb, target:unit_one]",3
+40008042,"[effect:nothing]",3
+40008043,"[effect:suicide, val:0.9, dead_type:suicide, target:myself, animation:enemy_suicide][effect:critical, val:4.0]",3
+40008044,"[effect:change_attribute, target:myself, color:blue, turn:-1, animation:change_attribute_blue],[effect:rush, count:2, val:0.7]",3
+40008045,"[effect:damage_anti_tribe, target:unit_all, tribe:animal, val1:2.6, val2:0.26]",3
+40008046,"[effect:sleep, target:unit_all, turn:1, rate:1, animation:sleep01]",3
+40008047,"[effect:sleep, target:unit_all, turn:1, rate:1, animation:sleep01]",3
+40008048,"[effect:sleep, target:unit_all, turn:1, rate:1, animation:sleep01]",3
+40008049,"[effect:hungup, target:unit_yellow, turn:8, rate:1, animation:hungup01]",3
+40008050,"[effect:hungup, target:unit_red, turn:8, rate:1, animation:hungup01]",3

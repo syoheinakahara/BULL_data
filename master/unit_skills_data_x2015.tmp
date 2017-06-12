@@ -1,0 +1,12 @@
+512,10,5,2001,"[effect:damage, target:enemy_one, color:red, val:5.95, animation:damage_one_red04]",3
+513,12,5,2001,"[effect:damage, target:enemy_one, color:red, val:8.16, animation:damage_one_red04]",3
+514,9,5,2001,"[effect:special_block,val:24, count:1, animation:change_block]",3
+515,9,5,2001,"[effect:special_block,val:24, count:1, animation:change_block]",3
+516,14,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.45, calc:mul, animation:enhance_unit_all_heal02_unit01],[effect:regenerate, turn:3, val:0.405, animation:heal_unit],[effect:change_block, new_block:block_heart, target:block_yellow, count:0, val:0, animation:change_block]",3
+517,14,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.45, calc:mul, animation:enhance_unit_all_heal02_unit01],[effect:regenerate, turn:3, val:0.405, animation:heal_unit],[effect:change_block, new_block:block_heart, target:block_yellow, count:0, val:0, animation:change_block]",3
+518,13,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:8.16, animation:damage_one_yellow04]",3
+519,19,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:19.1, animation:damage_one_yellow05],[effect:crash_condition, target:unit_all, val:3, turn:4, animation:enemy_crash_extend]",3
+520,0,1,2001,,3
+521,0,1,2001,,3
+522,0,1,2001,,3
+523,0,1,2001,,3

@@ -1,0 +1,11 @@
+20012001,"[effect:charge, status:attack, val:1.5, animation:enemy_charge]",3
+20012002,"[effect:spread, val:0.6, animation:enemy_spread],[effect:freq_turn, target:myself, turn:1, val:3, animation:enemy_freq_turn]",3
+20012003,"[effect:critical, val:1.5.0, animation:enemy_critical]",3
+20012004,"[effect:nothing]",3
+20012005,"[effect:degrade_unit, target:unit_all, turn:5, status:heal, val:0.5, calc:mul, animation:degrade_unit_all_heal]",3
+20012006,"[effect:change_block, new_block:jammer, target:block_heart, count:4, val:0.1, animation:change_block],[effect:rush, count:3, val:0.4]",3
+20012007,"[effect:degrade_unit, target:unit_all, turn:5, status:attack, val:0.5, calc:mul],[effect:spread, val:0.4, animation:enemy_spread]",3
+20012008,"[effect:virus, turn:1, rate:1.0, val:0.99, animation:enemy_virus]",3
+20012009,"[effect:virus, turn:3, rate:1.0, val:0.21, animation:enemy_virus]",3
+20012010,"[effect:virus, turn:5, rate:1.0, val:0.14, animation:enemy_virus]",3
+20012011,"[effect:degrade_unit, target:unit_all, turn:3, status:heal, val:0.5, calc:mul, animation:degrade_unit_all_heal]",3

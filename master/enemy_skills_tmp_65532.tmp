@@ -1,0 +1,27 @@
+65532001,"[effect:change_range_block, block_change:1, base_type:0, square_count:3, position01:0, position02:2, position03:4, position04:6, position05:8, value_h01:1.0, value_h02:1.0, value_h03:1.0, value_h04:1.0, value_h05:1.0, value_w01:1.0, value_w02:1.0, value_w03:1.0, value_w04:1.0, value_w05:1.0, new_block:jammer, target:block_all, ignore01:jammer, count:40, val:0, new_block:damage, target:block_all, count:8, val:0.08, animation:change_range_block]",1
+65532002,"[effect:spread, val:0.3]",1
+65532003,"[effect:critical, val:0.8, animation:enemy_critical]",1
+65532004,"[effect:critical, val:1.2 animation:enemy_critical]",1
+65532005,"[effect:rush, count:5, val:0.2]",1
+65532006,"[effect:enhance_enemy, target:enemy_all, turn:2, status:attack, val:0.5, calc:mul, animation:enemy_enhance_attack]",1
+65532007,"[effect:degrade_unit, target:unit_all, turn:2, status:defense, val:2000, calc:add]",1
+65532008,"[effect:virus, target:unit_all, turn:5, rate:1, val:0.08, animation:enemy_virus]",1
+65532009,"[effect:virus, target:unit_all, turn:4, rate:1, val:0.1, animation:enemy_virus]",1
+65532010,"[effect:virus, target:unit_all, turn:4, rate:1, val:0.2, animation:enemy_virus]",1
+65532011,"[effect:virus, target:unit_one, turn:4, rate:1, val:0.2, animation:enemy_virus]",1
+65532021,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:2, val:0.4, animation:enemy_counter]",1
+65532013,"[effect:sleep, target:unit_one, turn:2, rate:1, calc_type:target_one, animation:sleep01]",1
+65532014,"[effect:break_attack_fix, target:unit_one, val:0, lowest_val:4000, count:5, color:yellow, block01:block_all]",1
+65532015,"[effect:damage_anti_color, target:unit_one, color:green, val1:1, val2:0.2]",1
+65532016,"[effect:enemy_message, val1:2, val2:1.8]",1
+65532017,"[effect:suicide, target:myself, val:0.5]",1
+65532018,"[effect:damage_abnormal, target:unit_one, val:0.5, status:virus, turn:4, rate:1, val_abnormal:0.1, animation:enemy_virus]",1
+65532019,"[effect:damage_anti_abnormal, target:unit_one, color:yellow, target_effect01:virus, val1:2, val2:0.5]",1
+65532020,"[effect:virus, target:unit_one, turn:5, rate:1, val:0.08, animation:enemy_virus]",1
+65532012,"[effect:hungup, target:unit_one, turn:2, rate:1, animation:hungup01]",1
+65532022,"[effect:kamikaze, val:3]",1
+65532023,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",1
+65532024,"[effect:virus, target:unit_one, turn:5, rate:1, val:0.2, animation:enemy_virus]",1
+65532025,"[effect:fix_speed, target:myself, turn:2]",1
+65532026,"[effect:fix_speed, target:myself, turn:4]",1
+65532027,"[effect:fix_speed, target:myself, turn:1]",1

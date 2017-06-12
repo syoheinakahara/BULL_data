@@ -1,0 +1,1 @@
+109901,"{""ver"":""1.7.0"",""""type"":""ability"",""effects"":""[effect:enhance_unit, target:myself, turn:1, status:attack, val:0.2, calc:mul, animation:enhance_unit_all_attack03]"",""conditions"":""[condition:active_unit],[condition:panel_chain,count:16]"",""priority"":0}",1

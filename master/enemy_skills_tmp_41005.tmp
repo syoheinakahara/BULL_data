@@ -1,0 +1,58 @@
+41005002,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:block_positive, ignore02:block_negative, count:7, val:0]",3
+41005003,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:block_positive, ignore02:block_negative, count:7, val:0]",3
+41005004,"[effect:fix_speed, target:enemy_all, turn:3]",3
+41005005,"[effect:enhance_enemy, target:myself, turn:3, status:defense, val:3500, calc:add, animation:enemy_enhance_enemy],[effect:fix_speed, target:enemy_all, turn:2]",3
+41005006,"[effect:degrade_unit, target:unit_all, turn:5, status:heal, val:0.5, calc:mul, animation:degrade_unit_all_heal]",3
+41005007,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:8, val:0]",3
+41005008,"[effect:spread, val:0.3]",3
+41005009,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:8, val:0]",3
+41005010,"[effect:critical, val:2]",3
+41005011,"[effect:dis_heart, turn:5, animation:enemy_dis_heart]",3
+41005012,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.5, animation:enemy_enhance_attack],[effect:rush, count:1, val:0.6]",3
+41005013,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.1, animation:enemy_enhance_attack],[effect:rush, count:1, val:0.5]",3
+41005014,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.8, animation:enemy_enhance_attack]",3
+41005015,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, count:4, val:0],[effect:rush, count:1, val:1]",3
+41005016,"[effect:tolerance,target:myself,turn:-1,tolerance_effect:all,count:-1,animation:enemy_tolerance],[effect:enhance_enemy, target:myself, turn:3, status:defense, val:3700, calc:add, animation:enemy_enhance_enemy]",3
+41005017,"[effect:nothing],[effect:rush, count:1, val:1]",3
+41005018,"[effect:degrade_unit, target:unit_all, turn:5, status:attack, val:0.7, calc:mul],[effect:rush, count:1, val:0.8],[effect:tolerance,target:myself,turn:-1,tolerance_effect:all,count:-1,animation:enemy_tolerance],[effect:fix_speed, target:enemy_all, turn:1]",3
+41005019,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, count:15, val:0]",3
+41005021,"[effect:dis_heart, turn:4, animation:enemy_dis_heart]",3
+41005022,"[effect:freq_turn, target:myself, turn:3, val:1, animation:enemy_freq_turn]",3
+41005023,"[effect:rush, count:2, val:0.8]",3
+41005024,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, count:4, val:0],[effect:rush, count:1, val:1]",3
+41005025,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, count:4, val:0],[effect:rush, count:1, val:1]",3
+41005026,"[effect:hungup, target:unit_all, turn:3, rate:1, animation:hungup01]",3
+41005027,"[effect:degrade_unit, target:unit_all, turn:3, status:attack, val:0.8, calc:mul]",3
+41005028,"[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:0.3],[effect:rush, count:1, val:1.7]",3
+41005029,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.5, animation:enemy_enhance_attack]",3
+41005030,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:8, val:0]",3
+41005031,"[effect:rush, count:2, val:0.8]",3
+41005032,"[effect:rush, count:1, val:0.4],[effect:enhance_enemy, target:myself, turn:3, status:defense, val:7500, calc:add, animation:enemy_enhance_enemy]",3
+41005033,"[effect:rush, count:2, val:0.4],[effect:hungup, target:unit_all, turn:2, rate:1, animation:hungup01]",3
+41005020,"[effect:rush, count:3, val:0.4],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:10, val:0]",3
+41005034,"[effect:rush, count:4, val:0.4],[effect:degrade_unit, target:unit_all, turn:-1, status:attack, val:0.9, calc:mul]",3
+41005035,"[effect:rush, count:5, val:0.4],[effect:degrade_fever, val:300, animation:fevergauge_down]",3
+41005036,"[effect:degrade_unit, target:unit_all, turn:3, status:defense, val:1, calc:mul],[effect:rush, count:6, val:0.4]",3
+41005044,"[effect:degrade_fever, val:500, animation:fevergauge_down],[effect:enhance_enemy, target:myself, turn:3, status:defense, val:3700, calc:add, animation:enemy_enhance_enemy],[effect:tolerance,target:myself,turn:-1,tolerance_effect:all,count:-1,animation:enemy_tolerance]",3
+41005045,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:4, val:0],[effect:critical, val:1.8]",3
+41005046,"[effect:rush, count:1, val:0.4]",3
+41005047,"[effect:rush, count:2, val:0.4]",3
+41005048,"[effect:rush, count:3, val:0.4]",3
+41005049,"[effect:rush, count:4, val:0.4]",3
+41005050,"[effect:rush, count:5, val:0.4]",3
+41005051,"[effect:degrade_unit, target:unit_all, turn:3, status:defense, val:1, calc:mul],[effect:rush, count:6, val:0.4]",3
+41005052,"[effect:critical, val:4]",3
+41005053,"[effect:enhance_enemy, target:myself, turn:3, status:defense, val:3500, calc:add, animation:enemy_enhance_enemy],[effect:fix_speed, target:enemy_all, turn:2]",3
+41005054,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0]",3
+41005055,"[effect:change_block, new_block:block_heart, target:block_blue, count:0, val:0.0]",3
+41005056,"[effect:break_enchance_enemy, val:200, lowest_val:1000, count :0, status:attack, turn:-1, block:block_green, target:myself, calc:add, animation:enemy_enhance_attack],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+41005057,"[effect:sleep, target:unit_one, turn:2, rate:1, animation:sleep01]",3
+41005058,"[effect:dis_panel, target:block_red, turn:2, animation:enemy_dis_red]",3
+41005059,"[effect:change_block, new_block:block_heart, target:block_yellow, count:0, val:0.0]",3
+41005060,"[effect:break_enchance_enemy, val:200, lowest_val:1000, count :0, status:attack, turn:-1, block:block_yellow, target:myself, calc:add, animation:enemy_enhance_attack],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+41005061,"[effect:rush, count:1, val:1],[effect:force_change_block, new_block:time_bomb, target:block_green, count:0, val:0.2, min_time_count:2, max_time_count:2, animation:change_block]",3
+41005062,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:15, val:0]",3
+41005063,"[effect:enemy_message, val1:2, val2:2]",3
+41005064,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:0],[effect:rush, count:1, val:1]",3
+41005065,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:0],[effect:rush, count:1, val:1]",3
+41005066,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:0],[effect:rush, count:1, val:1]",3

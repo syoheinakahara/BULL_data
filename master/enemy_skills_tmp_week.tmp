@@ -1,0 +1,10 @@
+11006010,"[effect:fix_speed, target:myself, turn:3]",3
+11006011,"[effect:kamikaze, val:1.0, animation:enemy_kamikaze]",3
+11006020,"[effect:fix_speed, target:myself, turn:3]",3
+11006021,"[effect:kamikaze, val:1.0, animation:enemy_kamikaze]",3
+11006030,"[effect:fix_speed, target:myself, turn:3]",3
+11006031,"[effect:kamikaze, val:1.0, animation:enemy_kamikaze]",3
+11006040,"[effect:fix_speed, target:myself, turn:3]",3
+11006041,"[effect:kamikaze, val:1.0, animation:enemy_kamikaze]",3
+11006401,"[effect:enemy_message, val1:1.5, val2:2.0],[effect:force_change_block, new_block:crack_bomb, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:color_break, ignore04:damage, ignore05:magnet, color:block_yellow, count:5, val:24]",3
+11006402,"[effect:enemy_message, val1:1.4, val2:1.2],[effect:enhance_fever, val:1000, animation:fevergauge_up03]",3

@@ -1,0 +1,1 @@
+13101000,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.1, val2:30][effect:damage_anti_cost, target:unit_all, lower:29, val1:30, val2:0.1, cost_type:unit][effect:enemy_message, val1:1, val2:3]",3

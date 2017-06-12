@@ -1,0 +1,21 @@
+30016001,"[effect:damage_anti_tribe, target:unit_one, tribe:dragon, val1:2.0, val2:0.8]",3
+30016002,"[effect:degrade_unit, target:unit_all, turn:2, status:attack, val:0.5, calc:mul],[effect:rush, count:1, val:0.9]",3
+30016003,"[effect:rush, count:5, val:0.4]",3
+30016004,"[effect:heal, target:enemy_all, val:0.7, animation:enemy_heal]",3
+30016005,"[effect:damage_anti_tribe, target:unit_one, tribe:dragon, val1:3.0, val2:0.8]",3
+30016006,"[effect:degrade_unit, target:unit_all, turn:2, status:attack, val:0.7, calc:mul],[effect:rush, count:1, val:0.9]",3
+30016007,"[effect:change_block, new_block:time_bomb, target:block_yellow, count:0, val:0.1, animation:change_block],[effect:rush, count:1, val:0.8]",3
+30016008,"[effect:rush, count:5, val:0.35]",3
+30016009,"[effect:heal, target:enemy_all, val:0.5, animation:enemy_heal]",3
+30016010,"[effect:critical, val:2.2.0, animation:enemy_critical]",3
+30016011,"[effect:degrade_unit, target:unit_all, turn:2, status:attack, val:0.9, calc:mul],[effect:rush, count:1, val:0.9]",3
+30016012,"[effect:change_block, new_block:time_bomb, target:block_yellow, count:0, val:0.1, animation:change_block],[effect:rush, count:1, val:0.8]",3
+30016013,"[effect:freq_turn, target:myself, turn:4, val:1, animation:enemy_freq_turn]",3
+30016014,"[effect:rush, count:5, val:0.45]",3
+30016015,"[effect:heal, target:enemy_all, val:0.7, animation:enemy_heal]",3
+30016016,"[effect:degrade_unit, target:unit_all, turn:1, status:heal, val:0.5, calc:mul],[effect:rush, count:1, val:0.8]",3
+30016017,"[effect:rush, count:6, val:0.25]",3
+30016018,"[effect:nothing]",3
+30016019,"[effect:spread, val:0.5, animation:enemy_spread]",3
+30016020,"[effect:nothing]",3
+30016021,"[effect:nothing]",3

@@ -1,0 +1,12 @@
+14002611,"[effect:nothing]",3
+14002612,"[effect:nothing]",3
+14002613,"[effect:nothing]",3
+14003230,"[effect:enemy_message, val1:0.77, val2:0],[effect:fix_speed, target:myself, turn:1]",3
+14003231,"[effect:enemy_message, val1:0.77, val2:0],[effect:fix_speed, target:myself, turn:2]",3
+14003232,"[effect:enemy_message, val1:0.77, val2:0],[effect:fix_speed, target:myself, turn:3]",3
+14003330,"[effect:enemy_message, val1:0.77, val2:0],[effect:fix_speed, target:myself, turn:1]",3
+14003331,"[effect:enemy_message, val1:0.77, val2:0],[effect:fix_speed, target:myself, turn:2]",3
+14003332,"[effect:enemy_message, val1:0.77, val2:0],[effect:fix_speed, target:myself, turn:3]",3
+14003430,"[effect:enemy_message, val1:0.77, val2:0],[effect:fix_speed, target:myself, turn:1]",3
+14003431,"[effect:enemy_message, val1:0.77, val2:0],[effect:fix_speed, target:myself, turn:2]",3
+14003432,"[effect:enemy_message, val1:0.77, val2:0],[effect:fix_speed, target:myself, turn:3]",3

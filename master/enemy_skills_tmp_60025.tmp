@@ -1,0 +1,39 @@
+60025000,"[effect:change_panel_ratio, turn:-1, block_type:yellow, val:0, animation:block_incidence04]",3
+60025001,"[effect:rush, count:3, val:0.4]",3
+60025002,"[effect:critical, val:1.2, animation:enemy_critical]",3
+60025005,"[effect:nothing]",3
+60025006,"[effect:spread, val:0.25]",3
+60025007,"[effect:enhance_enemy, target:myself, turn:3, status:defense, val:3000, calc:add, animation:enemy_enhance_defense]",3
+60025010,"[effect:critical, val:1.2, animation:enemy_critical],[effect:fix_speed, target:myself, turn:1]",3
+60025011,"[effect:critical, val:1.2, animation:enemy_critical],[effect:fix_speed, target:myself, turn:2]",3
+60025012,"[effect:critical, val:1.2, animation:enemy_critical],[effect:fix_speed, target:myself, turn:3]",3
+60025015,"[effect:fix_speed, target:myself, turn:2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+60025016,"[effect:enemy_message, val2:2.8],[effect:change_panel_ratio, turn:-1, block_type:yellow, val:0.2, animation:block_incidence04],[effect:drop_block, block_type:crash, color:block_yellow, val:6, rate:1, turn:-1, animation:crash_influence04]",3
+60025017,"[effect:damage_abnormal, target:unit_all, val:0.25, status:action, turn:1, rate:1, val_abnormal:2, animation:enemy_tap_down]",3
+60025018,"[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25]",3
+60025025,"[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:degrade_unit, target:unit_all, turn:1, status:action, val:2, calc:add, animation:enemy_tap_down]",3
+60025026,"[effect:enemy_message, val2:2.8],[effect:change_panel_ratio, turn:-1, block_type:yellow, val:0.2, animation:block_incidence04],[effect:drop_block, block_type:crash, color:block_yellow, val:6, rate:1, turn:-1, animation:crash_influence04]",3
+60025027,"[effect:damage_abnormal, target:unit_all, val:0.25, status:action, turn:1, rate:1, val_abnormal:2, animation:enemy_tap_down]",3
+60025028,"[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25]",3
+60025035,"[effect:fix_speed, target:myself, turn:2],[effect:change_panel_ratio, turn:-1, block_type:yellow, val:0, animation:block_incidence04]",3
+60025036,"[effect:rush, count:2, val:0.6]",3
+60025037,"[effect:rush, count:3, val:0.4]",3
+60025038,"[effect:freq_turn, target:enemy_red, turn:-1, val:1, animation:enemy_freq_turn]",3
+60025039,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+60025040,"[effect:fix_speed, target:myself, turn:3]",3
+60025041,"[effect:critical, val:1.3, animation:enemy_critical]",3
+60025042,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.3, calc:mul, animation:enemy_enhance_attack]",3
+60025045,"[effect:fix_speed, target:myself, turn:2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+60025046,"[effect:enemy_message, val2:2.8],[effect:change_panel_ratio, turn:-1, block_type:yellow, val:0.2, animation:block_incidence04],[effect:drop_block, block_type:crash, color:block_yellow, val:6, rate:1, turn:-1, animation:crash_influence04]",3
+60025047,"[effect:break_attack, target:unit_all, val:0.1, lowest_val:1500, count:-1, color:blue, block01:crash]",3
+60025048,"[effect:damage_abnormal, target:unit_all, val:0.25, status:action, turn:1, rate:1, val_abnormal:2, animation:enemy_tap_down]",3
+60025049,"[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25]",3
+60025055,"[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:change_panel_ratio, turn:-1, block_type:yellow, val:0, animation:block_incidence04]",3
+60025056,"[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25]",3
+60025057,"[effect:critical, val:1.3, animation:enemy_critical],[effect:force_change_block, new_block:block_heart, target:crash, count:0, val:0, animation:change_block]",3
+60025058,"[effect:enemy_message, val2:4.2],[effect:change_panel_ratio, turn:-1, block_type:yellow, val:0.2, animation:block_incidence04],[effect:drop_block, block_type:crash, color:block_yellow, val:6, rate:1, turn:-1, animation:crash_influence04],[effect:degrade_unit, target:unit_all, turn:1, status:action, val:2, animation:enemy_tap_down]",3
+60025065,"[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:change_panel_ratio, turn:-1, block_type:yellow, val:0, animation:block_incidence04]",3
+60025066,"[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.35, val2:0.25]",3
+60025067,"[effect:critical, val:1.3, animation:enemy_critical],[effect:force_change_block, new_block:block_heart, target:crash, count:0, val:0, animation:change_block]",3
+60025068,"[effect:enemy_message, val2:4.2],[effect:change_panel_ratio, turn:-1, block_type:yellow, val:0.2, animation:block_incidence04],[effect:drop_block, block_type:crash, color:block_yellow, val:6, rate:1, turn:-1, animation:crash_influence04],[effect:degrade_unit, target:unit_all, turn:1, status:action, val:2, animation:enemy_tap_down]",3
+60025069,"[effect:enemy_message, dead_type:suicide, val1:1.4, val2:2]",3

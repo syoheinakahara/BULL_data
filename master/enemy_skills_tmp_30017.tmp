@@ -1,0 +1,24 @@
+30017001,"[effect:dark, turn:2,target:unit_all,animation:enemy_dark],[effect:rush, count:1, val:1.0]",3
+30017002,"[effect:virus, turn:3, rate:1.0, val:0.05, animation:enemy_virus],[effect:rush, count:1, val:1.0]",3
+30017003,"[effect:degrade_unit, target:unit_all, turn:3, status:action, val:1.0,animation:enemy_tap_down],[effect:rush, count:1, val:1.0]",3
+30017004,"[effect:rush, count:6, val:0.3]",3
+30017005,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.35, animation:enemy_enhance_enemy],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:4000, calc:add, animation:enemy_enhance_enemy]",3
+30017006,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.4, animation:enemy_enhance_enemy],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:8000, calc:add, animation:enemy_enhance_enemy]",3
+30017007,"[effect:critical, val:1.4.0, animation:enemy_critical]",3
+30017008,"[effect:spread, val:0.5, animation:enemy_spread]",3
+30017009,"[effect:degrade_unit,target:myself,target:myself, turn:1, status:defense, val:0, calc:add, animation:enemy_enhance_enemy],[effect:fix_speed,target:myself,turn:2]",3
+30017010,"[effect:degrade_unit,target:myself, turn:1, status:attack, val:0, animation:enemy_enhance_enemy],[effect:fix_speed,target:myself,turn:2]",3
+30017011,"[effect:rush, count:5, val:0.25]",3
+30017012,"[effect:spread, val:0.15, animation:enemy_spread],[effect:fix_speed,target:myself,turn:2]",3
+30017013,"[effect:rush, count:3, val:0.4]",3
+30017014,"[effect:damage_anti_tribe, target:unit_one, tribe:animal, val1:1.6, val2:0.8]",3
+30017015,"[effect:rush, count:6, val:0.2]",3
+30017016,"[effect:freq_turn, target:myself, turn:3, val:1, animation:enemy_freq_turn]",3
+30017017,"[effect:dis_panel, target:block_green, turn:4, animation:enemy_dis_green],[effect:spread, val:0.32, animation:enemy_spread]",3
+30017018,"[effect:spread, val:0.4, animation:enemy_spread]",3
+30017019,"[effect:charge, status:attack, val:0.8, animation:enemy_charge]",3
+30017020,"[effect:heal, target:enemy_one, val:0.2, animation:enemy_heal],[effect:charge, status:attack, val:0.8 animation:enemy_charge]",3
+30017021,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:degrade_unit, target:unit_all, turn:-1, status:action, val:1.0,animation:enemy_tap_down]",3
+30017022,"[effect:rush, count:9, val:0.17]",3
+30017023,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.3, animation:enemy_enhance_enemy]",3
+30017024,"[effect:heal, target:enemy_one, val:0.2, animation:enemy_heal],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.3, animation:enemy_enhance_enemy]",3

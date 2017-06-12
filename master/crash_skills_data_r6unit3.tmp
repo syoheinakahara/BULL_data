@@ -1,0 +1,5 @@
+1174,"[effect:damage_anti_tribe, target:enemy_one, tribe:machine, val1:3.75, val2:1, animation:damage_one_yellow04],[effect:heal_ratio, val:0.3, animation:heal03_unit01]",3
+895,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:3.375, val2:1.2, animation:damage_one_red04]",3
+898,"[effect:damage_fix_pierce, target:enemy_one, color:yellow, val:5500, animation:damage_one_yellow04],[effect:heal_ratio, val:0.3, animation:heal03_unit01]",3
+1603,"[effect:damage_anti_tribe, target:enemy_one, tribe:human, val1:3.75, val2:1.5, animation:damage_one_blue04]",3
+1604,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:3.75, val2:1.5, animation:damage_one_green04],[effect:enhance_fever, val:20, animation:fevergauge_up03]",3

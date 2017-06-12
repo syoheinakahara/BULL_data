@@ -1,0 +1,28 @@
+15029002,"[effect:rush, count:2, val:0.6]",3
+15029003,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:debuff, count:-1, animation:frozen_wave]",3
+15029004,"[effect:kamikaze, val:0.5]",3
+15029005,"[effect:dark, turn:3,target:unit_all]",3
+15029008,"[effect:dis_panel, target:block_red, turn:2, animation:enemy_dis_red],[effect:spread, val:0.26]",3
+15029009,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:unit_all, turn:3, val:0.2, animation:enemy_counter]",3
+15029010,"[effect:change_panel_ratio, turn:3, block_type:red, val:0.4, animation:block_incidence04]",3
+15029011,"[effect:fix_speed, target:myself, turn:1]",3
+15029012,"[effect:break_attack_fix, val:100, lowest_val:0, count:-1, block01:block_blue, block02:block_red, block03:block_green, target:unit_all],[effect:fix_speed, target:myself, turn:2]",3
+15029014,"[effect:dis_heart, turn:3, animation:enemy_dis_heart]",3
+15029016,"[effect:heal, target:enemy_one, val:0.1, animation:enemy_heal]",3
+15029019,"[effect:change_panel_ratio, turn:3, block_type:heal, val:0.1, animation:block_incidence04]",3
+15029020,"[effect:degrade_unit, target:unit_all, turn:3, status:heal, val:0.5, calc:mul, animation:degrade_unit_all_heal]",3
+15029021,"[effect:degrade_unit, target:unit_all, turn:3, status:attack, val:0.5, calc:mul]",3
+15029022,"[effect:change_block, new_block:jammer, target:block_all, count:2, val:0, animation:change_block]",3
+15029024,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:debuff, count:-1, animation:frozen_wave]",3
+15029025,"[effect:kamikaze, val:0.5]",3
+15029026,"[effect:dis_heart, turn:3, animation:enemy_dis_heart]",3
+15029029,"[effect:hungup, target:unit_all, turn:1, rate:1, animation:hungup01]",3
+15029030,"[effect:critical, val:1.5]",3
+15029031,"[effect:invalidate_change_block, target:unit_all, block_type01:crack_bomb, turn:4, animation:panel_conversion_off]",3
+15029032,"[effect:crash_condition, target:unit_all, val:2, turn:4, animation:enemy_crash_extend]",3
+15029033,"[effect:change_block, new_block:block_yellow, target:block_heart, count:6, val:0, animation:change_block]",3
+15029034,"[effect:rush, count:2, val:0.6]",3
+15029035,"[effect:spread, val:0.3],[effect:suicide, val:0.2, target:enemy_yellow]",3
+15029036,"[effect:rush, count:3, val:0.35]",3
+15029037,"[effect:heal, target:enemy_one, val:0.1, animation:enemy_heal]",3
+15029038,"[effect:critical, val:1.3]",3

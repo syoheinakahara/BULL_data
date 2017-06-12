@@ -1,0 +1,1 @@
+103801,"{""ver"":""1.7.0"",""type"":""ability"",""effects"":""[effect:enhance_unit, target:myself, turn:1, status:attack, val:0.255, calc:mul, animation:enhance_unit_all_attack03],[effect:enhance_unit, target:myself, turn:1, status:heal, val:0.45, calc:mul, animation:enhance_unit_all_heal04_unit01]"",""conditions"":""[condition:fever_start]"",""priority"":0}",3

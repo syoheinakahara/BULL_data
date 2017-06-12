@@ -1,0 +1,44 @@
+49012001,"[effect:rush, count:3, val:0.4]",3
+49012002,"[effect:suicide, val:0.1, dead_type:suicide, target:enemy_blue, animation:enemy_suicide]",3
+49012003,"[effect:rush, count:5, val:0.2]",3
+49012004,"[effect:fix_speed, target:myself, turn:5]",3
+49012005,"[effect:suicide, val:1, dead_type:escape, target:myself]",3
+49012006,"[effect:fix_speed, target:myself, turn:1]",3
+49012007,"[effect:suicide, val:1, dead_type:escape, target:myself]",3
+49012008,"[effect:enemy_message, val1:1, val2:1.8, dead_type:escape]",3
+49012009,"[effect:nothing]",3
+49012010,"[effect:rush, count:2, val:0.6]",3
+49012011,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:freq_turn, target:myself, turn:3, val:1]",3
+49012012,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+49012013,"[effect:enemy_message, val1:1, val2:1.8, dead_type:escape]",3
+49012014,"[effect:nothing]",3
+49012015,"[effect:suicide, val:1, dead_type:escape, target:myself]",3
+49012016,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:suicide, val:1.0, dead_type:escape, target:enemy_blue]",3
+49012017,"[effect:critical, val:1.5]",3
+49012018,"[effect:rush, count:2, val:0.6]",3
+49012019,"[effect:enemy_message, val1:1, val2:1.8, dead_type:suicide]",3
+49012020,"[effect:suicide, val:0.1, dead_type:suicide, target:myself, animation:enemy_suicide],[effect:rush, count:10, val:0.1]",3
+49012021,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:hungup, target:unit_all, turn:3, rate:1, animation:hungup01]",3
+49012022,"[effect:critical, val:1.5],[effect:panel_freeze, target:block_heart, count:-1, break_count:1]",3
+49012023,"[effect:rush, count:3, val:0.4]",3
+49012024,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:hungup, target:unit_all, turn:3, rate:1, animation:hungup01]",3
+49012025,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:hungup, target:unit_all, turn:3, rate:1, animation:hungup01]",3
+49012026,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:hungup, target:unit_all, turn:3, rate:1, animation:hungup01]",3
+49012027,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:hungup, target:unit_all, turn:3, rate:1, animation:hungup01]",3
+49012028,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:hungup, target:unit_all, turn:3, rate:1, animation:hungup01]",3
+49012029,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:hungup, target:unit_all, turn:3, rate:1, animation:hungup01]",3
+49012030,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:hungup, target:unit_all, turn:3, rate:1, animation:hungup01]",3
+49012031,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:hungup, target:unit_all, turn:3, rate:1, animation:hungup01]",3
+49012032,"[effect:enemy_message, val1:1.2, val2:2.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:degrade_unit, target:unit_all, turn:3, status:attack, val:0.5, calc:mul]",3
+49012033,"[effect:break_attack_fix, val:200, lowest_val:7000, count:-1, block:block_heart, target:unit_one]",3
+49012034,"[effect:critical, val:1.5]",3
+49012035,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:critical, val:1.5],[effect:panel_freeze, target:block_heart, count:-1, break_count:1]",3
+49012036,"[effect:rush, count:3, val:0.4]",3
+49012037,"[effect:damage_abnormal, target:unit_one, val:1.2, status:sleep, turn:1, rate:1, animation:sleep01]",3
+49012038,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:hungup, target:unit_all, turn:3, rate:1, animation:hungup01]",3
+49012039,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:enhance_enemy, target:enemy_all, turn:-1, status:attack, val:0.3, calc:mul, animation:enemy_enhance_attack]",3
+49012040,"[effect:break_attack_fix, val:200, lowest_val:7000, count:-1, block:block_heart, target:unit_one]",3
+49012041,"[effect:critical, val:1.2],[effect:panel_freeze, target:block_heart, count:-1, break_count:1]",3
+49012042,"[effect:rush, count:3, val:0.4]",3
+49012043,"[effect:damage_abnormal, target:unit_one, val:1.2, status:hungup, turn:1, rate:1, animation:hungup01]",3
+49012044,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:dis_heart, turn:-1, animation:enemy_dis_heart]",3

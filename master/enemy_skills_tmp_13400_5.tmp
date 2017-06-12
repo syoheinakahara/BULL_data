@@ -1,0 +1,9 @@
+13400157,"[effect:enemy_message, val1:2.9, val2:1.2]",3
+13400150,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.3]",3
+13400151,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_anti_type, target:unit_all, type:balance, val1:0.01, val2:99.99],[effect:damage_anti_type, target:unit_all, type:balance, val1:0.01, val2:99.99]",3
+13400152,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:virus, turn:2, rate:1, val:0.05, animation:enemy_virus]",3
+13400153,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:rush, count:4, val:0.2], [effect:virus, turn:2, rate:1, val:0.05, animation:enemy_virus]",3
+13400158,"[effect:enemy_message, val1:1.7, val2:1.3]",3
+13400154,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.13], [effect:dark, target:unit_all, turn:3, animation:enemy_dark]",3
+13400155,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:virus, turn:4, rate:1, val:0.08, animation:enemy_virus]",3
+13400156,"[effect:enemy_message, val1:1.2, val2:1.3],[effect:break_attack_fix, target:unit_all, val:75, lowest_val:500, count:-1, color:yellow, block01:block_yellow]",3

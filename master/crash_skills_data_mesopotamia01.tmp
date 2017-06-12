@@ -1,0 +1,16 @@
+1059,"[effect:damage, target:enemy_one, color:green, val:2, animation:damage_one_green03]",3
+1060,"[effect:damage, target:enemy_one, color:green, val:2.25, animation:damage_one_green04]",3
+1061,"[effect:damage, target:enemy_one, color:yellow, val:1.2, animation:damage_one_yellow03],[effect:damage, target:enemy_one, color:yellow, val:1.2, animation:damage_one_yellow03]",3
+1062,"[effect:damage, target:enemy_one, color:yellow, val:1.2, animation:damage_one_yellow03],[effect:damage, target:enemy_one, color:yellow, val:1.2, animation:damage_one_yellow03]",3
+1063,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.375, val2:1.31,  animation:damage_one_blue04]",3
+1064,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.75, val2:1.31,  animation:damage_one_blue04]",3
+1065,"[effect:damage, target:enemy_one, color:red, val:2.25, animation:damage_one_red04]",3
+1066,"[effect:damage, target:enemy_one, color:red, val:2.25, animation:damage_one_red04]",3
+1067,"[effect:damage, target:enemy_one, color:red, val:2, animation:damage_one_red03]",3
+1068,"[effect:damage, target:enemy_one, color:red, val:2.25, animation:damage_one_red04]",3
+1069,"[effect:damage, target:enemy_one, color:green, val:2.25, animation:damage_one_green04]",3
+1070,"[effect:damage, target:enemy_one, color:green, val:2.5, animation:damage_one_green04]",3
+1072,"[effect:damage, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04]",3
+1073,"[effect:damage, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04]",3
+1074,"[effect:damage, target:enemy_one, color:yellow, val:2, animation:damage_one_yellow04],[effect:enhance_unit, target:unit_yellow, turn:1, status:defense, val:72, calc:add,animation:enhance_unit_all_deffence02_unit01]",3
+1075,"[effect:damage, target:enemy_one, color:yellow, val:2, animation:damage_one_yellow04],[effect:enhance_unit, target:unit_yellow, turn:1, status:defense, val:72, calc:add,animation:enhance_unit_all_deffence02_unit01]",3

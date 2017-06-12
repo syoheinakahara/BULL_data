@@ -1,0 +1,21 @@
+112251100,"[effect:fix_speed, target:myself, turn:1][effect:crash_condition, target:unit_all, val:50, turn:-1, ][effect:hungup, target:unit_all, turn:-1, rate:1, ]",3
+112251101,"[effect:suicide, val:1, dead_type:escape, target:myself]",3
+112251102,"[effect:enemy_message, val1:1, val2:2]",3
+112251103,"[effect:enemy_message, val1:1, val2:2]",3
+112251104,"[effect:enemy_message, val1:1, val2:2]",3
+112251105,"[effect:enemy_message, val1:1, val2:2]",3
+112251106,"[effect:enemy_message, val1:1, val2:2]",3
+112251107,"[effect:enemy_message, val1:1, val2:2]",3
+112251108,"[effect:enemy_message, val1:1, val2:2]",3
+112251109,"[effect:fix_speed, target:myself, turn:1][effect:sleep, target:unit_all, turn:1, rate:1, animation:sleep01][effect:force_change_block, new_block:time_bomb, target:block_all, count:9, val:0.1, min_time_count:2, max_time_count:2,animation:change_block]",3
+112251110,"[effect:enemy_message, val1:2, val2:2][effect:force_change_block, new_block:jammer, target:block_green, count:0, val:0.1, min_time_count:0, max_time_count:1][effect:change_panel_ratio, turn:1, block_type:green, val:0]",3
+112251112,"[effect:enemy_message, val1:2, val2:2]",3
+112251113,"[effect:enemy_message, val1:2, val2:2][effect:suicide, val:0.8, dead_type:escape, target:myself]",3
+112251114,"[effect:enhance_fever, val:1000.0, animation:fevergauge_up04][effect:degrade_unit,target:myself,target:myself, turn:1, status:defense, val:65355, calc:add]",3
+112251115,"[effect:enhance_fever, val:1000.0, animation:fevergauge_up04][effect:degrade_unit,target:myself,target:myself, turn:1, status:defense, val:65355, calc:add]",3
+112251116,"[effect:enemy_message, dead_type:escape, val1:1, val2:2]",3
+112251117,"[effect:enemy_message, val1:2, val2:3][effect:fix_speed, target:myself, turn:1][effect:force_change_block, new_block:block_heart, target:block_all, color:block_heart, count:0, val:0.0]",3
+112251118,"[effect:enemy_message, val1:2, val2:2]",3
+112251119,"[effect:enemy_message, val1:3, val2:3][effect:suicide, val:1, dead_type:escape, target:myself][effect:force_change_block, new_block:block_heart, target:block_all, color:block_heart, count:0, val:0.0]",3
+112251120,"[effect:enemy_message, val1:1, val2:2]",3
+112251121,"[effect:enemy_message, val1:1, val2:2]",3

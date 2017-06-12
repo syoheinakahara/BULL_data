@@ -1,0 +1,270 @@
+15031001,"[effect:break_attack, val:0.05, lowest_val:0, count:8, block:block_red, target:unit_all]",3
+15031002,"[effect:nothing]",3
+15031003,"[effect:nothing]",3
+15031004,"[effect:nothing]",3
+15031005,"[effect:nothing]",3
+15031006,"[effect:spread, val:0.3]",3
+15031007,"[effect:nothing]",3
+15031008,"[effect:nothing]",3
+15031009,"[effect:nothing]",3
+15031010,"[effect:nothing]",3
+15031011,"[effect:dis_heart, turn:3, animation:enemy_dis_heart]",3
+15031012,"[effect:nothing]",3
+15031013,"[effect:nothing]",3
+15031014,"[effect:nothing]",3
+15031015,"[effect:nothing]",3
+15031016,"[effect:spread, val:0.3]",3
+15031017,"[effect:nothing]",3
+15031018,"[effect:nothing]",3
+15031019,"[effect:nothing]",3
+15031020,"[effect:nothing]",3
+15031021,"[effect:heal, target:enemy_one, val:0.5, animation:enemy_heal]",3
+15031022,"[effect:nothing]",3
+15031023,"[effect:nothing]",3
+15031024,"[effect:nothing]",3
+15031025,"[effect:nothing]",3
+15031026,"[effect:heal, target:enemy_one, val:0.5, animation:enemy_heal]",3
+15031027,"[effect:nothing]",3
+15031028,"[effect:nothing]",3
+15031029,"[effect:nothing]",3
+15031030,"[effect:nothing]",3
+15031031,"[effect:damage_anti_abnormal, target:unit_all, target_effect01:hungup, val1:0.3, val2:0.1]",3
+15031032,"[effect:hungup, target:unit_all, turn:5, rate:1, animation:hungup01]",3
+15031033,"[effect:nothing]",3
+15031034,"[effect:nothing]",3
+15031035,"[effect:nothing]",3
+15031036,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:debuff, count:-1, animation:frozen_wave]",3
+15031037,"[effect:nothing]",3
+15031038,"[effect:nothing]",3
+15031039,"[effect:nothing]",3
+15031040,"[effect:nothing]",3
+15031041,"[effect:crash_condition, target:unit_all, val:2, turn:3, animation:enemy_crash_extend]",3
+15031042,"[effect:nothing]",3
+15031043,"[effect:nothing]",3
+15031044,"[effect:nothing]",3
+15031045,"[effect:nothing]",3
+15031046,"[effect:dark, target:unit_all, turn:3, animation:enemy_dark]",3
+15031047,"[effect:time_limit, target:unit_one, count:10, turn:3, animation:enemy_time_limit]",3
+15031048,"[effect:spread, val:0.2]",3
+15031049,"[effect:rush, count:2, val:0.3]",3
+15031050,"[effect:nothing]",3
+15031051,"[effect:break_attack, val:0.05, lowest_val:0, count:8, block:block_red, target:unit_all]",3
+15031052,"[effect:nothing]",3
+15031053,"[effect:nothing]",3
+15031054,"[effect:nothing]",3
+15031055,"[effect:nothing]",3
+15031056,"[effect:break_attack, val:0.05, lowest_val:0, count:8, block:block_blue, target:unit_all]",3
+15031057,"[effect:nothing]",3
+15031058,"[effect:nothing]",3
+15031059,"[effect:nothing]",3
+15031060,"[effect:nothing]",3
+15031061,"[effect:dis_heart, turn:3, animation:enemy_dis_heart]",3
+15031062,"[effect:nothing]",3
+15031063,"[effect:nothing]",3
+15031064,"[effect:nothing]",3
+15031065,"[effect:nothing]",3
+15031066,"[effect:dis_heart, turn:4, animation:enemy_dis_heart]",3
+15031067,"[effect:nothing]",3
+15031068,"[effect:nothing]",3
+15031069,"[effect:nothing]",3
+15031070,"[effect:nothing]",3
+15031071,"[effect:heal, target:enemy_one, val:0.5, animation:enemy_heal]",3
+15031072,"[effect:nothing]",3
+15031073,"[effect:nothing]",3
+15031074,"[effect:nothing]",3
+15031075,"[effect:nothing]",3
+15031076,"[effect:heal, target:enemy_one, val:0.5, animation:enemy_heal]",3
+15031077,"[effect:nothing]",3
+15031078,"[effect:nothing]",3
+15031079,"[effect:nothing]",3
+15031080,"[effect:nothing]",3
+15031081,"[effect:break_attack, val:0.05, lowest_val:0, count:8, block:block_blue, target:unit_all]",3
+15031082,"[effect:nothing]",3
+15031083,"[effect:nothing]",3
+15031084,"[effect:nothing]",3
+15031085,"[effect:nothing]",3
+15031086,"[effect:dis_heart, turn:4, animation:enemy_dis_heart]",3
+15031087,"[effect:nothing]",3
+15031088,"[effect:nothing]",3
+15031089,"[effect:nothing]",3
+15031090,"[effect:nothing]",3
+15031091,"[effect:break_enchance_enemy, val:0.04, lowest_val:0.08, count :-1, status:defense, turn:2, block:block_blue, target:myself, calc:mul, animation:enemy_enhance_defense]",3
+15031092,"[effect:nothing]",3
+15031093,"[effect:nothing]",3
+15031094,"[effect:nothing]",3
+15031095,"[effect:nothing]",3
+15031096,"[effect:break_heal_ratio, val:0.04, lowest_val:5000, count:-1, block:block_blue, target:myself, animation:enemy_heal]",3
+15031097,"[effect:nothing]",3
+15031098,"[effect:nothing]",3
+15031099,"[effect:nothing]",3
+15031100,"[effect:nothing]",3
+15031101,"[effect:break_attack, val:0.05, lowest_val:0, count:8, block:block_blue, target:unit_all]",3
+15031102,"[effect:nothing]",3
+15031103,"[effect:nothing]",3
+15031104,"[effect:nothing]",3
+15031105,"[effect:nothing]",3
+15031106,"[effect:spread, val:0.3]",3
+15031107,"[effect:nothing]",3
+15031108,"[effect:nothing]",3
+15031109,"[effect:nothing]",3
+15031110,"[effect:nothing]",3
+15031111,"[effect:dis_heart, turn:4, animation:enemy_dis_heart]",3
+15031112,"[effect:nothing]",3
+15031113,"[effect:nothing]",3
+15031114,"[effect:nothing]",3
+15031115,"[effect:nothing]",3
+15031116,"[effect:spread, val:0.3]",3
+15031117,"[effect:nothing]",3
+15031118,"[effect:nothing]",3
+15031119,"[effect:nothing]",3
+15031120,"[effect:nothing]",3
+15031121,"[effect:damage_anti_abnormal, target:unit_all, target_effect01:virus, val1:1.6, val2:0.8]",3
+15031122,"[effect:virus, target:unit_all, turn:5, rate:1, val:0.1, animation:enemy_virus]",3
+15031123,"[effect:nothing]",3
+15031124,"[effect:nothing]",3
+15031125,"[effect:nothing]",3
+15031126,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:debuff, count:-1, animation:frozen_wave]",3
+15031127,"[effect:nothing]",3
+15031128,"[effect:nothing]",3
+15031129,"[effect:nothing]",3
+15031130,"[effect:nothing]",3
+15031131,"[effect:critical, val:1.2]",3
+15031132,"[effect:nothing]",3
+15031133,"[effect:nothing]",3
+15031134,"[effect:nothing]",3
+15031135,"[effect:nothing]",3
+15031136,"[effect:critical, val:1.2]",3
+15031137,"[effect:nothing]",3
+15031138,"[effect:nothing]",3
+15031139,"[effect:nothing]",3
+15031140,"[effect:nothing]",3
+15031141,"[effect:heal, target:enemy_one, val:0.5, animation:enemy_heal]",3
+15031142,"[effect:nothing]",3
+15031143,"[effect:nothing]",3
+15031144,"[effect:nothing]",3
+15031145,"[effect:nothing]",3
+15031146,"[effect:heal, target:enemy_one, val:0.5, animation:enemy_heal]",3
+15031147,"[effect:nothing]",3
+15031148,"[effect:nothing]",3
+15031149,"[effect:nothing]",3
+15031150,"[effect:nothing]",3
+15031151,"[effect:break_attack, val:0.05, lowest_val:0, count:8, block:block_blue, target:unit_all]",3
+15031152,"[effect:nothing]",3
+15031153,"[effect:nothing]",3
+15031154,"[effect:nothing]",3
+15031155,"[effect:nothing]",3
+15031156,"[effect:dis_heart, turn:3, animation:enemy_dis_heart]",3
+15031157,"[effect:nothing]",3
+15031158,"[effect:nothing]",3
+15031159,"[effect:nothing]",3
+15031160,"[effect:nothing]",3
+15031161,"[effect:damage_anti_abnormal, target:unit_all, target_effect01:virus, val1:1.6, val2:0.8]",3
+15031162,"[effect:virus, target:unit_all, turn:5, rate:1, val:0.1, animation:enemy_virus]",3
+15031163,"[effect:nothing]",3
+15031164,"[effect:nothing]",3
+15031165,"[effect:nothing]",3
+15031166,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:debuff, count:-1, animation:frozen_wave]",3
+15031167,"[effect:nothing]",3
+15031168,"[effect:nothing]",3
+15031169,"[effect:nothing]",3
+15031170,"[effect:nothing]",3
+15031171,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:2, val:1.3, animation:counter_buff03]",3
+15031172,"[effect:spread, val:0.3]",3
+15031173,"[effect:nothing]",3
+15031174,"[effect:nothing]",3
+15031175,"[effect:nothing]",3
+15031176,"[effect:change_attribute, target:myself, color:blue, turn:-1]",3
+15031177,"[effect:change_block, new_block:time_bomb, target:block_all, count:4, val:0.3, animation:change_block]",3
+15031178,"[effect:spread, val:0.3]",3
+15031179,"[effect:nothing]",3
+15031180,"[effect:nothing]",3
+15031181,"[effect:change_attribute, target:myself, color:red, turn:-1]",3
+15031182,"[effect:invalidate_change_block, target:unit_all, block_type01:crack_bomb, turn:3, animation:panel_conversion_off]",3
+15031183,"[effect:panel_freeze, target:block_green, count:30]",3
+15031184,"[effect:spread, val:0.3]",3
+15031185,"[effect:nothing]",3
+15031186,"[effect:nothing]",3
+15031187,"[effect:nothing]",3
+15031188,"[effect:nothing]",3
+15031189,"[effect:nothing]",3
+15031190,"[effect:nothing]",3
+15031191,"[effect:nothing]",3
+15031192,"[effect:nothing]",3
+15031193,"[effect:nothing]",3
+15031194,"[effect:nothing]",3
+15031195,"[effect:nothing]",3
+15031196,"[effect:nothing]",3
+15031197,"[effect:nothing]",3
+15031198,"[effect:nothing]",3
+15031199,"[effect:nothing]",3
+15031200,"[effect:nothing]",3
+15031201,"[effect:nothing]",3
+15031202,"[effect:nothing]",3
+15031203,"[effect:nothing]",3
+15031204,"[effect:nothing]",3
+15031205,"[effect:nothing]",3
+15031206,"[effect:nothing]",3
+15031207,"[effect:nothing]",3
+15031208,"[effect:nothing]",3
+15031209,"[effect:nothing]",3
+15031210,"[effect:nothing]",3
+15031211,"[effect:nothing]",3
+15031212,"[effect:nothing]",3
+15031213,"[effect:nothing]",3
+15031214,"[effect:nothing]",3
+15031215,"[effect:nothing]",3
+15031216,"[effect:nothing]",3
+15031217,"[effect:nothing]",3
+15031218,"[effect:nothing]",3
+15031219,"[effect:nothing]",3
+15031220,"[effect:nothing]",3
+15031221,"[effect:nothing]",3
+15031222,"[effect:nothing]",3
+15031223,"[effect:nothing]",3
+15031224,"[effect:nothing]",3
+15031225,"[effect:nothing]",3
+15031226,"[effect:nothing]",3
+15031227,"[effect:nothing]",3
+15031228,"[effect:nothing]",3
+15031229,"[effect:nothing]",3
+15031230,"[effect:nothing]",3
+15031231,"[effect:nothing]",3
+15031232,"[effect:nothing]",3
+15031233,"[effect:nothing]",3
+15031234,"[effect:nothing]",3
+15031235,"[effect:nothing]",3
+15031236,"[effect:nothing]",3
+15031237,"[effect:nothing]",3
+15031238,"[effect:nothing]",3
+15031239,"[effect:nothing]",3
+15031240,"[effect:nothing]",3
+15031241,"[effect:nothing]",3
+15031242,"[effect:nothing]",3
+15031243,"[effect:nothing]",3
+15031244,"[effect:nothing]",3
+15031245,"[effect:nothing]",3
+15031246,"[effect:nothing]",3
+15031247,"[effect:nothing]",3
+15031248,"[effect:nothing]",3
+15031249,"[effect:nothing]",3
+15031250,"[effect:nothing]",3
+15031251,"[effect:nothing]",3
+15031252,"[effect:nothing]",3
+15031253,"[effect:nothing]",3
+15031254,"[effect:nothing]",3
+15031255,"[effect:nothing]",3
+15031256,"[effect:nothing]",3
+15031257,"[effect:nothing]",3
+15031258,"[effect:nothing]",3
+15031259,"[effect:nothing]",3
+15031260,"[effect:nothing]",3
+15031261,"[effect:nothing]",3
+15031262,"[effect:nothing]",3
+15031263,"[effect:nothing]",3
+15031264,"[effect:nothing]",3
+15031265,"[effect:nothing]",3
+15031266,"[effect:nothing]",3
+15031267,"[effect:nothing]",3
+15031268,"[effect:nothing]",3
+15031269,"[effect:nothing]",3
+15031270,"[effect:nothing]",3

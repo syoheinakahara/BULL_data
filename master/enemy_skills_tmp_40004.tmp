@@ -1,0 +1,29 @@
+40004001,"[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:1.25, animation:enemy_enhance_enemy]",3
+40004002,"[effect:nothing]",3
+40004003,"[effect:critical, val:1.1.5, animation:enemy_critical]",3
+40004004,"[effect:change_block, new_block:jammer, target:block_all, count:5, val:0.1, animation:change_block]",3
+40004005,"[effect:dis_panel, target:block_green, turn:3, animation:enemy_dis_green],[effect:rush, count:1, val:0.5]",3
+40004006,"[effect:critical, val:1.1.5, animation:enemy_critical]",3
+40004007,"[effect:enhance_enemy, target:enemy_all, turn:-1, status:defense, val:5000, calc:add, animation:enemy_enhance_enemy]",3
+40004008,"[effect:enemy_counter, target:myself,invoke_condition:unit_all,counter_target:attacker,turn:3,val:1.25,animation:enemy_counter]",3
+40004009,"[effect:critical, val:1.2, animation:enemy_critical]",3
+40004010,"[effect:critical, val:1.8, animation:enemy_critical]",3
+40004011,"[effect:critical, val:2.4, animation:enemy_critical]",3
+40004012,"[effect:critical, val:3.25, animation:enemy_critical]",3
+40004013,"[effect:spread, val:0.3, animation:enemy_spread]",3
+40004014,"[effect:change_block, new_block:block_blue, target:block_heart, count:10, val:0.1, animation:change_block]",3
+40004015,"[effect:degrade_unit, target:unit_all, turn:5, status:heal, val:0.5, calc:mul, animation:degrade_unit_all_heal]",3
+40004016,"[effect:freq_turn, target:myself, turn:3, val:1, animation:enemy_freq_turn]",3
+40004017,"[effect:tolerance,target:myself, turn:-1, tolerance_effect:all, count:-1]",3
+40004018,"[effect:damage_anti_type, target:unit_one, type:attack, val1:1.5, val2:0.8]",3
+40004019,"[effect:rush, count:2, val:0.6]",3
+40004020,"[effect:spread, val:0.3, animation:enemy_spread]",3
+40004021,"[effect:enhance_enemy, target:enemy_all, turn:5, status:attack, val:1.1, animation:enemy_enhance_enemy]",3
+40004022,"[effect:enemy_counter, target:myself,invoke_condition:unit_all,counter_target:attacker,turn:5,val:1.25,animation:enemy_counter]",3
+40004023,"[effect:damage_anti_color, target:unit_one, color:red, val1:3.0, val2:1.0]",3
+40004024,"[effect:damage_anti_color, target:unit_one, color:blue, val1:3.0, val2:1.0]",3
+40004025,"[effect:damage_anti_color, target:unit_one, color:yellow, val1:3.0, val2:1.0]",3
+40004026,"[effect:enhance_enemy, target:enemy_all, turn:-1, status:defense, val:5000, calc:add, animation:enemy_enhance_enemy],[effect:enhance_enemy, target:enemy_all, turn:-1, status:attack, val:0.4, calc:mul, animation:enemy_enhance_enemy]",3
+40004027,"[effect:rush, count:4, val:0.4]",3
+40004028,"[effect:rush, count:8, val:0.3]",3
+40004029,"[effect:tolerance,target:myself, turn:-1, tolerance_effect:all, count:-1],[effect:enemy_counter, target:myself,invoke_condition:unit_all,counter_target:attacker,turn:5,val:1.25,animation:enemy_counter]",3

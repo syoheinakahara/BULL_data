@@ -1,0 +1,22 @@
+65535200,"[effect:nothing]",1
+65535201,"[effect:nothing]",1
+65535202,"[effect:nothing]",1
+65535203,"[effect:suicide, val:1, dead_type:suicide, target:enemy_yellow, animation:enemy_suicide],[effect:suicide, val:1, dead_type:suicide, target:enemy_green, animation:enemy_suicide]",1
+65535204,"[effect:suicide, val:1, dead_type:suicide, target:enemy_yellow, animation:enemy_suicide],[effect:suicide, val:1, dead_type:suicide, target:enemy_green, animation:enemy_suicide]",1
+65535205,"[effect:nothing]",1
+65535206,"[effect:nothing]",1
+65535207,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.05, val2:2.0],[effect:suicide, val:0.2, dead_type:suicide, target:myself, animation:enemy_suicide]",1
+65535208,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.05, val2:2.0],[effect:suicide, val:0.2, dead_type:suicide, target:myself, animation:enemy_suicide]",1
+65535209,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.05, val2:2.0],[effect:suicide, val:0.2, dead_type:suicide, target:myself, animation:enemy_suicide]",1
+65535210,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.05, val2:2.0],[effect:suicide, val:0.2, dead_type:suicide, target:myself, animation:enemy_suicide]",1
+65535211,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.05, val2:2.0],[effect:suicide, val:0.3, dead_type:suicide, target:myself, animation:enemy_suicide]",1
+65535212,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.05, val2:2.0],[effect:suicide, val:0.4, dead_type:suicide, target:myself, animation:enemy_suicide]",1
+65535213,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.05, val2:2.0],[effect:suicide, val:0.5, dead_type:suicide, target:myself, animation:enemy_suicide]",1
+65535214,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.05, val2:2.0],[effect:suicide, val:0.6, dead_type:suicide, target:myself, animation:enemy_suicide]",1
+65535215,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.05, val2:2.0],[effect:suicide, val:0.7, dead_type:suicide, target:myself, animation:enemy_suicide]",1
+65535216,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.05, val2:2.0],[effect:suicide, val:0.8, dead_type:suicide, target:myself, animation:enemy_suicide]",1
+65535217,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.05, val2:2.0],[effect:suicide, val:0.9, dead_type:suicide, target:myself, animation:enemy_suicide]",1
+65535218,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.05, val2:2.0],[effect:suicide, val:0.10, dead_type:suicide, target:myself, animation:enemy_suicide]",1
+65535219,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.05, val2:2.0],[effect:suicide, val:0.11, dead_type:suicide, target:myself, animation:enemy_suicide]",1
+65535220,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.05, val2:2.0],[effect:suicide, val:0.12, dead_type:suicide, target:myself, animation:enemy_suicide]",1
+65535221,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.05, val2:2.0],[effect:suicide, val:0.13, dead_type:suicide, target:myself, animation:enemy_suicide]",1

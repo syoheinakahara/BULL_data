@@ -1,0 +1,12 @@
+30025001,"[effect:damage_anti_tribe, target:unit_all, tribe:machine, val1:0.01, val2:5.0],[effect:damage_anti_tribe, target:unit_all, tribe:machine, val1:0.01, val2:5.0]",3
+30025003,"[effect:spread, val:0.5, animation:enemy_spread]",3
+30025004,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+30025006,"[effect:degrade_unit, target:unit_animal, turn:-1, status:action, val:1.0,animation:enemy_tap_down]",3
+30025007,"[effect:rush, count:3, val:0.5]",3
+30025008,"[effect:change_block, new_block:time_bomb, target:block_green, count:0, val:0.1, min_time_count:1, max_time_count:3, animation:change_block],[effect:rush, count:3, val:0.35]",3
+30025009,"[effect:dark, turn:5,target:unit_all,animation:enemy_dark]",3
+30025010,"[effect:change_block, new_block:time_bomb, target:block_all, count:1, val:0.3, min_time_count:3, max_time_count:3, animation:change_block],[effect:rush, count:1, val:1.0]",3
+30025011,"[effect:change_block, new_block:time_bomb, target:block_all, count:1, val:0.3, min_time_count:2, max_time_count:2, animation:change_block],[effect:rush, count:2, val:0.55]",3
+30025012,"[effect:change_block, new_block:time_bomb, target:block_all, count:1, val:0.3, min_time_count:1, max_time_count:1, animation:change_block],[effect:rush, count:3, val:0.4]",3
+30025013,"[effect:dark, turn:4,target:unit_all,animation:enemy_dark],[effect:rush, count:2, val:0.5]",3
+30025014,"[effect:change_block, new_block:time_bomb, target:block_green, count:0, val:0.08, min_time_count:3, max_time_count:3, animation:change_block],[effect:rush, count:3, val:0.35]",3

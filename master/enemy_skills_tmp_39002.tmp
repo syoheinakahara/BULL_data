@@ -1,0 +1,68 @@
+39002001,"[effect:heal, target:enemy_one, val:0.5, animation:enemy_heal]",3
+39002002,"[effect:nothing]",3
+39002003,"[effect:nothing]",3
+39002004,"[effect:nothing]",3
+39002005,"[effect:nothing]",3
+39002006,"[effect:critical, val:1.3]",3
+39002007,"[effect:nothing]",3
+39002008,"[effect:nothing]",3
+39002009,"[effect:nothing]",3
+39002010,"[effect:nothing]",3
+39002011,"[effect:heal, target:enemy_one, val:0.5, animation:enemy_heal]",3
+39002012,"[effect:nothing]",3
+39002013,"[effect:nothing]",3
+39002014,"[effect:nothing]",3
+39002015,"[effect:nothing]",3
+39002016,"[effect:change_block, new_block:jammer, target:block_all, count:3, val:0, no_effect_msg:no_effect_msg_change_block_heal, animation:change_block]",3
+39002017,"[effect:nothing]",3
+39002018,"[effect:nothing]",3
+39002019,"[effect:nothing]",3
+39002020,"[effect:nothing]",3
+39002021,"[effect:heal, target:enemy_one, val:0.5, animation:enemy_heal]",3
+39002022,"[effect:nothing]",3
+39002023,"[effect:nothing]",3
+39002024,"[effect:nothing]",3
+39002025,"[effect:nothing]",3
+39002026,"[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:1500, calc:add, animation:enemy_enhance_attack]",3
+39002027,"[effect:spread, val:0.3]",3
+39002028,"[effect:nothing]",3
+39002029,"[effect:nothing]",3
+39002030,"[effect:nothing]",3
+39002031,"[effect:enhance_enemy, target:enemy_all, turn:3, status:defense, val:1500, calc:add, animation:enemy_enhance_defense]",3
+39002032,"[effect:spread, val:0.3]",3
+39002033,"[effect:nothing]",3
+39002034,"[effect:nothing]",3
+39002035,"[effect:nothing]",3
+39002036,"[effect:nothing]",3
+39002037,"[effect:change_attribute, target:myself, color:red, turn:-1, animation:change_attribute_red],[effect:change_block, new_block:jammer, target:block_all, count:4, val:0, no_effect_msg:no_effect_msg_change_block_heal, animation:change_block]",3
+39002038,"[effect:change_attribute, target:myself, color:red, turn:-1, animation:change_attribute_red],[effect:change_block, new_block:jammer, target:block_all, count:4, val:0, no_effect_msg:no_effect_msg_change_block_heal, animation:change_block]",3
+39002039,"[effect:change_attribute, target:myself, color:blue, turn:-1, animation:change_attribute_blue],[effect:change_block, new_block:jammer, target:block_all, count:4, val:0, no_effect_msg:no_effect_msg_change_block_heal, animation:change_block]",3
+39002040,"[effect:change_attribute, target:myself, color:blue, turn:-1, animation:change_attribute_blue],[effect:change_block, new_block:jammer, target:block_all, count:4, val:0, no_effect_msg:no_effect_msg_change_block_heal, animation:change_block]",3
+39002041,"[effect:nothing]",3
+39002042,"[effect:nothing]",3
+39002043,"[effect:change_block, new_block:jammer, target:block_all, count:4, val:0, no_effect_msg:no_effect_msg_change_block_heal, animation:change_block]",3
+39002044,"[effect:change_block, new_block:block_yellow, target:block_green, count:0, val:0, animation:change_block]",3
+39002045,"[effect:damage_anti_color, target:unit_all, color:blue, val1:0.6, val2:0.3]",3
+39002046,"[effect:rush, count:2, val:0.6]",3
+39002047,"[effect:nothing]",3
+39002048,"[effect:nothing]",3
+39002049,"[effect:nothing]",3
+39002050,"[effect:change_attribute, target:myself, color:red, turn:-1, animation:change_attribute_red],[effect:dis_panel, target:block_yellow, turn:3, animation:enemy_dis_yellow],[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:1500, calc:add, animation:enemy_enhance_attack],[effect:enhance_enemy, target:enemy_all, turn:3, status:defense, val:2500, calc:add, animation:enemy_enhance_defense]",3
+39002051,"[effect:change_attribute, target:myself, color:red, turn:-1, animation:change_attribute_red],[effect:dis_panel, target:block_yellow, turn:3, animation:enemy_dis_yellow],[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:1500, calc:add, animation:enemy_enhance_attack],[effect:enhance_enemy, target:enemy_all, turn:3, status:defense, val:2500, calc:add, animation:enemy_enhance_defense]",3
+39002052,"[effect:change_attribute, target:myself, color:red, turn:-1, animation:change_attribute_red],[effect:dis_panel, target:block_yellow, turn:3, animation:enemy_dis_yellow],[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:1500, calc:add, animation:enemy_enhance_attack],[effect:enhance_enemy, target:enemy_all, turn:3, status:defense, val:2500, calc:add, animation:enemy_enhance_defense]",3
+39002053,"[effect:change_attribute, target:myself, color:red, turn:-1, animation:change_attribute_red],[effect:dis_panel, target:block_yellow, turn:3, animation:enemy_dis_yellow],[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:1500, calc:add, animation:enemy_enhance_attack],[effect:enhance_enemy, target:enemy_all, turn:3, status:defense, val:2500, calc:add, animation:enemy_enhance_defense]",3
+39002054,"[effect:nothing]",3
+39002055,"[effect:nothing]",3
+39002056,"[effect:dis_panel, target:block_yellow, turn:3, animation:enemy_dis_yellow],[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:1500, calc:add, animation:enemy_enhance_defense],[effect:enhance_enemy, target:enemy_all, turn:3, status:defense, val:1500, calc:add, animation:enemy_enhance_defense]",3
+39002057,"[effect:change_block, new_block:block_yellow, target:block_green, count:0, val:0, animation:change_block]",3
+39002058,"[effect:damage_anti_color, target:unit_all, color:blue, val1:0.6, val2:0.3]",3
+39002059,"[effect:rush, count:2, val:0.6]",3
+39002060,"[effect:nothing]",3
+39002061,"[effect:critical, val:1.3]",3
+39002062,"[effect:enemy_message, val1:3, val2:3, dead_type:escape]",3
+39002063,"[effect:nothing]",3
+39002064,"[effect:dis_panel, target:block_yellow, turn:3, animation:enemy_dis_yellow]",3
+39002065,"[effect:change_block, new_block:block_yellow, target:block_green, count:0, val:0, animation:change_block]",3
+39002066,"[effect:change_block, new_block:block_yellow, target:block_green, count:0, val:0, animation:change_block]",3
+39002067,"[effect:nothing]",3
+39002068,"[effect:nothing]",3

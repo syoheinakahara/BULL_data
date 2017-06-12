@@ -1,0 +1,99 @@
+39013110,"[effect:enemy_message, val1:1.2, val2:0.0]",1
+39013111,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.5, animation:enemy_critical]",1
+39013120,"[effect:enemy_message, val1:1.8, val2:0.0]",1
+39013121,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.0, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013130,"[effect:enemy_message, val1:1.2, val2:0.0]",1
+39013131,"[effect:enemy_message, val1:1.2, val2:1.9],[effect:damage_abnormal, target:unit_all, val:0.2, status:virus, turn:2, val_abnormal:0.05, animation:enemy_virus]",1
+39013140,"[effect:enemy_message, val1:1.3, val2:0.0]",1
+39013141,"[effect:enemy_message, val1:1.4, val2:2.2],[effect:damage_anti_abnormal, target:unit_all, target_effect01:virus, val1:0.5, val2:0.2]",1
+39013142,"[effect:enemy_message, val1:1.2, val2:1.4],[effect:virus, turn:2, rate:1, val:0.05, animation:enemy_virus]",1
+39013211,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013600,"[effect:enemy_message, val1:2.9, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013601,"[effect:enemy_message, val1:2.9, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013602,"[effect:enemy_message, val1:2.4, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013603,"[effect:enemy_message, val1:2.4, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013604,"[effect:enemy_message, val1:2.2, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013605,"[effect:enemy_message, val1:2.2, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013606,"[effect:enemy_message, val1:2.1, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013607,"[effect:enemy_message, val1:2.1, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013608,"[effect:enemy_message, val1:2.0, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013609,"[effect:enemy_message, val1:2.0, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013212,"[effect:enemy_message, val1:1.5, val2:2.3],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.9, calc:mul, animation:enemy_enhance_attack]",1
+39013213,"[effect:enemy_message, val1:1.2, val2:3.5],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:1, val:0.6, animation:enemy_counter],[effect:drop_block, block_type:crack_bomb, color:block_all, val:16, rate:0.2, turn:1, animation:bomb_influence04]",1
+39013214,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:1, val:0.5],[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",1
+39013215,"[effect:enemy_message, val1:1.2, val2:0.0]",1
+39013216,"[effect:enemy_message, val1:2.5, val2:0.0]",1
+39013221,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:1, val:1.0]",1
+39013222,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:1, val:1.1]",1
+39013223,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:1, val:1.2]",1
+39013224,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:1, val:1.3]",1
+39013225,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:1, val:1.4]",1
+39013311,"[effect:enemy_message, val1:1.6, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013312,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:0.9, status:virus, turn:3, val_abnormal:0.3, animation:enemy_virus]",1
+39013313,"[effect:enemy_message, val1:1.2, val2:3.5],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:1, val:0.9, animation:enemy_counter],[effect:drop_block, block_type:crack_bomb, color:block_all, val:16, rate:0.2, turn:1, animation:bomb_influence04]",1
+39013314,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:3, val:0.52]",1
+39013315,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:1, val:0.5],[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",1
+39013316,"[effect:enemy_message, val1:1.2, val2:0.0]",1
+39013321,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.2, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013322,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.3, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013323,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.4, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013324,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.5, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013325,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.6, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013411,"[effect:enemy_message, val1:1.9, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013412,"[effect:enemy_message, val1:1.2, val2:6.7],[effect:change_range_block, block_change:1, base_type:0, square_count:2, position01:0, value_h01:1, value_w01:2, new_block:block_blue, target:block_all, ignore01:block_positive, count:0, val:0, animation:change_range_block],[effect:change_range_block, block_change:1, base_type:0, square_count:2, position01:2, value_h01:1, value_w01:2, new_block:block_red, target:block_all, ignore01:block_positive, count:0, val:0, animation:change_range_block],[effect:degrade_unit, target:unit_all, turn:1, status:action, val:2, calc:add, animation:enemy_tap_down],[effect:rush, count:1, val:0.6],[effect:change_panel_ratio, turn:1, block_type:blue, val:0],[effect:change_panel_ratio, turn:1, block_type:red, val:0]",1
+39013413,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:break_attack_fix, target:unit_one, val:360, lowest_val:1, count:24, color:yellow, block01:block_red]",1
+39013414,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:break_attack_fix, target:unit_one, val:360, lowest_val:1, count:24, color:yellow, block01:block_blue]",1
+39013415,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.4, animation:enemy_critical]",1
+39013416,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.4, animation:enemy_critical]",1
+39013418,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:3, val:0.6]",1
+39013419,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.0, status:virus, turn:3, val_abnormal:0.4, animation:enemy_virus]",1
+39013420,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:1, val:1.2, animation:enemy_counter]",1
+39013451,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.2, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013452,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.3, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013453,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.4, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013454,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.5, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013455,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.6, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013444,"[effect:enemy_message, val1:2.0, val2:0.0]",1
+39013700,"[effect:enemy_message, val1:1.8, val2:0.0]",1
+39013500,"[effect:enemy_message, val1:1.9, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013501,"[effect:enemy_message, val1:1.2, val2:6.7],[effect:change_range_block, block_change:1, base_type:0, square_count:2, position01:0, value_h01:1, value_w01:2, new_block:block_blue, target:block_all, ignore01:block_positive, count:0, val:0, animation:change_range_block],[effect:change_range_block, block_change:1, base_type:0, square_count:2, position01:2, value_h01:1, value_w01:2, new_block:block_red, target:block_all, ignore01:block_positive, count:0, val:0, animation:change_range_block],[effect:degrade_unit, target:unit_all, turn:1, status:action, val:2, calc:add, animation:enemy_tap_down],[effect:rush, count:1, val:0.6],[effect:change_panel_ratio, turn:1, block_type:blue, val:0],[effect:change_panel_ratio, turn:1, block_type:red, val:0]",1
+39013502,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:break_attack_fix, target:unit_one, val:300, lowest_val:1, count:24, color:yellow, block01:block_red]",1
+39013503,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:break_attack_fix, target:unit_one, val:300, lowest_val:1, count:24, color:yellow, block01:block_blue]",1
+39013504,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.4, animation:enemy_critical]",1
+39013505,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.4, animation:enemy_critical]",1
+39013506,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:3, val:0.6]",1
+39013507,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.0, status:virus, turn:3, val_abnormal:0.4, animation:enemy_virus]",1
+39013508,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:1, val:1.2, animation:enemy_counter]",1
+39013509,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.2, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013510,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.3, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013511,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.4, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013512,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.5, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013513,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.6, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013525,"[effect:enemy_message, val1:1.9, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013526,"[effect:enemy_message, val1:1.2, val2:6.7],[effect:change_range_block, block_change:1, base_type:0, square_count:2, position01:0, value_h01:1, value_w01:2, new_block:block_blue, target:block_all, ignore01:block_positive, count:0, val:0, animation:change_range_block],[effect:change_range_block, block_change:1, base_type:0, square_count:2, position01:2, value_h01:1, value_w01:2, new_block:block_red, target:block_all, ignore01:block_positive, count:0, val:0, animation:change_range_block],[effect:degrade_unit, target:unit_all, turn:1, status:action, val:2, calc:add, animation:enemy_tap_down],[effect:rush, count:1, val:0.6],[effect:change_panel_ratio, turn:1, block_type:blue, val:0],[effect:change_panel_ratio, turn:1, block_type:red, val:0]",1
+39013527,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:break_attack_fix, target:unit_one, val:250, lowest_val:1, count:24, color:yellow, block01:block_red]",1
+39013528,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:break_attack_fix, target:unit_one, val:250, lowest_val:1, count:24, color:yellow, block01:block_blue]",1
+39013529,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.4, animation:enemy_critical]",1
+39013530,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.4, animation:enemy_critical]",1
+39013531,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:3, val:0.6]",1
+39013532,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.0, status:virus, turn:3, val_abnormal:0.4, animation:enemy_virus]",1
+39013533,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:1, val:1.2, animation:enemy_counter]",1
+39013534,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.2, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013535,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.3, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013536,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.4, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013537,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.5, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013538,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.6, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013550,"[effect:enemy_message, val1:1.9, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",1
+39013551,"[effect:enemy_message, val1:1.2, val2:6.7],[effect:change_range_block, block_change:1, base_type:0, square_count:2, position01:0, value_h01:1, value_w01:2, new_block:block_blue, target:block_all, ignore01:block_positive, count:0, val:0, animation:change_range_block],[effect:change_range_block, block_change:1, base_type:0, square_count:2, position01:2, value_h01:1, value_w01:2, new_block:block_red, target:block_all, ignore01:block_positive, count:0, val:0, animation:change_range_block],[effect:degrade_unit, target:unit_all, turn:1, status:action, val:2, calc:add, animation:enemy_tap_down],[effect:rush, count:1, val:0.6],[effect:change_panel_ratio, turn:1, block_type:blue, val:0],[effect:change_panel_ratio, turn:1, block_type:red, val:0]",1
+39013552,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:break_attack_fix, target:unit_one, val:130, lowest_val:1, count:24, color:yellow, block01:block_red]",1
+39013553,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:break_attack_fix, target:unit_one, val:130, lowest_val:1, count:24, color:yellow, block01:block_blue]",1
+39013554,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.4, animation:enemy_critical]",1
+39013555,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.4, animation:enemy_critical]",1
+39013556,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:3, val:0.6]",1
+39013557,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.0, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013558,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:1, val:1.0, animation:enemy_counter]",1
+39013559,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.2, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013560,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.3, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013561,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.4, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013562,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.5, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1
+39013563,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_abnormal, target:unit_one, val:1.6, status:virus, turn:2, val_abnormal:0.2, animation:enemy_virus]",1

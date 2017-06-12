@@ -1,0 +1,2 @@
+10086,"[effect:damage, target:enemy_one, color:red, val:1.2, animation:damage_one_red03],[effect:enhance_unit, target:unit_dragon, turn:2, status:attack, val:0.075, calc:add, animation:enhance_unit_all_attack02_unit01]",1
+10087,"[effect:damage, target:enemy_one, color:red, val:1.5, animation:damage_one_red04],[effect:enhance_unit, target:unit_dragon, turn:2, status:attack, val:0.075, calc:add, animation:enhance_unit_all_attack02_unit01]",1

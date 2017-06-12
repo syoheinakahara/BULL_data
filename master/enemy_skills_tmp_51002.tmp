@@ -1,0 +1,56 @@
+51002006,"[effect:hungup, target:unit_all, turn:3, rate:1.0, animation:enemy_hungup],[effect:fix_speed, target:myself, turn:2]",3
+51002007,"[effect:damage_anti_color, target:unit_all, color:green, val1:1.2, val2:0.27]",3
+51002008,"[effect:suicide, val:1, dead_type:suicide, target:enemy_unknown, animation:enemy_suicide]",3
+51002009,"[effect:remove_enhancement, target:unit_all, target_effect:enhance, target_type:buff, animation:frozen_wave]",3
+51002010,"[effect:freq_turn, target:myself, turn:4, val:1, animation:enemy_freq_turn]",3
+51002011,"[effect:enhance_enemy, target:myself, turn:4, status:attack, val:1.2, calc:mul, animation:enemy_enhance_attack]",3
+51002016,"[effect:heal, target:enemy_all, val:0.25, animation:enemy_heal],[effect:fix_speed, target:myself, turn:2]",3
+51002017,"[effect:fix_speed, target:myself, turn:1]",3
+51002018,"[effect:suicide, val:1, dead_type:escape, target:myself]",3
+51002021,"[effect:heal, target:enemy_all, val:0.25, animation:enemy_heal]",3
+51002022,"[effect:fix_speed, target:myself, turn:2]",3
+51002023,"[effect:suicide, val:1, dead_type:escape, target:myself]",3
+51002026,"[effect:degrade_fever, val:1000, animation:fevergauge_down]",3
+51002027,"[effect:damage_anti_color, target:unit_all, color:blue, val1:0.4, val2:0.2]",3
+51002031,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance]",3
+51002032,"[effect:rush, count:2, val:0.7]",3
+51002034,"[effect:hungup, target:unit_machine, turn:4, rate:1, animation:hungup01],[effect:spread, val:0.3]",3
+51002035,"[effect:change_panel_ratio, turn:5, block_type:heal, val:0, animation:block_incidence04]",3
+51002041,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance]",3
+51002042,"[effect:damage_anti_tribe, target:unit_all, tribe:animal, val1:0.5, val2:0.3]",3
+51002043,"[effect:dis_panel, target:block_blue, turn:3, animation:enemy_dis_blue],[effect:rush, count:4, val:0.3]",3
+51002044,"[effect:change_block, new_block:jammer, target:block_heart, count:0, val:0, animation:change_block],[effect:change_block, new_block:time_bomb, target:block_blue, count:0, val:0.3, animation:change_block],[effect:change_block, new_block:block_red, target:block_yellow, count:0, val:0, animation:change_block]",3
+51002045,"[effect:rush, count:3, val:0.4]",3
+51002046,"[effect:rush, count:3, val:0.5]",3
+51002047,"[effect:rush, count:3, val:0.55]",3
+51002048,"[effect:rush, count:3, val:0.6]",3
+51002051,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:5, val:0.67, animation:enemy_counter][effect:fix_speed, target:myself, turn:3]",3
+51002052,"[effect:damage_anti_color, target:unit_all, color:red, val1:0.6, val2:0.28]",3
+51002053,"[effect:nothing]",3
+51002054,"[effect:remove_enhancement, target:unit_all, target_effect:enhance, target_type:buff, status:defense, animation:frozen_wave],[effect:remove_enhancement, target:unit_all, target_effect:reduction, target_type:buff],[effect:critical, val:2.35]",3
+51002055,"[effect:kamikaze, val:0.35]",3
+51002061,"[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance],[effect:hungup, target:unit_blue, turn:5, rate:1, animation:hungup01]",3
+51002062,"[effect:spread, val:0.3]",3
+51002063,"[effect:damage_anti_tribe, target:unit_all, tribe:unknown, val1:0.85, val2:0.24]",3
+51002064,"[effect:nothing]",3
+51002065,"[effect:remove_enhancement, target:unit_all, target_effect:enhance, target_type:buff, status:defense, animation:frozen_wave],[effect:remove_enhancement, target:unit_all, target_effect:reduction, target_type:buff],[effect:critical, val:2.61]",3
+51002066,"[effect:change_panel_ratio, turn:-1, block_type:heal, val:0, animation:block_incidence04],[effect:remove_enhancement, target:unit_all, target_effect:enhance, target_type:buff, animation:frozen_wave]",3
+51002071,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance],[effect:change_panel_ratio, turn:-1, block_type:heal, val:0],[effect:break_enchance_enemy, val:0.001, lowest_val:0, count :-1, status:attack, turn:-1, block:block_heart, target:myself, calc:mul, animation:enemy_enhance_attack]",3
+51002072,"[effect:degrade_fever, val:1000, animation:fevergauge_down],[effect:spread, val:0.23]",3
+51002073,"[effect:rush, count:6, val:0.16]",3
+51002074,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.23, calc:mul, animation:enemy_enhance_attack],[effect:spread, val:0.45]",3
+51002075,"[effect:nothing]",3
+51002076,"[effect:remove_enhancement, target:unit_all, target_effect:enhance, target_type:buff, status:defense, animation:frozen_wave],[effect:remove_enhancement, target:unit_all, target_effect:reduction, target_type:buff],[effect:critical, val:2.1]",3
+51002077,"[effect:fix_speed, target:myself, turn:5],[effect:enhance_enemy, target:myself, turn:5, status:defense, val:13000, calc:add, animation:enemy_enhance_defense]",3
+51002078,"[effect:remove_enhancement, target:unit_all, target_effect:enhance, target_type:buff, animation:frozen_wave],[effect:critical, val:50.0]",3
+51002081,"[effect:suicide, val:1, dead_type:escape, target:myself]",3
+51002082,"[effect:suicide, val:1, dead_type:escape, target:myself]",3
+51002083,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:5, val:0.5, animation:enemy_counter][effect:fix_speed, target:myself, turn:3]",3
+51002084,"[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance],[effect:hungup, target:unit_blue, turn:5, rate:1, animation:hungup01]",3
+51002085,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance],[effect:change_panel_ratio, turn:-1, block_type:heal, val:0],[effect:break_enchance_enemy, val:0.001, lowest_val:0, count :-1, status:attack, turn:-1, block:block_heart, target:myself, calc:mul, animation:enemy_enhance_attack]",3
+51002086,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:5, val:0.5, animation:enemy_counter][effect:fix_speed, target:myself, turn:3]",3
+51002087,"[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance],[effect:hungup, target:unit_blue, turn:5, rate:1, animation:hungup01]",3
+51002088,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance],[effect:change_panel_ratio, turn:-1, block_type:heal, val:0],[effect:break_enchance_enemy, val:0.001, lowest_val:0, count :-1, status:attack, turn:-1, block:block_heart, target:myself, calc:mul, animation:enemy_enhance_attack]",3
+51002089,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:5, val:0.5, animation:enemy_counter][effect:fix_speed, target:myself, turn:3]",3
+51002090,"[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance],[effect:hungup, target:unit_blue, turn:5, rate:1, animation:hungup01]",3
+51002091,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance],[effect:change_panel_ratio, turn:-1, block_type:heal, val:0],[effect:break_enchance_enemy, val:0.001, lowest_val:0, count :-1, status:attack, turn:-1, block:block_heart, target:myself, calc:mul, animation:enemy_enhance_attack]",3

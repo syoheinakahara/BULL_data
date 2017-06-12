@@ -1,0 +1,55 @@
+51001001,"[effect:enhance_enemy, target:myself, turn:5, status:attack, val:0.5, animation:enemy_enhance_enemy],[effect:fix_speed,target:myself,turn:2]",3
+51001002,"[effect:spread, val:0.3, animation:enemy_spread]",3
+51001003,"[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:3000, calc:add, animation:enemy_enhance_enemy]",3
+51001004,"[effect:charge, status:attack, val:6, animation:enemy_charge]",3
+51001005,"[effect:enhance_enemy, target:myself, turn:5, status:defense, val:5000, calc:add, animation:enemy_enhance_enemy],[effect:fix_speed,target:myself,turn:3]",3
+51001006,"[effect:crash_condition, target:unit_all, val:4, turn:5, animation:enemy_crash_extend]",3
+51001007,"[effect:critical, val:0.6, animation:enemy_critical]",3
+51001008,"[effect:critical, val:0.8, animation:enemy_critical]",3
+51001009,"[effect:critical, val:1.2, animation:enemy_critical]",3
+51001010,"[effect:critical, val:1.5, animation:enemy_critical]",3
+51001011,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.15, animation:enemy_enhance_enemy]",3
+51001012,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+51001013,"[effect:hungup, target:unit_all, turn:3, rate:1.0, animation:enemy_hungup],[effect:spread, val:0.3, animation:enemy_spread]",3
+51001014,"[effect:heal, target:enemy_one, val:0.5, animation:enemy_heal]",3
+51001015,"[effect:rush, count:5, val:0.3]",3
+51001016,"[effect:spread, val:0.3, animation:enemy_spread]",3
+51001017,"[effect:heal, target:myself, val:0.5, animation:enemy_heal]",3
+51001018,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+51001019,"[effect:sleep, target:unit_one, turn:3, rate:1.0, animation:enemy_sleep],[effect:critical, val:1.2, animation:enemy_critical]",3
+51001020,"[effect:enhance_enemy, target:enemy_yellow, turn:3, status:attack, val:1.0, animation:enemy_enhance_enemy]",3
+51001021,"[effect:spread, val:0.35, animation:enemy_spread]",3
+51001022,"[effect:degrade_unit, target:unit_all, turn:5, status:attack, val:1.0, calc:mul],[effect:spread, val:0.3, animation:enemy_spread]",3
+51001023,"[effect:degrade_unit, target:unit_all, turn:-1, status:heal, val:1.0, calc:mul],[effect:spread, val:0.3, animation:enemy_spread]",3
+51001024,"[effect:enhance_enemy, target:enemy_yellow, turn:3, status:attack, val:1.0, animation:enemy_enhance_enemy],[effect:fix_speed,target:myself,turn:2]",3
+51001025,"[effect:spread, val:0.3, animation:enemy_spread]",3
+51001026,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:crash, ignore02:jammer, ignore03:color_break, ignore04:magnet, count:8, val:0, animation:change_block],[effect:spread, val:0.3, animation:enemy_spread]",3
+51001027,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+51001028,"[effect:spread, val:0.32, animation:enemy_spread]",3
+51001029,"[effect:tolerance,target:myself, turn:-1, tolerance_effect:all, count:-1],[effect:dark, turn:3,target:unit_all,animation:enemy_dark]",3
+51001030,"[effect:rush, count:5, val:0.18]",3
+51001031,"[effect:spread, val:0.35, animation:enemy_spread]",3
+51001032,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+51001033,"[effect:nothing]",3
+51001034,"[effect:nothing]",3
+51001035,"[effect:tolerance,target:myself, turn:-1, tolerance_effect:all, count:-1],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:crash, ignore02:jammer, ignore03:color_break, ignore04:magnet, count:12, val:0, animation:change_block],[effect:fix_speed,target:myself,turn:2]",3
+51001036,"[effect:damage_anti_color, target:unit_one, color:red, val1:1.5, val2:1.0]",3
+51001037,"[effect:damage_anti_color, target:unit_one, color:blue, val1:1.5, val2:1.0]",3
+51001038,"[effect:damage_anti_color, target:unit_one, color:yellow, val1:1.5, val2:1.0]",3
+51001039,"[effect:dis_panel, target:block_red, turn:5],[effect:critical, val:1.2, animation:enemy_critical]",3
+51001040,"[effect:dis_panel, target:block_green, turn:5],[effect:critical, val:1.2, animation:enemy_critical]",3
+51001041,"[effect:dis_panel, target:block_yellow, turn:5],[effect:critical, val:1.2, animation:enemy_critical]",3
+51001042,"[effect:dis_panel, target:block_blue, turn:5],[effect:critical, val:1.2, animation:enemy_critical]",3
+51001043,"[effect:freq_turn, target:myself, turn:3, val:1, animation:enemy_freq_turn]",3
+51001044,"[effect:degrade_unit, target:unit_one, turn:-1, status:attack, val:1.0, calc:mul],[effect:critical, val:1.6, animation:enemy_critical]",3
+51001045,"[effect:tolerance,target:myself, turn:-1, tolerance_effect:all, count:-1],[effect:fix_speed,target:myself,turn:1],[effect:degrade_fever, val:1000.0, animation:fevergauge_down],[effect:enhance_fever, val:0.0]",3
+51001046,"[effect:nothing]",3
+51001047,"[effect:spread, val:0.35, animation:enemy_spread]",3
+51001048,"[effect:degrade_unit, target:unit_all, turn:4, status:action, val:2 ,animation:enemy_tap_down]",3
+51001049,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:crash, ignore02:jammer, ignore03:color_break, ignore04:magnet, count:10, val:0, animation:change_block],[effect:spread, val:0.3, animation:enemy_spread]",3
+51001050,"[effect:degrade_unit, target:unit_one, turn:-1, status:attack, val:1.0, calc:mul],[effect:critical, val:1.2, animation:enemy_critical]",3
+51001051,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:2.5, val2:0.2]",3
+51001052,"[effect:fix_speed,target:myself,turn:2]",3
+51001053,"[effect:spread, val:0.3, animation:enemy_spread],[effect:fix_speed,target:myself,turn:2]",3
+51001054,"[effect:spread, val:15.0, animation:enemy_spread]",3
+51001055,"[effect:rush, count:5, val:0.25]",3

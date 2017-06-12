@@ -1,0 +1,6 @@
+10021,"[effect:damage, target:enemy_one, color:blue, val:1.5, animation:damage_one_blue04],[effect:enhance_unit, target:unit_all, turn:1, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack02]",1
+10022,"[effect:damage, target:enemy_one, color:blue, val:2, animation:damage_one_blue04],[effect:enhance_unit, target:unit_all, turn:1, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack02]",1
+10023,"[effect:damage_heal, target:enemy_all, color:green, val:1.575, animation:damage_all_green04],[effect:damage_anti_type, target:enemy_one, type:attack, val1:3.75,val2:1, animation:damage_one_green04]",1
+10024,"[effect:damage_heal, target:enemy_all, color:green, val:1.75, animation:damage_all_green04],[effect:damage_anti_type, target:enemy_one, type:attack, val1:3.75,val2:1.2, animation:damage_one_green04]",1
+10025,"[effect:damage, target:enemy_one, color:red, val:2.5, animation:damage_one_red04]",1
+10026,"[effect:damage, target:enemy_one, color:red, val:2.5, animation:damage_one_red04]",1

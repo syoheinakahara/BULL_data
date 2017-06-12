@@ -1,0 +1,26 @@
+65527001,"[effect:panel_freeze, target:normal, color:block_green, count:4]",1
+65527002,"[effect:force_change_block, new_block:block_green, target:normal, ignore01:block_positive, ignore02:block_negative, count:3, val:0, animation:change_block]",1
+65527003,"[effect:enhance_unit, target:myself, turn:-1, status:attack, val:200, calc:add, animation:enhance_unit_all_attack01_unit01]",1
+65527004,"[effect:rush, count:2, val:0.8]",1
+65527005,"[effect:panel_freeze, target:normal, color:block_green, count:5],[effect:critical, val:1.2, animation:enemy_critical]",1
+65527006,"[effect:nothing]",1
+65527007,"[effect:rush, count:2, val:0.8]",1
+65527008,"[effect:panel_freeze, target:normal, color:block_red, count:2],[effect:critical, val:1.2, animation:enemy_critical]",1
+65527009,"[effect:force_change_block, new_block:block_green, target:normal, ignore01:block_positive, ignore02:block_negative, count:4, val:0, animation:change_block],[effect:rush, count:1, val:1]",1
+65527010,"[effect:panel_freeze, target:normal, color:block_green, count:3]",1
+65527011,"[effect:rush, count:2, val:0.8]",1
+65527012,"[effect:damage_fix_pierce, target:unit_one, color:green, val:1800]",1
+65527013,"[effect:panel_freeze, target:normal, color:block_green, count:5],[effect:damage_gravity, val:0.3, animation:fevergauge_down]",1
+65527014,"[effect:panel_freeze, target:normal, color:block_green, count:3],[effect:rush, count:2, val:0.8]",1
+65527015,"[effect:force_change_block, new_block:block_green, target:normal, ignore01:block_positive, ignore02:block_negative, count:4, val:0, animation:change_block],[effect:rush, count:1, val:1]",1
+65527016,"[effect:panel_freeze, target:normal, color:block_red, count:5],[effect:damage_fix_pierce, target:unit_one, color:green, val:2000]",1
+65527017,"[effect:panel_freeze, target:normal, color:block_green, count:5]",1
+65527018,"[effect:panel_freeze, target:normal, color:block_green, count:3],[effect:rush, count:1, val:1]",1
+65527019,"[effect:force_change_block, new_block:block_green, target:normal, ignore01:block_positive, ignore02:block_negative, count:5, val:0, animation:change_block]",1
+65527020,"[effect:rush, count:2, val:0.8]",1
+65527021,"[effect:panel_freeze, target:normal, color:block_green, count:2],[effect:rush, count:1, val:1]",1
+65527022,"[effect:panel_freeze, target:normal, color:block_green, count:5],[effect:damage_gravity, val:0.3, animation:fevergauge_down]",1
+65527023,"[effect:panel_freeze, target:normal, color:block_green, count:3],[effect:rush, count:1, val:1]",1
+65527024,"[effect:force_change_block, new_block:block_green, target:normal, ignore01:block_positive, ignore02:block_negative, count:5, val:0, animation:change_block],[effect:rush, count:2, val:0.8]",1
+65527025,"[effect:panel_freeze, target:normal, color:block_red, count:5]",1
+65527026,"[effect:panel_freeze, target:normal, color:block_green, count:4],[effect:rush, count:2, val:0.8]",1

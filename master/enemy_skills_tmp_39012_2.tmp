@@ -1,0 +1,34 @@
+39012201,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.5, animation:enemy_critical]",3
+39012202,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:1, val:0.75]",3
+39012203,"[effect:enemy_message, val1:1.2, val2:0.0]",3
+39012204,"[effect:enemy_message, val1:1.2, val2:0.0]",3
+39012234,"[effect:enemy_message, val1:1.2, val2:2.8],[effect:remove_enhancement, target:enemy_all, target_effect:all, target_type:all, animation:frozen_wave_unit],[effect:hungup, target:enemy_all, turn:1, rate:1, animation:hungup02]",3
+39012205,"[effect:enemy_message, val1:1.2, val2:0.0]",3
+39012206,"[effect:enemy_message, val1:1.3, val2:0.0]",3
+39012208,"[effect:enemy_message, val1:1.2, val2:3.1],[effect:enhance_enemy, target:enemy_red, turn:-1, status:defense, val:2222222, calc:add, animation:enemy_enhance_defense],[effect:tolerance, target:enemy_all, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance],[effect:tolerance, target:enemy_all, turn:-1, count:-1, tolerance_effect:hungup]",3
+39012209,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:dis_panel, target:block_red, turn:2, animation:enemy_dis_red]",3
+39012210,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.3, animation:enemy_critical]",3
+39012211,"[effect:enemy_message, val1:1.2, val2:1.4],[effect:damage_anti_color, target:unit_one, color:red, val1:1.5, val2:0.8]",3
+39012212,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:1, val:0.75]",3
+39012213,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:damage_anti_tribe, target:unit_one, tribe:unknown, val1:2.5, val2:1]",3
+39012214,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:1, val:0.75]",3
+39012215,"[effect:enemy_message, val1:1.2, val2:0.0]",3
+39012216,"[effect:enemy_message, val1:1.6, val2:0.0]",3
+39012217,"[effect:enemy_message, val1:1.6, val2:0.0]",3
+39012218,"[effect:enemy_message, val1:1.7, val2:0.0]",3
+39012219,"[effect:enemy_message, val1:1.3, val2:0.0]",3
+39012220,"[effect:enemy_message, val1:1.9, val2:0.0]",3
+39012221,"[effect:enemy_message, val1:1.6, val2:0.0]",3
+39012222,"[effect:enemy_message, val1:2.0, val2:0.0]",3
+39012223,"[effect:enemy_message, val1:1.4, val2:0.0]",3
+39012224,"[effect:enemy_message, val1:2.0, val2:0.0]",3
+39012225,"[effect:enemy_message, val1:1.7, val2:0.0]",3
+39012226,"[effect:enemy_message, val1:1.9, val2:0.0]",3
+39012227,"[effect:enemy_message, val1:1.9, val2:0.0]",3
+39012228,"[effect:enemy_message, val1:2.4, val2:0.0]",3
+39012229,"[effect:enemy_message, val1:1.8, val2:0.0]",3
+39012230,"[effect:enemy_message, val1:2.1, val2:0.0]",3
+39012231,"[effect:enemy_message, val1:2.0, val2:0.0]",3
+39012232,"[effect:enemy_message, val1:2.0, val2:0.0]",3
+39012233,"[effect:enemy_message, val1:2.3, val2:0.0]",3
+39012235,"[effect:enemy_message, val1:2.2, val2:0.0]",3

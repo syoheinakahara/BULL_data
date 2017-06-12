@@ -1,0 +1,18 @@
+8013,"[effect:damage_heal, target:enemy_one, color:yellow, val:2.0, animation:damage_one_yellow04]",1
+8014,"[effect:damage_heal, target:enemy_one, color:yellow, val:2.0, animation:damage_one_yellow04]",1
+8015,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.0, val2:0.94, animation:damage_one_green04],[effect:enhance_unit, target:unit_all, turn:1, status:attack, val:0.015, calc:mul,animation:enhance_unit_all_attack01_unit01]",1
+8016,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.0, val2:0.94, animation:damage_one_green04],[effect:enhance_unit, target:unit_all, turn:1, status:attack, val:0.015, calc:mul,animation:enhance_unit_all_attack01_unit01]",1
+8017,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.375, val2:0.94,  animation:damage_one_green05]",1
+8018,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.375, val2:0.94,  animation:damage_one_green05]",1
+8019,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.375, val2:1.31,  animation:damage_one_yellow05]",1
+8020,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.375, val2:1.31,  animation:damage_one_yellow05]",1
+8021,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.0, val2:0.94, animation:damage_one_yellow04],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal03_unit01]",1
+8022,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.0, val2:0.94, animation:damage_one_yellow04],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal03_unit01]",1
+8023,"[effect:damage, target:enemy_one, color:red, val:2.0, animation:damage_one_red04]",1
+8024,"[effect:damage, target:enemy_one, color:red, val:2.0, animation:damage_one_red04]",1
+8025,"[effect:damage_anti_tribe, target:enemy_all, tribe:unknown, val1:2.0, val2:0.66, animation:damage_all_red04]",1
+8026,"[effect:damage_anti_tribe, target:enemy_all, tribe:unknown, val1:2.0, val2:0.66, animation:damage_all_red04]",1
+8027,"[effect:damage, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04]",1
+8028,"[effect:damage, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04]",1
+8029,"[effect:heal_ratio, val:0.45, animation:heal_unit, animation:heal03_unit01]",1
+8030,"[effect:heal_ratio, val:0.45, animation:heal_unit, animation:heal03_unit01]",1

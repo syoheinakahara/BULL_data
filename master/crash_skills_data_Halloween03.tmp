@@ -1,0 +1,2 @@
+1197,"[effect:damage, target:enemy_one, color:green, val:2.25, animation:damage_one_green04]",3
+1193,"[effect:damage, target:enemy_one, color:red, val:2.25, animation:damage_one_red04],[effect:enhance_unit, target:unit_all, turn:1, status:heal, val:0.06, calc:mul, animation:enhance_unit_all_heal03_unit01]",3

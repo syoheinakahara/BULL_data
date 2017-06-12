@@ -1,0 +1,22 @@
+30034001,"[effect:enemy_message, val1:2, val2:2]",3
+30034002,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.1, calc:mul, animation:enemy_enhance_attack]",3
+30034003,"[effect:rush, count:4, val:0.28]",3
+30034004,"[effect:enemy_message, val1:2, val2:2]",3
+30034005,"[effect:dark, target:unit_all, turn:2, animation:enemy_dark]",3
+30034006,"[effect:critical, val:1.5]",3
+30034007,"[effect:spread, val:0.3]",3
+30034008,"[effect:degrade_unit, target:unit_all, turn:2, status:attack, val:0.5, calc:mul]",3
+30034009,"[effect:nothing]",3
+30034010,"[effect:rush, count:2, val:0.6]",3
+30034011,"[effect:nothing],[effect:enemy_message, val1:1, val2:2.3]",3
+30034012,"[effect:rush, count:3, val:0.4]",3
+30034013,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.2, calc:mul, animation:enemy_enhance_attack]",3
+30034014,"[effect:degrade_unit, target:unit_all, turn:2, status:attack, val:0.5, calc:mul],[effect:enemy_message, val1:1, val2:2.8]",3
+30034015,"[effect:heal, target:myself, val:1, animation:enemy_heal]",3
+30034016,"[effect:rush, count:4, val:0.33]",3
+30034017,"[effect:nothing],[effect:fix_speed, target:myself, turn:1]",3
+30034018,"[effect:degrade_unit, target:unit_all, turn:2, status:attack, val:0.5, calc:mul],[effect:heal, target:myself, val:0.05, animation:enemy_heal]",3
+30034019,"[effect:spread, val:0.28],[effect:heal, target:myself, val:0.05, animation:enemy_heal]",3
+30034020,"[effect:heal, target:myself, val:0.6, animation:enemy_heal]",3
+30034021,"[effect:spread, val:0.15],[effect:spread, val:0.15],[effect:spread, val:0.15],[effect:spread, val:0.15]",3
+30034022,"[effect:rush, count:3, val:0.35]",3

@@ -1,0 +1,2 @@
+1232,"[effect:damage, target:enemy_one, color:yellow, val:2.25, animation:damage_one_yellow04]",3
+1233,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.75, val2:1.5, animation:damage_one_yellow04],[effect:heal_fix, val:900, animation:heal02_unit01]",3

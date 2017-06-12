@@ -1,0 +1,9 @@
+20016001,"[effect:spread, val:0.3]",3
+20016002,"[effect:degrade_unit, target:unit_all, turn:2, status:attack, val:0.3, calc:mul]",3
+20016003,"[effect:virus, turn:-1, target:unit_all, rate:1, val:0.06, animation:enemy_virus],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance]",3
+20016004,"[effect:rush, count:5, val:0.29]",3
+20016005,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance]",3
+20016006,"[effect:enhance_enemy, target:enemy_one, turn:-1, status:attack, val:0.1, calc:mul, animation:enemy_enhance_attack]",3
+20016007,"[effect:spread, val:0.3]",3
+20016008,"[effect:nothing]",3
+20016009,"[effect:virus, turn:-1, target:unit_all, rate:1, val:0.05, animation:enemy_virus],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance]",3

@@ -1,0 +1,41 @@
+47001000,"[effect:enemy_message, val1:1.5, val2:1.5]",3
+47001100,"[effect:enemy_message, val1:2, val2:1.5]",3
+47001001,"[effect:spread, val:0.3]",3
+47001002,"[effect:degrade_unit, target:unit_all, turn:4, status:heal, val:1, calc:mul, animation:degrade_unit_all_heal],[effect:enemy_message, val1:1.5, val2:2]",3
+47001302,"[effect:enemy_message, val1:2, val2:0]",3
+47001003,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1000, calc:add, animation:enemy_enhance_attack]",3
+47001004,"[effect:panel_freeze, target:block_green, color:block_green, count:30, break_count:1],[effect:hungup, target:unit_all, turn:5, rate:1, animation:hungup01],[effect:enemy_message, val1:1.5, val2:2.0]",3
+47001304,"[effect:panel_freeze, target:block_green, color:block_green, count:30, break_count:1],[effect:hungup, target:unit_all, turn:5, rate:1, animation:hungup01],[effect:enemy_message, val1:1.5, val2:2.0]",3
+47001005,"[effect:critical, val:1.3]",3
+47001006,"[effect:force_change_block, new_block:block_green, target:block_red, count:0, val:0, animation:change_block],[effect:critical, val:1.8],[effect:enemy_message, val1:1.5, val2:2]",3
+47001007,"[effect:dis_heart, turn:3, animation:enemy_dis_heart],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1000, calc:add, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.5, val2:2]",3
+47001307,"[effect:enemy_message, val1:2, val2:0]",3
+47001008,"[effect:suicide, val:0.1, target:enemy_human, animation:enemy_suicide]",3
+47001308,"[effect:suicide, val:0.1, target:enemy_human, animation:enemy_suicide]",3
+47001009,"[effect:break_attack_fix, val:150, lowest_val:1500, count:-1, block:block_heart, target:unit_all]",3
+47001209,"[effect:enemy_message, val1:1.5, val2:0]",3
+47001309,"[effect:enemy_message, val1:2, val2:0]",3
+47001010,"[effect:suicide, val:0.1, target:enemy_dragon, animation:enemy_suicide]",3
+47001310,"[effect:suicide, val:0.1, target:enemy_dragon, animation:enemy_suicide]",3
+47001011,"[effect:heal, target:enemy_one, val:0.1, animation:enemy_heal],[effect:critical, val:1]",3
+47001211,"[effect:enemy_message, val1:1.5, val2:0]",3
+47001311,"[effect:enemy_message, val1:2, val2:0]",3
+47001012,"[effect:panel_freeze, target:block_heart, color:block_heart, count:30, break_count:1]",3
+47001112,"[effect:panel_freeze, target:block_heart, color:block_heart, count:30, break_count:1],[effect:enemy_message, val1:2.5, val2:1.5]",3
+47001013,"[effect:force_change_block, new_block:block_green, target:block_red, count:0, val:0, animation:change_block],[effect:enemy_message, val1:2, val2:1.5]",3
+47001014,"[effect:critical, val:1.5]",3
+47001214,"[effect:enemy_message, val1:1.5, val2:2.0]",3
+47001015,"[effect:break_attack, val:0.05, lowest_val:1000, count:-1, block:block_heart, target:unit_all],[effect:enemy_message, val1:1.5, val2:2]",3
+47001016,"[effect:break_heal_ratio, val:0.02, lowest_val:0.01, count:-1, block:block_heart, target:myself, animation:enemy_heal]",3
+47001017,"[effect:degrade_fever, val:500, animation:fevergauge_down],[effect:enemy_message, val1:2, val2:1.5]",3
+47001018,"[effect:panel_freeze, target:block_heart, color:block_heart, count:30, break_count:1],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:1000, calc:add, animation:enemy_enhance_defense],[effect:enemy_message, val1:1.5, val2:2]",3
+47001118,"[effect:panel_freeze, target:block_heart, color:block_heart, count:30, break_count:1],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:1000, calc:add, animation:enemy_enhance_defense],[effect:enemy_message, val1:3, val2:2]",3
+47001019,"[effect:force_change_block, new_block:time_bomb, target:block_all, count:20, val:0.5, animation:change_block]",3
+47001020,"[effect:critical, val:1.7]",3
+47001021,"[effect:break_heal_ratio, val:0.02, lowest_val:0.01, count:-1, block:block_heart, target:myself, animation:enemy_heal]",3
+47001221,"[effect:enemy_message, val1:1.5, val2:2.0]",3
+47001022,"[effect:break_attack, val:0.04, lowest_val:3000, count:-1, block:block_heart, target:unit_all],[effect:enemy_message, val1:1.5, val2:2]",3
+47001222,"[effect:rush, count:5, val:0.1]",3
+47001023,"[effect:degrade_fever, val:500, animation:fevergauge_down],[effect:critical, val:1],[effect:enemy_message, val1:2, val2:2]",3
+47001024,"[effect:enemy_message, val1:2.5, val2:2.5]",3
+47001124,"[effect:enemy_message, val1:2.5, val2:2.5]",3

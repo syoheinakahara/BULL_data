@@ -1,0 +1,2 @@
+101501,"{""ver"":""1.7.0"",""type"":""ability"",""effects"":""[effect:enhance_unit, target:myself, turn:1, status:attack, val:0.25, calc:mul, animation:enhance_unit_all_attack03]"",""conditions"":""[condition:hp_rate,lower:70]"",""priority"":0}",3
+101101,"{""ver"":""1.7.0"",""type"":""ability"",""effects"":""[effect:damage_up, target:myself, val:1.3, turn:1, type01:crash_skill,option:killer]"",""conditions"":""[condition:always]"",""priority"":0}",3

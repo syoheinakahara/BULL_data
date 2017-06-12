@@ -1,0 +1,28 @@
+11224000,"[effect:enemy_message, val1:2, val2:3],[effect:fix_speed, target:myself, turn:1],[effect:hungup, target:unit_all, turn:-1, rate:1],[effect:crash_condition, target:unit_all, val:50, turn:-1]",3
+11224010,"[effect:enemy_message, val1:3, val2:3.5],[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+11224020,"[effect:enemy_message, val1:2, val2:3.5],[effect:virus, turn:7, target:unit_all, rate:1, val:0.12, animation:virus03]",3
+11224030,"[effect:force_change_block, new_block:jammer, target:block_all, count:5, val:0, animation:change_block],[effect:suicide, val:1, dead_type:escape, target:myself],[effect:enemy_message, val1:2, val2:2],[effect:degrade_fever, val:1000]",3
+11224040,"[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:2]",3
+11224050,"[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:2, val2:2]",3
+11224060,"[effect:suicide, val:0.5, dead_type:suicide, target:enemy_red, animation:damage_one_green03]",3
+11224070,"[effect:enemy_message, val1:2.5, val2:3],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:1, val:1, animation:enemy_counter],[effect:suicide, val:0.5, dead_type:suicide, target:enemy_green, animation:damage_one_red03]",3
+11224080,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1, calc:mul, animation:enemy_enhance_attack]",3
+11224090,"[effect:enemy_message, val1:2, val2:2],[effect:suicide, val:1, dead_type:suicide, target:enemy_green, animation:enemy_suicide]",3
+11224100,"[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:0, val2:2]",3
+11224101,"[effect:suicide, val:1, dead_type:escape, target:myself]",3
+11224110,"[effect:force_change_block, new_block:jammer, target:block_all, count:5, val:0, animation:change_block],[effect:suicide, val:1, dead_type:escape, target:myself],[effect:degrade_fever, val:1000]",3
+11224120,"[effect:enemy_message, val1:2, val2:2],[effect:fix_speed, target:enemy_all, turn:1],[effect:enhance_enemy, target:enemy_all, turn:3, status:defense, val:65535, calc:add, animation:enemy_freq_turn]",3
+11224130,"[effect:fix_speed, target:myself, turn:5],[effect:force_change_block, new_block:jammer, target:block_all, count:5, val:0, animation:change_block]",3
+11224140,"[effect:fix_speed, target:myself, turn:2],[effect:force_change_block, new_block:jammer, target:block_all, count:5, val:0, animation:change_block]",3
+11224150,"[effect:enemy_message, val1:2.5],[effect:force_change_block, new_block:jammer, target:block_all, count:5, val:0, animation:change_block]",3
+11224160,"[effect:enemy_message, val1:2],[effect:suicide, val:1, dead_type:suicide, target:myself, animation:enemy_suicide]",3
+11224170,"[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val2:3],[effect:enhance_enemy, target:myself, turn:1, status:defense, val:65535, calc:add]",3
+11224180,"[effect:fix_speed, target:myself, turn:3],[effect:force_change_block, new_block:jammer, target:block_all, count:-1, val:0, animation:change_block],[effect:drop_block, block_type:jammer, color:block_all, val:0, rate:1, turn:-1],[effect:enemy_message, val2:3]",3
+11224181,"[effect:enemy_message, val1:0, val2:0]",3
+11224190,"[effect:suicide, val:0.9, dead_type:escape, target:enemy_all],[effect:enhance_fever, val:1000.0, animation:fevergauge_up04],[effect:enemy_message, val1:2.5, val2:3]",3
+11224191,"[effect:enemy_message, val1:3, val2:3],[effect:dark, target:unit_all, turn:1, animation:dark],[effect:enhance_fever, val:1000.0, animation:fevergauge_up04]",3
+11224192,"[effect:suicide, val:1, dead_type:escape, target:enemy_all],[effect:enemy_message, val1:2, val2:2.5]",3
+11224200,"[effect:enemy_message, val1:2, val2:3, dead_type:suicide]",3
+11224201,"[effect:enemy_message, val1:3, val2:3][effect:suicide, val:1, dead_type:suicide, target:enemy_all]",3
+11224202,"[effect:enemy_message, val1:3, val2:3][effect:suicide, val:1, dead_type:suicide, target:enemy_all]",3
+11224203,"[effect:damage_fix_absolute, target:unit_all, val:33333]",3

@@ -1,0 +1,2 @@
+107301,"{""ver"":""1.7.0"",""type"":""ability"",""effects"":""[effect:crash_condition, target:myself, val:-1, turn:1]"",""conditions"":""[condition:active_unit]    "",""priority"":0}",1
+106601,"{""ver"":""1.7.0"",""type"":""ability"",""effects"":""[effect:enhance_unit, target:myself, turn:1, status:attack, val:0.2, calc:mul, animation:enhance_unit_all_attack03]"",""conditions"":""[condition:enclose,[condition:active_unit],[condition:panel_chain,count:12],logic:and]"",""priority"":0}",3

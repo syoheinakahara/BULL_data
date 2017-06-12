@@ -1,0 +1,16 @@
+1129,"[effect:damage_anti_tribe, target:enemy_one, tribe:samurai, val1:2.25, val2:1.5, animation:damage_one_red03]",3
+1130,"[effect:damage_anti_tribe, target:enemy_one, tribe:samurai, val1:3.375, val2:1.5, animation:damage_one_red03]",3
+1131,"[effect:damage_fix_pierce, target:enemy_one, color:green, val:3000]",3
+1132,"[effect:damage_fix_pierce, target:enemy_one, color:green, val:6000]",3
+1133,"[effect:damage, target:enemy_one, color:yellow, val:1.35, animation:damage_one_yellow03],[effect:damage, target:enemy_one, color:yellow, val:1.35, animation:damage_one_yellow03]",3
+1134,"[effect:damage, target:enemy_one, color:yellow, val:1.35, animation:damage_one_yellow03],[effect:damage, target:enemy_one, color:yellow, val:1.35, animation:damage_one_yellow03]",3
+1135,"[effect:damage, target:enemy_one, color:green, val:2, animation:damage_one_green03]",3
+1136,"[effect:damage, target:enemy_one, color:green, val:2.25, animation:damage_one_green04]",3
+1137,"[effect:damage_anti_tribe, target:enemy_one, tribe:human, val1:2.375, val2:1.2, animation:damage_one_red03],[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:2.375, val2:1.2, animation:damage_one_red03]",3
+1138,"[effect:damage_anti_tribe, target:enemy_one, tribe:human, val1:2.375, val2:1.2, animation:damage_one_red03],[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:2.375, val2:1.2, animation:damage_one_red03]",3
+1139,"[effect:damage_anger, target:enemy_one, color:green, val1:1.6, val2:2.0, val3:2.6, val4:3.2, val5:4.0, animation:damage_one_green05]",3
+1140,"[effect:damage_anger, target:enemy_one, color:green, val1:1.6, val2:2.0, val3:2.6, val4:3.2, val5:4.0, animation:damage_one_green05]",3
+1141,"[effect:damage, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal03_unit01]",3
+1142,"[effect:damage, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal03_unit01]",3
+1143,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:2.25, val2:1.2, animation:damage_one_yellow03]",3
+1144,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:3.375, val2:1.5, animation:damage_one_yellow03]",3

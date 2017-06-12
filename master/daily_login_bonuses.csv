@@ -1,0 +1,9 @@
+day,bonus_type,bonus_value,bonus_count
+1,bit,200000,NULL
+2,unit,608,2
+3,unit,125,2
+4,unit,609,2
+5,item,1,1
+6,unit,607,2
+7,unit,837,1
+8,polygon,2,NULL

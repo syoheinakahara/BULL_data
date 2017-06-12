@@ -1,0 +1,1 @@
+1117,"[effect:damage_anti_tribe, target:enemy_one, tribe:human, val1:3.375, val2:1.3, animation:damage_one_green04],[effect:enhance_unit, target:unit_all, turn:1, status:attack, val:0.018, calc:mul,animation:enhance_unit_all_attack01_unit01]",3

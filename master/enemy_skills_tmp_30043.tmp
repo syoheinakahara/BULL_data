@@ -1,0 +1,29 @@
+30043001,"[effect:enemy_message, val1:2.0 val2:2.3],[effect:fix_speed, target:myself, turn:1]",3
+30043002,"[effect:damage_anti_cost, target:unit_all, lower:31, upper:99, val1:20, val2:0.0001, cost_type:unit],[effect:damage_anti_cost, target:unit_all, lower:31, upper:99, val1:20, val2:0.0001, cost_type:unit]",3
+30043003,"[effect:suicide, val:1, dead_type:escape],[effect:enemy_message, val1:2.0, val2:2.3]",3
+30043004,"[effect:degrade_unit, target:unit_one, turn:-1, status:attack, val:0.25, calc:mul],[effect:critical, val:1.52, animation:enemy_critical]",3
+30043005,"[effect:rush, count:3, val:0.47]",3
+30043006,"[effect:freq_turn, target:myself, turn:1, val:1, animation:enemy_freq_turn],[effect:critical, val:1.44, animation:enemy_critical]",3
+30043007,"[effect:degrade_unit, target:unit_one, turn:-1, status:attack, val:0.25, calc:mul],[effect:critical, val:1.4, animation:enemy_critical]",3
+30043008,"[effect:rush, count:3, val:0.48]",3
+30043009,"[effect:rush, count:4, val:0.38]",3
+30043010,"[effect:spread, val:0.42]",3
+30043011,"[effect:hungup, target:unit_one, turn:3, rate:1, animation:hungup01]",3
+30043012,"[effect:rush, count:3, val:0.55]",3
+30043013,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:2.0, val2:2.0]",3
+30043014,"[effect:damage_anti_tribe, target:unit_all, tribe:god, val1:0.55, val2:0.37]",3
+30043015,"[effect:degrade_unit, target:unit_one, turn:-1, status:attack, val:0.5, calc:mul],[effect:critical, val:1.56, animation:enemy_critical],[effect:enemy_message, val1:1.5, val2:2.0]",3
+30043016,"[effect:rush, count:4, val:0.39],[effect:freq_turn, target:myself, turn:1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.6, val2:1.9]",3
+30043017,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:2, val:0.3, animation:enemy_counter],[effect:enemy_message, val1:1.6, val2:1.8]",3
+30043018,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:2.0, val2:2.2]",3
+30043019,"[effect:degrade_unit, target:unit_all, turn:-1, status:attack, val:0.5, calc:mul],[effect:critical, val:1.27, animation:enemy_critical],[effect:enemy_message, val1:1.7, val2:2.0]",3
+30043020,"[effect:rush, count:5, val:0.30],[effect:enemy_message, val1:1.6, val2:1.8]",3
+30043021,"[effect:rush, count:7, val:0.25],[effect:enemy_message, val1:1.6, val2:1.8]",3
+30043022,"[effect:degrade_unit, target:unit_all, turn:2, status:heal, val:0.5, calc:mul, animation:degrade_unit_all_heal],[effect:critical, val:1.27, animation:enemy_critical],[effect:enemy_message, val1:1.6, val2:2.0]",3
+30043023,"[effect:damage_anti_tribe, target:unit_all, tribe:god, val1:0.65, val2:0.43]",3
+30043024,"[effect:enemy_message, val1:1.7, val2:2.0]",3
+30043025,"[effect:spread, val:0.68],[effect:enemy_message, val1:1.7, val2:1.8]",3
+30043026,"[effect:heal, target:myself, val:0.3, animation:enemy_heal],[effect:enemy_message, val1:1.7, val2:1.8]",3
+30043027,"[effect:enemy_message, val1:1.7, val2:2.5]",3
+30043028,"[effect:degrade_unit, target:unit_one, turn:-1, status:attack, val:0.35, calc:mul],[effect:critical, val:1.52, animation:enemy_critical]",3
+30043029,"[effect:degrade_unit, target:unit_one, turn:-1, status:attack, val:0.35, calc:mul],[effect:critical, val:1.4, animation:enemy_critical]",3

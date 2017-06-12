@@ -1,0 +1,8 @@
+646,"[effect:damage, target:enemy_all, color:blue, val:1.125, animation:damage_all_blue05]",3
+647,"[effect:damage, target:enemy_all, color:blue, val:1.125, animation:damage_all_blue05]",3
+650,"[effect:damage, target:enemy_one, color:yellow, val:1.5, animation:damage_one_yellow01],[effect:virus, target:enemy_one, turn:2, rate:0.30, val:0.84, animation:virus02]",3
+651,"[effect:damage, target:enemy_one, color:yellow, val:1.5, animation:damage_one_yellow01],[effect:virus, target:enemy_one, turn:2, rate:0.30, val:0.84, animation:virus02]",3
+654,"[effect:damage, target:enemy_one, color:yellow, val:2.0, animation:damage_one_yellow04]",3
+655,"[effect:damage, target:enemy_one, color:yellow, val:2.0, animation:damage_one_yellow04]",3
+644,"[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green0‚S],[effect:sleep, target:enemy_one, turn:1, rate:0.25, animation:sleep02]",3
+645,"[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green0‚S],[effect:sleep, target:enemy_one, turn:1, rate:0.25, animation:sleep02]",3

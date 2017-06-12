@@ -1,0 +1,7 @@
+112131500,"[effect:nothing]",3
+112131501,"[effect:change_block, new_block:time_bomb, target:block_all, color:block_green, count:1, val:1.0, animation:change_block]",3
+112131502,"[effect:change_block, new_block:time_bomb, target:block_all, color:block_green, count:2, val:1.0, animation:change_block]",3
+112131503,"[effect:change_block, new_block:time_bomb, target:block_all, color:block_green, count:3, val:1.0, animation:change_block]",3
+112131504,"[effect:change_block, new_block:time_bomb, target:block_all, color:block_green, count:4, val:1.0, animation:change_block]",3
+112131505,"[effect:change_block, new_block:time_bomb, target:block_all, color:block_green, count:5, val:1.0, animation:change_block]",3
+112131506,"[effect:change_block, new_block:time_bomb, target:block_all, color:block_green, count:6, val:1.0, animation:change_block]",3

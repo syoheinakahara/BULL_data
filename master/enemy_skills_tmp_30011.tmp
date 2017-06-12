@@ -1,0 +1,12 @@
+530003,"[effect:tolerance,target:myself,turn:-1,tolerance_effect:all,count:-1,animation:enemy_tolerance]",3
+370007,"[effect:enemy_counter, target:myself,invoke_condition:unit_all,counter_target:attacker, turn:3, val:2, animation:enemy_counter],[effect:enhance_enemy, target:enemy_all, turn:3, status:defense, val:3000, calc:add, animation:enemy_enhance_enemy]",3
+220033,"[effect:rush, count:9, val:0.2]",3
+520011,"[effect:force_change_block, new_block:block_red, target:block_all, count:100, val:0.1, animation:change_block],[effect:dis_panel, turn:3, rate:1.0, animation:enemy_dis_red],[effect:rush, count:1, val:0.7]",3
+510032,"[effect:force_change_block, new_block:block_blue, target:block_all, count:100, val:0.1, animation:change_block],[effect:rush, count:1, val:3]",3
+40026,"[effect:freq_turn, target:enemy_all, turn:3, val:1, animation:enemy_freq_turn]",3
+220032,"[effect:rush, count:2, val:0.7]",3
+330017,"[effect:hungup, target:unit_all, turn:3, rate:1.0, animation:enemy_hungup],[effect:rush, count:1, val:0.9]",3
+30011001,"[effect:rush, count:6, val:0.28]",3
+30011002,"[effect:rush, count:1, val:5]",3
+30011003,"[effect:rush, count:1, val:2.4]",3
+30011004,"[effect:rush, count:1, val:2.2]",3

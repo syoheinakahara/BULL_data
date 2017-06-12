@@ -1,0 +1,2 @@
+569,11,5,2001,"[effect:heal_ratio, val:4.3, animation:heal04],[effect:enhance_fever, val:250, animation:fevergauge_up03]",3
+570,12,5,2001,"[effect:heal_ratio, val:4, animation:heal04],[effect:enhance_fever, val:250, animation:fevergauge_up03],[effect:sp_boost, target:unit_right, val:1, animation:sp_boost_one02]",3

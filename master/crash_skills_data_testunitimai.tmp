@@ -1,0 +1,4 @@
+10011,"[effect:damage, target:enemy_one, color:yellow, val:1.5, animation:damage_one_red04],[effect:enhance_unit, target:unit_yellow, turn:2, status:heal, val:0.075, calc:mul, animation:enhance_unit_all_heal02]",1
+10012,"[effect:damage, target:enemy_one, color:blue, val:2.5, animation:damage_one_blue04]",1
+10013,"[effect:damage_anti_tribe, target:enemy_one, tribe:human, val1:3.75, val:1.5, animation:damage_one_yellow04]",1
+10014,"[effect:damage_anti_tribe, target:enemy_one, tribe:human, val1:3.75, val:1.5, animation:damage_one_yellow04]",1

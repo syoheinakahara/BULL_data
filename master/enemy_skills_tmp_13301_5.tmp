@@ -1,0 +1,18 @@
+13301401,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:damage_anti_cost, target:unit_all, lower:31, val1:99, val2:0.01, cost_type:unit],[effect:damage_anti_cost, target:unit_all, lower:31, val1:99, val2:0.01, cost_type:unit],[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:1.4, val2:2.2]",3
+13301402,"[effect:enhance_enemy, target:enemy_all, turn:5, status:defense, val:3000, calc:add, animation:enemy_enhance_defense],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301403,"[effect:force_change_block, new_block:jammer, target:block_all, count:10, val:0, animation:change_block],[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1.4, val2:2.4]",3
+13301404,"[effect:force_change_block, new_block:jammer, target:block_all, count:10, val:0, animation:change_block],[effect:enemy_message, val1:1.4, val2:2.1]",3
+13301405,"[effect:degrade_fever, val:1000, animation:fevergauge_down],[effect:enhance_enemy, target:myself, turn:3, status:defense, val:3000, calc:add, animation:enemy_enhance_defense],[effect:enemy_message, val1:1.4, val2:2]",3
+13301406,"[effect:suicide, val:0.5, dead_type:suicide, target:myself, animation:enemy_suicide],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301411,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1.4, val2:1.6]",3
+13301412,"[effect:damage_anti_color, target:unit_all, color:red, val1:1.0, val2:0.5],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301413,"[effect:virus, target:unit_all, turn:8, rate:1, val:0.1, calc_type:target_one, animation:enemy_virus],[effect:spread, val:0.3],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301414,"[effect:enhance_enemy, target:enemy_all, turn:-1, status:attack, val:0.3, calc:mul, animation:enemy_enhance_attack],[effect:degrade_unit, target:unit_all, turn:-1, status:attack, val:0.5, calc:mul],[effect:enemy_message, val1:1.4, val2:2]",3
+13301415,"[effect:suicide, val:0.5, dead_type:suicide, target:myself, animation:enemy_suicide],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301421,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1.4, val2:1.6]",3
+13301422,"[effect:force_change_block, new_block:jammer, target:block_all, count:4, val:0],[effect:spread, val:0.3],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301423,"[effect:rush, count:5, val:0.56],[effect:enemy_message, val1:1.4, val2:1.6]",3
+13301424,"[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301425,"[effect:rush, count:6, val:1],[effect:enemy_message, val1:1.4, val2:1.6]",3
+13301431,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:8],[effect:enemy_message, val1:1.4, val2:2]",3
+13301432,"[effect:damage_fix_absolute, target:unit_all, val:22500],[effect:enemy_message, val1:1.4, val2]",3

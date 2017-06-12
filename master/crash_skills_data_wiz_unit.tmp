@@ -1,0 +1,10 @@
+788,"[effect:damage, target:enemy_one, color:green, val:2.25, animation:damage_one_green04]",3
+789,"[effect:damage, target:enemy_one, color:green, val:2.5, animation:damage_one_green04]",3
+1088,"[effect:damage, target:enemy_one, color:green, val:1.7, animation:damage_one_green04],[effect:virus, target:enemy_one, turn:2, rate:0.30, val:0.84, animation:virus02]",3
+1089,"[effect:damage, target:enemy_one, color:green, val:2, animation:damage_one_green04],[effect:virus, target:enemy_one, turn:2, rate:0.30, val:0.84, animation:virus02]",3
+891,"[effect:damage, target:enemy_one,color:blue, val:1.5, animation:damage_one_blue04],[effect:enhance_unit, target:unit_blue, turn:1, status:defense, val:72, calc:add,animation:enhance_unit_all_deffence02_unit01]",3
+892,"[effect:damage, target:enemy_one, color:blue, val:2.0, animation:damage_one_blue04],[effect:enhance_unit, target:unit_blue, turn:1, status:defense, val:72, calc:add,animation:enhance_unit_all_deffence02_unit01]",3
+780,"[effect:damage, target:enemy_one, color:yellow, val:2.25, animation:damage_one_yellow04]",3
+781,"[effect:damage, target:enemy_one, color:yellow, val:2.5, animation:damage_one_yellow04]",3
+887,"[effect:damage, target:enemy_one, color:red, val:2.0, animation:damage_one_red03]",3
+888,"[effect:damage, target:enemy_one, color:red, val:2.25, animation:damage_one_red04]",3

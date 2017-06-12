@@ -1,0 +1,6 @@
+764,9,5,2001,"[effect:special_block,val:12, count:2, animation:change_block]",3
+765,9,5,2001,"[effect:special_block,val:12, count:2, animation:change_block]",3
+766,12,5,2001,"[effect:crash_growth, count:0, val:2, animation:change_block],[effect:enhance_unit, target:unit_dragon, turn:3, status:attack, val:0.255, calc:mul, animation:enhance_unit_all_attack03]",3
+767,12,5,2001,"[effect:crash_growth, count:0, val:2, animation:change_block],[effect:enhance_unit, target:unit_dragon, turn:3, status:attack, val:0.255, calc:mul, animation:enhance_unit_all_attack03]",3
+768,13,5,2001,"[effect:crash_condition, target:unit_human, val:-4, turn:3, animation:crash_panel_reduce04],[effect:break_enchance_unit, val:0.005, lowest_val:0.2, count :-1, status:attack, turn:3, block01:block_yellow, block02:block_red, target:unit_human, calc:mul, animation:enhance_unit_all_attack04]",3
+769,13,5,2001,"[effect:crash_condition, target:unit_human, val:-4, turn:3, animation:crash_panel_reduce04],[effect:break_enchance_unit, val:0.005, lowest_val:0.2, count :-1, status:attack, turn:3, block01:block_yellow, block02:block_red, target:unit_human, calc:mul, animation:enhance_unit_all_attack04]",3

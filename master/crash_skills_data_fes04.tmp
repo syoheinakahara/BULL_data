@@ -1,0 +1,2 @@
+1090,"[effect:damage, target:enemy_one, color:yellow, val:1.5, animation:damage_one_yellow04],[effect:enhance_unit, target:myself, turn:-1, status:attack, val:0.002, calc:mul,animation:enhance_unit_all_attack01]",3
+1091,"[effect:damage, target:enemy_one, color:yellow, val:1.5, animation:damage_one_yellow04],[effect:enhance_unit, target:myself, turn:-1, status:attack, val:0.002, calc:mul,animation:enhance_unit_all_attack01]",3

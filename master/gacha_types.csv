@@ -1,0 +1,5 @@
+gacha_type_id,use_item,draw_cost
+100,polygon,5
+200,link,100
+201,link,100
+300,polygon,1

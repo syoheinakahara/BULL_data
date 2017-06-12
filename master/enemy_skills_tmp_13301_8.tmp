@@ -1,0 +1,28 @@
+13301450,"[effect:enemy_message, val1:1, val2:3.0],[effect:damage_anti_cost, target:unit_all, lower:29, val1:99.9, val2:0.01, cost_type:unit],[effect:damage_anti_cost, target:unit_all, lower:29, val1:99.9, val2:0.01, cost_type:unit],[effect:reduction, target:myself, color:all, turn:-1, val:0.97, animation:reduction_one01]",3
+13301451,"[effect:damage_fix_absolute, target:unit_one, val:300]",3
+13301452,"[effect:damage_fix_absolute, target:unit_one, val:600]",3
+13301453,"[effect:damage_fix_absolute, target:unit_one, val:900]",3
+13301454,"[effect:damage_fix_absolute, target:unit_one, val:1200]",3
+13301455,"[effect:damage_fix_absolute, target:unit_one, val:1500]",3
+13301456,"[effect:damage_fix_absolute, target:unit_one, val:1800]",3
+13301457,"[effect:damage_fix_absolute, target:unit_one, val:2100]",3
+13301458,"[effect:damage_fix_absolute, target:unit_one, val:2400]",3
+13301459,"[effect:damage_fix_absolute, target:unit_one, val:2700]",3
+13301460,"[effect:damage_fix_absolute, target:unit_one, val:3000]",3
+13301461,"[effect:damage_fix_absolute, target:unit_one, val:3300]",3
+13301462,"[effect:damage_fix_absolute, target:unit_one, val:3600]",3
+13301463,"[effect:damage_fix_absolute, target:unit_one, val:3900]",3
+13301464,"[effect:damage_fix_absolute, target:unit_one, val:4200],[effect:enemy_message, val1:1, val2:2.2]",3
+13301465,"[effect:damage_fix_absolute, target:unit_one, val:99999],[effect:enemy_message, val1:1.4, val2:2.2]",3
+13301466,"[effect:enemy_message, val1:0, val2:2.4],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+13301467,"[effect:time_limit, target:unit_all, turn:2, count:9, animation:enemy_time_limit],[effect:spread, val:0.3],[effect:enemy_message, val1:1.2, val2:2.2]",3
+13301468,"[effect:enemy_message, val1:1.2, val2:2.5],[effect:spread, val:0.3],[effect:force_change_block, new_block:time_bomb, target:block_yellow, ignore01:crash, ignore02:crack_bomb, ignore03:time_bomb, ignore04:jammer, color:block_yellow, count:2, val:0.3, min_time_count:2, max_time_count:3, animation:change_block]",3
+13301469,"[effect:sp_boost, target:unit_green, val:2, animation:sp_boost_one02],[effect:enemy_message, val1:1.2, val2:2.2]",3
+13301470,"[effect:enemy_message, val1:1.2, val2:2.7],[effect:degrade_unit, target:unit_all, turn:3, status:attack, val:1, calc:mul],[effect:time_limit, target:unit_all, turn:1, count:6, animation:enemy_time_limit]",3
+13301471,"[effect:hungup, target:unit_animal, turn:4, rate:1, calc_type:target_all, animation:hungup01],[effect:damage_anti_tribe, target:unit_all, tribe:animal, val1:0.85, val2:0.1],[effect:enemy_message, val1:1.4, val2:2.8]",3
+13301472,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:jammer, count:2, val:0, animation:change_block],[effect:rush, count:2, val:0.5],[effect:enemy_message, val1:1.4, val2:2]",3
+13301473,"[effect:damage_fix_absolute, target:unit_one, val:50000],[effect:enemy_message, val1:1.4, val2:1.6]",3
+13301474,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:4, val:0.2, animation:enemy_counter],[effect:enemy_message, val1:1.4, val2:1.9]",3
+13301475,"[effect:enemy_message, val1:1.4, val2:2.5],[effect:time_limit, target:unit_all, turn:6, count:9, animation:enemy_time_limit],[effect:fix_speed, target:myself, turn:2]",3
+13301476,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:-1, val:0.5, animation:enemy_counter],[effect:enemy_message, val1:1.4, val2:1.9]",3
+13301477,"[effect:rush, count:6, val:0.3],[effect:enemy_message, val1:1.3, val2:1.7]",3

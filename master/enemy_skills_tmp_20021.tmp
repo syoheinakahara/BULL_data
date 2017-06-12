@@ -1,0 +1,17 @@
+20021100,"[effect:freq_turn, target:myself, turn:2, val:1, animation:enemy_freq_turn],[effect:critical, val:1.3, animation:enemy_critical]",3
+20021101,"[effect:rush, count:3, val:0.4]",3
+20021102,"[effect:rush, count:5, val:0.3]",3
+20021103,"[effect:rush, count:3, val:0.4]",3
+20021104,"[effect:heal, target:enemy_blue, val:0.4, animation:enemy_heal]",3
+20021105,"[effect:force_change_block, new_block:jammer, target:block_heart, count:0, val:1, animation:change_block]",3
+20021106,"[effect:force_change_block, new_block:jammer, target:block_heart, count:0, val:0, animation:change_block]",3
+20021107,"[effect:break_attack, target:unit_one, val:0.14, lowest_val:1000, count:-1, color:blue, block01:jammer]",3
+20021108,"[effect:force_change_block, new_block:block_heart, target:block_yellow, count:0, val:0, animation:change_block],[effect:rush, count:1, val:1]",3
+20021109,"[effect:force_change_block, new_block:block_heart, target:block_blue, count:0, val:0, animation:change_block],[effect:rush, count:1, val:1]",3
+20021110,"[effect:force_change_block, new_block:block_heart, target:block_green, count:0, val:0, animation:change_block],[effect:rush, count:1, val:1]",3
+20021111,"[effect:force_change_block, new_block:jammer, target:block_heart, count:0, val:1, animation:change_block]",3
+20021112,"[effect:force_change_block, new_block:jammer, target:block_heart, count:0, val:0, animation:change_block]",3
+20021113,"[effect:break_attack, target:unit_one, val:0.15, lowest_val:1000, count:-1, color:blue, block01:jammer]",3
+20021114,"[effect:force_change_block, new_block:block_heart, target:block_yellow, count:0, val:0, animation:change_block],[effect:rush, count:1, val:1]",3
+20021115,"[effect:force_change_block, new_block:block_heart, target:block_blue, count:0, val:0, animation:change_block],[effect:rush, count:1, val:1]",3
+20021116,"[effect:force_change_block, new_block:block_heart, target:block_green, count:0, val:0, animation:change_block],[effect:rush, count:1, val:1]",3

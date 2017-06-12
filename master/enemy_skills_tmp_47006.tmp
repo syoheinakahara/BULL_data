@@ -1,0 +1,61 @@
+47006000,"[effect:enemy_message, val1:2.3, val2:0.0],[effect:fix_speed, target:myself, turn:1]",3
+47006001,"[effect:drop_block, block_type:crash, color:block_all, val:11, rate:0.04, turn:-1, animation:crash_influence04],[effect:drop_block, block_type:crack_bomb, color:block_all, val:12, rate:0.1, turn:-1, animation:bomb_influence04],[effect:suicide, target:myself, val:1, dead_type:escape],[effect:enemy_message, val1:1.6, val2:3.8]",3
+47006100,"[effect:suicide, val:0.1],[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:1.2, val2:3.2]",3
+47006101,"[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_yellow, count:5, val:0.2, animation:change_block],[effect:rush, count:1, val:0.8],[effect:enemy_message, val1:1.2, val2:2.9]",3
+47006200,"[effect:suicide, val:0.1],[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:1.2, val2:2.7]",3
+47006201,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.5, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.2]",3
+47006202,"[effect:spread, val:0.30],[effect:enemy_message, val1:1.4, val2:1.2]",3
+47006203,"[effect:spread, val:0.30],[effect:enemy_message, val1:1.2, val2:1.2]",3
+47006300,"[effect:enemy_message, val1:1.2, val2:1.9],[effect:fix_speed, target:myself, turn:2]",3
+47006301,"[effect:spread, val:0.2],[effect:enemy_message, val1:1.2, val2:1.8]",3
+47006302,"[effect:spread, val:0.3],[effect:enemy_message, val1:1.2, val2:1.8]",3
+47006303,"[effect:spread, val:0.4],[effect:enemy_message, val1:1.2, val2:1.8]",3
+47006304,"[effect:spread, val:0.5],[effect:enemy_message, val1:1.2, val2:1.8]",3
+47006305,"[effect:suicide, val:0.5],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.2, val2:2.0]",3
+47006400,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:fix_speed, target:myself, turn:2]",3
+47006401,"[effect:damage_anti_abnormal, target:unit_one, color:green, target_effect01:counter_new, val1:3, val2:0.8],[effect:enemy_message, val1:1.2, val2:1.8]",3
+47006402,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:crash_condition, target:unit_all, turn:3, val:4, animation:enemy_crash_extend]",3
+47006403,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.5, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.2]",3
+47006500,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:fix_speed, target:myself, turn:2]",3
+47006501,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:2, val:0.6]",3
+47006502,"[effect:rush, count:2, val:0.6],[effect:enemy_message, val1:1.4, val2:1.2]",3
+47006503,"[effect:spread, val:0.01],[effect:enemy_message, val1:1.2, val2:2.7]",3
+47006504,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:spread, val:0.25]",3
+47006505,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:spread, val:0.30]",3
+47006506,"[effect:spread, val:0.35],[effect:enemy_message, val1:1.2, val2:3.2]",3
+47006507,"[effect:force_change_block, new_block:damage, target:block_all, ignore01:block_positive, ignore02:block_negative,count:5, val:0.14, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.3, val2:2.8]",3
+47006508,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:10, val:0, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.3, val2:2.6]",3
+47006509,"[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_random, count:10, val:0.2,min_time_count:2, max_time_count:2, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.3, val2:3.0]",3
+47006510,"[effect:force_change_block, new_block:crack_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_random, count:10, val:24, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.3, val2:2.5]",3
+47006511,"[effect:force_change_block, new_block:color_break, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_random, count:3, val:0, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.3, val2:2.2]",3
+47006512,"[effect:force_change_block, new_block:crash, target:block_all, ignore01:block_positive, ignore02:block_negative, count:10, val:6, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.3, val2:2.2]",3
+47006513,"[effect:force_change_block, new_block:crash, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:36, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.3, val2:2.2]",3
+47006600,"[effect:drop_block, block_type:time_bomb, color:block_all, val:0.2, rate:0.08, turn:-1,min_time_count:2, max_time_count:2,  animation:time_bomb_influence04],[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:1.5, val2:2.3]",3
+47006601,"[effect:spread, val:0.01],[effect:enemy_message, val1:1.2, val2:2.9]",3
+47006602,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:spread, val:0.25]",3
+47006603,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:spread, val:0.30]",3
+47006604,"[effect:spread, val:0.35],[effect:enemy_message, val1:1.2, val2:2.8]",3
+47006605,"[effect:force_change_block, new_block:damage, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:0.14, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.9, val2:2.8]",3
+47006606,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:10, val:0, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.9, val2:2.6]",3
+47006607,"[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_random, count:10, val:0.2,min_time_count:2, max_time_count:2, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.9, val2:3.0]",3
+47006608,"[effect:force_change_block, new_block:crack_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_random, count:10, val:24, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.9, val2:2.5]",3
+47006609,"[effect:force_change_block, new_block:color_break, target:block_all, ignore01:block_positive, ignore02:block_negative,color:block_random, count:3, val:0, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.9, val2:2.2]",3
+47006610,"[effect:force_change_block, new_block:crash, target:block_all, ignore01:block_positive, ignore02:block_negative, count:10, val:6, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.9, val2:2.2]",3
+47006611,"[effect:force_change_block, new_block:crash, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:36, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.9, val2:2.2]",3
+47006612,"[effect:enemy_message, val1:1.2, val2:2.3],[effect:damage_abnormal, target:unit_one, val:0.8, status:hungup, turn:1, rate:1, animation:hungup01]",3
+47006613,"[effect:enemy_message, val1:1.2, val2:2.3],[effect:damage_abnormal, target:unit_one, val:0.8, status:hungup, turn:1, rate:1, animation:hungup01]",3
+47006700,"[effect:reduction, target:myself, color:all, turn:2, val:0.5, animation:reduction_one01],[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:2.3, val2:1.6]",3
+47006701,"[effect:enemy_message, val1:1.8, val2:2.9],[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative,color:block_yellow, count:5, val:0.1, min_time_count:2, max_time_count:2, animation:change_block],[effect:rush, count:1, val:0.8]",3
+47006702,"[effect:enemy_message, val1:1.2, val2:2.9],[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_yellow, count:5, val:0.1, min_time_count:2, max_time_count:2, animation:change_block],[effect:rush, count:1, val:0.8]",3
+47006703,"[effect:spread, val:0.01],[effect:enemy_message, val1:1.2, val2:2.7]",3
+47006704,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:spread, val:0.25]",3
+47006705,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:spread, val:0.30]",3
+47006706,"[effect:spread, val:0.35],[effect:enemy_message, val1:1.2, val2:3.7]",3
+47006707,"[effect:force_change_block, new_block:damage, target:block_all, ignore01:block_positive, ignore02:block_negative,count:5, val:0.14, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.6, val2:4.9]",3
+47006708,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:10, val:0, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.6, val2:4.4]",3
+47006709,"[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative,color:block_random, count:10, val:0.2,min_time_count:2, max_time_count:2, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.6, val2:4.9]",3
+47006710,"[effect:force_change_block, new_block:crack_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_random, count:10, val:24, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.6, val2:4.0]",3
+47006711,"[effect:force_change_block, new_block:color_break, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_random, count:3, val:0, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.6, val2:3.7]",3
+47006712,"[effect:force_change_block, new_block:crash, target:block_all, ignore01:block_positive, ignore02:block_negative, count:10, val:6, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.6, val2:3.4]",3
+47006713,"[effect:force_change_block, new_block:crash, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:36, animation:change_block],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.6, val2:4.1]",3
+47006714,"[effect:enemy_message, val1:2.2, val2:2.9]",3

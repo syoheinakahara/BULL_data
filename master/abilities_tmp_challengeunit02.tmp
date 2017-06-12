@@ -1,0 +1,1 @@
+116201,"{""ver"":""1.7.0"",""type"":""ability"",""effects"":""[effect:damage_up, target:myself, turn:1, val:2.9, type01:all, type02:counter, option:killer]"",""conditions"":""[condition:enclose,[condition:quest_id,quest:60031],[condition:unit_attack_target],logic:and]"",""priority"":0}",3

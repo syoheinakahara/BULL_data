@@ -1,0 +1,9 @@
+13400100,"[effect:enemy_message, val1:1.2, val2:2.4],[effect:spread, val:0.3], [effect:force_change_block, new_block:damage, target:block_red, count:5, val:0.05, animation:change_block]",3
+13400101,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:spread, val:0.3], [effect:force_change_block, new_block:block_red, target:block_heart, count:5, val:0, animation:change_block]",3
+13400102,"[effect:enemy_message, val1:1.2, val2:1.2]",3
+13400103,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_tribe, target:unit_all, tribe:machine, val1:1.0, val2:0.15]",3
+13400104,"[effect:enemy_message, val1:1.2, val2:2.5],[effect:damage_anti_tribe, target:unit_all, tribe:machine, val1:0.4, val2:0.07], [effect:damage_anti_tribe, target:unit_all, tribe:machine, val1:0.4, val2:0.07]",3
+13400105,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:sleep, animation:enemy_tolerance]",3
+13400106,"[effect:enemy_message, val1:1.2, val2:2.6],[effect:rush, count:2, val:0.5], [effect:force_change_block, new_block:damage, target:block_green, count:7, val:0.06, animation:change_block]",3
+13400107,"[effect:enemy_message, val1:1.2, val2:2.4],[effect:critical, val:1.0], [effect:force_change_block, new_block:damage, target:block_red, count:2, val:0.1, animation:change_block]",3
+13400108,"[effect:enemy_message, val1:1.2, val2:1.9],[effect:spread, val:0.43], [effect:force_change_block, new_block:block_red, target:block_blue, count:5, val:0, animation:change_block]",3

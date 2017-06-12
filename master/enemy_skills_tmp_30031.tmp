@@ -1,0 +1,64 @@
+30031001,"[effect:degrade_fever, val:1000, animation:fevergauge_down]",3
+30031002,"[effect:nothing]",3
+30031003,"[effect:nothing]",3
+30031004,"[effect:nothing]",3
+30031005,"[effect:nothing]",3
+30031006,"[effect:hungup, target:unit_all, turn:3, rate:1, animation:hungup01]",3
+30031007,"[effect:nothing]",3
+30031008,"[effect:nothing]",3
+30031009,"[effect:nothing]",3
+30031010,"[effect:nothing]",3
+30031011,"[effect:change_block, new_block:jammer, target:block_all, count:3, val:0, no_effect_msg:no_effect_msg_change_block_heal, animation:change_block]",3
+30031012,"[effect:nothing]",3
+30031013,"[effect:nothing]",3
+30031014,"[effect:nothing]",3
+30031015,"[effect:nothing]",3
+30031016,"[effect:degrade_fever, val:1000, animation:fevergauge_down]",3
+30031017,"[effect:nothing]",3
+30031018,"[effect:nothing]",3
+30031019,"[effect:nothing]",3
+30031020,"[effect:nothing]",3
+30031021,"[effect:hungup, target:unit_all, turn:3, rate:1, animation:hungup01]",3
+30031022,"[effect:nothing]",3
+30031023,"[effect:nothing]",3
+30031024,"[effect:nothing]",3
+30031025,"[effect:nothing]",3
+30031026,"[effect:change_block, new_block:jammer, target:block_all, count:3, val:0, no_effect_msg:no_effect_msg_change_block_heal, animation:change_block]",3
+30031027,"[effect:nothing]",3
+30031028,"[effect:nothing]",3
+30031029,"[effect:nothing]",3
+30031030,"[effect:nothing]",3
+30031031,"[effect:critical, val:1.3]",3
+30031032,"[effect:nothing]",3
+30031033,"[effect:nothing]",3
+30031034,"[effect:nothing]",3
+30031035,"[effect:nothing]",3
+30031036,"[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:0.2, animation:enemy_enhance_attack]",3
+30031037,"[effect:freq_turn, target:enemy_all, turn:3, val:1, animation:enemy_freq_turn]",3
+30031038,"[effect:nothing]",3
+30031039,"[effect:nothing]",3
+30031040,"[effect:nothing]",3
+30031041,"[effect:freq_turn, target:myself, turn:3, val:1, animation:enemy_freq_turn]",3
+30031042,"[effect:nothing]",3
+30031043,"[effect:freq_turn, target:myself, turn:3, val:1, animation:enemy_freq_turn]",3
+30031044,"[effect:rush, count:2, val:0.8]",3
+30031045,"[effect:spread, val:0.3]",3
+30031046,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.2, animation:enemy_enhance_attack]",3
+30031047,"[effect:nothing]",3
+30031048,"[effect:nothing]",3
+30031049,"[effect:nothing]",3
+30031050,"[effect:nothing]",3
+30031051,"[effect:nothing]",3
+30031052,"[effect:nothing]",3
+30031053,"[effect:nothing]",3
+30031054,"[effect:rush, count:2, val:0.6]",3
+30031055,"[effect:heal, target:myself, val:0.2, animation:enemy_heal]",3
+30031056,"[effect:rush, count:8, val:0.3]",3
+30031057,"[effect:enhance_enemy, target:myself, turn:3, status:defense, val:0.2, animation:enemy_enhance_defense]",3
+30031058,"[effect:nothing]",3
+30031059,"[effect:nothing]",3
+30031060,"[effect:nothing]",3
+30031061,"[effect:nothing]",3
+30031062,"[effect:nothing]",3
+30031063,"[effect:freq_turn, target:myself, turn:3, val:1, animation:enemy_freq_turn]",3
+30031064,"[effect:nothing]",3

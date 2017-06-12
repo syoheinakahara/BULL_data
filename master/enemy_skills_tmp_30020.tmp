@@ -1,0 +1,55 @@
+30020000,"[effect:damage_anti_tribe, target:unit_all, tribe:god, val1:2.0, val2:0.15]",3
+30020001,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.01, val2:5.0],[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.01, val2:5.0],[effect:hungup, target:unit_dragon/not, turn:15, rate:1, animation:hungup01]",3
+30020002,"[effect:rush, count:5, val:0.3]",3
+30020003,"[effect:nothing]",3
+30020004,"[effect:nothing]",3
+30020005,"[effect:nothing]",3
+30020006,"[effect:damage_anti_color, target:unit_all, color:green, val1:0.9, val2:0.1]",3
+30020007,"[effect:freq_turn, target:myself, turn:3, val:1, animation:enemy_freq_turn]",1
+30020008,"[effect:nothing]",3
+30020009,"[effect:critical, val:2]",3
+30020010,"[effect:nothing]",3
+30020011,"[effect:nothing]",3
+30020012,"[effect:enhance_enemy, target:myself, turn:3, status:defense, val:5000, calc:add, animation:enemy_enhance_enemy],[effect:fix_speed,target:myself,turn:3]",3
+30020013,"[effect:crash_condition, target:unit_all, val:4, turn:5, animation:enemy_crash_extend]",3
+30020014,"[effect:critical, val:0.6, animation:enemy_critical]",3
+30020015,"[effect:critical, val:1.0, animation:enemy_critical]",3
+30020016,"[effect:critical, val:1.2, animation:enemy_critical]",3
+30020017,"[effect:critical, val:1.5, animation:enemy_critical]",3
+30020018,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.3, animation:enemy_enhance_enemy]",3
+30020019,"[effect:spread, val:0.3, animation:enemy_spread]",3
+30020020,"[effect:heal, target:myself, val:0.5, animation:enemy_heal]",3
+30020021,"[effect:sleep, target:unit_one, turn:3, rate:1.0, animation:enemy_sleep],[effect:critical, val:1.1, animation:enemy_critical]",3
+30020022,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+30020023,"[effect:nothing]",3
+30020024,"[effect:sleep, target:unit_one, turn:3, rate:1.0, animation:enemy_sleep],[effect:critical, val:1.2, animation:enemy_critical]",3
+30020025,"[effect:change_block, new_block:jammer, target:block_all, count:4, val:0, animation:change_block]",3
+30020026,"[effect:nothing]",3
+30020027,"[effect:nothing]",3
+30020028,"[effect:damage_anti_tribe, target:unit_all, tribe:god, val1:2.0, val2:0.15]",3
+30020029,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.01, val2:5.0],[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.01, val2:5.0],[effect:hungup, target:unit_dragon/not, turn:15, rate:1, animation:hungup01]",3
+30020030,"[effect:rush, count:5, val:0.3]",3
+30020031,"[effect:nothing]",3
+30020032,"[effect:nothing]",3
+30020033,"[effect:nothing]",3
+30020034,"[effect:nothing]",3
+30020035,"[effect:freq_turn, target:myself, turn:3, val:1, animation:enemy_freq_turn]",3
+30020036,"[effect:rush, count:5, val:0.3]",3
+30020037,"[effect:nothing]",3
+30020038,"[effect:critical, val:2.3, animation:enemy_critical]",3
+30020039,"[effect:nothing]",3
+30020040,"[effect:nothing]",3
+30020041,"[effect:nothing]",3
+30020042,"[effect:nothing]",3
+30020043,"[effect:freq_turn, target:myself, turn:3, val:1, animation:enemy_freq_turn]",3
+30020044,"[effect:rush, count:5, val:0.3]",3
+30020045,"[effect:nothing]",3
+30020046,"[effect:critical, val:2.5, animation:enemy_critical]",3
+30020047,"[effect:change_panel_ratio, turn:-1, block_type:heal, val:0.0]",3
+30020048,"[effect:nothing]",3
+30020049,"[effect:change_panel_ratio, turn:-1, block_type:heart, val:0.05, animation:block_incidence04]",3
+30020050,"[effect:rush, count:5, val:0.3]",3
+30020051,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.01, val2:5.0],[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.01, val2:5.0],[effect:suicide, val:0.2, dead_type:suicide, target:myself, animation:enemy_suicide]",3
+30020052,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.01, val2:5.0],[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.01, val2:5.0],[effect:suicide, val:0.2, dead_type:suicide, target:myself, animation:enemy_suicide]",3
+30020053,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.01, val2:5.0],[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.01, val2:5.0],[effect:suicide, val:0.2, dead_type:suicide, target:myself, animation:enemy_suicide]",3
+30020054,"[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.01, val2:5.0],[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:0.01, val2:5.0],[effect:suicide, val:0.2, dead_type:suicide, target:myself, animation:enemy_suicide]",3

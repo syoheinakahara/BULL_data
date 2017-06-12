@@ -1,0 +1,6 @@
+1418,"[effect:damage_anti_abnormal, target:enemy_one, target_effect01:virus, val1:3.75, val2:1.2, animation:damage_killer_virus04]",3
+1419,"[effect:damage_anti_abnormal, target:enemy_one, target_effect01:virus, val1:4, val2:1.5, animation:damage_killer_virus04]",3
+1420,"[effect:damage_heal, target:enemy_one, color:blue, val:2, animation:damage_one_blue03]",3
+1421,"[effect:damage_heal, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04]",3
+1422,"[effect:damage, target:enemy_all, color:yellow, val:0.85, animation:damage_all_yellow04],[effect:virus, target:enemy_all, turn:1, rate:0.5, val:1.2, animation:virus02]",3
+1423,"[effect:damage, target:enemy_all, color:yellow, val:1.25, animation:damage_all_yellow04],[effect:virus, target:enemy_all, turn:1, rate:0.5, val:1.2, animation:virus02]",3

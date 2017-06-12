@@ -1,0 +1,27 @@
+6001701,"[effect:crash_condition, target:unit_all, val:2, turn:2, animation:enemy_crash_extend],[effect:fix_speed, target:enemy_yellow, turn:1]",3
+6001702,"[effect:rush, count:2, val:0.55]",3
+6001703,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+6001704,"[effect:rush, count:5, val:0.3]",3
+6001705,"[effect:rush, count:6, val:0.3]",3
+6001706,"[effect:rush, count:7, val:0.3]",3
+6001707,"[effect:rush, count:8, val:0.3]",3
+6001708,"[effect:rush, count:9, val:0.3]",3
+6001709,"[effect:break_enchance_enemy, val:0.03, lowest_val:0.01, count :-1, status:attack, turn:1, block:block_yellow, target:myself, calc:mul, animation:enemy_enhance_attack]",3
+6001710,"[effect:damage_anti_color, target:unit_all, color:yellow, val1:0.25, val2:0.35]",3
+6001711,"[effect:crash_condition, target:unit_all, val:3, turn:2, animation:enemy_crash_extend]",3
+6001712,"[effect:spread, val:0.1],[effect:spread, val:0.1],[effect:spread, val:0.1],[effect:spread, val:0.1],[effect:spread, val:0.1]",3
+6001714,"[effect:nothing]",3
+6001718,"[effect:break_attack_fix, val:120, lowest_val:1000, count:-1, block:block_yellow, target:unit_all]",3
+6001719,"[effect:change_attribute, target:enemy_animal, color:yellow, turn:-1, animation:change_attribute_yellow]",3
+6001723,"[effect:enemy_message, val2:2.1],[effect:enhance_enemy, target:enemy_animal, turn:3, status:attack, val:0.2, calc:mul, animation:enemy_enhance_attack],[effect:enhance_enemy, target:enemy_animal, turn:3, status:defense, val:3000, calc:add, animation:enemy_enhance_defense],[effect:fix_speed, target:enemy_dragon, turn:1],[effect:fix_speed, target:enemy_animal, turn:2]",3
+6001724,"[effect:critical, val:1.5]",3
+6001725,"[effect:spread, val:0.37]",3
+6001734,"[effect:nothing]",3
+6001735,"[effect:enemy_message, val2:2.1],[effect:crash_condition, target:unit_all, val:4, turn:3, animation:enemy_crash_extend],[effect:spread, val:0.37]",3
+6001743,"[effect:rush, count:2, val:0.8]",3
+6001753,"[effect:enemy_message, val2:2.1],[effect:crash_condition, target:unit_all, val:5, turn:3, animation:enemy_crash_extend],[effect:spread, val:0.37]",3
+6001754,"[effect:nothing]",3
+6001755,"[effect:break_attack_fix, val:200, lowest_val:1500, count:-1, block:block_yellow, target:unit_all]",3
+6001756,"[effect:enemy_message, val2:2.1],[effect:crash_condition, target:unit_all, val:6, turn:3, animation:enemy_crash_extend],[effect:spread, val:0.37]",3
+6001757,"[effect:critical, val:1.5]",3
+6001763,"[effect:critical, val:2]",3

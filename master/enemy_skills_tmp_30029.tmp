@@ -1,0 +1,60 @@
+30029001,"[effect:nothing]",3
+30029002,"[effect:nothing]",3
+30029003,"[effect:nothing]",3
+30029004,"[effect:nothing]",3
+30029005,"[effect:nothing]",3
+30029006,"[effect:heal, target:enemy_all, val:0.3, animation:enemy_heal]",3
+30029007,"[effect:nothing]",3
+30029008,"[effect:nothing]",3
+30029009,"[effect:nothing]",3
+30029010,"[effect:nothing]",3
+30029011,"[effect:enhance_enemy, target:myself, turn:3, status:defense, val:1500, animation:enemy_enhance_defense]",3
+30029012,"[effect:spread, val:0.3]",3
+30029013,"[effect:dis_heart, turn:3, animation:enemy_dis_heart]",3
+30029014,"[effect:nothing]",3
+30029015,"[effect:nothing]",3
+30029016,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:change_block, new_block:jammer, target:block_all, count:3, val:0, no_effect_msg:no_effect_msg_change_block_heal, animation:change_block]",3
+30029017,"[effect:spread, val:0.3]",3
+30029018,"[effect:dis_heart, turn:3, animation:enemy_dis_heart]",3
+30029019,"[effect:change_block, new_block:jammer, target:block_all, count:3, val:0, no_effect_msg:no_effect_msg_change_block_heal, animation:change_block]",3
+30029020,"[effect:nothing]",3
+30029021,"[effect:heal, target:enemy_all, val:0.3, animation:enemy_heal]",3
+30029022,"[effect:nothing]",3
+30029023,"[effect:nothing]",3
+30029024,"[effect:nothing]",3
+30029025,"[effect:nothing]",3
+30029026,"[effect:nothing]",3
+30029027,"[effect:nothing]",3
+30029028,"[effect:nothing]",3
+30029029,"[effect:nothing]",3
+30029030,"[effect:nothing]",3
+30029031,"[effect:heal, target:enemy_all, val:0.3, animation:enemy_heal]",3
+30029032,"[effect:nothing]",3
+30029033,"[effect:nothing]",3
+30029034,"[effect:nothing]",3
+30029035,"[effect:nothing]",3
+30029036,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:enhance_enemy, target:enemy_green, turn:5, status:defense, val:3000, animation:enemy_enhance_defense]",3
+30029037,"[effect:spread, val:0.4]",3
+30029038,"[effect:heal, target:enemy_all, val:0.3, animation:enemy_heal]",3
+30029039,"[effect:break_attack, val:0.1, lowest_val:1000, count:-1, block:block_yellow, target:unit_one]",3
+30029040,"[effect:nothing]",3
+30029041,"[effect:nothing]",3
+30029042,"[effect:nothing]",3
+30029043,"[effect:break_attack, val:0.2, lowest_val:1000, count:-1, block:block_yellow, target:unit_one]",3
+30029044,"[effect:nothing]",3
+30029045,"[effect:nothing]",3
+30029046,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+30029047,"[effect:heal, target:myself, val:1, animation:enemy_heal]",3
+30029048,"[effect:nothing]",3
+30029049,"[effect:nothing]",3
+30029050,"[effect:nothing]",3
+30029051,"[effect:nothing]",3
+30029052,"[effect:nothing]",3
+30029053,"[effect:nothing]",3
+30029054,"[effect:nothing]",3
+30029055,"[effect:nothing]",3
+30029056,"[effect:critical, val:1.5]",3
+30029057,"[effect:nothing]",3
+30029058,"[effect:nothing]",3
+30029059,"[effect:nothing]",3
+30029060,"[effect:nothing]",3

@@ -1,0 +1,18 @@
+642,"[effect:damage, target:enemy_one, color:red, val:1.2, animation:damage_one_red05],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal03_unit01]",3
+643,"[effect:damage, target:enemy_one, color:red, val:1.2, animation:damage_one_red05],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal03_unit01]",3
+648,"[effect:damage_heal, target:enemy_one, color:blue, val:2.0, animation:damage_one_blue04]",3
+649,"[effect:damage_heal, target:enemy_one, color:blue, val:2.0, animation:damage_one_blue04]",3
+652,"[effect:damage, target:enemy_all, color:yellow, val:1.125, animation:damage_all_yellow04]",3
+653,"[effect:damage, target:enemy_all, color:yellow, val:1.125, animation:damage_all_yellow04]",3
+656,"[effect:damage, target:enemy_one, color:blue, val:1.2, animation:damage_one_blue04],[effect:damage, target:enemy_one, color:blue, val:1.2, animation:damage_one_blue04]",3
+657,"[effect:damage, target:enemy_one, color:blue, val:1.2, animation:damage_one_blue04],[effect:damage, target:enemy_one, color:blue, val:1.2, animation:damage_one_blue04]",3
+668,"[effect:damage, target:enemy_one, color:red, val:2.0, animation:damage_one_red04]",3
+669,"[effect:damage, target:enemy_one, color:red, val:2.0, animation:damage_one_red04]",3
+670,"[effect:damage, target:enemy_one, color:red, val:2.0, animation:damage_one_red04]",3
+671,"[effect:damage, target:enemy_all, color:green, val:1.125, animation:damage_all_green04]",3
+672,"[effect:damage, target:enemy_all, color:green, val:1.125, animation:damage_all_green05]",3
+673,"[effect:damage, target:enemy_all, color:green, val:1.125, animation:damage_all_green05]",3
+674,"[effect:damage_anti_tribe, target:enemy_one, tribe:god, val1:3.0, val2:0.94, animation:damage_one_blue04],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal03_unit01]",3
+675,"[effect:damage_anti_tribe, target:enemy_one, tribe:god, val1:3.0, val2:0.94, animation:damage_one_blue04],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal03_unit01]",3
+676,"[effect:damage, target:enemy_one, color:yellow, val:1.2, animation:damage_one_yellow03],[effect:damage, target:enemy_one, color:yellow, val:1.2, animation:damage_one_yellow03]",3
+677,"[effect:damage, target:enemy_one, color:yellow, val:1.2, animation:damage_one_yellow03],[effect:damage, target:enemy_one, color:yellow, val:1.2, animation:damage_one_yellow03]",3

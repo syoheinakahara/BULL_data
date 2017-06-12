@@ -1,0 +1,6 @@
+8073,"[effect:damage_anti_type, target:enemy_one, type:technical, val1:3.75, val2:1.5, animation:damage_one_yellow04]",3
+8074,"[effect:damage, target:enemy_one, color:blue, val:2.0, animation:damage_one_blue04],[effect:heal_ratio, val:0.18, animation:heal_unit, animation:heal02_unit01]",3
+8075,"[effect:damage_anti_tribe, target:enemy_one, tribe:samurai, val1:2.375, val2:1.2, animation:damage_one_blue04],[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:2.375, val2:1.2, animation:damage_one_blue04]",3
+8076,"[effect:damage, target:enemy_one, color:red, val:1.2, animation:damage_one_red03],[effect:damage, target:enemy_all, color:red, val:1, animation:damage_all_red03]",3
+8085,"[effect:damage_anti_type, target:enemy_one, type:balance, val1:3.75, val2:1.5, animation:damage_one_green04]",3
+8086,"[effect:damage, target:enemy_all, color:yellow, val:1, animation:damage_all_yellow03],[effect:damage, target:enemy_one, color:yellow, val:1.5, animation:damage_one_yellow04]",3

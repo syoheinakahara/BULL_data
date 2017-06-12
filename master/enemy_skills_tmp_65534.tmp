@@ -1,0 +1,16 @@
+65534300,"[effect:panel_freeze, target:normal, color:block_green, count:3]",1
+65534301,"[effect:rush, count:2, val:0.6]",1
+65534302,"[effect:break_heal_ratio, target:myself, val:0, lowest_val:0, count:-1, block01:crash],[effect:enhance_enemy, target:enemy_one, turn:5, status:attack, val:0.3]",1
+65534500,"[effect:rush, count:1, val:1],[effect:panel_freeze, target:normal, color:block_green, count:2]",1
+65534501,"[effect:rush, count:1, val:1],[effect:panel_freeze, target:normal, color:block_green, count:2]",1
+65534700,"[effect:panel_freeze, target:block_all, count:4]",1
+65534701,"[effect:heal, target:enemy_technical, val:0.5, animation:enemy_heal]",1
+65534502,"[effect:suicide, target:enemy_all, val:0.5, dead_type:escape, animation:enemy_suicide]",1
+65534800,"[effect:panel_freeze, target:normal, color:block_green, count:10],[effect:panel_freeze, target:block_all, count:4]",1
+65534801,"[effect:spread, val:0.3, animation:enemy_spread],[effect:panel_freeze, target:crash, count:-1]",1
+65534802,"[effect:panel_freeze, target:normal, color:block_green, count:8],[effect:panel_freeze, target:block_all, count:3]",1
+65534803,"[effect:enhance_enemy, target:myself, turn:5, status:defense, val:1200, calc:add, animation:enemy_enhance_defense],[effect:panel_freeze, target:normal, color:block_red, count:-1]",1
+65534910,"[effect:force_change_block, new_block:block_green, target:block_red, ignore01:crash, count:0, val:0, animation:change_block],[effect:panel_freeze, target:normal, color:block_green, count:-1]",1
+65534911,"[effect:spread, val:0.5, animation:enemy_spread]",1
+65534912,"[effect:rush, count:1, val:1],[effect:panel_freeze, target:normal, color:block_green, count:3]",1
+65534913,"[effect:break_attack_fix, target:unit_all, val:250, lowest_val:300, count:20, block01:block_green]",1

@@ -1,0 +1,16 @@
+1216,"[effect:damage, target:enemy_one, color:green, val:2.25, animation:damage_one_green04]",3
+1217,"[effect:damage, target:enemy_one, color:green, val:2.25, animation:damage_one_green04]",3
+1218,"[effect:damage_anti_type, target:enemy_one, type:attack, val1:3.75, val2:1.5, animation:damage_one_blue04]",3
+1219,"[effect:damage_anti_type, target:enemy_one, type:attack, val1:3.75, val2:1.5, animation:damage_one_blue04]",3
+1220,"[effect:damage, target:enemy_one, color:yellow, val:2.25, animation:damage_one_yellow04],[effect:enhance_unit, target:unit_all, turn:1, status:heal, val:0.03, calc:mul, animation:enhance_unit_all_heal02_unit01]",3
+1221,"[effect:damage, target:enemy_one, color:yellow, val:2.25, animation:damage_one_yellow04],[effect:enhance_unit, target:unit_all, turn:1, status:heal, val:0.03, calc:mul, animation:enhance_unit_all_heal02_unit01]",3
+1222,"[effect:damage, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04],[effect:enhance_unit, target:unit_all, turn:2, status:heal, val:0.015, calc:mul, animation:enhance_unit_all_heal01_unit01]",3
+1223,"[effect:damage, target:enemy_one, color:blue, val:2.5, animation:damage_one_blue04],[effect:enhance_unit, target:unit_all, turn:2, status:heal, val:0.03, calc:mul, animation:enhance_unit_all_heal02_unit01]",3
+1224,"[effect:damage_anti_color, target:enemy_all, color:green, val1:1.68, val2:0.75, animation:damage_one_red04]",3
+1225,"[effect:damage_anti_color, target:enemy_all, color:green, val1:1.68, val2:0.75, animation:damage_one_red04]",3
+1226,"[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green03],[effect:enhance_unit, target:unit_all, turn:2, status:defense, val:18, calc:add, animation:enhance_unit_all_defense01_unit01]",3
+1227,"[effect:damage, target:enemy_one, color:green, val:1.5, animation:damage_one_green04],[effect:enhance_unit, target:unit_all, turn:2, status:defense, val:18, calc:add, animation:enhance_unit_all_defense01_unit01]",3
+1228,"[effect:damage, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04]",3
+1229,"[effect:damage, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04]",3
+1230,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.375, val2:1.2, animation:damage_one_yellow04],[effect:enhance_unit, target:unit_all, turn:1, status:heal, val:0.015, calc:mul, animation:enhance_unit_all_heal01_unit01]",3
+1231,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.75, val2:1.5, animation:damage_one_yellow04],[effect:enhance_unit, target:unit_all, turn:1, status:heal, val:0.015, calc:mul, animation:enhance_unit_all_heal01_unit01]",3

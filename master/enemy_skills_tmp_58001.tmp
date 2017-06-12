@@ -1,0 +1,92 @@
+58001000,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.5, animation:enemy_critical]",1
+58001001,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_tribe, target:unit_all, tribe:machine, val1:1, val2:0.25]",1
+58001002,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001003,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001004,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001005,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:4, val:0.3]",1
+58001006,"[effect:enemy_message, val1:1.2, val2:2.4],[effect:damage_anti_tribe, target:unit_all, tribe:samurai, val1:0.2, val2:0.6]",1
+58001007,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001008,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001009,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001010,"[effect:enemy_message, val1:1.7, val2:1.2],[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",1
+58001011,"[effect:enemy_message, val1:1.2, val2:2.3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:time_bomb, ignore04:damage, ignore05:color_break, ignore06:magnet, count:5, val:0, animation:change_block],[effect:rush, count:1, val:1]",1
+58001012,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack, target:unit_all, val:0.05, lowest_val:1000, count:-1, color:yellow, block01:jammer]",1
+58001013,"[effect:enemy_message, val1:1.6, val2:2.4],[effect:damage_anti_tribe, target:unit_all, tribe:samurai, val1:0.2, val2:0.6]",1
+58001014,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001015,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001016,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001017,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001018,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001019,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001020,"[effect:enemy_message, val1:1.6, val2:1.2],[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",1
+58001021,"[effect:enemy_message, val1:1.2, val2:2.3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:time_bomb, ignore04:damage, ignore05:color_break, ignore06:magnet, count:5, val:0, animation:change_block],[effect:rush, count:1, val:1]",1
+58001022,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack, target:unit_all, val:0.05, lowest_val:1000, count:-1, color:yellow, block01:jammer]",1
+58001023,"[effect:enemy_message, val1:1.6, val2:2.4],[effect:damage_anti_tribe, target:unit_all, tribe:samurai, val1:0.2, val2:0.6]",1
+58001024,"[effect:enemy_message, val1:1.5, val2:1.2],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.5, calc:mul, animation:enemy_enhance_attack]",1
+58001025,"[effect:enemy_message, val1:1.2, val2:2.3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:time_bomb, ignore04:damage, ignore05:color_break, ignore06:magnet, count:5, val:0, animation:change_block],[effect:rush, count:1, val:1]",1
+58001026,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack, target:unit_all, val:0.05, lowest_val:1000, count:-1, color:yellow, block01:jammer]",1
+58001027,"[effect:enemy_message, val1:1.6, val2:2.4],[effect:damage_anti_tribe, target:unit_all, tribe:samurai, val1:0.2, val2:0.6]",1
+58001028,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001029,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001030,"[effect:enemy_message, val1:1.2, val2:1.9],[effect:dis_heart, turn:3, animation:enemy_dis_heart],[effect:rush, count:6, val:0.2]",1
+58001031,"[effect:enemy_message, val1:1.2, val2:1.3],[effect:break_attack, target:unit_one, val:0.1, lowest_val:1000, count:-1, color:green, block01:block_heart]",1
+58001032,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:fix_speed, target:myself, turn:1]",1
+58001033,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:enhance_enemy, target:myself, turn:3, status:attack, val:1.2, calc:mul, animation:enemy_enhance_attack]",1
+58001034,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001035,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:enhance_enemy, target:enemy_all, turn:-1, status:attack, val:1.1, calc:mul, animation:enemy_enhance_attack]",1
+58001036,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:4, val:0.3]",1
+58001037,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_tribe, target:unit_all, tribe:machine, val1:1, val2:0.25]",1
+58001038,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001039,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001040,"[effect:enemy_message, val1:1.2, val2:1.9],[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:enhance_enemy, target:myself, turn:3, status:defense, val:5000, calc:add, animation:enemy_enhance_defense]",1
+58001041,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:attack_break, target:unit_all, turn:3, val:0.5, calc:mul, animation:attack_break02],[effect:rush, count:1, val:1]",1
+58001042,"[effect:enemy_message, val1:1.2, val2:3.7],[effect:panel_freeze, target:normal, count:10],[effect:degrade_unit, target:unit_all, turn:2, status:action, val:2, calc:add, animation:enemy_tap_down]",1
+58001043,"[effect:enemy_message, val1:1.2, val2:2.4],[effect:force_change_block, new_block:damage, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:color_break, ignore05:magnet, count:4, val:0.25, animation:change_block],[effect:rush, count:1, val:1]",1
+58001044,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001045,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001046,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001047,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001048,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001049,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001050,"[effect:enemy_message, val1:1.6, val2:1.9],[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:enhance_enemy, target:myself, turn:3, status:attack, val:0.6, calc:mul, animation:enemy_enhance_attack]",1
+58001051,"[effect:enemy_message, val1:1.2, val2:4.4],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3]",1
+58001052,"[effect:enemy_message, val1:1.2, val2:4.4],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3]",1
+58001053,"[effect:enemy_message, val1:1.2, val2:4.4],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3]",1
+58001054,"[effect:enemy_message, val1:1.2, val2:2.4],[effect:force_change_block, new_block:damage, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:color_break, ignore05:magnet, count:4, val:0.3, animation:change_block],[effect:rush, count:1, val:1]",1
+58001055,"[effect:enemy_message, val1:1.3, val2:1.2],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.8, calc:mul, animation:enemy_enhance_attack]",1
+58001056,"[effect:enemy_message, val1:1.2, val2:4.4],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3]",1
+58001057,"[effect:enemy_message, val1:1.2, val2:4.4],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3]",1
+58001058,"[effect:enemy_message, val1:1.2, val2:4.4],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.25, val2:0.3]",1
+58001059,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001060,"[effect:enemy_message, val1:1.4, val2:2.0],[effect:fix_speed, target:myself, turn:2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:change_panel_ratio, turn:-1, block_type:heal, val:0.4, animation:block_incidence04]",1
+58001061,"[effect:enemy_message, val1:1.2, val2:3.1],[effect:dis_heart, turn:3, animation:enemy_dis_heart],[effect:panel_freeze, target:normal, color:block_heart, count:-1],[effect:rush, count:1, val:1]",1
+58001062,"[effect:enemy_message, val1:1.2, val2:2.4],[effect:force_change_block, new_block:damage, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:color_break, ignore05:magnet, count:8, val:0.06, animation:change_block],[effect:rush, count:1, val:1]",1
+58001063,"[effect:enemy_message, val1:1.3, val2:2.1],[effect:damage_anti_tribe, target:unit_all, tribe:machine, val1:1, val2:0.3]",1
+58001064,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:force_change_block, new_block:jammer, target:block_heart, ignore01:crack_bomb, ignore02:jammer, ignore03:time_bomb,  ignore04:magnet, ignore05:damage, ignore06:color_break, ignore07:crash, count:0, val:0, animation:change_block],[effect:rush, count:1, val:1]",1
+58001065,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack, target:unit_all, val:0.1, lowest_val:1000, count:-1, color:yellow, block01:jammer]",1
+58001066,"[effect:enemy_message, val1:1.3, val2:4.4],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.3, val2:0.6],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.3, val2:0.6],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.3, val2:0.6]",1
+58001067,"[effect:enemy_message, val1:1.4, val2:1.5],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.2, calc:mul, animation:enemy_enhance_attack],[effect:rush, count:4, val:0.3]",1
+58001068,"[effect:enemy_message, val1:1.6, val2:2.0],[effect:fix_speed, target:myself, turn:2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:change_panel_ratio, turn:-1, block_type:heal, val:0.4, animation:block_incidence04]",1
+58001069,"[effect:enemy_message, val1:1.3, val2:2.0],[effect:fix_speed, target:myself, turn:2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:change_panel_ratio, turn:-1, block_type:heal, val:0.4, animation:block_incidence04]",1
+58001070,"[effect:enemy_message, val1:1.4, val2:2.0],[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:change_panel_ratio, turn:-1, block_type:heal, val:0.5, animation:block_incidence04]",1
+58001071,"[effect:enemy_message, val1:1.2, val2:3.6],[effect:degrade_unit, target:unit_all, turn:3, status:heal, val:0.6, calc:mul, animation:degrade_unit_all_heal],[effect:panel_freeze, target:normal, color:block_heart, count:-1],[effect:rush, count:1, val:1]",1
+58001072,"[effect:enemy_message, val1:1.2, val2:2.4],[effect:force_change_block, new_block:damage, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:color_break, ignore05:magnet, count:8, val:0.06, animation:change_block],[effect:rush, count:1, val:1]",1
+58001073,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:force_change_block, new_block:jammer, target:block_heart, ignore01:crack_bomb, ignore02:jammer, ignore03:time_bomb,  ignore04:magnet, ignore05:damage, ignore06:color_break, ignore07:crash, count:0, val:0, animation:change_block]",1
+58001074,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack, target:unit_all, val:0.1, lowest_val:1000, count:-1, color:yellow, block01:jammer]",1
+58001075,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001076,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001077,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001078,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001079,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+58001080,"[effect:enemy_message, val1:1.4, val2:1.8],[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:change_panel_ratio, turn:-1, block_type:red, val:0.6, animation:block_incidence04]",1
+58001081,"[effect:enemy_message, val1:1.2, val2:4.1],[effect:degrade_unit, target:unit_all, turn:3, status:heal, val:0.6, calc:mul, animation:degrade_unit_all_heal],[effect:panel_freeze, target:normal, color:block_red, count:-1],[effect:panel_freeze, target:normal, color:block_heart, count:-1],[effect:rush, count:1, val:1]",1
+58001082,"[effect:enemy_message, val1:1.2, val2:2.3],[effect:force_change_block, new_block:damage, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:color_break, ignore05:magnet, count:8, val:0.06, animation:change_block],[effect:rush, count:1, val:1]",1
+58001083,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:color_break, ignore04:magnet, ignore05:jammer, ignore06:time_bomb, ignore07:block_yellow, ignore08:block_green, ignore09:block_blue, ignore10:damage, count:0, val:0]",1
+58001084,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack, target:unit_all, val:0.03, lowest_val:1000, count:-1, color:yellow, block01:jammer, ignore01:crash, ignore02:crack_bomb, ignore03:time_bomb, ignore04:color_break, ignore05:damage, ignore06:magnet]",1
+58001085,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:fix_speed, target:myself, turn:1],[effect:change_panel_ratio, turn:-1, block_type:heal, val:0.0, animation:block_incidence04],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:5000, calc:add, animation:enemy_enhance_defense]",1
+58001086,"[effect:enemy_message, val1:1.2, val2:2.9],[effect:break_enchance_enemy, target:myself, val:0.1, lowest_val:1, count:-1, status:attack, turn:1, block01:block_red, block02:block_heart, calc:mul, animation:enemy_enhance_attack],[effect:rush, count:4, val:0.25]",1
+58001087,"[effect:enemy_message, val1:1.5, val2:2.4]",1
+58001088,"[effect:enemy_message, val1:1.2, val2:2.3]",1
+58001089,"[effect:enemy_message, val1:1.6, val2:2.1]",1
+58001090,"[effect:enemy_message, val1:1.5, val2:2.4]",1
+58001091,"[effect:enemy_message, val1:1.2, val2:2.3]",1

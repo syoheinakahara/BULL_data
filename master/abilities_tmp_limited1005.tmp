@@ -1,0 +1,1 @@
+78401,"{""ver"":""1.8.0"",""type"":""ability"",""effects"":""[effect:change_panel_ratio, turn:-1, block_type:heal, val:0.3, animation:block_incidence04]"",""conditions"":""[condition:active_unit]"",""priority"":0}",3

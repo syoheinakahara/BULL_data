@@ -1,0 +1,12 @@
+573,"[effect:damage, target:enemy_one, color:blue, val:1.5, animation:damage_one_blue04],[effect:enhance_unit, target:unit_blue, turn:1, status:attack, val:0.06, calc:mul,animation:enhance_unit_all_attack03_unit01]",3
+574,"[effect:damage, target:enemy_one, color:blue, val:1.5, animation:damage_one_blue05],[effect:enhance_unit, target:unit_blue, turn:1, status:attack, val:0.06, calc:mul,animation:enhance_unit_all_attack03_unit01]",3
+575,"[effect:damage, target:enemy_one, color:red, val:1.2, animation:damage_one_red04],[effect:enhance_unit, target:unit_all, turn:1, status:attack, val:0.075, calc:mul,animation:enhance_unit_all_attack03_unit01]",3
+576,"[effect:damage, target:enemy_one, color:red, val:1.2, animation:damage_one_red04],[effect:enhance_unit, target:unit_all, turn:1, status:attack, val:0.075, calc:mul,animation:enhance_unit_all_attack03_unit01]",3
+577,"[effect:damage, target:enemy_all, color:red, val:0.45, animation:damage_all_red04],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal03_unit01]",3
+578,"[effect:damage, target:enemy_all, color:red, val:0.6, animation:damage_all_red04],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal03_unit01]",3
+579,"[effect:damage, target:enemy_one, color:green, val:1.75, animation:damage_one_green03],[effect:enhance_unit, target:unit_all, turn:2, status:heal, val:0.015, calc:mul,animation:enhance_unit_all_heal01_unit01]",3
+580,"[effect:damage, target:enemy_one, color:green, val:2.0, animation:damage_one_green04],[effect:enhance_unit, target:unit_all, turn:2, status:heal, val:0.015, calc:mul,animation:enhance_unit_all_heal01_unit01]",3
+581,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:1.578, val2:0.786, animation:damage_one_blue04],[effect:damage_anti_tribe, target:enemy_one, tribe:machine, val1:1.578, val2:0.786, animation:damage_one_blue04]",3
+582,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:1.578, val2:0.786, animation:damage_one_blue04],[effect:damage_anti_tribe, target:enemy_one, tribe:machine, val1:1.578, val2:0.786, animation:damage_one_blue04]",3
+583,"[effect:damage, target:enemy_one, color:yellow, val:2.0, animation:damage_one_yellow04]",3
+584,"[effect:damage, target:enemy_one, color:yellow, val:2.0, animation:damage_one_yellow04]",3

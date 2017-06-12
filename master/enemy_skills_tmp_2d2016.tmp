@@ -1,0 +1,29 @@
+1122001,"[effect:sleep, target:unit_all, turn:1, rate:1],[effect:hungup, target:unit_all, turn:-1, rate:1],[effect:suicide, val:1, dead_type:escape, target:enemy_all],[effect:degrade_crash, target:unit_all, count:50, special:50, turn:-1],[effect:degrade_unit, target:unit_all, turn:-1, status:attack, val:1.0, calc:mul]",3
+1122002,"[effect:fix_speed, target:myself, turn:1]",3
+1122003,"[effect:suicide, val:1, dead_type:escape, target:myself, animation:enemy_escape],[effect:sleep, target:unit_all, turn:2, rate:1]",3
+1122004,"[effect:suicide, val:1, dead_type:suicide, target:myself]",3
+1122005,"[effect:fix_speed, target:myself, turn:1],[effect:fix_speed, target:enemy_yellow, turn:2]",3
+1122006,"[effect:fix_speed, target:myself, turn:1]",3
+1122007,"[effect:suicide, val:1, dead_type:escape, target:myself, animation:enemy_escape],[effect:force_change_block, new_block:block_blue, target:block_red, count:0, val:0,animation:change_block],[effect:force_change_block, new_block:block_heart, target:block_green, count:0, val:0,animation:change_block],[effect:force_change_block, new_block:block_heart, target:block_yellow, count:0, val:0,animation:change_block],[effect:suicide, val:1, dead_type:escape, target:myself, animation:enemy_escape]",3
+1122008,"[effect:fix_speed, target:myself, turn:1]",3
+1122009,"[effect:suicide, val:1, dead_type:escape, target:myself, animation:enemy_escape]",3
+1122010,"[effect:dark, turn:-1,target:unit_all,animation:enemy_dark],[effect:fix_speed, target:myself, turn:1][effect:dis_panel, target:block_red, turn:1],[effect:dis_panel, target:block_blue, turn:1],[effect:dis_panel, target:block_green, turn:1],[effect:dis_panel, target:block_yellow, turn:1]",3
+1122011,"[effect:suicide, val:1, dead_type:escape, target:myself, animation:enemy_escape]",3
+1122012,"[effect:fix_speed, target:myself, turn:1]",3
+1122013,"[effect:fix_speed, target:myself, turn:1]",3
+1122014,"[effect:suicide, val:1, dead_type:escape, target:myself, animation:enemy_escape]",3
+1122015,"[effect:fix_speed, target:myself, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1]",3
+1122016,"[effect:force_change_block, new_block:jammer, target:block_all, count:9, val:0,animation:change_block],[effect:cure, bad_status:dark, animation:cure01],[effect:fix_speed, target:myself, turn:1]",3
+1122017,"[effect:force_change_block, new_block:jammer, target:block_all, count:18, val:0,animation:change_block],[effect:fix_speed, target:myself, turn:1]",3
+1122018,"[effect:force_change_block, new_block:jammer, target:block_all, count:0, val:0,animation:change_block],[effect:fix_speed, target:myself, turn:1]",3
+1122019,"[effect:force_change_block, new_block:jammer, target:block_all, count:0, val:0,animation:change_block],[effect:fix_speed, target:myself, turn:1]",3
+1122020,"[effect:fix_speed, target:myself, turn:2]",3
+1122021,"[effect:enhance_fever, val:1000.0, animation:fevergauge_up04],[effect:enhance_enemy, target:unit_all, turn:4, status:attack, val:1, animation:enemy_enhance_attack]",3
+1122022,"[effect:fix_speed, target:myself, turn:3]",3
+1122023,"[effect:fix_speed, target:enemy_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1],[effect:degrade_unit, target:unit_all, turn:-1, status:action, val:2.0],[effect:suicide, val:0.7, dead_type:escape, target:myself, animation:enemy_escape]",3
+1122024,"[effect:force_change_block, new_block:block_heart, target:block_all, count:0, val:0,animation:change_block]",3
+1122025,"[effect:suicide, val:1, dead_type:escape, target:myself, animation:enemy_escape],[effect:degrade_unit, target:unit_all, turn:-1, status:action, val:2.0],[effect:force_change_block, new_block:block_heart, target:block_all, count:0, val:0,animation:change_block],[effect:fix_speed, target:myself, turn:1]",3
+1122026,"[effect:suicide, val:1, dead_type:escape, target:myself, animation:enemy_suicide]",3
+1122027,"[effect:fix_speed, target:myself, turn:1]",3
+1122028,"[effect:spread, val:999.9]",3
+1122029,"[effect:fix_speed, target:myself, turn:1]",3

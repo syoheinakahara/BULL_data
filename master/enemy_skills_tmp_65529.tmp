@@ -1,0 +1,14 @@
+65529532,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.4, animation:enemy_critical]",1
+65529533,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.4]",1
+65529534,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+65529535,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:5, val:0.2]",1
+65529536,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:force_change_block, new_block:damage, target:normal, ignore01:block_negative, color:block_yellow, count:5, val:0.5, animation:change_block]",1
+65529537,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:panel_freeze, target:normal, color:block_green, count:-1, break_count:1]",1
+65529538,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.4, animation:enemy_critical]",1
+65529539,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:force_change_block, new_block:block_red, target:block_green, count:10, val:0, animation:change_block]",1
+65529540,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.2],[effect:spread, val:0.4]",1
+65529541,"[effect:enemy_message, val1:1.5, val2:1.6],[effect:force_change_block, new_block:block_green, target:normal, ignore01:block_green, count:0, val:0, animation:change_block]",1
+65529542,"[effect:enemy_message, val1:1.5, val2:1.5],[effect:enhance_unit, target:myself, turn:2, status:defense, val:5000, calc:add, animation:enhance_unit_all_defense01]",1
+65529543,"[effect:enemy_message, val1:1.5, val2:1.6],[effect:damage_abnormal, target:unit_one, val:1, status:sleep, turn:2]",1
+65529544,"[effect:enemy_message, val1:1.5, val2:1.3],[effect:break_attack_fix, target:unit_one, val:200, lowest_val:1800, count:-1, block01:block_green]",1
+65529545,"[effect:enemy_message, val1:1.5, val2:1.6],[effect:break_attack_fix, target:unit_all, val:200, lowest_val:1800, count:-1, block01:block_heart]",1

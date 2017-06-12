@@ -1,0 +1,35 @@
+13400400,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:fix_speed, target:myself, turn:1],[effect:sleep, target:unit_all, turn:2, rate:1, calc_type:target_one]",3
+13400401,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:sp_boost, target:unit_all, val:99, animation:sp_boost_one03]",3
+13400402,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:suicide, val:1, dead_type:escape]",3
+13400403,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:nothing]",1
+13400404,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:nothing]",1
+13400405,"[effect:enemy_message, val1:1.3, val2:2.3],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:reduction, target:myself, reduction_target:unit_blue/not, turn:-1, val:0.9, animation:reduction_one03],[effect:fix_speed, target:myself, turn:1]",3
+13400406,"[effect:enemy_message, val1:1.2, val2:2.5],[effect:rush, count:1, val:0.8],[effect:force_change_block, new_block:damage, target:block_all, ignore01:block_positive, ignore02:block_negative, count:6, val:0.1]",3
+13400407,"[effect:enemy_message, val1:1.2, val2:2.4],[effect:rush, count:1, val:0.8],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:6, val:0]",3
+13400408,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:break_enchance_enemy, target:myself, val:300, lowest_val:1000, count:-1, status:defense, turn:2, block01:jammer, calc:add, animation:enemy_enhance_defense]",3
+13400409,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:degrade_unit, target:unit_all, turn:5, status:heal, val:0.8, calc:mul, animation:degrade_unit_all_heal]",3
+13400410,"[effect:enemy_message, val1:1.2, val2:1.3],[effect:damage_abnormal, target:unit_one, val:1, status:virus, turn:5, val_abnormal:0.5, calc:mul, animation:enemy_virus]",3
+13400411,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:nothing]",1
+13400412,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:nothing]",1
+13400413,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:nothing]",1
+13400414,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:nothing]",1
+13400415,"[effect:enemy_message, val1:1.2, val2:2.6],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:crash_condition, target:unit_all, turn:6, val:4, animation:enemy_crash_extend]    ,[effect:fix_speed, target:myself, turn:1]",3
+13400416,"[effect:enemy_message, val1:1.2, val2:2.5],[effect:rush, count:1, val:0.8],[effect:force_change_block, new_block:damage, target:block_all, ignore01:block_positive, ignore02:block_negative, count:6, val:0.1]",3
+13400417,"[effect:enemy_message, val1:1.2, val2:2.4],[effect:rush, count:1, val:0.8],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:6, val:0]",3
+13400418,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack, target:unit_all, val:0.05, lowest_val:1000, count:-1, color:red, block01:jammer]",3
+13400419,"[effect:enemy_message, val1:1.2, val2:2.8],[effect:degrade_unit, target:unit_all, turn:5, status:heal, val:0.8, calc:mul, animation:degrade_unit_all_heal],[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+13400420,"[effect:enemy_message, val1:1.2, val2:1.3],[effect:damage_abnormal, target:unit_one, val:1, status:virus, turn:5, val_abnormal:0.5, calc:mul, animation:enemy_virus]",3
+13400421,"[effect:enemy_message, val1:1.2, val2:3.8],[effect:degrade_unit, target:unit_all, turn:3, status:action, val:2, calc:add, animation:enemy_tap_down]",3
+13400422,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:spread, val:2.0],[effect:spread, val:2.0],[effect:spread, val:2.0],[effect:spread, val:2.0],[effect:spread, val:2.0]",3
+13400423,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:nothing]",1
+13400424,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:nothing]",1
+13400425,"[effect:enemy_message, val1:1.2, val2:2.6],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:crash_condition, target:unit_all, turn:6, val:4, animation:enemy_crash_extend],[effect:fix_speed, target:myself, turn:1]",3
+13400426,"[effect:enemy_message, val1:1.2, val2:2.5],[effect:spread, val:0.2],[effect:force_change_block, new_block:damage, target:block_all, ignore01:block_positive, ignore02:block_negative, count:6, val:0.1]",3
+13400427,"[effect:enemy_message, val1:1.2, val2:2.4],[effect:spread, val:0.2],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:6, val:0]",3
+13400428,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:break_enchance_enemy, target:myself, val:0.15, lowest_val:0.1, count:-1, status:attack, turn:-1, block01:jammer, calc:mul, animation:enemy_enhance_attack]",3
+13400429,"[effect:enemy_message, val1:1.2, val2:2.8],[effect:degrade_unit, target:unit_all, turn:5, status:heal, val:0.8, calc:mul, animation:degrade_unit_all_heal],[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+13400430,"[effect:enemy_message, val1:1.2, val2:1.3],[effect:damage_abnormal, target:unit_one, val:1, status:virus, turn:5, val_abnormal:0.5, calc:mul, animation:enemy_virus]",3
+13400431,"[effect:enemy_message, val1:1.2, val2:3.8],[effect:degrade_unit, target:unit_all, turn:3, status:action, val:2, calc:add, animation:enemy_tap_down]",3
+13400432,"[effect:enemy_message, val1:1.4, val2:1.5],[effect:spread, val:2.0],[effect:spread, val:2.0],[effect:spread, val:2.0],[effect:spread, val:2.0],[effect:spread, val:2.0]",3
+13400433,"[effect:enemy_message, val1:1.7, val2:2.7 ,dead_type:escape]",3
+13400434,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:nothing]",1

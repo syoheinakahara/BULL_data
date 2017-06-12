@@ -1,0 +1,26 @@
+15027001,"[effect:dark, target:unit_all, turn:8, animation:enemy_dark]",3
+15027002,"[effect:damage_anti_abnormal, target:unit_all, target_effect01:dark, val1:0.8, val2:0.2]",3
+15027003,"[effect:force_change_block, new_block:block_heart, target:block_all, count:20, val:0,animation:change_block]",3
+15027004,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:debuff, count:-1, animation:frozen_wave]",3
+15027005,"[effect:kamikaze, val:0.5]",3
+15027006,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:debuff, count:-1, animation:frozen_wave],[effect:suicide, val:1, dead_type:escape, target:myself, animation:enemy_suicide],[effect:force_change_block, new_block:block_heart, target:block_all, count:10, val:0,animation:change_block]",3
+15027007,"[effect:damage_anti_color, target:unit_all, color:red, val1:1.5, val2:0.6]",3
+15027008,"[effect:damage_anti_color, target:unit_all, color:blue, val1:1.5, val2:0.6]",3
+15027009,"[effect:sleep, target:unit_green, turn:5, rate:0.6, animation:sleep01]",3
+15027010,"[effect:hungup, target:unit_all, turn:4, rate:0.7, animation:enemy_hungup]",3
+15027011,"[effect:rush, count:3, val:0.6]",3
+15027012,"[effect:change_block, new_block:time_bomb, target:block_all, count:3, val:0.5, animation:change_block],[effect:change_block, new_block:block_heart, target:block_yellow, count:3, val:0, no_effect_msg:no_effect_msg_change_block_heal, animation:change_block]",3
+15027013,"[effect:rush, count:6, val:0.3]",3
+15027014,"[effect:damage_anti_tribe, target:unit_all, tribe:animal, val1:1.3, val2:0.4],[effect:hungup, target:unit_animal, turn:5, rate:1, animation:hungup01]",3
+15027015,"[effect:damage_anti_type, target:unit_all, type:technical, val1:1.5, val2:0.5]",3
+15027016,"[effect:crash_growth, count:-1, val:-3, animation:change_block]",3
+15027017,"[effect:barrier_attack_skill_tribe, target:enemy_all, option:invalid, tribe:human, turn:3, val:0, animation:crash_panel_reduce04_unit02]",3
+15027018,"[effect:degrade_unit, target:unit_all, turn:2, status:attack, val:0.5, calc:mul],[effect:degrade_unit, target:unit_all, turn:2, status:heal, val:0.5, calc:mul, animation:degrade_unit_all_heal]",3
+15027019,"[effect:barrier_attack_skill_tribe, target:enemy_all, option:invalid, tribe:animal, turn:3, val:0, animation:crash_panel_reduce04_unit02]",3
+15027020,"[effect:hungup, target:unit_human, turn:8, rate:0.8, animation:hungup01]",3
+15027021,"[effect:damage_anti_color, target:unit_all, color:blue, val1:1.5, val2:0.6]",3
+15027022,"[effect:change_block, new_block:jammer, target:block_heart, count:3, val:0, animation:change_block],[effect:crash_condition, target:unit_all, val:4, turn:4, animation:enemy_crash_extend],[effect:rush, count:2, val:0.6]",3
+15027023,"[effect:damage_anti_color, target:unit_all, color:red, val1:1.5, val2:0.5]",3
+15027024,"[effect:change_block, new_block:time_bomb, target:block_blue, count:15, val:0.11, min_time_count:2, max_time_count:3, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:rush, count:1, val:0.6]",3
+15027025,"[effect:force_change_block, new_block:block_heart, target:block_yellow, count:8, val:0, min_time_count:2, max_time_count:2, animation:change_block],[effect:degrade_crash, target:unit_all, count:12, special:18, turn:2, animation:enemy_crash_extend],[effect:dark, target:unit_all, turn:2, animation:enemy_dark]",3
+15027026,"[effect:change_block, new_block:time_bomb, target:block_heart, count:5, val:0.1, min_time_count:2, max_time_count:4, animation:change_block],[effect:hungup, target:unit_all, turn:3, rate:0.6, animation:enemy_hungup],[effect:rush, count:1, val:0.7]",3

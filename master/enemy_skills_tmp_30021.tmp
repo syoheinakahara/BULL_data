@@ -1,0 +1,32 @@
+30021001,"[effect:rush, count:3, val:0.6]",3
+30021002,"[effect:rush, count:4, val:0.6]",3
+30021003,"[effect:critical, val:1.5]",3
+30021004,"[effect:critical, val:1.8]",3
+30021005,"[effect:nothing]",3
+30021006,"[effect:rush, count:3, val:0.5]",3
+30021007,"[effect:enhance_enemy, target:myself, turn:3, status:attack, val:0.4, animation:enemy_enhance_attack]",3
+30021039,"[effect:rush, count:2, val:1.4]",3
+30021008,"[effect:spread, val:0.4]",3
+30021009,"[effect:rush, count:4, val:0.5],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.4, animation:enemy_enhance_attack]",3
+30021010,"[effect:kamikaze, val:3]",3
+30021011,"[effect:enhance_enemy, target:myself, turn:3, status:defense, val:1500, calc:add, animation:enemy_enhance_defense]",3
+30021012,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:1, val:0.7, animation:enemy_counter],[effect:enhance_enemy, target:myself, turn:3, status:defense, val:1500, calc:add, animation:enemy_enhance_defense]",3
+30021013,"[effect:critical, val:1.8]",3
+30021014,"[effect:critical, val:1.9]",3
+30021015,"[effect:nothing]",3
+30021016,"[effect:tolerance,target:myself,turn:-1,tolerance_effect:all,count:-1,animation:enemy_tolerance],[effect:dis_heart, turn:2, animation:enemy_dis_heart],[effect:rush, count:1, val:1.0]",3
+30021019,"[effect:rush, count:2, val:0.6]",3
+30021020,"[effect:break_attack, val:0.1, lowest_val:1500, count:10, block:block_red, target:unit_one]",3
+30021024,"[effect:change_block, new_block:block_heart, target:block_red, count:3, val:0, animation:change_block]",3
+30021025,"[effect:rush, count:3, val:0.4]",3
+30021026,"[effect:break_attack, val:0.1, lowest_val:1750, count:10, block:block_red, target:unit_one],[effect:degrade_unit, target:unit_all, turn:1, status:heal, val:0.5, animation:degrade_unit_all_heal]",3
+30021030,"[effect:change_block, new_block:crack_bomb, target:block_red, color:block_blue, count:6, val:0, animation:change_block]",3
+30021031,"[effect:tolerance,target:myself,turn:-1,tolerance_effect:all,count:-1,animation:enemy_tolerance],[effect:freq_turn, target:myself, turn:2, val:1, animation:enemy_freq_turn]",3
+30021032,"[effect:break_attack, val:0.1, lowest_val:2000, count:13, block:block_red, target:unit_one],[effect:degrade_unit, target:unit_all, turn:1, status:heal, val:0.7, animation:degrade_unit_all_heal]",3
+30021033,"[effect:rush, count:5, val:0.3]",3
+30021034,"[effect:change_block, new_block:block_green, target:block_red, count:6, val:0, animation:change_block],[effect:change_block, new_block:jammer, target:block_heart, count:4, val:0, animation:change_block],[effect:critical, val:1.3]",3
+30021037,"[effect:rush, count:1, val:1.1],[effect:change_block, new_block:block_blue, target:block_all, count:6, val:0, animation:change_block]",3
+30021040,"[effect:tolerance,target:myself,turn:-1,tolerance_effect:all,count:-1,animation:enemy_tolerance],[effect:freq_turn, target:myself, turn:2, val:1, animation:enemy_freq_turn]",3
+30021041,"[effect:tolerance,target:myself,turn:-1,tolerance_effect:all,count:-1,animation:enemy_tolerance]",3
+30021042,"[effect:nothing]",3
+30021043,"[effect:nothing]",3

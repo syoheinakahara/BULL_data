@@ -1,0 +1,39 @@
+40033000,"[effect:damage_anti_tribe, target:unit_all, tribe:animal, val1:2, val2:0.25],[effect:enemy_message, val1:1.0, val2:2.0]",3
+40033001,"[effect:break_attack_fix, target:unit_one, val:1000, lowest_val:4000, count:-1, color:yellow, block01:jammer] ,[effect:enemy_message, val1:1.0, val2:1.6]",3
+40033003,"[effect:damage_anti_cost, target:unit_all, lower:55, val1:99.9, val2:0.01, cost_type:unit],[effect:damage_anti_cost, target:unit_all, lower:55, val1:99.9, val2:0.01, cost_type:unit],[effect:enemy_message, val1:1.2, val2:2.0]",3
+40033100,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:0, animation:change_block],[effect:enemy_message, val1:1.0, val2:1.4]",3
+40033200,"[effect:rush, count:4, val:0.25] ,[effect:enemy_message, val1:1.0, val2:1.5]",3
+40033201,"[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, count:8, val:0.2, min_time_count:3, max_time_count:3, animation:change_block] ,[effect:enemy_message, val1:1.0, val2:1.9]",3
+40033300,"[effect:enhance_enemy, target:myself, turn:5, status:attack, val:0.2, calc:mul, animation:enemy_enhance_attack],[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, count:10, val:0.2, min_time_count:3, max_time_count:3, animation:change_block],[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1.0, val2:2.6]",3
+40033301,"[effect:rush, count:6, val:0.2] ,[effect:enemy_message, val1:1.1, val2:1.5]",3
+40033302,"[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, count:8, val:0.2, min_time_count:3, max_time_count:3, animation:change_block],[effect:enemy_message, val1:1.0, val2:1.8]",3
+40033400,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:10, val:0, animation:change_block],[effect:enemy_message, val1:1.0, val2:1.4]",3
+40033401,"[effect:break_heal_fix, target:myself, val:3000, lowest_val:1000, count:-1, block01:block_yellow, animation:enemy_heal],[effect:enemy_message, val1:1.0, val2:1.4]",3
+40033403,"[effect:break_attack_fix, target:unit_all, val:350, lowest_val:1000, count:-1, color:yellow, block01:jammer] ,[effect:enemy_message, val1:1.0, val2:1.8]",3
+40033500,"[effect:break_attack_fix, target:unit_all, val:350, lowest_val:1000, count:-1, color:yellow, block01:block_yellow],[effect:enemy_message, val1:1.0, val2:1.6]",3
+40033501,"[effect:damage_anti_type, target:unit_all, type:technical, val1:1.9, val2:0.1],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:15, val:0, animation:change_block],[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1.0, val2:3.3]",3
+40033502,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:10, val:0, animation:change_block],[effect:enemy_message, val1:1.0, val2:1.4]",3
+40033504,"[effect:break_attack_fix, target:unit_all, val:350, lowest_val:1000, count:-1, color:yellow, block01:jammer] ,[effect:enemy_message, val1:1.0, val2:1.8]",3
+40033600,"[effect:drop_block, block_type:time_bomb, block_color:block_yellow, color:block_blue, val:0.2, rate:1, turn:-1, min_time_count:3, max_time_count:3, animation:time_bomb_influence04],[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1.5, val2:2.6]",3
+40033601,"[effect:spread, val:0.3]",3
+40033602,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:15, val:0, animation:change_block],[effect:enemy_message, val1:1.2, val2:1.4]",3
+40033603,"[effect:break_attack_fix, target:unit_all, val:400, lowest_val:1500, count:-1, color:yellow, block01:jammer] ,[effect:enemy_message, val1:1.0, val2:1.8]",3
+40033604,"[effect:degrade_unit, target:unit_attack, turn:-1, status:action, val:2, calc:add, animation:enemy_tap_down],[effect:enemy_message, val1:2.1, val2:2.6]",3
+40033701,"[effect:drop_block, block_type:jammer, color:block_green, val:0, rate:1, turn:-1, animation:jammer_influence04],[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:2.0, val2:2.1]",3
+40033702,"[effect:spread, val:0.3]",3
+40033703,"[effect:break_enchance_enemy, target:myself, val:0.03, lowest_val:0.1, count :-1, status:attack, turn:-1, block01:jammer, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:2.2, val2:1.8]",3
+40033704,"[effect:reduction, target:myself, turn:1, color:all, val:1, animation:reduction_one01],[effect:enemy_message, val1:1.5, val2:1.8]",3
+40033705,"[effect:break_attack_fix, target:unit_all, val:400, lowest_val:1500, count:-1, color:yellow, block01:jammer] ,[effect:enemy_message, val1:1.4, val2:1.8]",3
+40033800,"[effect:hungup, target:unit_attack/unit_balance, turn:5, rate:1, animation:hungup01],[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1.6, val2:3.0]",3
+40033801,"[effect:break_attack_fix, target:unit_all, val:400, lowest_val:1500, count:-1, color:yellow, block01:block_yellow],[effect:enemy_message, val1:1.3, val2:1.6]",3
+40033802,"[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_green, count:5, val:0.2, min_time_count:3, max_time_count:3, animation:change_block] ,[effect:rush, count:8, val:0.2],[effect:enemy_message, val1:1.5, val2:2.5]",3
+40033803,"[effect:spread, val:0.3],[effect:enemy_message, val1:1.5, val2:1.5]",3
+40033804,"[effect:break_attack_fix, target:unit_all, val:400, lowest_val:1500, count:-1, color:yellow, block01:jammer] ,[effect:enemy_message, val1:1.6, val2:1.8]",3
+40033805,"[effect:enemy_message, val1:2.0, val2:2.1]",3
+40033002,"[effect:break_attack_fix, target:unit_one, val:500, lowest_val:3000, count:-1, color:yellow, block01:jammer]  ,[effect:enemy_message, val1:1.0, val2:1.6]",3
+40033402,"[effect:break_heal_fix, target:myself, val:1500, lowest_val:1000, count:-1, block01:block_yellow, animation:enemy_heal],[effect:enemy_message, val1:1.0, val2:1.4]",3
+40033404,"[effect:break_attack_fix, target:unit_all, val:150, lowest_val:500, count:-1, color:yellow, block01:jammer] ,[effect:enemy_message, val1:1.0, val2:1.8]",3
+40033503,"[effect:break_attack_fix, target:unit_all, val:150, lowest_val:500, count:-1, color:yellow, block01:block_yellow],[effect:enemy_message, val1:1.0, val2:1.6]",3
+40033505,"[effect:break_attack_fix, target:unit_all, val:150, lowest_val:500, count:-1, color:yellow, block01:jammer] ,[effect:enemy_message, val1:1.0, val2:1.8]",3
+40033605,"[effect:break_attack_fix, target:unit_all, val:200, lowest_val:500, count:-1, color:yellow, block01:jammer] ,[effect:enemy_message, val1:1.0, val2:2.1.8]",3
+40033706,"[effect:break_attack_fix, target:unit_all, val:200, lowest_val:500, count:-1, color:yellow, block01:jammer] ,[effect:enemy_message, val1:1.5, val2:1.8]",3

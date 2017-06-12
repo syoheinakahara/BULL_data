@@ -1,0 +1,12 @@
+20019011,"[effect:freq_turn, target:enemy_all, turn:3, val:1, animation:enemy_freq_turn]",3
+20019016,"[effect:rush, count:2, val:0.6]",3
+20019021,"[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:1.25, animation:enemy_enhance_enemy]",3
+20019026,"[effect:spread, val:0.3, animation:enemy_spread]",3
+20019031,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:buff, animation:frozen_wave],[effect:enemy_message, val1:1.5]",3
+20019032,"[effect:enhance_enemy, target:myself, turn:3, status:attack, val:1.25, animation:enemy_enhance_enemy]",3
+20019033,"[effect:critical, val:1.5]",3
+20019034,"[effect:fix_speed, target:myself, turn:1]",3
+20019035,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:buff, animation:frozen_wave],[effect:enemy_message, val1:1.5]",3
+20019036,"[effect:rush, count:3, val:0.4]",3
+20019037,"[effect:rush, count:5, val:0.25]",3
+20019038,"[effect:enemy_message, val1:2, val2:3]",3

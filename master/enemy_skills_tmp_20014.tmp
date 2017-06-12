@@ -1,0 +1,19 @@
+20014100,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb,  ignore03:time_bomb, ignore04:jammer, count:5, val:0, animation:change_block],[effect:spread, val:0.52]",3
+20014101,"[effect:change_panel_ratio, turn:-1, block_type:heal, val:0.1, animation:block_incidence04],[effect:suicide, val:1, dead_type:escape, target:myself]",3
+20014102,"[effect:enhance_unit, target:unit_all, turn:-1, status:action, val:1, calc:add],[effect:freq_turn, target:enemy_all, turn:1, val:2, animation:enemy_freq_turn]",3
+20014103,"[effect:damage_anti_type, target:unit_all, type:heal, val1:0.8, val2:0.2]",3
+20014104,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:time_bomb, ignore04:jammer, count:5, val:0, animation:change_block],[effect:rush, count:8, val:0.3]",3
+20014105,"[effect:degrade_unit, target:unit_all, turn:1, status:attack, val:1, calc:add]",3
+20014106,"[effect:freq_turn, target:enemy_all, turn:2, val:1, animation:enemy_freq_turn],[effect:suicide, val:0.5, dead_type:escape, target:myself, animation:enemy_suicide]",3
+20014107,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:time_bomb, ignore04:jammer, count:8, val:0, animation:change_block],[effect:spread, val:0.22],[effect:rush, count:6, val:0.21]",3
+20014108,"[effect:force_change_block, new_block:time_bomb, target:block_yellow, ignore01:crash, ignore02:crack_bomb, count:6, val:0.01, min_time_count:2, max_time_count:4, animation:change_block]",3
+20014109,"[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:1.2, calc:mul, animation:enemy_enhance_attack],[effect:suicide, val:0.5, dead_type:escape, target:myself, animation:enemy_suicide]",3
+20014110,"[effect:virus, turn:-1, target:unit_all, rate:1, val:0.07, animation:enemy_virus],[effect:enhance_fever, val:1000.0, animation:fevergauge_up04]",3
+20014111,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:time_bomb, ignore04:jammer, count:10, val:0, animation:change_block]",3
+20014112,"[effect:panel_freeze, target:block_yellow, count:10],[effect:spread, val:0.7]",3
+20014113,"[effect:dark, target:unit_all, turn:-1, animation:enemy_dark],[effect:fix_speed, target:myself, turn:1]",3
+20014114,"[effect:remove_enhancement, target:unit_all, target_effect:dark, target_type:debuff, animation:frozen_wave],[effect:fix_speed, target:myself, turn:2]",3
+20014115,"[effect:remove_enhancement, target:unit_all, target_effect:dark, target_type:debuff, animation:frozen_wave],[effect:suicide, val:1, dead_type:escape, target:myself, animation:enemy_suicide]",3
+20014116,"[effect:spread, val:0.43],[effect:hungup, target:unit_all, turn:2, rate:0.4, animation:hungup01]",3
+20014117,"[effect:damage_anti_color, target:unit_all, color:red, val1:3.35, val2:0.44]",3
+20014118,"[effect:force_change_block, new_block:block_heart, target:block_yellow, count:5, val:0, animation:change_block],[effect:rush, count:8, val:0.22]",3

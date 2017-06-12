@@ -1,0 +1,33 @@
+40027300,"[effect:rush, count:3, val:0.3]",3
+40027301,"[effect:spread, val:0.4]",3
+40027302,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40027303,"[effect:panel_freeze, target:normal, color:block_heart, count:2, break_count:1],[effect:damage_anti_tribe, target:unit_one, tribe:animal, val1:2.5, val2:0.88]",3
+40027304,"[effect:force_change_block, new_block:block_green, target:block_all, ignore01:block_positive, ignore02:block_negative, count:8, val:0],[effect:critical, val:1.6, animation:enemy_critical]",3
+40027305,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40027306,"[effect:panel_freeze, target:normal, color:block_heart, count:3, break_count:1],[effect:damage_anti_tribe, target:unit_one, tribe:animal, val1:2.5, val2:0.86]",3
+40027307,"[effect:enemy_message, val1:1.5, val2:1.8]",3
+40027308,"[effect:break_attack_fix, target:unit_all, val:500, lowest_val:1000, count:-1, color:blue, block01:block_red]",3
+40027309,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:-1, val:0.2, animation:enemy_counter]",3
+40027310,"[effect:panel_freeze, target:normal, color:block_heart, count:3, break_count:1],[effect:rush, count:1, val:1]",3
+40027311,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.3, calc:mul, animation:enemy_enhance_attack]",3
+40027312,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:-1, val:0.2, animation:enemy_counter]",3
+40027313,"[effect:virus, target:unit_all, turn:5, rate:1, val:0.1, animation:enemy_virus]",3
+40027314,"[effect:panel_freeze, target:normal, color:block_heart, count:5, break_count:1],[effect:damage_anti_color, target:unit_all, color:yellow, val1:0.25, val2:2.25]",3
+40027315,"[effect:enemy_message, val1:1.5, val2:1.8]",3
+40027316,"[effect:critical, val:1.8, animation:enemy_critical]",3
+40027317,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+40027318,"[effect:damage_gravity, val:0.3, animation:fevergauge_down]",3
+40027319,"[effect:panel_freeze, target:normal, color:block_heart, count:8, break_count:1],[effect:rush, count:1, val:0.85]",3
+40027320,"[effect:panel_freeze, target:normal, color:block_heart, count:5, break_count:1],[effect:spread, val:0.3]",3
+40027321,"[effect:break_attack_fix, target:unit_all, val:300, lowest_val:1000, count:-1, color:blue, block01:block_blue]",3
+40027322,"[effect:panel_freeze, target:normal, color:block_heart, count:-1, break_count:1]",3
+40027323,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+40027324,"[effect:drop_freeze, block_type:normal, block_color:block_heart, frozen_count:1, rate:0.3, turn:-1, animation:drop_protect]",3
+40027325,"[effect:damage_gravity, val:0.4, animation:fevergauge_down]",3
+40027326,"[effect:rush, count:3, val:0.47]",3
+40027327,"[effect:spread, val:0.3]",3
+40027328,"[effect:panel_freeze, target:normal, color:block_heart, count:-1, break_count:1]",3
+40027329,"[effect:force_change_block, new_block:jammer, target:block_heart, count:0, val:0, animation:change_block]",3
+40027330,"[effect:damage_anti_color, target:unit_all, color:red, val1:2.5, val2:0.3]",3
+40027331,"[effect:damage_gravity, val:0.2, animation:fevergauge_down]",3
+40027332,"[effect:damage_gravity, val:0.3, animation:fevergauge_down]",3

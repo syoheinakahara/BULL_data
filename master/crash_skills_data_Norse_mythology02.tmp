@@ -1,0 +1,4 @@
+1252,"[effect:damage, target:enemy_one, color:blue, val:1, animation:damage_one_blue02],[effect:heal_ratio, val:0.18, animation:heal02_unit01]",3
+1253,"[effect:damage, target:enemy_one, color:blue, val:1.2, animation:damage_one_blue03],[effect:heal_ratio, val:0.18, animation:heal02_unit01]",3
+1266,"[effect:damage_hp, target:enemy_one, color:yellow, val:1.125, animation:damage_one_yellow04]",3
+1267,"[effect:damage_hp, target:enemy_one, color:yellow, val:1.25, animation:damage_one_yellow04]",3

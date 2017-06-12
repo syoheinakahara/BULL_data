@@ -1,0 +1,6 @@
+764,"[effect:damage_anti_tribe, target:enemy_one, tribe:human, val1:3.0, val2:1.13,  animation:damage_one_yellow04]",3
+765,"[effect:damage_anti_tribe, target:enemy_one, tribe:human, val1:3.0, val2:1.13,  animation:damage_one_yellow04]",3
+766,"[effect:damage, target:enemy_one, color:red, val:2.25, animation:damage_one_red05]",3
+767,"[effect:damage, target:enemy_one, color:red, val:2.25, animation:damage_one_red05]",3
+768,"[effect:damage_anti_tribe, target:enemy_one, tribe:dragon, val1:3.0, val2:1.13,  animation:damage_one_green04]",3
+769,"[effect:damage_anti_tribe, target:enemy_one, tribe:dragon, val1:3.375, val2:1.31,  animation:damage_one_green05]",3

@@ -1,0 +1,67 @@
+30038001,"[effect:ability_lock, target:unit_all, turn:5],[effect:tolerance, target:myself, turn:5, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:hungup, target:unit_all, turn:5, rate:1, animation:hungup01],[effect:virus, turn:5, rate:1, val:0.3, animation:enemy_virus],[effect:fix_speed, target:enemy_all, turn:1]",3
+30038002,"[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+30038003,"[effect:enemy_message, val1:2, val2:3]",3
+30038004,"[effect:enemy_message, val1:2, val2:3]",3
+30038005,"[effect:enemy_message, val1:2, val2:3]",3
+30038006,"[effect:enemy_message, val1:2, val2:3]",3
+30038007,"[effect:sp_boost, target:unit_all, val:10, animation:sp_boost_one03],[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb, count:0, val:0]",3
+30038008,"[effect:enemy_message, val1:2, val2:3]",3
+30038009,"[effect:fix_speed, target:enemy_all, turn:2],[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:debuff, animation:frozen_wave]",3
+30038010,"[effect:heal, target:enemy_all, val:0.5, animation:enemy_heal],[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb, count:12, val:0]",3
+30038011,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:1.25, val2:0.25]",3
+30038012,"[effect:enemy_message, val1:0, val2:3]",3
+30038013,"[effect:critical, val:1.3, animation:enemy_critical]",3
+30038014,"[effect:enemy_message, val1:0, val2:3]",3
+30038015,"[effect:damage_gravity, val:0.9, animation:fevergauge_down],[effect:enhance_enemy, target:myself, turn:6, status:defense, val:50000, calc:add, animation:enemy_enhance_defense],[effect:tolerance, target:myself, turn:5, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:enemy_all, turn:1]",3
+30038016,"[effect:damage_gravity, val:0.9, animation:fevergauge_down],[effect:enhance_enemy, target:myself, turn:6, status:defense, val:50000, calc:add, animation:enemy_enhance_defense],[effect:tolerance, target:myself, turn:5, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:enemy_all, turn:1]",3
+30038017,"[effect:damage_gravity, val:0.9, animation:fevergauge_down],[effect:enhance_enemy, target:myself, turn:6, status:defense, val:50000, calc:add, animation:enemy_enhance_defense],[effect:tolerance, target:myself, turn:5, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:enemy_all, turn:1]",3
+30038018,"[effect:enemy_message, val1:2, val2:3]",3
+30038019,"[effect:enemy_message, val1:2, val2:3]",3
+30038020,"[effect:enemy_message, val1:2, val2:3]",3
+30038021,"[effect:enemy_message, val1:2, val2:3]",3
+30038022,"[effect:enemy_message, val1:2, val2:3]",3
+30038023,"[effect:enemy_message, val1:2, val2:3]",3
+30038024,"[effect:enemy_message, val1:2, val2:3]",3
+30038025,"[effect:enemy_message, val1:2, val2:3]",3
+30038026,"[effect:enemy_message, val1:2, val2:3]",3
+30038027,"[effect:enemy_message, val1:2, val2:3]",3
+30038028,"[effect:enemy_message, val1:2, val2:3]",3
+30038029,"[effect:enemy_message, val1:2, val2:3]",3
+30038030,"[effect:enemy_message, val1:2, val2:3]",3
+30038031,"[effect:enemy_message, val1:2, val2:3]",3
+30038032,"[effect:enemy_message, val1:2, val2:3]",3
+30038033,"[effect:damage_fix_absolute, target:unit_all, val:3250]",3
+30038034,"[effect:damage_fix_absolute, target:unit_all, val:2500]",3
+30038035,"[effect:damage_fix_absolute, target:unit_all, val:2000]",3
+30038036,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb, count:0, val:0]",3
+30038037,"[effect:fix_speed, target:enemy_all, turn:1],[effect:tolerance, target:myself, turn:32, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+30038038,"[effect:fix_speed, target:enemy_all, turn:1],[effect:tolerance, target:myself, turn:32, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+30038039,"[effect:fix_speed, target:enemy_all, turn:1],[effect:tolerance, target:myself, turn:32, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+30038040,"[effect:fix_speed, target:enemy_all, turn:1],[effect:tolerance, target:myself, turn:32, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+30038041,"[effect:fix_speed, target:enemy_all, turn:1],[effect:tolerance, target:myself, turn:32, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+30038042,"[effect:fix_speed, target:enemy_all, turn:1],[effect:tolerance, target:myself, turn:32, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+30038043,"[effect:fix_speed, target:enemy_all, turn:1],[effect:tolerance, target:myself, turn:32, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+30038044,"[effect:fix_speed, target:enemy_all, turn:1],[effect:tolerance, target:myself, turn:32, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+30038045,"[effect:fix_speed, target:enemy_all, turn:1],[effect:tolerance, target:myself, turn:32, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+30038046,"[effect:fix_speed, target:enemy_all, turn:1],[effect:tolerance, target:myself, turn:32, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+30038047,"[effect:fix_speed, target:enemy_all, turn:1],[effect:tolerance, target:myself, turn:32, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+30038048,"[effect:enemy_message, val1:2, val2:3]",3
+30038049,"[effect:heal, target:enemy_one, val:1, animation:enemy_heal]",3
+30038050,"[effect:enemy_message, val1:2, val2:3]",3
+30038051,"[effect:enemy_message, val1:2, val2:3]",3
+30038052,"[effect:heal, target:enemy_one, val:1, animation:enemy_heal]",3
+30038053,"[effect:enemy_message, val1:2, val2:3]",3
+30038054,"[effect:enemy_message, val1:2, val2:3]",3
+30038055,"[effect:enemy_message, val1:2, val2:3]",3
+30038056,"[effect:heal, target:enemy_one, val:1, animation:enemy_heal]",3
+30038057,"[effect:damage_fix_absolute, target:unit_all, val:1000000]",3
+30038058,"[effect:enemy_message, val1:2, val2:3]",3
+30038059,"[effect:enemy_message, val1:2, val2:3]",3
+30038062,"[effect:fix_speed, target:enemy_animal, turn:2],[effect:virus, turn:-1, rate:1, val:0.15, animation:enemy_virus],[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:16, animation:enemy_tolerance]",3
+30038063,"[effect:spread, val:0.27]",3
+30038064,"[effect:heal, target:enemy_one, val:0.55, animation:enemy_heal]",3
+30038065,"[effect:virus, turn:-1, rate:1, val:0.2, animation:enemy_virus]",3
+30038066,"[effect:damage_anti_color, target:unit_one, color:blue, val1:1.3, val2:1.5]",3
+30038067,"[effect:enemy_message, val1:2, val2:3]",3
+30038068,"[effect:ability_lock, target:unit_all, turn:5],[effect:tolerance, target:myself, turn:5, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:hungup, target:unit_all, turn:5, rate:1, animation:hungup01],[effect:virus, turn:5, rate:1, val:0.18, animation:enemy_virus],[effect:fix_speed, target:enemy_all, turn:1]",3
+30038069,"[effect:ability_lock, target:unit_all, turn:5],[effect:tolerance, target:myself, turn:5, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:hungup, target:unit_all, turn:5, rate:1, animation:hungup01],[effect:virus, turn:5, rate:1, val:0.24, animation:enemy_virus],[effect:fix_speed, target:enemy_all, turn:1]",3

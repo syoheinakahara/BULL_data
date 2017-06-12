@@ -1,0 +1,25 @@
+41001001,"[effect:rush, count:2, val:0.6]",3
+41001002,"[effect:critical, val:0.5],[effect:hungup, target:unit_one, turn:3, rate:1.0, animation:enemy_hungup]",3
+41001003,"[effect:charge, status:attack, val:3.0, animation:enemy_charge]",3
+41001004,"[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:1.2, animation:enemy_enhance_enemy]",3
+41001005,"[effect:damage_anti_color, target:unit_one, color:red, val1:2.0, val2:1.0],[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+41001006,"[effect:damage_anti_color, target:unit_one, color:yellow, val1:2.0, val2:1.0],[effect:heal, target:myself, val:0.07, animation:enemy_heal]",3
+41001007,"[effect:damage_anti_color, target:unit_one, color:green, val1:2.0, val2:1.0],[effect:freq_turn, target:myself, turn:1, val:1, animation:enemy_freq_turn]",3
+41001008,"[effect:virus, turn:-1, rate:1.0, val:0.22, animation:enemy_virus]",3
+41001009,"[effect:virus, turn:5, rate:1.0, val:0.33, animation:enemy_virus]",3
+41001010,"[effect:degrade_unit, target:unit_all, turn:-1, status:heal, val:1.0, calc:mul, animation:degrade_unit_all_heal]",3
+41001011,"[effect:damage_anti_tribe, target:unit_one, tribe:god, val1:3.0, val2:1.0]",3
+41001012,"[effect:enhance_enemy, target:enemy_all, turn:-1, status:defense, val:5000, calc:add, animation:enemy_enhance_enemy],[effect:enhance_enemy, target:enemy_all, turn:-1, status:attack, val:0.4, calc:mul, animation:enemy_enhance_enemy]",3
+41001013,"[effect:break_attack, val:0.15, lowest_val:1000, count:8, block:block_red, target:unit_one]",3
+41001014,"[effect:enhance_enemy, target:enemy_all, turn:6, status:attack, val:0.2, calc:mul, animation:enemy_enhance_enemy],[effect:enhance_enemy, target:enemy_all, turn:6, status:defense, val:2000, calc:add, animation:enemy_enhance_enemy]",3
+41001015,"[effect:degrade_unit, target:unit_all, turn:8, status:heal, val:0.5, calc:mul, animation:degrade_unit_all_heal],[effect:degrade_unit, target:unit_all, turn:8, status:action, val:4, calc:add, animation:enemy_tap_down],[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val2:3]",3
+41001115,"[effect:degrade_unit, target:unit_all, turn:-1, status:heal, val:0.5, calc:mul, animation:degrade_unit_all_heal],[effect:fix_speed, target:myself, turn:2]",3
+41001016,"[effect:enemy_message, val1:2, val2:2],[effect:degrade_unit, target:unit_all, turn:3, status:attack, val:0.8, calc:mul]",3
+41001017,"[effect:spread, val:0.25],[effect:hungup, target:unit_all, turn:1, rate:1, animation:hungup01]",3
+41001018,"[effect:critical, val:1],[effect:panel_freeze, target:block_blue, count:8]",3
+41001019,"[effect:break_attack, val:0.04, lowest_val:0.2, count:8, block:block_blue, target:unit_all]",3
+41001020,"[effect:damage_anti_tribe, target:unit_all, tribe:god, val1:6.0, val2:0.3]",3
+41001021,"[effect:enhance_enemy, target:enemy_all, turn:4, status:defense, val:20000, calc:add, animation:enemy_enhance_enemy],[effect:enhance_enemy, target:enemy_all, turn:4, status:attack, val:1, calc:mul, animation:enemy_enhance_enemy],[effect:dark, target:unit_all, turn:2, animation:enemy_dark],[effect:fix_speed, target:myself, turn:2]",3
+41001022,"[effect:virus, turn:-1, rate:1.0, val:0.25, animation:enemy_virus]",3
+41001023,"[effect:enemy_message, val1:2, val2:3]",3
+41001024,"[effect:spread, val:5]",3

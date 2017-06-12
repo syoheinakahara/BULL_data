@@ -1,0 +1,16 @@
+1004,"[effect:damage, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04]",3
+1005,"[effect:damage, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04]",3
+1006,"[effect:damage, target:enemy_one, color:red, val:0.9, animation:damage_one_red02],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal02_unit01]",3
+1007,"[effect:damage, target:enemy_one, color:red, val:0.9, animation:damage_one_red02],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal02_unit01]",3
+1008,"[effect:damage, target:enemy_one, color:green, val:2.25, animation:damage_one_green04]",3
+1009,"[effect:damage, target:enemy_one, color:green, val:2.5, animation:damage_one_green04]",3
+1010,"[effect:damage, target:enemy_one, color:blue, val:2.5, animation:damage_one_blue04]",3
+1011,"[effect:damage, target:enemy_one, color:blue, val:2.5, animation:damage_one_blue04]",3
+1012,"[effect:damage, target:enemy_one, color:red, val:2.25, animation:damage_one_red04]",3
+1013,"[effect:damage, target:enemy_one, color:red, val:2.5, animation:damage_one_red04]",3
+1014,"[effect:damage_hp, target:enemy_one, color:green, val:1.25, animation:damage_one_green04]",3
+1015,"[effect:damage_hp, target:enemy_one, color:green, val:1.25, animation:damage_one_green04]",3
+1016,"[effect:damage, target:enemy_one, color:blue, val:1.2, animation:damage_one_blue04],[effect:enhance_unit, target:unit_all, turn:2, status:heal, val:0.015, calc:mul,animation:enhance_unit_all_heal01_unit01]",3
+1017,"[effect:damage, target:enemy_one, color:blue, val:1.2, animation:damage_one_blue04],[effect:enhance_unit, target:unit_all, turn:2, status:heal, val:0.015, calc:mul,animation:enhance_unit_all_heal01_unit01]",3
+1018,"[effect:damage, target:enemy_one, color:yellow, val:0.63, animation:damage_one_yellow02],[effect:damage, target:enemy_one, color:yellow, val:0.63, animation:damage_one_yellow02]",3
+1019,"[effect:damage, target:enemy_one, color:yellow, val:1.2, animation:damage_one_yellow03],[effect:damage, target:enemy_one, color:yellow, val:1.2, animation:damage_one_yellow03]",3

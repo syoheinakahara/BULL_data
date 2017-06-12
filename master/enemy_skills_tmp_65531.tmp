@@ -1,0 +1,35 @@
+65531001,"[effect:heal, target:enemy_all, val:0.3, animation:enemy_heal]",1
+65531002,"[effect:sleep, target:unit_one/unit_one/or, turn:2, rate:0.8, calc_type:target_one, animation:sleep02]",1
+65531003,"[effect:damage_abnormal, target:unit_all, val:0.3, status:virus, turn:-1, rate:1, val_abnormal:0.1, animation:enemy_virus]",1
+65531004,"[effect:damage_gravity, val:0.5, animation:fevergauge_down]",1
+65531005,"[effect:critical, val:1.5, animation:enemy_critical]",1
+65531006,"[effect:virus, turn:-1, rate:1, val:0.3, animation:enemy_virus]",1
+65531007,"[effect:degrade_unit, target:unit_all, turn:3, status:attack, val:0.8, calc:mul]",1
+65531008,"[effect:critical, val:1.5, animation:enemy_critical]",1
+65531009,"[effect:damage_abnormal, target:unit_one, val:0.5, status:virus, turn:-1, rate:1, val_abnormal:0.1, animation:enemy_virus],[effect:damage_abnormal, target:unit_one, val:0.5, status:virus, turn:-1, rate:1, val_abnormal:0.1, animation:enemy_virus],[effect:damage_abnormal, target:unit_one, val:0.5, status:virus, turn:-1, rate:1, val_abnormal:0.1, animation:enemy_virus],[effect:damage_abnormal, target:unit_one, val:0.5, status:virus, turn:-1, rate:1, val_abnormal:0.1, animation:enemy_virus]",1
+65531010,"[effect:dis_heart, turn:2, animation:enemy_dis_heart]",1
+65531011,"[effect:rush, count:6, val:0.2]",1
+65531012,"[effect:virus, turn:-1, rate:1, val:0.4, animation:enemy_virus]",1
+65531013,"[effect:rush, count:4, val:0.4]",1
+65531100,"[effect:heal, target:enemy_all, val:0.3, animation:enemy_heal]",1
+65531110,"[effect:critical, val:1.2, animation:enemy_critical]",1
+65531120,"[effect:enhance_enemy, target:enemy_all, turn:5, status:attack, val:0.5, calc:mul, animation:enemy_enhance_attack]",1
+65531121,"[effect:enemy_counter, target:enemy_all, invoke_condition:unit_all, counter_target:attacker, turn:5, val:0.2, animation:enemy_counter]",1
+65531122,"[effect:rush, count:4, val:0.3]",1
+65531123,"[effect:rush, count:3, val:0.5]",1
+65531130,"[effect:degrade_unit, target:unit_green, turn:2, status:attack, val:0.5, calc:mul]",1
+65531131,"[effect:critical, val:1.5, animation:enemy_critical]",1
+65531132,"[effect:spread, val:0.4]",1
+65531133,"[effect:break_enchance_enemy, target:myself, val:0.15, lowest_val:0.01, count:-1, status:defense, turn:3, block01:block_heart, calc:add, animation:enemy_enhance_defense]",1
+65531134,"[effect:spread, val:0.5]",1
+65531135,"[effect:critical, val:2.0, animation:enemy_critical]",1
+65531140,"[effect:virus, turn:-1, rate:1, val:0.2, animation:enemy_virus]",1
+65531141,"[effect:kamikaze, val:5]",1
+65531150,"[effect:critical, val:2.0, animation:enemy_critical]",1
+65531160,"[effect:damage_abnormal, target:unit_one, val:0.4, status:virus, turn:-1, rate:1, val_abnormal:0.2, animation:enemy_virus],[effect:damage_abnormal, target:unit_one, val:0.4, status:virus, turn:-1, rate:1, val_abnormal:0.2, animation:enemy_virus]",1
+65531161,"[effect:critical, val:1.5, animation:enemy_critical]",1
+65531162,"[effect:heal, target:enemy_all, val:0.15, animation:enemy_heal]",1
+65531170,"[effect:damage_abnormal, target:unit_one, val:0.4, status:virus, turn:-1, rate:1, val_abnormal:0.2, animation:enemy_virus],[effect:damage_abnormal, target:unit_one, val:0.4, status:virus, turn:-1, rate:1, val_abnormal:0.2, animation:enemy_virus],[effect:damage_abnormal, target:unit_one, val:0.4, status:virus, turn:-1, rate:1, val_abnormal:0.2, animation:enemy_virus],[effect:damage_abnormal, target:unit_one, val:0.4, status:virus, turn:-1, rate:1, val_abnormal:0.2, animation:enemy_virus]",1
+65531171,"[effect:critical, val:1.5, animation:enemy_critical]",1
+65531172,"[effect:dis_heart, turn:2, animation:enemy_dis_heart]",1
+65531173,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",1

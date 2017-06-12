@@ -1,0 +1,2 @@
+1198,"[effect:damage_hp, target:enemy_one, color:blue, val:1.125, animation:damage_one_blue04]",3
+1199,"[effect:heal_ratio, val:0.18, animation:heal02_unit01],[effect:enhance_unit, target:unit_all, turn:1, status:attack, val:0.075, calc:mul, animation:enhance_unit_all_attack02]",3

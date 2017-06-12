@@ -1,0 +1,10 @@
+490,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.0, val2:1.31, animation:damage_one_green04]",3
+491,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.0, val2:1.31, animation:damage_one_green04]",3
+502,"[effect:damage, target:enemy_one, color:red, val:1.2, animation:damage_one_red03],[effect:damage, target:enemy_one, color:red, val:1.2, animation:damage_one_red03]",3
+503,"[effect:damage, target:enemy_one, color:red, val:1.2, animation:damage_one_red03],[effect:damage, target:enemy_one, color:red, val:1.2, animation:damage_one_red03]",3
+504,"[effect:damage_anti_tribe, target:enemy_one, tribe:human, val1:2.63, val2:1.13,  animation:damage_one_green03]",3
+505,"[effect:damage_anti_tribe, target:enemy_one, tribe:human, val1:2.63, val2:1.13,  animation:damage_one_green03]",3
+506,"[effect:damage, target:enemy_one, color:blue, val:0.9, animation:damage_one_blue03],[effect:enhance_unit, target:unit_all, turn:1, status:defense, val:18, calc:add,animation:enhance_unit_all_deffence02_unit01]",3
+507,"[effect:damage, target:enemy_one, color:blue, val:1.2, animation:damage_one_blue04],[effect:enhance_unit, target:unit_all, turn:1, status:defense, val:18, calc:add,animation:enhance_unit_all_deffence02_unit01]",3
+508,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:2.63, val2:0.94,  animation:damage_one_yellow04]",3
+509,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:3.375, val2:1.13,  animation:damage_one_yellow04]",3

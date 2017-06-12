@@ -1,0 +1,1 @@
+65535090,"[effect:drop_freeze, block_type:block_all, block_color:block_all, frozen_count:1, rate:0.7, turn:-1, animation:drop_protect],[effect:enemy_message, val1:1, val2:2.5]",3

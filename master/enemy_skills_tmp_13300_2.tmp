@@ -1,0 +1,18 @@
+13300220,"[effect:enemy_message, val1:0, val2:2.4]",3
+13300221,"[effect:rush, count:1, val:1],[effect:hungup, target:unit_all, turn:3, rate:1, animation:hungup01],[effect:enemy_message, val1:1.4, val2:1.9]",3
+13300222,"[effect:rush, count:1, val:1.1],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13300223,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.5, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.4, val2:1.6",3
+13300224,"[effect:spread, val:0.3],[effect:hungup, target:unit_all, turn:3, rate:1, animation:hungup01],[effect:enemy_message, val1:1.4, val2:1.9]",3
+13300225,"[effect:spread, val:0.4],[effect:enemy_message, val1:1.4, val2:1.6]",3
+13300226,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.5, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13300260,"[effect:enemy_message, val1:2, val2:0]",3
+13300261,"[effect:enemy_message, val1:2, val2:0]",3
+13300262,"[effect:rush, count:1, val:0.7],[effect:degrade_unit, target:unit_blue, turn:3, status:attack, val:0.6, calc:mul],[effect:enemy_message, val1:1.4, val2:2.3]",3
+13300263,"[effect:rush, count:2, val:0.7],[effect:enhance_enemy, target:myself, turn:2, status:defense, val:7000, calc:add, animation:enhance_unit_all_defense04],[effect:enemy_message, val1:1.4, val2:2.3]",3
+13300264,"[effect:freq_turn, target:myself, turn:4, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13300265,"[effect:rush, count:2, val:0.67],[effect:enemy_message, val1:1.4, val2:1.6]",3
+13300266,"[effect:freq_turn, target:myself, turn:4, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13300268,"[effect:rush, count:1, val:0.7],[effect:degrade_unit, target:unit_red, turn:3, status:attack, val:0.7, calc:mul],[effect:enemy_message, val1:1.4, val2:2.3]",3
+13300269,"[effect:rush, count:1, val:1.5],[effect:dark, target:unit_all, turn:3, animation:enemy_dark],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13300270,"[effect:rush, count:3, val:0.5],[effect:dark, target:unit_all, turn:3, animation:enemy_dark],[effect:enemy_message, val1:1.5 val2:1.9]",3
+13300271,"[effect:rush, count:2, val:0.52],[effect:enemy_message, val1:1.4, val2:1.6]",3

@@ -1,0 +1,8 @@
+1092,"[effect:damage, target:enemy_one, color:green, val:2.25, animation:damage_one_green04]",3
+1409,"[effect:damage_heal, target:enemy_all, color:green, val:1.25, animation:damage_all_green04]",3
+1410,"[effect:damage_heal, target:enemy_all, color:green, val:1.96, animation:damage_all_green04]",3
+1407,"[effect:damage, target:enemy_one, color:yellow, val:2, animation:damage_one_yellow03]",3
+1408,"[effect:damage, target:enemy_one, color:yellow, val:2.25, animation:damage_one_yellow04]",3
+1411,"[effect:damage, target:enemy_one, color:blue, val:1.2, animation:damage_one_blue03],[effect:damage, target:enemy_one, color:blue, val:1.2, animation:damage_one_blue03],[effect:enhance_unit, target:unit_blue, turn:1, status:attack, val:0.06, calc:mul, animation:enhance_unit_all_attack01_unit01]",3
+1412,"[effect:damage_anti_color, target:enemy_all, color:blue, val1:1.68, val2:0.75, animation:damage_all_yellow04]",3
+1413,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.75, val2:1.5, animation:damage_one_green04]",3

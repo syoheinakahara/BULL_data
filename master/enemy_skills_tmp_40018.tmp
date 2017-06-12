@@ -1,0 +1,52 @@
+40018001,"[effect:freq_turn, target:enemy_all, turn:6, val:2, animation:enemy_freq_turn]",3
+40018002,"[effect:spread, val:0.3]",3
+40018003,"[effect:rush, count:5, val:0.2]",3
+40018004,"[effect:hungup, target:enemy_all, turn:-1, rate:1, animation:hungup01]",3
+40018005,"[effect:spread, val:0.3],[effect:spread, val:0.2]",3
+40018006,"[effect:freq_turn, target:myself, turn:1, val:1, animation:enemy_freq_turn]",3
+40018007,"[effect:damage_anti_color, target:unit_all, color:green, val1:1.0, val2:0.2]",3
+40018008,"[effect:freq_turn, target:myself, turn:1, val:1, animation:enemy_freq_turn]",3
+40018009,"[effect:damage_anti_color, target:unit_all, color:red, val1:1.0, val2:0.2]",3
+40018010,"[effect:freq_turn, target:myself, turn:1, val:1, animation:enemy_freq_turn]",3
+40018011,"[effect:damage_anti_color, target:unit_all, color:blue, val1:1.0, val2:0.2]",3
+40018012,"[effect:enhance_enemy, target:myself, turn:3, status:defense, val:5000, calc:add, animation:enemy_enhance_defense]",3
+40018013,"[effect:spread, val:0.3]",3
+40018014,"[effect:charge, status:attack, val:1.5]",3
+40018015,"[effect:force_change_block, new_block:jammer, target:block_red, count:5, val:0, animation:change_block]",3
+40018016,"[effect:fix_speed, target:myself, turn:2]",3
+40018017,"[effect:spread, val:0.25],[effect:spread, val:0.2]",3
+40018018,"[effect:break_attack_fix, val:150, lowest_val:2800, count:-1, block:block_red, target:unit_all]",3
+40018019,"[effect:change_panel_ratio, turn:20, block_type:heal, val:0.3, animation:block_incidence04],[effect:enhance_unit, target:unit_all, turn:20, status:heal, val:0.1, calc:mul]",3
+40018020,"[effect:force_change_block, new_block:block_blue, target:block_red, count:0, val:0, animation:change_block]",3
+40018021,"[effect:spread, val:0.5]",3
+40018022,"[effect:change_panel_ratio, turn:20, block_type:red, val:0.3, animation:block_incidence04],[effect:change_panel_ratio, turn:20, block_type:yellow, val:0.1, animation:block_incidence04]",3
+40018023,"[effect:freq_turn, target:myself, turn:2, val:1, animation:enemy_freq_turn]",3
+40018024,"[effect:enhance_enemy, target:enemy_all, turn:5, status:defense, val:3000, calc:add, animation:enemy_enhance_defense]",3
+40018025,"[effect:break_attack_fix, val:175, lowest_val:3500, count:-1, block:block_green, target:unit_all]",3
+40018026,"[effect:fix_speed, target:myself, turn:1]",3
+40018027,"[effect:nothing]",3
+40018028,"[effect:nothing]",3
+40018029,"[effect:degrade_unit, target:unit_all, turn:4, status:defense, val:0.3, calc:mul],[effect:force_change_block, new_block:block_heart, target:block_yellow, count:0, val:0, animation:change_block]",3
+40018030,"[effect:break_attack_fix, val:150, lowest_val:3000, count:-1, block:block_red, target:unit_all]",3
+40018031,"[effect:break_attack_fix, val:175, lowest_val:4000, count:-1, block:block_green, target:unit_all]",3
+40018032,"[effect:break_attack_fix, val:100, lowest_val:2000, count:-1, block:block_blue, target:unit_all]",3
+40018033,"[effect:virus, turn:20, target:unit_all, rate:1, val:0.04, animation:enemy_virus]",3
+40018034,"[effect:break_attack_fix, val:100, lowest_val:2000, count:-1, block:block_blue, target:unit_all]",3
+40018035,"[effect:nothing]",3
+40018036,"[effect:nothing]",3
+40018037,"[effect:rush, count:2, val:0.5]",3
+40018038,"[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, count:8, val:0.2, min_time_count:3, max_time_count:7],[effect:spread, val:0.5]",3
+40018039,"[effect:break_attack_fix, val:100, lowest_val:3500, count:10, block:crash, target:unit_all]",3
+40018040,"[effect:fix_speed, target:myself, turn:1]",3
+40018041,"[effect:rush, count:30, val:0.083]",3
+40018042,"[effect:nothing]",3
+40018043,"[effect:nothing]",3
+40018044,"[effect:invalidate_change_block, target:unit_all, block_type01:block_all, turn:4, animation:panel_conversion_off],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40018045,"[effect:invalidate_change_block, target:unit_all, block_type01:block_all, turn:4, animation:panel_conversion_off],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40018046,"[effect:spread, val:0.3] ,[effect:spread, val:0.2]",3
+40018047,"[effect:fix_speed, target:myself, turn:1],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:5000, calc:add, animation:enemy_enhance_defense]",3
+40018048,"[effect:fix_speed, target:myself, turn:3]",3
+40018049,"[effect:fix_speed, target:myself, turn:1],[effect:damage_fix_absolute, target:unit_all, val:998001]",3
+40018050,"[effect:enemy_message, val1:2, val2:2]",3
+40018051,"[effect:virus, turn:20, target:unit_all, rate:1, val:0.04, animation:enemy_virus]",3
+40018052,"[effect:degrade_unit, target:unit_all, turn:4, status:defense, val:0.3, calc:mul],[effect:force_change_block, new_block:block_heart, target:block_yellow, count:0, val:0, animation:change_block]",3

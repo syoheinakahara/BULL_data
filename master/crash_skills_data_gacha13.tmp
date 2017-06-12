@@ -1,0 +1,11 @@
+596,"[effect:damage_anti_tribe, target:enemy_one, tribe:god, val1:2.63, val2:1.31,  animation:damage_one_red03]",3
+597,"[effect:damage_anti_tribe, target:enemy_one, tribe:god, val1:2.63, val2:1.31,  animation:damage_one_red03]",3
+598,"[effect:damage_anti_tribe, target:enemy_one, tribe:god, val1:3.0, val2:1.5,  animation:damage_one_red03]",3
+599,"[effect:damage, target:enemy_one, color:green, val:1.75, animation:damage_one_green03]",3
+600,"[effect:damage, target:enemy_one, color:green, val:1.75, animation:damage_one_green03]",3
+601,"[effect:damage, target:enemy_one, color:green, val:2.0, animation:damage_one_green03]",3
+602,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:3.0, val2:0.94, animation:damage_one_blue04],[effect:enhance_unit, target:unit_all, turn:2, status:heal, val:0.015, calc:mul,animation:enhance_unit_all_heal01_unit01]",3
+603,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:3.0, val2:0.94, animation:damage_one_blue04],[effect:enhance_unit, target:unit_all, turn:2, status:heal, val:0.015, calc:mul,animation:enhance_unit_all_heal01_unit01]",3
+604,"[effect:damage_anti_tribe, target:enemy_one, tribe:machine, val1:3.0, val2:0.94, animation:damage_one_yellow04],[effect:heal_ratio, val:0.2, animation:heal_unit, animation:heal03_unit01]",3
+605,"[effect:damage_anti_tribe, target:enemy_one, tribe:machine, val1:3.0, val2:0.94, animation:damage_one_yellow04],[effect:heal_ratio, val:0.2, animation:heal_unit, animation:heal03_unit01]",3
+606,"[effect:damage_anti_tribe, target:enemy_one, tribe:machine, val1:3.0, val2:0.94, animation:damage_one_yellow04],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal03_unit01]",3

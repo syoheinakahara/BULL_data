@@ -1,0 +1,1 @@
+568,9,5,2001,"[effect:force_change_block, new_block:block_yellow, target:time_bomb, count:0, val:0, animation:change_block],[effect:force_change_block, new_block:crash, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:color_break, ignore04:time_bomb, count:3, val:6, animation:change_block]",3

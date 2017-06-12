@@ -1,0 +1,30 @@
+40032001,"[effect:enhance_enemy, target:enemy_all, turn:-1, status:defense, val:1500, calc:add, animation:enemy_enhance_defense]",3
+40032002,"[effect:critical, val:1.5, animation:enemy_critical]",3
+40032003,"[effect:damage_abnormal, target:unit_one, val:1, status:hungup, turn:3, animation:hungup01]",3
+40032004,"[effect:panel_freeze, target:block_heart, count:-1]",3
+40032005,"[effect:damage_abnormal, target:unit_one, val:1, status:hungup, turn:3, animation:hungup01]",3
+40032006,"[effect:panel_freeze, target:block_heart, count:-1]",3
+40032007,"[effect:virus, turn:2, rate:1, val:0.1, animation:enemy_virus]",3
+40032008,"[effect:spread, val:0.3]",3
+40032009,"[effect:damage_abnormal, target:unit_one, val:1, status:hungup, turn:3, animation:hungup01]",3
+40032010,"[effect:damage_abnormal, target:unit_one, val:1, status:hungup, turn:5, animation:hungup01]",3
+40032011,"[effect:enemy_message, val1:1.5],[effect:fix_speed, target:myself, turn:2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+40032012,"[effect:enemy_message, val1:1.8],[effect:fix_speed, target:myself, turn:2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+40032013,"[effect:fix_speed, target:myself, turn:2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+40032014,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:0, animation:change_block]",3
+40032015,"[effect:enemy_message, val2:2.5],[effect:damage_anti_color, target:unit_one, color:yellow, val1:1, val2:0.5],[effect:damage_anti_color, target:unit_one, color:blue, val1:1, val2:0.5]",3
+40032016,"[effect:enemy_message, val2:2.5],[effect:break_attack_fix, target:unit_one, val:700, lowest_val:4000, count:6, color:green, block01:jammer]",3
+40032017,"[effect:enemy_message, val1:1.8],[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+40032018,"[effect:enemy_message, val1:1.5],[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+40032019,"[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+40032020,"[effect:enemy_message, val2:3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block],[effect:damage_anti_color, target:unit_one, color:yellow, val1:1, val2:0.5],[effect:damage_anti_color, target:unit_one, color:blue, val1:1, val2:0.5]",3
+40032021,"[effect:enemy_message, val2:2.5],[effect:break_attack_fix, target:unit_one, val:4000, lowest_val:4000, count:2, color:yellow, block01:jammer]",3
+40032022,"[effect:enemy_message, val1:1.5],[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+40032023,"[effect:enemy_message, val1:1.8],[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+40032024,"[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+40032025,"[effect:enemy_message, val2:3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block],[effect:damage_anti_color, target:unit_one, color:yellow, val1:1, val2:0.5],[effect:damage_anti_color, target:unit_one, color:blue, val1:1, val2:0.5]",3
+40032026,"[effect:enemy_message, val2:2.5],[effect:hungup, target:unit_one, turn:1, rate:1, animation:hungup01],[effect:break_attack_fix, target:unit_all, val:500, lowest_val:2000, count:-1, color:yellow, block01:jammer]",3
+40032027,"[effect:enemy_message, val2:2.5],[effect:hungup, target:unit_one, turn:1, rate:1, animation:hungup01],[effect:break_attack_fix, target:unit_all, val:1000, lowest_val:2000, count:-1, color:yellow, block01:jammer]",3
+40032028,"[effect:enemy_message, val2:2.5],[effect:hungup, target:unit_one, turn:1, rate:1, animation:hungup01],[effect:break_attack_fix, target:unit_all, val:2000, lowest_val:2000, count:-1, color:yellow, block01:jammer]",3
+40032029,"[effect:enemy_message, val1:1.5, val2:2]",3
+40032030,"[effect:enemy_message, val1:1.5, val2:2]",3

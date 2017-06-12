@@ -1,0 +1,85 @@
+48702100,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:2, val:0.8]",1
+48702101,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:enhance_enemy, target:myself, turn:5, status:attack, val:0.5, calc:mul, animation:enemy_enhance_attack]",1
+48702102,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702103,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702104,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702105,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.3]",1
+48702106,"[effect:enemy_message, val1:1.2, val2:2.3],[effect:spread, val:0.3],[effect:change_bomb_range, target:unit_all, val:0.7, rate:1, turn:5, animation:bomb_small]",1
+48702107,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",1
+48702108,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702109,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702110,"[effect:enemy_message, val1:1.8, val2:1.6],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:virus, target:unit_all, turn:5, rate:1, val:0.05, animation:enemy_virus],[effect:fix_speed, target:myself, turn:1]",1
+48702111,"[effect:enemy_message, val1:1.8, val2:1.2],[effect:enhance_enemy, target:myself, turn:4, status:defense, val:6000, calc:add, animation:enemy_enhance_defense]",1
+48702112,"[effect:enemy_message, val1:1.2, val2:2.4],[effect:force_change_block, new_block:damage, target:normal, ignore01:block_negative, count:8, val:0.1],[effect:rush, count:1, val:1]",1
+48702113,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:break_attack, target:unit_all, val:0.04, lowest_val:1500, count:-1, color:red, block01:damage]",1
+48702114,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:force_change_block, new_block:jammer, target:normal, ignore01:block_negative, count:12, val:0]",1
+48702115,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:enhance_enemy, target:myself, turn:5, status:attack, val:0.5, calc:mul, animation:enemy_enhance_attack]",1
+48702116,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702117,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702118,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702119,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702120,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:virus, target:unit_all, turn:5, rate:1, val:0.05, animation:enemy_virus],[effect:fix_speed, target:myself, turn:1]",1
+48702121,"[effect:enemy_message, val1:1.2, val2:2.4],[effect:force_change_block, new_block:damage, target:normal, ignore01:block_negative, count:8, val:0.15],[effect:rush, count:1, val:1]",1
+48702122,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:break_attack, target:unit_all, val:0.04, lowest_val:1500, count:-1, color:red, block01:damage]",1
+48702123,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:damage_abnormal, target:unit_one, val:1, status:attack, turn:3, val_abnormal:0.6, calc:mul, animation:attack_break01]",1
+48702124,"[effect:enemy_message, val1:1.2, val2:3.1],[effect:force_change_block, new_block:jammer, target:normal, ignore01:block_negative, count:15, val:0],[effect:suicide, target:myself, val:1, dead_type:suicide, animation:enemy_suicide]",1
+48702125,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702126,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702127,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702128,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702129,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702130,"[effect:enemy_message, val1:1.2, val2:3.6],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:drop_block, block_type:damage, block_color:block_blue, color:block_heart, val:0.15, rate:0.3, turn:10, animation:damage_influence04],[effect:fix_speed, target:myself, turn:2]",1
+48702131,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:force_change_block, new_block:damage, target:normal, ignore01:block_negative, count:4, val:0.15]",1
+48702132,"[effect:enemy_message, val1:1.7, val2:1.6],[effect:break_attack, target:unit_all, val:0.15, lowest_val:1500, count:-1, color:red, block01:damage]",1
+48702133,"[effect:enemy_message, val1:1.2, val2:1.3],[effect:damage_gravity, val:0.2, animation:fevergauge_down]",1
+48702134,"[effect:enemy_message, val1:1.2, val2:1.6]",1
+48702135,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:10],[effect:spread, val:10],[effect:spread, val:10],[effect:spread, val:10]",1
+48702136,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702137,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702138,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702139,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702140,"[effect:enemy_message, val1:1.5, val2:2.5],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:degrade_unit, target:unit_all, turn:5, status:heal, val:0.8, calc:mul],[effect:fix_speed, target:myself, turn:1]",1
+48702141,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:force_change_block, new_block:damage, target:normal, ignore01:block_negative, count:8, val:0.15]",1
+48702142,"[effect:enemy_message, val1:1.7, val2:1.6],[effect:break_attack, target:unit_all, val:0.05, lowest_val:1500, count:-1, color:red, block01:damage]",1
+48702143,"[effect:enemy_message, val1:1.2, val2:1.7],[effect:spread, val:0.2]",1
+48702144,"[effect:enemy_message, val1:1.2, val2:1.7],[effect:spread, val:0.3]",1
+48702145,"[effect:enemy_message, val1:1.2, val2:1.7],[effect:spread, val:0.4]",1
+48702146,"[effect:enemy_message, val1:1.2, val2:1.6]",1
+48702147,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:10],[effect:spread, val:10],[effect:spread, val:10],[effect:spread, val:10]",1
+48702148,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702149,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702150,"[effect:enemy_message, val1:2.0, val2:1.7],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:enhance_enemy, target:myself, turn:4, status:defense, val:5000, calc:add, animation:enemy_enhance_defense],[effect:fix_speed, target:myself, turn:1]",1
+48702151,"[effect:enemy_message, val1:1.7, val2:1.7],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:enhance_enemy, target:myself, turn:4, status:defense, val:5000, calc:add, animation:enemy_enhance_defense],[effect:fix_speed, target:myself, turn:1]",1
+48702152,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:break_attack, target:unit_all, val:0.04, lowest_val:1500, count:8, color:red, block01:normal]",1
+48702153,"[effect:enemy_message, val1:1.8, val2:3.2],[effect:guard_break, target:myself, turn:-1, val:999999, calc:add, animation:guard_break01],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:force_change_block, new_block:block_red, target:normal, count:20, val:0, animation:change_block]",1
+48702154,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_color, target:unit_one, color:green, val1:0.7, val2:0.5],[effect:damage_anti_color, target:unit_one, color:green, val1:0.7, val2:0.5]",1
+48702155,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_color, target:unit_one, color:yellow, val1:0.7, val2:0.5],[effect:damage_anti_color, target:unit_one, color:yellow, val1:0.7, val2:0.5]",1
+48702156,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_color, target:unit_one, color:red, val1:0.7, val2:0.5],[effect:damage_anti_color, target:unit_one, color:red, val1:0.7, val2:0.5]",1
+48702157,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702158,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702159,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702160,"[effect:enemy_message, val1:1.5, val2:1.2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",1
+48702161,"[effect:enemy_message, val1:1.3, val2:2.3],[effect:rush, count:1, val:1],[effect:force_change_block, new_block:jammer, target:normal, ignore01:block_negative, count:8, val:0]",1
+48702162,"[effect:enemy_message, val1:1.2, val2:1.7],[effect:break_attack, target:unit_all, val:0.04, lowest_val:1500, count:8, color:red, block01:jammer]",1
+48702163,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_color, target:unit_one, color:green, val1:0.7, val2:0.5],[effect:damage_anti_color, target:unit_one, color:green, val1:0.7, val2:0.5]",1
+48702164,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_color, target:unit_one, color:yellow, val1:0.7, val2:0.5],[effect:damage_anti_color, target:unit_one, color:yellow, val1:0.7, val2:0.5]",1
+48702165,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_color, target:unit_one, color:red, val1:0.7, val2:0.5],[effect:damage_anti_color, target:unit_one, color:red, val1:0.7, val2:0.5]",1
+48702166,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:damage_abnormal, target:unit_all, val:1, status:dark, turn:1, animation:enemy_dark]",1
+48702167,"[effect:enemy_message, val1:1.5, val2:1.6]",1
+48702168,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:10],[effect:spread, val:10],[effect:spread, val:10],[effect:spread, val:10]",1
+48702169,"[effect:enemy_message, val1:1.2, val2:1.2]",1
+48702170,"[effect:enemy_message, val1:1.2, val2:1.4],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:virus, target:unit_all, turn:-1, rate:1, val:0.05, animation:enemy_virus],[effect:fix_speed, target:myself, turn:1]",1
+48702171,"[effect:enemy_message, val1:1.7, val2:2.4],[effect:rush, count:1, val:1],[effect:force_change_block, new_block:damage, target:normal, ignore01:block_negative, count:8, val:0.1]",1
+48702172,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:break_attack, target:unit_all, val:0.04, lowest_val:1500, count:-1, color:red, block01:damage]",1
+48702173,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_color, target:unit_one, color:green, val1:0.5, val2:0.3],[effect:damage_anti_color, target:unit_one, color:green, val1:0.5, val2:0.3],[effect:damage_anti_color, target:unit_one, color:green, val1:0.5, val2:0.3]",1
+48702174,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_color, target:unit_one, color:yellow, val1:0.5, val2:0.3],[effect:damage_anti_color, target:unit_one, color:yellow, val1:0.5, val2:0.3],[effect:damage_anti_color, target:unit_one, color:yellow, val1:0.5, val2:0.3]",1
+48702175,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_color, target:unit_one, color:red, val1:0.5, val2:0.3],[effect:damage_anti_color, target:unit_one, color:red, val1:0.5, val2:0.3],[effect:damage_anti_color, target:unit_one, color:red, val1:0.5, val2:0.3]",1
+48702176,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_color, target:unit_one, color:green, val1:0.5, val2:0.3],[effect:damage_anti_color, target:unit_one, color:green, val1:0.5, val2:0.3],[effect:damage_anti_color, target:unit_one, color:green, val1:0.5, val2:0.3],[effect:damage_anti_color, target:unit_one, color:green, val1:0.5, val2:0.3]",1
+48702177,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_color, target:unit_one, color:yellow, val1:0.5, val2:0.3],[effect:damage_anti_color, target:unit_one, color:yellow, val1:0.5, val2:0.3],[effect:damage_anti_color, target:unit_one, color:yellow, val1:0.5, val2:0.3],[effect:damage_anti_color, target:unit_one, color:yellow, val1:0.5, val2:0.3]",1
+48702178,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_color, target:unit_one, color:blue, val1:0.8, val2:0.5],[effect:damage_anti_color, target:unit_one, color:blue, val1:0.8, val2:0.5]",1
+48702179,"[effect:enemy_message, val1:1.6, val2:3.3],[effect:force_change_block, new_block:block_red, target:normal, count:20, val:0, animation:change_block]",1
+48702180,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:10],[effect:spread, val:10],[effect:spread, val:10],[effect:spread, val:10]",1
+48702181,"[effect:enemy_message, val1:1.7, val2:2.1, dead_type:escape]",1
+48702182,"[effect:enemy_message, val1:1.7, val2:1.8, dead_type:escape]",1
+48702183,"[effect:enemy_message, val1:1.7, val2:1.8, dead_type:escape]",1
+48702184,"[effect:enemy_message, val1:1.2, val2:1.2]",1

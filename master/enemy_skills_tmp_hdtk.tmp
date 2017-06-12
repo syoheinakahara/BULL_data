@@ -1,0 +1,4 @@
+900013201,"[effect:enemy_message, val1:2.3, val2:2.5, dead_type:escape]",1
+900013202,"[effect:enemy_message, val1:2.0, val2:0, dead_type:escape]",1
+900023101,"[effect:enemy_message, val1:2.2, val2:0, dead_type:escape],[effect:set_background, turn:-1, background_id:965, switching_mode:cross_fade, duration:1.0]",1
+900023102,"[effect:enemy_message, val1:2.7, val2:0, dead_type:escape]",1

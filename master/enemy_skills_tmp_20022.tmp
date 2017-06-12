@@ -1,0 +1,15 @@
+200221100,"[effect:nothing]",3
+200221200,"[effect:heal, target:myself, val:1.0, animation:enemy_heal]",3
+200221201,"[effect:fix_speed, target:myself, turn:1]",3
+200221210,"[effect:nothing]",3
+200221300,"[effect:nothing]",3
+200221309,"[effect:kamikaze, val:0]",3
+200221310,"[effect:spread, val:0.5]",3
+200221311,"[effect:fix_speed, target:myself, turn:1]",3
+200221320,"[effect:rush, count:1, val:1]",3
+200221400,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:3, val:1, animation:enemy_counter]",3
+200221410,"[effect:rush, count:1, val:1]",3
+200221500,"[effect:rush, count:3, val:0.33]",3
+200221510,"[effect:critical, val:1]",3
+200221520,"[effect:nothing]",3
+200221530,"[effect:nothing]",3

@@ -1,0 +1,59 @@
+40031100,"[effect:fix_speed, target:myself, turn:1],[effect:enhance_enemy, target:myself, turn:3, status:defense, val:1500, calc:add, animation:enemy_enhance_defense]",3
+40031101,"[effect:spread, val:0.25],[effect:virus, turn:1, rate:1, val:0.8, animation:enemy_virus]",3
+40031102,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+40031105,"[effect:fix_speed, target:myself, turn:2],[effect:force_change_block, new_block:block_red, target:block_green, count:5, val:0, no_effect_msg:no_effect_msg_change_block_jammer, animation:change_block]",3
+40031104,"[effect:spread, val:0.26]",3
+40031103,"[effect:fix_speed, target:myself, turn:1],[effect:virus, turn:2, rate:1, val:0.8, animation:enemy_virus]",3
+40031106,"[effect:spread, val:0.26]",3
+40031107,"[effect:damage_anti_color, target:unit_all, color:red, val1:0.3, val2:0.4]",3
+40031108,"[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+40031109,"[effect:enhance_enemy, target:myself, turn:3, status:defense, val:3000, calc:add, animation:enemy_enhance_defense]",3
+40031110,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.1, calc:mul, animation:enemy_enhance_attack]",3
+40031111,"[effect:degrade_unit, target:unit_all, turn:3, status:attack, val:0.3, calc:mul],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.15, calc:mul, animation:enemy_enhance_attack]",3
+40031112,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.2, calc:mul, animation:enemy_enhance_attack]",3
+40031113,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.25, calc:mul, animation:enemy_enhance_attack]",3
+40031114,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.3, calc:mul, animation:enemy_enhance_attack]",3
+40031116,"[effect:fix_speed, target:myself, turn:2],[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+40031117,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.2, calc:mul, animation:enemy_enhance_attack]",3
+40031118,"[effect:fix_speed, target:myself, turn:1],[effect:virus, turn:8, rate:1, val:0.7, animation:enemy_virus]",3
+40031119,"[effect:rush, count:5, val:0.23]",3
+40031120,"[effect:dis_panel, target:block_blue, turn:2, animation:enemy_dis_blue],[effect:force_change_block, new_block:block_blue, target:block_all, count:0, val:0, no_effect_msg:no_effect_msg_change_block_jammer, animation:change_block]",3
+40031121,"[effect:critical, val:2.4]",3
+40031123,"[effect:fix_speed, target:myself, turn:2],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:-1, val:0.05, animation:enemy_counter],[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+40031124,"[effect:spread, val:0.26],[effect:virus, turn:-1, rate:1, val:0.6, animation:enemy_virus]",3
+40031125,"[effect:spread, val:0.26],[effect:virus, turn:-1, rate:1, val:0.7, animation:enemy_virus]",3
+40031126,"[effect:spread, val:0.26],[effect:virus, turn:-1, rate:1, val:0.75, animation:enemy_virus]",3
+40031127,"[effect:critical, val:2],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+40031128,"[effect:damage_anti_tribe, target:unit_one, tribe:animal, val1:1.2, val2:1]",3
+40031129,"[effect:degrade_unit, target:unit_all, turn:5, status:attack, val:0.5, calc:mul],[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+40031130,"[effect:spread, val:0.26],[effect:virus, turn:-1, rate:1, val:0.6, animation:enemy_virus]",3
+40031131,"[effect:spread, val:0.26],[effect:virus, turn:-1, rate:1, val:0.7, animation:enemy_virus]",3
+40031132,"[effect:spread, val:0.26],[effect:virus, turn:-1, rate:1, val:0.75, animation:enemy_virus]",3
+40031133,"[effect:damage_anti_color, target:unit_all, color:blue, val1:0.4, val2:0.25]",3
+40031134,"[effect:break_heal_ratio, target:myself, val:0.05, lowest_val:5000, count:-1, block_color:block_heart, block01:block_heart, animation:enemy_heal]",3
+40031135,"[effect:critical, val:2]",3
+40031136,"[effect:enemy_message, val1:1.5],[effect:degrade_fever, val:1000, animation:fevergauge_down],[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+40031137,"[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_red, count:3, val:0.1, animation:change_block],[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_blue, count:3, val:0.1, animation:change_block],[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_yellow, count:3, val:0.1, animation:change_block],[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_green, count:3, val:0.1, animation:change_block],[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_heart, count:3, val:0.1, animation:change_block]",3
+40031138,"[effect:dis_panel, target:block_yellow, turn:1, animation:enemy_dis_yellow],[effect:critical, val:2]",3
+40031139,"[effect:dis_panel, target:block_blue, turn:1, animation:enemy_dis_blue],[effect:critical, val:2]",3
+40031140,"[effect:dis_heart, turn:1, animation:enemy_dis_heart]",3
+40031141,"[effect:critical, val:1]",3
+40031142,"[effect:critical, val:2.5]",3
+40031144,"[effect:fix_speed, target:myself, turn:2],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:-1, val:0.05, animation:enemy_counter],[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+40031145,"[effect:fix_speed, target:myself, turn:2],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:-1, val:0.05, animation:enemy_counter],[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+40031147,"[effect:spread, val:0.4]",3
+40031148,"[effect:critical, val:1.5]",3
+40031149,"[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_red, count:6, val:0.2, min_time_count:2, max_time_count:2, animation:change_block]",3
+40031150,"[effect:critical, val:2]",3
+40031151,"[effect:rush, count:8, val:0.15]",3
+40031152,"[effect:spread, val:0.25],[effect:virus, turn:3, rate:1, val:0.1, animation:enemy_virus]",3
+40031153,"[effect:fix_speed, target:myself, turn:1],[effect:virus, turn:3, rate:1, val:0.1, animation:enemy_virus]",3
+40031154,"[effect:fix_speed, target:myself, turn:1],[effect:virus, turn:8, rate:1, val:0.12, animation:enemy_virus]",3
+40031155,"[effect:spread, val:0.26],[effect:virus, turn:-1, rate:1, val:0.13, animation:enemy_virus]",3
+40031156,"[effect:spread, val:0.26],[effect:virus, turn:-1, rate:1, val:0.14, animation:enemy_virus]",3
+40031157,"[effect:spread, val:0.26],[effect:virus, turn:-1, rate:1, val:0.15, animation:enemy_virus]",3
+40031158,"[effect:spread, val:0.26],[effect:virus, turn:-1, rate:1, val:0.16, animation:enemy_virus]",3
+40031159,"[effect:spread, val:0.26],[effect:virus, turn:-1, rate:1, val:0.17, animation:enemy_virus]",3
+40031160,"[effect:spread, val:0.26],[effect:virus, turn:-1, rate:1, val:0.18, animation:enemy_virus]",3
+40031161,"[effect:enemy_message, val1:1.5],[effect:degrade_fever, val:500, animation:fevergauge_down],[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+40031162,"[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_red, count:2, val:0.1, animation:change_block],[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_blue, count:2, val:0.1, animation:change_block],[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_yellow, count:2, val:0.1, animation:change_block],[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_green, count:2, val:0.1, animation:change_block],[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:block_positive, ignore02:block_negative, color:block_heart, count:2, val:0.1, animation:change_block]",3

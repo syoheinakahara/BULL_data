@@ -1,0 +1,23 @@
+39004001,"[effect:hungup, target:unit_all, turn:1, rate:0.3, animation:hungup01]",3
+39004002,"[effect:freq_turn, target:myself, turn:3, val:1, animation:enemy_freq_turn]",3
+39004003,"[effect:nothing]",3
+39004004,"[effect:nothing]",3
+39004005,"[effect:heal, target:enemy_all, val:0.2, animation:enemy_heal]",3
+39004006,"[effect:enemy_message, val1:3, val2:3, dead_type:escape]",3
+39004007,"[effect:enhance_enemy, target:enemy_all, turn:2, status:defense, val:1000, calc:add, animation:enemy_enhance_defense]",3
+39004008,"[effect:spread, val:0.3]",3
+39004009,"[effect:rush, count:2, val:0.4]",3
+39004010,"[effect:critical, val:0.8]",3
+39004011,"[effect:enhance_enemy, target:enemy_all, turn:2, status:attack, val:0.8, calc:mul, animation:enemy_enhance_attack]",3
+39004012,"[effect:panel_freeze, target:block_heart, count:3]",3
+39004013,"[effect:panel_freeze, target:block_heart, count:30]",3
+39004014,"[effect:force_change_block, new_block:block_heart, target:block_green, count:0, val:0, animation:change_block]",3
+39004015,"[effect:spread, val:0.3]",3
+39004016,"[effect:force_change_block, new_block:block_heart, target:block_green, count:0, val:0, animation:change_block]",3
+39004017,"[effect:break_attack, val:0.04, lowest_val:1000, count:-1, block:block_heart, target:unit_all]",3
+39004018,"[effect:force_change_block, new_block:block_yellow, target:block_heart, count:0, val:0, animation:change_block]",3
+39004019,"[effect:force_change_block, new_block:time_bomb, target:block_all, ignore:crack_bomb, ignore02:time_bomb, count:4, val:0.2, min_time_count:3, max_time_count:5, animation:change_block]",3
+39004020,"[effect:rush, count:7, val:0.2]",3
+39004021,"[effect:nothing]",3
+39004022,"[effect:heal, target:enemy_all, val:0.5, animation:enemy_heal]",3
+39004023,"[effect:enemy_message, val1:3, val2:3, dead_type:escape]",3

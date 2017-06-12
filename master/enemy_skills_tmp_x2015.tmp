@@ -1,0 +1,65 @@
+112141100,"[effect:hungup, target:unit_all, turn:-1, rate:1]",3
+112141101,"[effect:nothing]",3
+112141200,"[effect:fix_speed, target:myself, turn:1]",3
+112141201,"[effect:nothing]",3
+112141202,"[effect:nothing]",3
+112141203,"[effect:nothing]",3
+112141210,"[effect:kamikaze, val:0]",3
+112141211,"[effect:nothing]",3
+112141300,"[effect:fix_speed, target:myself, turn:1][effect:enhance_enemy, target:myself, turn:-1, status:defense, val:65335, calc:add]",3
+112141301,"[effect:nothing]",3
+112141308,"[effect:kamikaze, val:0]",3
+112141309,"[effect:kamikaze, val:0]",3
+112141321,"[effect:nothing]",3
+112141310,"[effect:fix_speed, target:myself, turn:1]",3
+112141311,"[effect:nothing]",3
+112141318,"[effect:kamikaze, val:0]",3
+112141319,"[effect:kamikaze, val:0][effect:sleep, target:unit_all, turn:1, rate:1]",3
+112141400,"[effect:fix_speed, target:myself, turn:1][effect:enhance_enemy, target:myself, turn:-1, status:defense, val:65335, calc:add]",3
+112141401,"[effect:nothing]",3
+112141408,"[effect:kamikaze, val:0]",3
+112141409,"[effect:kamikaze, val:0]",3
+112141410,"[effect:fix_speed, target:myself, turn:1]",3
+112141411,"[effect:nothing]",3
+112141418,"[effect:kamikaze, val:0]",3
+112141419,"[effect:kamikaze, val:0][effect:sleep, target:unit_all, turn:1, rate:1]",3
+112141500,"[effect:fix_speed, target:myself, turn:1][effect:dark, target:unit_all, turn:-1]",3
+112141501,"[effect:dis_panel, target:block_heart, turn:-1, animation:enemy_dis_heart]",3
+112141502,"[effect:fix_speed, target:myself, turn:1][effect:force_change_block, new_block:crack_bomb, target:block_heart, color:block_red, count:0, val:0]",3
+112141508,"[effect:nothing]",3
+112141509,"[effect:kamikaze, val:0]",3
+112142100,"[effect:kamikaze, val:0][effect:sleep, target:unit_all, turn:1, rate:1][effect:hungup, target:unit_all, turn:-1, rate:1]",3
+112142200,"[effect:kamikaze, val:0]",3
+112142201,"[effect:kamikaze, val:0][effect:sleep, target:unit_all, turn:1, rate:1]",3
+112142300,"[effect:fix_speed, target:myself, turn:1][effect:degrade_crash, count:50, special:50, turn:-1, animation:enemy_crash_extend][effect:hungup, target:unit_all, turn:-1, rate:1.0][effect:force_change_block, new_block:block_blue, target:block_all, color:block_blue, count:0, val:0.0][effect:dis_panel, target:block_heart, turn:3][effect:change_block, new_block:time_bomb, target:block_all, color:block_green, count:3, val:0.30][effect:change_panel_ratio, block_type:green, turn:3, val:0.0][effect:degrade_fever, val:1000.0][effect:enhance_enemy, target:myself, turn:-1, status:defense, val:0]",3
+112142301,"[effect:nothing]",3
+112142302,"[effect:nothing]",3
+112142303,"[effect:kamikaze, val:0]",3
+112142309,"[effect:kamikaze, val:0][effect:degrade_fever, val:1000, animation:fevergage_down]",3
+112142410,"[effect:fix_speed, target:myself, turn:1][effect:force_change_block, new_block:block_heart, target:block_all, color:block_heart, count:0, val:0.0][effect:change_panel_ratio, turn:-1, block_type:red, val:0][effect:change_panel_ratio, turn:-1, block_type:green, val:0][effect:change_panel_ratio, turn:-1, block_type:blue, val:0][effect:change_panel_ratio, turn:-1, block_type:yellow, val:0][effect:change_panel_ratio, turn:-1, block_type:heal, val:100]",3
+112142419,"[effect:kamikaze, val:0]",3
+112142420,"[effect:fix_speed, target:myself, turn:1]",3
+112142428,"[effect:kamikaze, val:0][effect:sleep, target:unit_all, turn:1, rate:1]",3
+112142429,"[effect:kamikaze, val:0]",3
+112143100,"[effect:hungup, target:unit_all, turn:-1, rate:1]",3
+112143200,"[effect:fix_speed, target:myself, turn:1]",3
+112143201,"[effect:nothing]",3
+112143220,"[effect:fix_speed, target:myself, turn:1]",3
+112143221,"[effect:nothing]",3
+112143210,"[effect:fix_speed, target:myself, turn:1]",3
+112143211,"[effect:nothing]",3
+112143300,"[effect:fix_speed, target:myself, turn:1][effect:force_change_block, new_block:block_heart, target:block_all, color:block_heart, count:0, val:0.0][effect:sleep, target:unit_all, turn:2, rate:1]",3
+112143301,"[effect:nothing]",3
+112143302,"[effect:nothing]",3
+112143303,"[effect:nothing]",3
+112143309,"[effect:kamikaze, val:0][effect:degrade_fever, val:1000, animation:fevergage_down][effect:force_change_block, new_block:jammer, target:block_all, count:0, val:0.0][effect:sleep, target:unit_all, turn:2, rate:1]",3
+112143310,"[effect:fix_speed, target:myself, turn:1]",3
+112143311,"[effect:fix_speed, target:myself, turn:1][effect:dis_heart, turn:-1, animation:enemy_dis_heart][effect:force_change_block, new_block:time_bomb, target:block_all, min_time_count:1, max_time_count:1, count:5, val:0.19][effect:kamikaze, val:0]",3
+112143319,"[effect:kamikaze, val:0][effect:sleep, target:unit_all, turn:1, rate:1]",3
+112143400,"[effect:fix_speed, target:myself, turn:1][effect:cure, bad_status:dis_heart]",3
+112143401,"[effect:nothing]",3
+112143407,"[effect:fix_speed, target:myself, turn:1][effect:enhance_fever, val:1000.0][effect:enhance_unit, target:unit_all, turn:-1, status:heal, val:20, calc:mul]",3
+112143408,"[effect:damage_fix_pierce, target:unit_all, color:yellow, val:25000]",3
+112143409,"[effect:force_change_block, new_block:block_heart, target:block_all, color:block_heart, count:0, val:0.0][effect:kamikaze, val:0]",3
+112143000,"[effect:nothing]",3
+112143001,"[effect:nothing]",3

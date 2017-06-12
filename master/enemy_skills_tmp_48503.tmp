@@ -1,0 +1,96 @@
+48503001,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.3, animation:enemy_critical]",3
+48503002,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.25],[effect:fix_speed, target:myself, turn:1]",3
+48503003,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:panel_freeze, target:block_green, count:-1],[effect:fix_speed, target:myself, turn:2]",3
+48503004,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:degrade_unit, target:unit_all, turn:3, status:heal, val:0.3, calc:mul, animation:degrade_unit_all_heal]",3
+48503005,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.4, calc:mul, animation:enemy_enhance_attack],[effect:fix_speed, target:myself, turn:2]",3
+48503006,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:degrade_unit, target:unit_all, turn:3, status:heal, val:0.5, calc:mul, animation:degrade_unit_all_heal]",3
+48503007,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:panel_freeze, target:block_heart, count:-1]",3
+48503008,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:break_enchance_enemy, target:myself, val:100, lowest_val:500, count:-1, status:defense, turn:4, block01:block_red, calc:add, animation:enemy_enhance_defense],[effect:fix_speed, target:myself, turn:2]",3
+48503009,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block]",3
+48503010,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:3, val:0, animation:change_block]",3
+48503011,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack_fix, target:unit_all, val:130, lowest_val:1500, count:-1, color:green, block01:jammer]",3
+48503012,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:3, val:0, animation:change_block]",3
+48503013,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:4, val:0, animation:change_block]",3
+48503014,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack_fix, target:unit_all, val:130, lowest_val:1500, count:-1, color:green, block01:jammer]",3
+48503015,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.3, animation:enemy_critical]",3
+48503016,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:freq_turn, target:unit_one, turn:-1, val:1, animation:enemy_freq_turn]",3
+48503017,"[effect:enemy_message, val1:1.5, val2:3.6],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:0, animation:change_block],[effect:panel_freeze, target:normal, count:10],[effect:fix_speed, target:myself, turn:2]",3
+48503018,"[effect:enemy_message, val1:2.0, val2:3.6],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:0, animation:change_block],[effect:panel_freeze, target:normal, count:10],[effect:fix_speed, target:myself, turn:2]",3
+48503019,"[effect:enemy_message, val1:2.0, val2:3.6],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:0, animation:change_block],[effect:panel_freeze, target:normal, count:10],[effect:fix_speed, target:myself, turn:2]",3
+48503020,"[effect:enemy_message, val1:1.2, val2:3.1],[effect:break_enchance_enemy, target:myself, val:0.08, lowest_val:0.01, count:-1, status:attack, turn:2, block01:jammer, calc:mul, animation:enemy_enhance_attack],[effect:freq_turn, target:myself, turn:2, val:1, animation:enemy_freq_turn]",3
+48503021,"[effect:enemy_message, val1:2.0, val2:2.3],[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.7, val2:0.25]",3
+48503022,"[effect:enemy_message, val1:1.5, val2:2.0],[effect:degrade_unit, target:unit_all, turn:4, status:heal, val:0.5, calc:mul, animation:degrade_unit_all_heal]",3
+48503023,"[effect:enemy_message, val1:2.0, val2:2.3],[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.7, val2:0.25]",3
+48503024,"[effect:enemy_message, val1:2.2, val2:2.3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:3, val:0, animation:change_block],[effect:damage_gravity, val:0.3, animation:fevergauge_down],[effect:fix_speed, target:myself, turn:1]",3
+48503025,"[effect:enemy_message, val1:1.2, val2:2.3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block],[effect:rush, count:1, val:1]",3
+48503026,"[effect:enemy_message, val1:1.3, val2:2.5],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:3, val:0, animation:change_block],[effect:rush, count:2, val:0.6]",3
+48503027,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:4, val:0.35]",3
+48503028,"[effect:enemy_message, val1:1.7, val2:2.3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:0, animation:change_block],[effect:rush, count:1, val:1]",3
+48503029,"[effect:enemy_message, val1:1.2, val2:2.3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block],[effect:rush, count:1, val:1]",3
+48503030,"[effect:enemy_message, val1:1.3, val2:2.5],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:3, val:0, animation:change_block],[effect:rush, count:2, val:0.6]",3
+48503031,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:4, val:0.35]",3
+48503032,"[effect:enemy_message, val1:1.2, val2:1.3],[effect:break_heal_ratio, target:myself, val:0.01, lowest_val:0.1, count:-1, block01:jammer, animation:enemy_heal]",3
+48503033,"[effect:enemy_message, val1:2.0, val2:5.0],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:0, animation:change_block],[effect:attack_break, target:unit_all, turn:2, val:0.3, calc:mul, animation:attack_break01],[effect:fix_speed, target:myself, turn:2],[effect:freq_turn, target:myself, turn:2, val:1, animation:enemy_freq_turn]",3
+48503034,"[effect:enemy_message, val1:1.9, val2:5.0],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:0, animation:change_block],[effect:attack_break, target:unit_all, turn:2, val:0.3, calc:mul, animation:attack_break01],[effect:fix_speed, target:myself, turn:2],[effect:freq_turn, target:myself, turn:2, val:1, animation:enemy_freq_turn]",3
+48503035,"[effect:enemy_message, val1:1.9, val2:5.0],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:0, animation:change_block],[effect:attack_break, target:unit_all, turn:2, val:0.3, calc:mul, animation:attack_break01],[effect:fix_speed, target:myself, turn:2],[effect:freq_turn, target:myself, turn:2, val:1, animation:enemy_freq_turn]",3
+48503036,"[effect:enemy_message, val1:1.2, val2:2.3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:3, val:0, animation:change_block],[effect:spread, val:0.25]",3
+48503037,"[effect:enemy_message, val1:1.2, val2:1.7],[effect:panel_freeze, target:normal, count:10]",3
+48503038,"[effect:enemy_message, val1:1.7, val2:1.2],[effect:rush, count:4, val:0.4]",3
+48503039,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:degrade_unit, target:unit_all, turn:5, status:heal, val:0.9, calc:mul, animation:degrade_unit_all_heal]",3
+48503040,"[effect:enemy_message, val1:1.2, val2:2.5],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:4, val:0, animation:change_block],[effect:rush, count:4, val:0.35]",3
+48503041,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack_fix, target:unit_all, val:500, lowest_val:1800, count:-1, color:green, block01:jammer]",3
+48503042,"[effect:enemy_message, val1:1.5, val2:1.3],[effect:break_heal_ratio, target:myself, val:0.01, lowest_val:0.1, count:-1, block01:jammer, animation:enemy_heal]",3
+48503043,"[effect:enemy_message, val1:1.2, val2:3.6],[effect:panel_freeze, target:normal, count:20],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:5, val:0, animation:change_block]",3
+48503044,"[effect:enemy_message, val1:1.4, val2:1.7]",3
+48503045,"[effect:enemy_message, val1:1.5, val2:3.0],[effect:break_attack_fix, target:unit_all, val:250, lowest_val:1500, count:-1, block01:block_blue],[effect:change_panel_ratio, turn:-1, block_type:blue, val:0, animation:block_incidence04]",3
+48503046,"[effect:enemy_message, val1:1.7, val2:1.7, dead_type:suicide]",3
+48503047,"[effect:enemy_message, val1:2.2, val2:2.0, dead_type:suicide]",3
+48503048,"[effect:enemy_message, val1:2.2, val2:2.0, dead_type:suicide]",3
+48503049,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.3, animation:enemy_critical]",3
+48503050,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.25],[effect:fix_speed, target:myself, turn:1]",3
+48503051,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:panel_freeze, target:block_green, count:5],[effect:fix_speed, target:myself, turn:2]",3
+48503052,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:degrade_unit, target:unit_all, turn:2, status:heal, val:0.2, calc:mul, animation:degrade_unit_all_heal]",3
+48503053,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.4, calc:mul, animation:enemy_enhance_attack],[effect:fix_speed, target:myself, turn:2]",3
+48503054,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:degrade_unit, target:unit_all, turn:2, status:heal, val:0.4, calc:mul, animation:degrade_unit_all_heal]",3
+48503055,"[effect:enemy_message, val1:1.2, val2:1.7],[effect:panel_freeze, target:block_heart, count:5]",3
+48503056,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:break_enchance_enemy, target:myself, val:80, lowest_val:300, count:-1, status:defense, turn:3, block01:block_red, calc:add, animation:enemy_enhance_defense],[effect:fix_speed, target:myself, turn:2]",3
+48503057,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:1, val:0, animation:change_block]",3
+48503058,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block]",3
+48503059,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack_fix, target:unit_all, val:100, lowest_val:1200, count:-1, color:green, block01:jammer]",3
+48503060,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block]",3
+48503061,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:3, val:0, animation:change_block]",3
+48503062,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack_fix, target:unit_all, val:100, lowest_val:1200, count:-1, color:green, block01:jammer]",3
+48503063,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.3, animation:enemy_critical]",3
+48503064,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:freq_turn, target:unit_one, turn:-1, val:1, animation:enemy_freq_turn]",3
+48503065,"[effect:enemy_message, val1:1.5, val2:3.5],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block],[effect:panel_freeze, target:normal, count:5],[effect:fix_speed, target:myself, turn:2]",3
+48503066,"[effect:enemy_message, val1:2.0, val2:3.5],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block],[effect:panel_freeze, target:normal, count:5],[effect:fix_speed, target:myself, turn:2]",3
+48503067,"[effect:enemy_message, val1:2.0, val2:3.5],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block],[effect:panel_freeze, target:normal, count:5],[effect:fix_speed, target:myself, turn:2]",3
+48503068,"[effect:enemy_message, val1:1.2, val2:3.1],[effect:break_enchance_enemy, target:myself, val:0.08, lowest_val:0.01, count:-1, status:attack, turn:2, block01:jammer, calc:mul, animation:enemy_enhance_attack],[effect:freq_turn, target:myself, turn:2, val:1, animation:enemy_freq_turn]",3
+48503069,"[effect:enemy_message, val1:2.0, val2:2.3],[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.7, val2:0.25]",3
+48503070,"[effect:enemy_message, val1:1.5, val2:2.0],[effect:degrade_unit, target:unit_all, turn:2, status:heal, val:0.4, calc:mul, animation:degrade_unit_all_heal]",3
+48503071,"[effect:enemy_message, val1:2.0, val2:2.3],[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.7, val2:0.25]",3
+48503072,"[effect:enemy_message, val1:2.2, val2:2.3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:3, val:0, animation:change_block],[effect:damage_gravity, val:0.3, animation:fevergauge_down],[effect:fix_speed, target:myself, turn:1]",3
+48503073,"[effect:enemy_message, val1:1.2, val2:2.3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block],[effect:rush, count:1, val:1]",3
+48503074,"[effect:enemy_message, val1:1.3, val2:2.5],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block],[effect:rush, count:2, val:0.6]",3
+48503075,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:4, val:0.35]",3
+48503076,"[effect:enemy_message, val1:1.7, val2:2.3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:3, val:0, animation:change_block],[effect:rush, count:1, val:1]",3
+48503077,"[effect:enemy_message, val1:1.2, val2:2.3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block],[effect:rush, count:1, val:1]",3
+48503078,"[effect:enemy_message, val1:1.3, val2:2.3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block],[effect:rush, count:2, val:0.6]",3
+48503079,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:4, val:0.35]",3
+48503080,"[effect:enemy_message, val1:1.2, val2:1.3],[effect:break_heal_ratio, target:myself, val:0.01, lowest_val:0.1, count:-1, block01:jammer, animation:enemy_heal]",3
+48503081,"[effect:enemy_message, val1:2.0, val2:5.0],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:3, val:0, animation:change_block],[effect:attack_break, target:unit_all, turn:2, val:0.2, calc:mul, animation:attack_break01],[effect:fix_speed, target:myself, turn:2],[effect:freq_turn, target:myself, turn:2, val:1, animation:enemy_freq_turn]",3
+48503082,"[effect:enemy_message, val1:1.9, val2:5.0],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:3, val:0, animation:change_block],[effect:attack_break, target:unit_all, turn:2, val:0.2, calc:mul, animation:attack_break01],[effect:fix_speed, target:myself, turn:2],[effect:freq_turn, target:myself, turn:2, val:1, animation:enemy_freq_turn]",3
+48503083,"[effect:enemy_message, val1:1.9, val2:5.0],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:3, val:0, animation:change_block],[effect:attack_break, target:unit_all, turn:2, val:0.2, calc:mul, animation:attack_break01],[effect:fix_speed, target:myself, turn:2],[effect:freq_turn, target:myself, turn:2, val:1, animation:enemy_freq_turn]",3
+48503084,"[effect:enemy_message, val1:1.2, val2:2.3],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block],[effect:spread, val:0.25]",3
+48503085,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:panel_freeze, target:normal, count:5]",3
+48503086,"[effect:enemy_message, val1:1.7, val2:1.2],[effect:rush, count:4, val:0.35]",3
+48503087,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:degrade_unit, target:unit_all, turn:5, status:heal, val:0.6, calc:mul, animation:degrade_unit_all_heal]",3
+48503088,"[effect:enemy_message, val1:1.2, val2:2.5],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:2, val:0, animation:change_block],[effect:rush, count:4, val:0.35]",3
+48503089,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack_fix, target:unit_all, val:250, lowest_val:1300, count:-1, color:green, block01:jammer]",3
+48503090,"[effect:enemy_message, val1:1.5, val2:1.3],[effect:break_heal_ratio, target:myself, val:0.01, lowest_val:0.1, count:-1, block01:jammer, animation:enemy_heal]",3
+48503091,"[effect:enemy_message, val1:1.2, val2:3.6],[effect:panel_freeze, target:normal, count:10],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:block_positive, ignore02:block_negative, count:3, val:0, animation:change_block]",3
+48503092,"[effect:enemy_message, val1:1.4, val2:1.7]",3
+48503093,"[effect:enemy_message, val1:1.5, val2:3.0],[effect:break_attack_fix, target:unit_all, val:150, lowest_val:1000, count:-1, block01:block_blue],[effect:change_panel_ratio, turn:-1, block_type:blue, val:0, animation:block_incidence04]",3
+48503094,"[effect:enemy_message, val1:1.7, val2:1.7, dead_type:suicide]",3
+48503095,"[effect:enemy_message, val1:2.2, val2:2.0, dead_type:suicide]",3
+48503096,"[effect:enemy_message, val1:2.2, val2:2.0, dead_type:suicide]",3

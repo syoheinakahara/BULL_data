@@ -1,0 +1,16 @@
+65534300,1,150,null,null,1,150,null,null,50
+65534401,0,100,null,null,null,100,null,null,null
+65534402,0,100,50,null,1,100,1,null,80
+65534500,0,100,null,null,null,100,null,null,null
+65534501,0,100,null,null,null,100,null,null,null
+65534700,1,100,null,null,1,100,null,null,50
+65534701,0,100,null,null,2,100,2,null,null
+65534502,0,100,null,null,null,100,null,476,100
+65534800,1,100,null,null,1,100,null,null,100
+65534801,0,100,null,null,null,100,2,null,null
+65534802,0,60,null,null,null,60,null,null,null
+65534803,0,100,50,null,1,100,1,null,300
+65534910,1,100,null,null,1,100,null,null,50
+65534911,0,65,null,null,null,65,null,null,null
+65534912,0,100,null,null,null,100,null,null,null
+65534913,0,100,30,null,1,100,1,null,100

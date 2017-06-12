@@ -1,0 +1,8 @@
+12004001,"[effect:dis_panel, target:block_red, turn:2, animation:enemy_dis_red]",3
+12004002,"[effect:dis_panel, target:block_green, turn:2, animation:enemy_dis_green]",3
+12004003,"[effect:dis_panel, target:block_blue, turn:2, animation:enemy_dis_blue]",3
+12004004,"[effect:dis_panel, target:block_yellow, turn:2, animation:enemy_dis_yellow]",3
+12004005,"[effect:change_block, new_block:time_bomb, target:block_all, count:3, val:0.1, animation:change_block]",3
+12004006,"[effect:change_block, new_block:time_bomb, target:block_all, count:3, val:0.1, animation:change_block]",3
+12004007,"[effect:change_block, new_block:time_bomb, target:block_all, count:3, val:0.1, animation:change_block]",3
+12004008,"[effect:change_block, new_block:time_bomb, target:block_all, count:3, val:0.1, animation:change_block]",3

@@ -1,0 +1,49 @@
+40026001,"[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:1.5, val2:0]",3
+40026002,"[effect:heal, target:enemy_all, val:0.2, animation:enemy_heal]",3
+40026003,"[effect:spread, val:0.30]",3
+40026004,"[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:1.0, val2:0]",3
+40026005,"[effect:kamikaze, val:1.0]",3
+40026006,"[effect:virus, target:unit_all, turn:-1, rate:1, val:0.07, animation:enemy_virus],[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:1, val2:1.8]",3
+40026007,"[effect:rush, count:4, val:0.30]",3
+40026008,"[effect:virus, target:unit_all, turn:3, rate:1, val:0.15, animation:enemy_virus],[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:1, val2:1.8]",3
+40026009,"[effect:rush, count:8, val:0.20]",3
+40026010,"[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:0, val2:0]",3
+40026011,"[effect:rush, count:1, val:1.0],[effect:heal, target:enemy_one, val:0.1, animation:enemy_heal]",3
+40026012,"[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1.5, val2:0]",3
+40026013,"[effect:spread, val:0.30]",3
+40026014,"[effect:enhance_enemy, target:enemy_all, turn:3, status:defense, val:5000, calc:add, animation:enemy_enhance_defense]",3
+40026015,"[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:0, val2:0]",3
+40026016,"[effect:critical, val:1.2, animation:enemy_critical]",3
+40026017,"[effect:enhance_enemy, target:enemy_yellow, turn:-1, status:attack, val:0.2, calc:mul, animation:enemy_enhance_attack]",3
+40026018,"[effect:remove_enhancement, target:unit_all, target_effect:all, animation:frozen_wave],[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1, val2:1.8]",3
+40026019,"[effect:change_attribute, target:myself, color:red, turn:-1, animation:change_attribute_red]",3
+40026020,"[effect:damage_anti_color, target:unit_all, color:red, val1:0.75, val2:0.25]",3
+40026021,"[effect:damage_anti_color, target:unit_all, color:blue, val1:0.75, val2:0.25]",3
+40026022,"[effect:damage_anti_color, target:unit_all, color:green, val1:0.75, val2:0.25]",3
+40026023,"[effect:damage_anti_color, target:unit_all, color:yellow, val1:0.75, val2:0.25]",3
+40026024,"[effect:panel_freeze, target:block_blue, count:-1, break_count:1]",3
+40026025,"[effect:break_attack_fix, target:unit_all, val:150, lowest_val:1000, count:-1, color:blue, block01:block_blue]",3
+40026026,"[effect:remove_enhancement, target:unit_all, target_effect:all, animation:frozen_wave],[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1.8, val2:1.8]",3
+40026027,"[effect:change_attribute, target:myself, color:blue, turn:-1, animation:change_attribute_blue]",3
+40026028,"[effect:damage_anti_color, target:unit_all, color:red, val1:0.75, val2:0.25]",3
+40026029,"[effect:damage_anti_color, target:unit_all, color:blue, val1:0.75, val2:0.25]",3
+40026030,"[effect:damage_anti_color, target:unit_all, color:green, val1:0.75, val2:0.25]",3
+40026031,"[effect:damage_anti_color, target:unit_all, color:yellow, val1:0.75, val2:0.25]",3
+40026032,"[effect:panel_freeze, target:block_yellow, count:-1, break_count:1]",3
+40026033,"[effect:break_attack_fix, target:unit_all, val:150, lowest_val:1000, count:-1, color:yellow, block01:block_yellow],[effect:enemy_message, val1:2.2, val2:1.8]",3
+40026034,"[effect:virus, target:unit_all, turn:3, rate:1, val:0.1, animation:enemy_virus]",3
+40026035,"[effect:damage_anti_abnormal, target:unit_all, target_effect01:virus, val1:0.4, val2:0.25]",3
+40026036,"[effect:remove_enhancement, target:unit_all, target_effect:all, animation:frozen_wave],[effect:change_attribute, target:myself, color:yellow, turn:-1, animation:change_attribute_yellow],[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1.5, val2:1.8]",3
+40026037,"[effect:change_attribute, target:myself, color:green, turn:-1, animation:change_attribute_green]",3
+40026038,"[effect:damage_anti_color, target:unit_all, color:red, val1:0.75, val2:0.25]",3
+40026039,"[effect:damage_anti_color, target:unit_all, color:blue, val1:0.75, val2:0.25]",3
+40026040,"[effect:damage_anti_color, target:unit_all, color:green, val1:0.75, val2:0.25]",3
+40026041,"[effect:damage_anti_color, target:unit_all, color:yellow, val1:0.75, val2:0.25]",3
+40026042,"[effect:panel_freeze, target:block_green, count:-1, break_count:1] ,[effect:enemy_message, val1:1.2, val2:2.5]",3
+40026043,"[effect:break_attack_fix, target:unit_all, val:150, lowest_val:1000, count:-1, color:green, block01:block_green],[effect:enemy_message, val1:1.2, val2:2.5]",3
+40026044,"[effect:enemy_message, val1:1, val2:1.8]",3
+40026045,"[effect:spread, val:1.0]",3
+40026046,"[effect:enemy_message, val1:1.8, val2:0]",3
+40026047,"[effect:break_attack_fix, target:unit_all, val:80, lowest_val:600, count:-1, color:blue, block01:block_blue]",3
+40026048,"[effect:break_attack_fix, target:unit_all, val:80, lowest_val:600, count:-1, color:yellow, block01:block_yellow],[effect:enemy_message, val1:2.2, val2:1.8]",3
+40026049,"[effect:break_attack_fix, target:unit_all, val:80, lowest_val:600, count:-1, color:green, block01:block_green],[effect:enemy_message, val1:1.2, val2:2.5]",3

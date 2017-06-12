@@ -1,0 +1,29 @@
+41003001,"[effect:degrade_unit, target:unit_all, turn:1, status:heal, val:0.5, calc:mul, animation:degrade_unit_all_heal],[effect:rush, count:1, val:0.9]",3
+41003002,"[effect:degrade_unit, target:unit_all, turn:1, status:attack, val:0.5, calc:mul],[effect:rush, count:1, val:0.9]",3
+41003003,"[effect:sleep, target:unit_one, turn:4, rate:1.0, animation:enemy_sleep],[effect:virus, turn:4, rate:1.0, val:0.17, animation:enemy_virus]",3
+41003004,"[effect:spread, val:0.31, animation:enemy_spread]",3
+41003005,"[effect:change_block, new_block:time_bomb, target:block_red, count:0, val:0.1, animation:change_block]",3
+41003006,"[effect:change_block, new_block:time_bomb, target:block_green, count:0, val:0.2, animation:change_block]",3
+41003007,"[effect:change_block, new_block:time_bomb, target:block_yellow, count:0, val:0.1, animation:change_block]",3
+41003008,"[effect:critical, val:3.0.0, animation:enemy_critical],[effect:enhance_enemy, target:enemy_all, turn:-1, status:defense, val:5000, calc:add, animation:enemy_enhance_enemy]",3
+41003009,"[effect:critical, val:2.0.0, animation:enemy_critical],[effect:enhance_enemy, target:enemy_all, turn:-1, status:defense, val:3000, calc:add, animation:enemy_enhance_enemy]",3
+41003010,"[effect:critical, val:1.5.0, animation:enemy_critical],[effect:enhance_enemy, target:enemy_all, turn:-1, status:defense, val:1000, calc:add, animation:enemy_enhance_enemy]",3
+41003011,"[effect:critical, val:1.2.0, animation:enemy_critical]",3
+41003012,"[effect:nothing]",3
+41003013,"[effect:dis_heart, turn:7, rate:1.0, animation:enemy_dis_heart],[effect:rush, count:1, val:0.5]",3
+41003014,"[effect:freq_turn, target:enemy_all, turn:-1, val:1, animation:enemy_freq_turn]",3
+41003015,"[effect:degrade_unit, target:unit_all, turn:5, status:action, val:2.0,animation:enemy_tap_down]",3
+41003016,"[effect:critical, val:2.4, animation:enemy_critical]",3
+41003017,"[effect:dis_panel, target:block_red, turn:2,animation:enemy_dis_red],[effect:rush, count:1, val:1.1]",3
+41003018,"[effect:dis_panel, target:block_yellow, turn:2,animation:enemy_dis_yellow],[effect:rush, count:1, val:1.1]",3
+41003019,"[effect:dis_panel, target:block_green, turn:2,animation:enemy_dis_green],[effect:rush, count:1, val:1.1]",3
+41003020,"[effect:dis_panel, target:block_blue, turn:2,animation:enemy_dis_blue],[effect:rush, count:1, val:1.1]",3
+41003021,"[effect:break_attack, val:0.2, lowest_val:7000, count:-1, block:crash, target:unit_one]",3
+41003022,"[effect:rush, count:6, val:0.3]",3
+41003023,"[effect:nothing]",3
+41003024,"[effect:crash_condition, target:unit_all, val:4, turn:5, animation:enemy_crash_extend]",3
+41003025,"[effect:crash_condition, target:unit_all, val:4, turn:4, animation:enemy_crash_extend]",3
+41003026,"[effect:degrade_unit, target:unit_all, turn:5, status:action, val:2.0,animation:enemy_tap_down],[effect:hungup, target:unit_one, turn:3, rate:1, animation:hungup03]",3
+41003027,"[effect:force_change_block, new_block:time_bomb, target:block_blue, count:0, val:0.3, animation:change_block],[effect:rush, count:1, val:1]",3
+41003028,"[effect:enhance_enemy, target:enemy_one, turn:4, status:attack, val:5000, calc:add, animation:enemy_enhance_attack]",3
+41003029,"[effect:critical, val:2.5, animation:enemy_critical]",3

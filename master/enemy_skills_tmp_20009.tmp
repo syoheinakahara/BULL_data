@@ -1,0 +1,5 @@
+300010,"[effect:heal, target:enemy_one, val:0.1, animation:enemy_heal]",3
+330011,"[effect:hungup, target:unit_one, turn:3, rate:1.0, animation:enemy_hungup],[effect:rush, count:1, val:1.2]",3
+33012,"[effect:hungup, target:unit_all, turn:3, rate:1.0, animation:enemy_hungup],[effect:spread, val:0.4, animation:enemy_spread]",3
+330013,"[effect:hungup, target:unit_all, turn:1, rate:1.0, animation:enemy_hungup],[effect:spread, val:0.4, animation:enemy_spread]",3
+23021,"[effect:spread, val:0.6, animation:enemy_spread]",3

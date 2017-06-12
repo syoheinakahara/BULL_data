@@ -1,0 +1,490 @@
+0,0,1,1001,,3
+370,15,5,2001,"[effect:break_attack, val:0.531, lowest_val:0, count:-1, block01:block_green, color:red, target:enemy_all, animation:damage_all_red04],",3
+371,15,5,2001,"[effect:break_attack, val:0.531, lowest_val:0, count:-1, block01:block_green, color:red, target:enemy_all, animation:damage_all_red04],",3
+372,12,5,2001,"[effect:cure, bad_status:dis_heart, animation:cure01],[effect:heal_ratio, val:2.25, animation:heal03]",3
+373,12,5,2001,"[effect:cure, bad_status:dis_heart, animation:cure01],[effect:heal_ratio, val:2.25, animation:heal03]",3
+374,20,5,2001,"[effect:sleep, target:enemy_all, turn:3, rate:1.0, animation:sleep03]",3
+375,20,5,2001,"[effect:sleep, target:enemy_all, turn:3, rate:1.0, animation:sleep03]",3
+412,10,5,2001,"[effect:change_block, new_block:block_heart, target:block_yellow, count:0, val:0, animation:change_block],[effect:cure, bad_status:virus, animation:cure01]",3
+413,10,5,2001,"[effect:change_block, new_block:block_heart, target:block_yellow, count:0, val:0, animation:change_block],[effect:cure, bad_status:virus, animation:cure01]",3
+837,0,1,2001,"[effect:change_block, new_block:crack_bomb, target:block_red,color:block_green,count:0, val:8, animation:change_block],[effect:drop_block,block_type:crack_bomb,color:block_green,val:8,rate:0.5,turn:1]",3
+111001,6,3,2001,"[effect:damage, target:enemy_one, color:red, val:2.04, animation:damage_one_red01]",3
+111002,7,5,2001,"[effect:damage, target:enemy_one, color:red, val:3.0, animation:damage_one_red02]",3
+111003,8,5,2001,"[effect:damage, target:enemy_one, color:red, val:4.08, animation:damage_one_red03]",1
+111004,11,5,2001,"[effect:damage, target:enemy_one, color:red, val:5.95, animation:damage_one_red04]",3
+111005,13,5,2001,"[effect:damage, target:enemy_one, color:red, val:8.16, animation:damage_one_red04]",3
+111006,16,5,2001,"[effect:damage, target:enemy_one, color:red, val:11.2, animation:damage_one_red05]",3
+112001,6,3,2001,"[effect:damage, target:enemy_one, color:green, val:2.04, animation:damage_one_green01]",3
+112002,7,5,2001,"[effect:damage, target:enemy_one, color:green, val:3.0, animation:damage_one_green02]",3
+112003,8,5,2001,"[effect:damage, target:enemy_one, color:green, val:4.08, animation:damage_one_green03]",1
+112004,10,5,2001,"[effect:damage, target:enemy_one, color:green, val:5.95, animation:damage_one_green04]",1
+113001,6,3,2001,"[effect:damage, target:enemy_one, color:blue, val:2.04, animation:damage_one_blue01]",1
+113002,7,5,2001,"[effect:damage, target:enemy_one, color:blue, val:3.0, animation:damage_one_blue02]",1
+113003,8,5,2001,"[effect:damage, target:enemy_one, color:blue, val:4.08, animation:damage_one_blue03]",3
+113004,10,5,2001,"[effect:damage, target:enemy_one, color:blue, val:5.95, animation:damage_one_blue04]",3
+113005,12,5,2001,"[effect:damage, target:enemy_one, color:blue, val:8.16, animation:damage_one_blue05]",3
+113006,8,5,2001,"[effect:damage, target:enemy_one, color:blue, val:5.95, animation:damage_one_blue04]",3
+113007,10,5,2001,"[effect:damage, target:enemy_one, color:blue, val:8.16, animation:damage_one_blue05]",3
+113008,20,5,2001,"[effect:damage, target:enemy_one, color:blue, val:19.1, animation:damage_one_blue05],[effect:degrade_unit, target:unit_all, turn:3, status:action, val:5.0, animation:enemy_tap_down],",3
+113009,13,5,2001,"[effect:damage, target:enemy_one, color:blue, val:8.16, animation:damage_one_blue04]",3
+114001,6,3,2001,"[effect:damage, target:enemy_one, color:yellow, val:2.04, animation:damage_one_yellow01]",3
+114002,7,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:3.0, animation:damage_one_yellow02]",3
+114003,8,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:4.08, animation:damage_one_yellow03]",1
+114004,10,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:5.95, animation:damage_one_yellow04]",1
+114005,13,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:8.16, animation:damage_one_yellow04]",3
+114006,24,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:19.1, animation:damage_one_yellow05]",3
+114007,6,4,2001,"[effect:damage, target:enemy_one, color:yellow, val:3.0, animation:damage_one_yellow03]",3
+114008,6,4,2001,"[effect:damage, target:enemy_one, color:yellow, val:4.0, animation:damage_one_yellow04]",3
+114009,6,3,2001,"[effect:damage, target:enemy_one, color:yellow, val:2.04, animation:damage_one_yellow01]",1
+114010,7,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:3.0, animation:damage_one_yellow02]",1
+121001,8,5,2001,"[effect:damage, target:enemy_all, color:red, val:1.02, animation:damage_all_red01]",3
+121002,9,5,2001,"[effect:damage, target:enemy_all, color:red, val:1.5, animation:damage_all_red02]",3
+121003,11,5,2001,"[effect:damage, target:enemy_all, color:red, val:2.04, animation:damage_all_red03]",1
+121004,13,5,2001,"[effect:damage, target:enemy_all, color:red, val:3.0, animation:damage_all_red04]",3
+121005,14,5,2001,"[effect:damage, target:enemy_all, color:red, val:6.00, animation:damage_all_red05]",1
+121006,16,5,2001,"[effect:damage, target:enemy_all, color:red, val:50.0, animation:damage_all_red05]",1
+121007,18,5,2001,"[effect:damage, target:enemy_all, color:red, val:100.0, animation:damage_all_red05]",1
+121011,9,5,2001,"[effect:damage, target:enemy_all, color:red, val:1.5, animation:damage_all_red02]",3
+121012,10,5,2001,"[effect:damage, target:enemy_all, color:red, val:2.04, animation:damage_all_red03]",3
+122001,8,5,2001,"[effect:damage, target:enemy_all, color:green, val:1.02, animation:damage_all_green01]",1
+122002,9,5,2001,"[effect:damage, target:enemy_all, color:green, val:1.5, animation:damage_all_green02]",3
+122003,10,5,2001,"[effect:damage, target:enemy_all, color:green, val:2.04, animation:damage_all_green03]",3
+122004,12,5,2001,"[effect:damage, target:enemy_all, color:green, val:3.0, animation:damage_all_green04]",1
+122005,14,5,2001,"[effect:damage, target:enemy_all, color:green, val:4.08, animation:damage_all_green05]",1
+123001,8,5,2001,"[effect:damage, target:enemy_all, color:blue, val:1.02, animation:damage_all_blue01]",1
+123002,9,5,2001,"[effect:damage, target:enemy_all, color:blue, val:1.5, animation:damage_all_blue02]",3
+123003,10,5,2001,"[effect:damage, target:enemy_all, color:blue, val:2.04, animation:damage_all_blue03]",3
+123004,12,5,2001,"[effect:damage, target:enemy_all, color:blue, val:3.0, animation:damage_all_blue04]",1
+124001,8,5,2001,"[effect:damage, target:enemy_all, color:yellow, val:1.02, animation:damage_all_yellow01]",1
+124002,9,5,2001,"[effect:damage, target:enemy_all, color:yellow, val:1.5, animation:damage_all_yellow02]",3
+124003,10,5,2001,"[effect:damage, target:enemy_all, color:yellow, val:2.04, animation:damage_all_yellow03]",3
+124004,12,5,2001,"[effect:damage, target:enemy_all, color:yellow, val:3.0, animation:damage_all_yellow04]",1
+124005,7,5,2001,"[effect:damage, target:enemy_all, color:yellow, val:3.0, animation:damage_all_yellow03]",3
+124006,8,5,2001,"[effect:damage, target:enemy_all, color:yellow, val:4.0, animation:damage_all_yellow04]",3
+124007,9,5,2001,"[effect:damage, target:enemy_all, color:yellow, val:5.0, animation:damage_all_yellow05]",3
+124008,9,5,2001,"[effect:damage, target:enemy_all, color:green, val:2, animation:damage_all_green03]",3
+124009,9,5,2001,"[effect:damage, target:enemy_all, color:green, val:2.475, animation:damage_all_green04]",3
+131001,8,5,2001,"[effect:damage_fix, target:enemy_all, color:red, val:425, animation:damage_all_red01]",3
+131002,9,5,2001,"[effect:damage_fix, target:enemy_all, color:red, val:1020, animation:damage_all_red02]",3
+131003,10,5,2001,"[effect:damage_fix, target:enemy_all, color:red, val:2380, animation:damage_all_red03]",1
+131004,12,5,2001,"[effect:damage_fix, target:enemy_all, color:red, val:4760, animation:damage_all_red04]",1
+132001,8,5,2001,"[effect:damage_fix, target:enemy_all, color:green, val:425, animation:damage_all_green01]",3
+132002,9,5,2001,"[effect:damage_fix, target:enemy_all, color:green, val:1020, animation:damage_all_green02]",3
+132003,10,5,2001,"[effect:damage_fix, target:enemy_all, color:green, val:2380, animation:damage_all_green03]",1
+132004,12,5,2001,"[effect:damage_fix, target:enemy_all, color:green, val:4760, animation:damage_all_green04]",1
+133001,8,5,2001,"[effect:damage_fix, target:enemy_all, color:blue, val:425, animation:damage_all_blue01]",3
+133002,9,5,2001,"[effect:damage_fix, target:enemy_all, color:blue, val:1020, animation:damage_all_blue02]",3
+133003,10,5,2001,"[effect:damage_fix, target:enemy_all, color:blue, val:2380, animation:damage_all_blue03]",1
+133004,12,5,2001,"[effect:damage_fix, target:enemy_all, color:blue, val:4760, animation:damage_all_blue04]",1
+134001,8,5,2001,"[effect:damage_fix, target:enemy_all, color:yellow, val:425, animation:damage_all_yellow01]",1
+134002,9,5,2001,"[effect:damage_fix, target:enemy_all, color:yellow, val:1020, animation:damage_all_yellow02]",1
+134003,10,5,2001,"[effect:damage_fix, target:enemy_all, color:yellow, val:2380, animation:damage_all_yellow03]",3
+134004,8,5,2001,"[effect:damage_fix_pierce, target:enemy_all, color:yellow, val:3000, animation:damage_all_yellow03]",3
+141001,7,5,2001,"[effect:damage_anti_color, target:enemy_one, color:red, val1:6.56, val2:3.30, animation:damage_one_red02]",1
+141002,8,5,2001,"[effect:damage_anti_color, target:enemy_one, color:red, val1:9.02, val2:4.49, animation:damage_one_red03]",1
+141003,10,5,2001,"[effect:damage_anti_color, target:enemy_one, color:red, val1:13.13, val2:6.56, animation:damage_one_red04]",1
+142001,7,5,2001,"[effect:damage_anti_color, target:enemy_one, color:green, val1:6.56, val2:3.30, animation:damage_one_green02]",1
+142002,8,5,2001,"[effect:damage_anti_color, target:enemy_one, color:green, val1:9.02, val2:4.49, animation:damage_one_green03]",1
+142003,10,5,2001,"[effect:damage_anti_color, target:enemy_one, color:green, val1:13.13, val2:6.56, animation:damage_one_green04]",1
+143001,7,5,2001,"[effect:damage_anti_color, target:enemy_one, color:blue, val1:6.56, val2:3.30, animation:damage_one_blue02]",1
+143002,8,5,2001,"[effect:damage_anti_color, target:enemy_one, color:blue, val1:9.02, val2:4.49, animation:damage_one_blue03]",1
+143003,10,5,2001,"[effect:damage_anti_color, target:enemy_one, color:blue, val1:13.13, val2:6.56, animation:damage_one_blue04]",1
+144001,7,5,2001,"[effect:damage_anti_color, target:enemy_one, color:yellow, val1:6.56, val2:3.30, animation:damage_one_yellow02]",1
+144002,8,5,2001,"[effect:damage_anti_color, target:enemy_one, color:yellow, val1:9.02, val2:4.49, animation:damage_one_yellow03]",1
+144003,10,5,2001,"[effect:damage_anti_color, target:enemy_one, color:yellow, val1:13.13, val2:6.56, animation:damage_one_yellow04]",1
+150001,7,5,2001,"[effect:damage_fix_pierce, target:enemy_one, color:red, val:2000, animation:damage_fix_one_pierce02]",1
+150002,8,5,2001,"[effect:damage_fix_pierce, target:enemy_one, color:green, val:5000, animation:damage_fix_one_pierce03]",3
+150003,10,5,2001,"[effect:damage_fix_pierce, target:enemy_one, color:green, val:10000, animation:damage_fix_one_pierce04]",3
+150004,12,5,2001,"[effect:guard_break, target:enemy_all, turn:1, val:0.3, calc:mul, animation:guard_break01],[effect:damage_fix_pierce, target:enemy_all, color:yellow, val:5000, animation:damage_one_yellow04]",3
+150005,13,5,2001,"[effect:guard_break, target:enemy_all, turn:1, val:1.0, calc:mul, animation:guard_break01],[effect:damage_fix_pierce, target:enemy_all, color:yellow, val:10000, animation:damage_one_yellow04]",3
+160001,6,5,2001,"[effect:damage_anger, target:enemy_all, color:blue,  val1:1.224, val2:1.632, val3:2.04, val4:2.448, val5:3.404, animation:damage_all_blue03]",3
+160002,8,5,2001,"[effect:damage_anger, target:enemy_all, color:blue, val1:1.8, val2:2.4, val3:3.0, val4:3.6, val5:4.608, animation:damage_all_blue04]",3
+160003,10,5,2001,"[effect:damage_anger, target:enemy_all, color:blue, val1:2.448, val2:3.264, val3:4.08, val4:4.896,  val5:6.12, animation:damage_all_blue05]",3
+160004,8,5,2001,"[effect:damage_anger, target:enemy_all, color:red, val1:1.8, val2:2.4, val3:3.0, val4:3.6, val5:4.608, animation:damage_all_red04]",1
+160005,10,5,2001,"[effect:damage_anger, target:enemy_all, color:red, val1:2.448, val2:3.264, val3:4.08, val4:4.896,  val5:6.12, animation:damage_all_red05]",1
+170001,18,5,2001,"[effect:damage_gravity, target:enemy_all, val:0.3, animation:damage_gravity_all05]",3
+170002,12,5,2001,"[effect:hp_spend, val:0.25, animation:spend_hp],[effect:enhance_unit, target:unit_all, turn:1, status:action, val:2.0, calc:mul, animation:enhance_unit_one_action02],[effect:crash_condition, target:unit_all, val:-1, turn:4, animation:crash_panel_reduce03]",3
+170003,23,16,2001,"[effect:damage_gravity, target:enemy_one, val:0.2, animation:damage_gravity_one04]",3
+170004,25,16,2001,"[effect:damage_gravity, target:enemy_one, val:0.4, animation:damage_gravity_one05]",3
+171001,13,5,2001,"[effect:damage_absorb, target:enemy_one, color:green, val:5.95, heal_ratio:0.1, animation:damage_one_green03]",3
+181001,10,5,2001,"[effect:damage, target:enemy_one, color:red, val:8.16, animation:damage_one_red04], [effect:hp_spend, val:0.1, animation:spend_hp]",3
+181002,12,5,2001,"[effect:damage, target:enemy_one, color:red, val:11.2, animation:damage_one_red05], [effect:hp_spend, val:0.2, animation:spend_hp]",3
+181003,18,5,2001,"[effect:damage, target:enemy_all, color:red, val:12.9, animation:damage_all_red05], [effect:hp_spend, val:0.8, animation:spend_hp]",3
+181101,99,5,2001,"[effect:damage_block_break, target:enemy_all, color:red, val:10.0, animation:damage_block_break_all_red05]",1
+200001,11,5,2001,"[effect:heal_ratio, val:1.25, animation:heal02]",3
+200002,12,5,2001,"[effect:heal_ratio, val:2.25, animation:heal03]",3
+200003,14,5,2001,"[effect:heal_ratio, val:4.375, animation:heal04]",3
+200004,16,5,2001,"[effect:heal_fix, val:99999, animation:heal05]",1
+200005,10,5,2001,"[effect:heal_ratio, val:1.8, animation:heal03]",3
+200006,11,5,2001,"[effect:heal_ratio, val:3.5, animation:heal04]",3
+200007,12,5,2001,"[effect:heal_ratio, val:2.25, animation:heal03]",3
+210001,10,5,2001,"[effect:heal_fix, val:150, animation:heal01]",3
+210002,11,5,2001,"[effect:heal_fix, val:560, animation:heal02]",3
+210003,12,5,2001,"[effect:heal_fix, val:1800, animation:heal03]",3
+210004,14,5,2001,"[effect:heal_fix, val:4400, animation:heal04]",1
+221001,12,5,2001,"[effect:cure, bad_status:virus, animation:cure01]",1
+221002,12,5,2001,"[effect:cure, bad_status:hungup, animation:cure01]",1
+221003,12,5,2001,"[effect:cure, bad_status:sleep, animation:cure01]",1
+221004,12,5,2001,"[effect:cure, bad_status:dis_heart, animation:cure01],[effect:heal_ratio, val:3, animation:heal04],[effect:damage, target:enemy_all, color:red, val:3, animation:damage_all_red03]",3
+222001,8,5,2001,"[effect:cure, bad_status:virus, animation:cure01],[effect:heal_ratio, val:1.25, animation:heal02_unit01]",3
+222002,14,5,2001,"[effect:cure, bad_status:hungup, animation:cure01],[effect:heal_ratio, val:1.35, animation:heal02_unit01]",3
+222003,14,5,2001,"[effect:cure, bad_status:sleep, animation:cure01],[effect:heal_ratio, val:1.35, animation:heal02_unit01]",1
+222004,8,5,2001,"[effect:cure, bad_status:virus, animation:cure01],[effect:damage, target:enemy_one, color:blue, val:3.264, animation:damage_one_blue02]",1
+222005,10,5,2001,"[effect:cure, bad_status:virus, animation:cure01],[effect:damage, target:enemy_one, color:blue, val:4.76, animation:damage_one_blue03]",3
+222006,12,5,2001,"[effect:cure, bad_status:virus, animation:cure01],[effect:damage, target:enemy_one, color:blue, val:6.528, animation:damage_one_blue04]",3
+222007,14,5,2001,"[effect:cure, bad_status:sleep, animation:cure01],[effect:heal_ratio, val:1.35, animation:heal02_unit01]",1
+222008,14,5,2001,"[effect:cure, bad_status:sleep, animation:cure01],[effect:heal_ratio, val:1.35, animation:heal02_unit01]",1
+222009,10,5,2001,"[effect:damage, target:enemy_all, color:yellow, val:1.808, animation:damage_all_yellow03],[effect:cure, bad_status:sleep, animation:cure01]",3
+222010,12,5,2001,"[effect:damage, target:enemy_all, color:yellow, val:2.44, animation:damage_all_yellow04],[effect:cure, bad_status:sleep, animation:cure01]",3
+222011,8,5,2001,"[effect:cure, bad_status:dark, animation:dark_heal],[effect:damage, target:enemy_one, color:red, val:3.264, animation:damage_one_red02]",3
+222012,10,5,2001,"[effect:cure, bad_status:dark, animation:dark_heal],[effect:damage, target:enemy_one, color:red, val:4.76, animation:damage_one_red03]",3
+222013,8,5,2001,"[effect:cure, bad_status:dark, animation:dark_heal],[effect:damage, target:enemy_one, color:red, val:2.04, animation:damage_one_red01]",3
+222014,11,5,2001,"[effect:cure, bad_status:dark, animation:dark_heal],[effect:damage, target:enemy_one, color:red, val:3.0, animation:damage_one_red02]",3
+222015,14,5,2001,"[effect:cure, bad_status:virus, animation:cure01],[effect:heal_ratio, val:0.5, animation:heal01_unit01]",3
+222016,14,5,2001,"[effect:cure, bad_status:virus, animation:cure01],[effect:heal_ratio, val:1.25, animation:heal02_unit01]",3
+222017,13,5,2001,"[effect:cure, bad_status:dark, animation:dark_heal],[effect:enhance_unit, target:unit_blue, turn:3, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack04],[effect:enhance_unit, target:unit_blue, turn:3, status:defense, val:960, calc:add, animation:enhance_unit_all_defense04_unit01]",3
+222018,12,5,2001,"[effect:cure, bad_status:dark, animation:dark_heal],[effect:damage, target:enemy_all, color:yellow, val:2.04, animation:damage_all_yellow03]",3
+222019,11,5,2001,"[effect:cure, bad_status:dark, animation:dark_heal],[effect:enhance_unit, target:unit_blue, turn:3, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack03],[effect:enhance_unit, target:unit_blue, turn:3, status:defense, val:480, calc:add, animation:enhance_unit_all_defense03_unit01]",3
+222020,13,5,2001,"[effect:cure, bad_status:virus, animation:cure01],[effect:damage, target:enemy_all, color:red, val:3.264, animation:damage_all_red03]",3
+230001,10,5,2001,"[effect:regenerate, turn:3, val:0.2, animation:heal01]",3
+230002,11,5,2001,"[effect:regenerate, turn:3, val:0.5, animation:heal02]",3
+230003,14,5,2001,"[effect:regenerate, turn:3, val:1.75, animation:heal03]",3
+230004,12,5,2001,"[effect:regenerate, turn:3, val:0.9, animation:heal02]",3
+300001,8,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.1, calc:mul, animation:enhance_unit_all_attack01]",3
+300002,9,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.15, calc:mul, animation:enhance_unit_all_attack02]",3
+300003,10,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.2, calc:mul, animation:enhance_unit_all_attack03]",1
+300004,12,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.25, calc:mul, animation:enhance_unit_all_attack04]",1
+300005,8,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:200, calc:add, animation:enhance_unit_all_attack01]",3
+300006,9,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:400, calc:add, animation:enhance_unit_all_attack02]",3
+300007,10,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:800, calc:add, animation:enhance_unit_all_attack03]",1
+300008,12,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:2400, calc:add, animation:enhance_unit_all_attack04]",1
+300009,8,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.125, calc:mul, animation:enhance_unit_all_heal01]",3
+300010,9,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.25, calc:mul, animation:enhance_unit_all_heal02]",3
+300011,10,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.4, calc:mul, animation:enhance_unit_all_heal03]",1
+300012,12,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.7, calc:mul, animation:enhance_unit_all_heal04]",1
+300017,8,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.085, calc:mul, animation:enhance_unit_all_attack01],[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:120, calc:add, animation:enhance_unit_all_defense01_unit01]",1
+300018,10,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.128, calc:mul, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:240, calc:add, animation:enhance_unit_all_defense02_unit01]",3
+300019,12,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack03],[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:480, calc:add, animation:enhance_unit_all_attack03_unit01]",1
+300020,14,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack04],[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:960, calc:add, animation:enhance_unit_all_defense04_unit01]",1
+300021,8,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.085, calc:mul, animation:enhance_unit_all_attack01],[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:0.075, calc:mul, animation:enhance_unit_all_heal01_unit01]",1
+300022,9,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.128, calc:mul, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:0.15, calc:mul, animation:enhance_unit_all_heal02_unit01]",1
+300023,10,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack03],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.24, calc:mul, animation:enhance_unit_all_heal03_unit01]",1
+300024,12,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack04],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.42, calc:mul, animation:enhance_unit_all_heal04_unit01]",1
+300025,9,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.128, calc:mul, animation:enhance_unit_all_attack02],[effect:sp_boost, target:unit_all, val:1, animation:sp_boost_one02]",1
+300026,10,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack03],[effect:sp_boost, target:unit_all, val:1, animation:sp_boost_one03]",1
+300027,12,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack04],[effect:sp_boost, target:unit_all, val:1, animation:sp_boost_one03]",1
+300028,14,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.255, calc:mul, animation:enhance_unit_all_attack04],[effect:sp_boost, target:unit_all, val:1, animation:sp_boost_one03]",1
+300029,8,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:120, calc:add, animation:enhance_unit_all_attack01],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.075, calc:mul, animation:enhance_unit_all_heal01_unit01]",1
+300030,9,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:240, calc:add, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.15, calc:mul, animation:enhance_unit_all_heal02_unit01]",1
+300031,10,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:480, calc:add, animation:enhance_unit_all_attack03],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.24, calc:mul, animation:enhance_unit_all_heal03_unit01]",1
+300032,12,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:960, calc:add, animation:enhance_unit_all_attack04],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.42, calc:mul, animation:enhance_unit_all_heal04_unit01]",1
+300033,16,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:action, val:1.0, calc:mul, animation:enhance_unit_one_action01]",3
+300034,6,3,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.1, calc:mul, animation:enhance_unit_all_attack01]",3
+300035,7,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.15, calc:mul, animation:enhance_unit_all_attack02]",3
+300036,7,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.15, calc:mul, animation:enhance_unit_all_attack03]",3
+311001,6,3,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.1, calc:mul, animation:enhance_unit_all_attack01]",1
+311002,7,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.15, calc:mul, animation:enhance_unit_all_attack02]",1
+311003,8,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.2, calc:mul, animation:enhance_unit_all_attack03]",3
+311004,10,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.25, calc:mul, animation:enhance_unit_all_attack04]",3
+311005,12,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.3, calc:mul, animation:enhance_unit_all_attack04]",1
+311006,14,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.35, calc:mul, animation:enhance_unit_all_attack04]",1
+311007,16,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.4, calc:mul, animation:enhance_unit_all_attack04]",1
+311008,8,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.2, calc:mul, animation:enhance_unit_all_attack03]",3
+311017,6,3,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.085, calc:mul, animation:enhance_unit_all_attack01],[effect:enhance_unit, target:unit_red, turn:3, status:defense, val:120, calc:add, animation:enhance_unit_all_defense01_unit01]",1
+311018,7,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.128, calc:mul, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_red, turn:3, status:defense, val:240, calc:add, animation:enhance_unit_all_defense02_unit01]",1
+311019,8,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack03],[effect:enhance_unit, target:unit_red, turn:3, status:defense, val:480, calc:add, animation:enhance_unit_all_defense03_unit01]",1
+311020,10,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack03],[effect:enhance_unit, target:unit_red, turn:3, status:defense, val:960, calc:add, animation:enhance_unit_all_defense03_unit01]",3
+311021,12,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.255, calc:mul, animation:enhance_unit_all_attack03],[effect:enhance_unit, target:unit_red, turn:3, status:defense, val:1440, calc:add, animation:enhance_unit_all_defense03_unit01]",3
+311022,12,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.128, calc:mul, animation:enhance_unit_all_attack04_unit01],[effect:enhance_unit, target:unit_red, turn:3, status:defense, val:1280, calc:add, animation:enhance_unit_all_defense04_unit01],[effect:enhance_unit, target:unit_red, turn:3, status:heal, val:0.48, calc:mul, animation:enhance_unit_all_heal04_unit01]",3
+312001,6,3,2001,"[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.1, calc:mul, animation:enhance_unit_all_attack01]",1
+312002,7,5,2001,"[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.15, calc:mul, animation:enhance_unit_all_attack02]",1
+312003,8,5,2001,"[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.2, calc:mul, animation:enhance_unit_all_attack03]",3
+312004,10,5,2001,"[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.25, calc:mul, animation:enhance_unit_all_attack04]",3
+312005,12,5,2001,"[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.3, calc:mul, animation:enhance_unit_all_attack04]",1
+312006,14,5,2001,"[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:2.0, calc:mul, animation:enhance_unit_all_attack04]",1
+312007,16,5,2001,"[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:2.0, calc:mul, animation:enhance_unit_all_attack04]",1
+312008,10,5,2001,"[effect:enhance_unit, target:unit_green, turn:1, status:attack, val:0.3, calc:mul, animation:enhance_unit_all_attack01]",3
+312009,12,5,2001,"[effect:enhance_unit, target:unit_green, turn:1, status:attack, val:0.4, calc:mul, animation:enhance_unit_all_attack02]",3
+312010,8,5,2001,"[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.2, calc:mul, animation:enhance_unit_all_attack03]",3
+312017,7,5,2001,"[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.128, calc:mul, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_green, turn:3, status:defense, val:240, calc:add, animation:enhance_unit_all_defense02_unit01]",1
+312018,8,5,2001,"[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack03],[effect:enhance_unit, target:unit_green, turn:3, status:defense, val:480, calc:add, animation:enhance_unit_all_defense03_unit01]",1
+312019,8,5,2001,"[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.175, calc:mul, animation:enhance_unit_all_attack04_unit01],[effect:enhance_unit, target:unit_green, turn:3, status:defense, val:720, calc:add, animation:enhance_unit_all_defense04_unit01],[effect:enhance_unit, target:unit_green, turn:3, status:heal, val:0.315, calc:mul, animation:enhance_unit_all_heal04_unit01]",1
+312020,10,5,2001,"[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack03],[effect:enhance_unit, target:unit_green, turn:3, status:defense, val:960, calc:add, animation:enhance_unit_all_defense03_unit01]",3
+312021,12,5,2001,"[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.21, calc:mul, animation:enhance_unit_all_attack04_unit01],[effect:enhance_unit, target:unit_green, turn:3, status:defense, val:1080, calc:add, animation:enhance_unit_all_defense04_unit01],[effect:enhance_unit, target:unit_green, turn:3, status:heal, val:0.45, calc:mul, animation:enhance_unit_all_heal04_unit01]",3
+312022,10,5,2001,"[effect:enhance_unit, target:unit_green, turn:3, status:action, val:1.0, calc:mul, animation:enhance_unit_one_action01]",3
+313001,6,3,2001,"[effect:enhance_unit, target:unit_blue, turn:3, status:attack, val:0.1, calc:mul, animation:enhance_unit_all_attack01]",1
+313002,7,5,2001,"[effect:enhance_unit, target:unit_blue, turn:3, status:attack, val:0.15, calc:mul, animation:enhance_unit_all_attack02]",1
+313003,8,5,2001,"[effect:enhance_unit, target:unit_blue, turn:3, status:attack, val:0.2, calc:mul, animation:enhance_unit_all_attack03]",3
+313004,10,5,2001,"[effect:enhance_unit, target:unit_blue, turn:3, status:attack, val:0.25, calc:mul, animation:enhance_unit_all_attack04]",3
+313005,12,5,2001,"[effect:enhance_unit, target:unit_blue, turn:3, status:attack, val:0.3, calc:mul, animation:enhance_unit_all_attack04]",1
+313006,14,5,2001,"[effect:enhance_unit, target:unit_blue, turn:3, status:attack, val:2.0, calc:mul, animation:enhance_unit_all_attack04]",1
+313007,16,5,2001,"[effect:enhance_unit, target:unit_blue, turn:3, status:attack, val:2.0, calc:mul, animation:enhance_unit_all_attack04]",1
+313008,8,5,2001,"[effect:enhance_unit, target:unit_blue, turn:3, status:attack, val:0.2, calc:mul, animation:enhance_unit_all_attack03]",3
+313021,7,5,2001,"[effect:enhance_unit, target:unit_blue, turn:3, status:attack, val:0.128, calc:mul, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_blue, turn:3, status:heal, val:0.15, calc:mul, animation:enhance_unit_all_heal02_unit01]",1
+313022,8,5,2001,"[effect:enhance_unit, target:unit_blue, turn:3, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack03],[effect:enhance_unit, target:unit_blue, turn:3, status:heal, val:0.24, calc:mul, animation:enhance_unit_all_heal03_unit01]",1
+313023,10,5,2001,"[effect:enhance_unit, target:unit_blue, turn:3, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack04],[effect:enhance_unit, target:unit_blue, turn:3, status:heal, val:0.42, calc:mul, animation:enhance_unit_all_heal04_unit01]",3
+313024,12,5,2001,"[effect:enhance_unit, target:unit_blue, turn:3, status:attack, val:0.255, calc:mul, animation:enhance_unit_all_attack04],[effect:enhance_unit, target:unit_blue, turn:3, status:heal, val:0.6, calc:mul, animation:enhance_unit_all_heal04]",3
+314001,6,3,2001,"[effect:enhance_unit, target:unit_yellow, turn:3, status:attack, val:0.1, calc:mul, animation:enhance_unit_all_attack01]",3
+314002,7,5,2001,"[effect:enhance_unit, target:unit_yellow, turn:3, status:attack, val:0.15, calc:mul, animation:enhance_unit_all_attack02]",1
+314003,8,5,2001,"[effect:enhance_unit, target:unit_yellow, turn:3, status:attack, val:0.2, calc:mul, animation:enhance_unit_all_attack03]",3
+314004,10,5,2001,"[effect:enhance_unit, target:unit_yellow, turn:3, status:attack, val:0.25, calc:mul, animation:enhance_unit_all_attack04]",3
+314005,12,5,2001,"[effect:enhance_unit, target:unit_yellow, turn:3, status:attack, val:0.3, calc:mul, animation:enhance_unit_all_attack04]",1
+314006,14,5,2001,"[effect:enhance_unit, target:unit_yellow, turn:3, status:attack, val:2.0, calc:mul, animation:enhance_unit_all_attack04]",1
+314007,16,5,2001,"[effect:enhance_unit, target:unit_yellow, turn:3, status:attack, val:2.0, calc:mul, animation:enhance_unit_all_attack04]",1
+314008,8,5,2001,"[effect:enhance_unit, target:unit_yellow, turn:3, status:attack, val:0.2, calc:mul, animation:enhance_unit_all_attack03]",3
+314025,7,5,2001,"[effect:enhance_unit, target:unit_yellow, turn:3, status:attack, val:0.128, calc:mul, animation:enhance_unit_all_attack02],[effect:sp_boost, target:unit_yellow, val:1, animation:sp_boost_one02]",1
+314026,8,5,2001,"[effect:enhance_unit, target:unit_yellow, turn:3, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack03],[effect:sp_boost, target:unit_yellow, val:1, animation:sp_boost_one03]",1
+314027,10,5,2001,"[effect:enhance_unit, target:unit_yellow, turn:3, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack04],[effect:sp_boost, target:unit_yellow, val:1, animation:sp_boost_one03]",3
+314028,12,5,2001,"[effect:enhance_unit, target:unit_yellow, turn:3, status:attack, val:0.255, calc:mul, animation:enhance_unit_all_attack04],[effect:sp_boost, target:unit_yellow, val:2, animation:sp_boost_one03]",3
+314029,14,5,2001,"[effect:enhance_unit, target:unit_yellow, turn:3, status:attack, val:0.21, calc:mul, animation:enhance_unit_all_attack04_unit01],[effect:enhance_unit, target:unit_yellow, turn:3, status:defense, val:1080, calc:add, animation:enhance_unit_all_defense04_unit01],[effect:crash_growth,count:-1, val:2, animation:change_block]",3
+321001,6,3,2001,"[effect:enhance_unit, target:unit_human, turn:3, status:attack, val:0.1, calc:mul, animation:enhance_unit_all_attack01]",1
+321002,7,5,2001,"[effect:enhance_unit, target:unit_human, turn:3, status:attack, val:0.15, calc:mul, animation:enhance_unit_all_attack02]",1
+321003,10,5,2001,"[effect:enhance_unit, target:unit_human, turn:3, status:attack, val:0.25, calc:mul, animation:enhance_unit_all_attack03]",3
+321004,12,5,2001,"[effect:enhance_unit, target:unit_human, turn:3, status:attack, val:0.3, calc:mul, animation:enhance_unit_all_attack04]",3
+321005,12,5,2001,"[effect:enhance_unit, target:unit_human, turn:3, status:attack, val:0.3, calc:mul, animation:enhance_unit_all_attack04]",1
+321006,14,5,2001,"[effect:enhance_unit, target:unit_human, turn:3, status:attack, val:5.0, calc:mul, animation:enhance_unit_all_attack04]",1
+321007,16,5,2001,"[effect:enhance_unit, target:unit_human, turn:3, status:attack, val:5.0, calc:mul, animation:enhance_unit_all_attack04]",1
+321008,8,5,2001,"[effect:enhance_unit, target:unit_human, turn:3, status:heal, val:0.4, calc:mul, animation:enhance_unit_all_heal02]",3
+321009,10,5,2001,"[effect:enhance_unit, target:unit_human, turn:3, status:heal, val:0.42, calc:mul, animation:enhance_unit_all_heal03],[effect:sp_boost, target:unit_human, val:1, animation:sp_boost_one03]",3
+321010,12,5,2001,"[effect:enhance_unit, target:unit_human, turn:3, status:heal, val:0.6, calc:mul, animation:enhance_unit_all_heal04],[effect:sp_boost, target:unit_human, val:1, animation:sp_boost_one03]",3
+322001,6,3,2001,"[effect:enhance_unit, target:unit_animal, turn:3, status:attack, val:0.1, calc:mul, animation:enhance_unit_all_attack01]",1
+322002,7,5,2001,"[effect:enhance_unit, target:unit_animal, turn:3, status:attack, val:0.15, calc:mul, animation:enhance_unit_all_attack02]",1
+322003,10,5,2001,"[effect:enhance_unit, target:unit_animal, turn:3, status:attack, val:0.2.5, calc:mul, animation:enhance_unit_all_attack03]",3
+322004,12,5,2001,"[effect:enhance_unit, target:unit_animal, turn:3, status:attack, val:0.3, calc:mul, animation:enhance_unit_all_attack04]",3
+322005,12,5,2001,"[effect:enhance_unit, target:unit_animal, turn:3, status:attack, val:0.3, calc:mul, animation:enhance_unit_all_attack04]",1
+322006,14,5,2001,"[effect:enhance_unit, target:unit_animal, turn:3, status:attack, val:5.0, calc:mul, animation:enhance_unit_all_attack04]",1
+322007,16,5,2001,"[effect:enhance_unit, target:unit_animal, turn:3, status:attack, val:5.0, calc:mul, animation:enhance_unit_all_attack04]",1
+322008,7,5,2001,"[effect:enhance_unit, target:unit_animal, turn:3, status:attack, val:0.128, calc:mul, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_animal, turn:3, status:heal, val:0.15, calc:mul, animation:enhance_unit_all_heal02_unit01]",1
+322009,10,5,2001,"[effect:enhance_unit, target:unit_animal, turn:3, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack03],[effect:enhance_unit, target:unit_animal, turn:3, status:heal, val:0.42, calc:mul, animation:enhance_unit_all_heal03_unit01]",3
+322010,12,5,2001,"[effect:enhance_unit, target:unit_animal, turn:3, status:attack, val:0.255, calc:mul, animation:enhance_unit_all_attack04],[effect:enhance_unit, target:unit_animal, turn:3, status:heal, val:0.6, calc:mul, animation:enhance_unit_all_heal04_unit01]",3
+323001,6,3,2001,"[effect:enhance_unit, target:unit_dragon, turn:3, status:attack, val:0.1, calc:mul, animation:enhance_unit_all_attack01]",1
+323002,8,5,2001,"[effect:enhance_unit, target:unit_dragon, turn:3, status:attack, val:0.2, calc:mul, animation:enhance_unit_all_attack03]",3
+323003,10,5,2001,"[effect:enhance_unit, target:unit_dragon, turn:3, status:attack, val:0.25, calc:mul, animation:enhance_unit_all_attack04]",3
+323004,12,5,2001,"[effect:enhance_unit, target:unit_dragon, turn:3, status:attack, val:0.3, calc:mul, animation:enhance_unit_all_attack04]",3
+323005,12,5,2001,"[effect:enhance_unit, target:unit_dragon, turn:3, status:attack, val:1.0, calc:mul, animation:enhance_unit_all_attack04]",1
+323006,14,5,2001,"[effect:enhance_unit, target:unit_dragon, turn:3, status:attack, val:5.0, calc:mul, animation:enhance_unit_all_attack04]",1
+323007,16,5,2001,"[effect:enhance_unit, target:unit_dragon, turn:3, status:attack, val:5.0, calc:mul, animation:enhance_unit_all_attack04]",1
+323008,8,5,2001,"[effect:enhance_unit, target:unit_dragon, turn:3, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack03],[effect:enhance_unit, target:unit_dragon, turn:3, status:defense, val:480, calc:add, animation:enhance_unit_all_defense03_unit01]",3
+323009,10,5,2001,"[effect:enhance_unit, target:unit_dragon, turn:3, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack03],[effect:enhance_unit, target:unit_dragon, turn:3, status:defense, val:960, calc:add, animation:enhance_unit_all_defense03_unit01]",3
+323010,12,5,2001,"[effect:enhance_unit, target:unit_dragon, turn:3, status:attack, val:0.255, calc:mul, animation:enhance_unit_all_attack03],[effect:enhance_unit, target:unit_dragon, turn:3, status:defense, val:1440, calc:add, animation:enhance_unit_all_defense03_unit02]",3
+324001,6,3,2001,"[effect:enhance_unit, target:unit_machine, turn:3, status:attack, val:0.1, calc:mul, animation:enhance_unit_all_attack01]",1
+324002,7,5,2001,"[effect:enhance_unit, target:unit_machine, turn:3, status:attack, val:0.15, calc:mul, animation:enhance_unit_all_attack02]",1
+324003,8,5,2001,"[effect:enhance_unit, target:unit_machine, turn:3, status:attack, val:0.2, calc:mul, animation:enhance_unit_all_attack03]",1
+324004,10,5,2001,"[effect:enhance_unit, target:unit_machine, turn:3, status:attack, val:0.25, calc:mul, animation:enhance_unit_all_attack04]",1
+324005,12,5,2001,"[effect:enhance_unit, target:unit_machine, turn:3, status:attack, val:0.3, calc:mul, animation:enhance_unit_all_attack04]",1
+324006,14,5,2001,"[effect:enhance_unit, target:unit_machine, turn:3, status:attack, val:5.0, calc:mul, animation:enhance_unit_all_attack04]",1
+324007,16,5,2001,"[effect:enhance_unit, target:unit_machine, turn:3, status:attack, val:5.0, calc:mul, animation:enhance_unit_all_attack04]",1
+324008,7,5,2001,"[effect:enhance_unit, target:unit_machine, turn:3, status:defense, val:400, calc:add, animation:enhance_unit_all_defense02]",1
+324009,8,5,2001,"[effect:enhance_unit, target:unit_machine, turn:3, status:defense, val:480, calc:add, animation:enhance_unit_all_defense03],[effect:sp_boost, target:unit_machine, val:1, animation:sp_boost_one03]",3
+324010,10,5,2001,"[effect:enhance_unit, target:unit_machine, turn:3, status:defense, val:960, calc:add, animation:enhance_unit_all_defense04],[effect:sp_boost, target:unit_machine, val:1, animation:sp_boost_one03]",3
+325001,6,5,2001,"[effect:enhance_unit, target:unit_god, turn:3, status:attack, val:0.1, calc:mul, animation:enhance_unit_all_attack01]",1
+325002,8,5,2001,"[effect:enhance_unit, target:unit_god, turn:3, status:attack, val:0.2, calc:mul, animation:enhance_unit_all_attack03]",3
+325003,10,5,2001,"[effect:enhance_unit, target:unit_god, turn:3, status:attack, val:0.25, calc:mul, animation:enhance_unit_all_attack04]",3
+325004,12,5,2001,"[effect:enhance_unit, target:unit_god, turn:3, status:attack, val:0.3, calc:mul, animation:enhance_unit_all_attack04]",3
+325005,12,5,2001,"[effect:enhance_unit, target:unit_god, turn:3, status:attack, val:1.0, calc:mul, animation:enhance_unit_all_attack04]",1
+325006,14,5,2001,"[effect:enhance_unit, target:unit_god, turn:3, status:attack, val:5.0, calc:mul, animation:enhance_unit_all_attack04]",1
+325007,16,5,2001,"[effect:enhance_unit, target:unit_god, turn:3, status:attack, val:5.0, calc:mul, animation:enhance_unit_all_attack04]",1
+325008,8,5,2001,"[effect:enhance_unit, target:unit_god, turn:3, status:defense, val:480, calc:add, animation:enhance_unit_all_defense02],[effect:enhance_unit, target:unit_god, turn:3, status:heal, val:0.24, calc:mul, animation:enhance_unit_all_heal02_unit01]",3
+325009,10,5,2001,"[effect:enhance_unit, target:unit_god, turn:3, status:attack, val:0.175, calc:mul, animation:enhance_unit_all_attack03_unit01],[effect:enhance_unit, target:unit_god, turn:3, status:defense, val:720, calc:add, animation:enhance_unit_all_defense03_unit01],[effect:enhance_unit, target:unit_god, turn:3, status:heal, val:0.315, calc:mul, animation:enhance_unit_all_heal03_unit01]",3
+325010,12,5,2001,"[effect:enhance_unit, target:unit_god, turn:3, status:attack, val:0.21, calc:mul, animation:enhance_unit_all_attack04_unit01],[effect:enhance_unit, target:unit_god, turn:3, status:defense, val:1080, calc:add, animation:enhance_unit_all_defense04_unit01],[effect:enhance_unit, target:unit_god, turn:3, status:heal, val:0.45, calc:mul, animation:enhance_unit_all_heal04_unit01]",3
+331001,6,3,2001,"[effect:enhance_unit, target:unit_attack, turn:4, status:attack, val:0.1, calc:mul, animation:enhance_unit_all_attack01]",1
+331002,8,5,2001,"[effect:enhance_unit, target:unit_attack, turn:4, status:attack, val:0.2, calc:mul, animation:enhance_unit_all_attack02]",3
+331003,10,5,2001,"[effect:enhance_unit, target:unit_attack, turn:4, status:attack, val:0.25, calc:mul, animation:enhance_unit_all_attack03]",3
+331004,12,5,2001,"[effect:enhance_unit, target:unit_attack, turn:4, status:attack, val:0.3, calc:mul, animation:enhance_unit_all_attack04]",3
+331005,6,3,2001,"[effect:enhance_unit, target:unit_attack, turn:4, status:attack, val:0.35, calc:mul, animation:enhance_unit_all_attack04]",1
+332001,7,5,2001,"[effect:enhance_unit, target:unit_balance, turn:4, status:attack, val:0.105, calc:mul, animation:enhance_unit_all_attack03_unit01],[effect:enhance_unit, target:unit_balance, turn:4, status:defense, val:360, calc:add, animation:enhance_unit_all_defense03_unit01],[effect:enhance_unit, target:unit_balance, turn:4, status:heal, val:0.18, calc:mul, animation:enhance_unit_all_heal03_unit01]",1
+332002,8,5,2001,"[effect:enhance_unit, target:unit_balance, turn:4, status:attack, val:0.14, calc:mul, animation:enhance_unit_all_attack03_unit01],[effect:enhance_unit, target:unit_balance, turn:4, status:defense, val:360, calc:add, animation:enhance_unit_all_defense03_unit01],[effect:enhance_unit, target:unit_balance, turn:4, status:heal, val:0.18, calc:mul, animation:enhance_unit_all_heal03_unit01]",3
+332003,10,5,2001,"[effect:enhance_unit, target:unit_balance, turn:4, status:attack, val:0.175, calc:mul, animation:enhance_unit_all_attack04_unit01],[effect:enhance_unit, target:unit_balance, turn:4, status:defense, val:720, calc:add, animation:enhance_unit_all_defense04_unit01],[effect:enhance_unit, target:unit_balance, turn:4, status:heal, val:0.315, calc:mul, animation:enhance_unit_all_heal04_unit01]",3
+332004,12,5,2001,"[effect:enhance_unit, target:unit_balance, turn:4, status:attack, val:0.21, calc:mul, animation:enhance_unit_all_attack04_unit01],[effect:enhance_unit, target:unit_balance, turn:4, status:defense, val:1080, calc:add, animation:enhance_unit_all_defense04_unit01],[effect:enhance_unit, target:unit_balance, turn:4, status:heal, val:0.45, calc:mul, animation:enhance_unit_all_heal04_unit01]",3
+333001,6,3,2001,"[effect:enhance_unit, target:unit_hp, turn:4, status:defense, val:200, calc:add, animation:enhance_unit_all_defense01]",1
+333002,8,5,2001,"[effect:enhance_unit, target:unit_hp, turn:4, status:defense, val:800, calc:add, animation:enhance_unit_all_defense02]",3
+333003,10,5,2001,"[effect:enhance_unit, target:unit_hp, turn:4, status:defense, val:1600, calc:add, animation:enhance_unit_all_defense03]",3
+333004,12,5,2001,"[effect:enhance_unit, target:unit_hp, turn:4, status:defense, val:2400, calc:add, animation:enhance_unit_all_defense04]",3
+333005,12,5,2001,"[effect:enhance_unit, target:unit_hp, turn:4, status:defense, val:2400, calc:add, animation:enhance_unit_all_defense04]",1
+334001,7,5,2001,"[effect:enhance_unit, target:unit_heal, turn:4, status:heal, val:0.25, calc:mul, animation:enhance_unit_all_heal02]",1
+334002,8,5,2001,"[effect:enhance_unit, target:unit_heal, turn:4, status:heal, val:0.4, calc:mul, animation:enhance_unit_all_heal02]",3
+334003,10,5,2001,"[effect:enhance_unit, target:unit_heal, turn:4, status:heal, val:0.7, calc:mul, animation:enhance_unit_all_heal03]",3
+334004,12,5,2001,"[effect:enhance_unit, target:unit_heal, turn:4, status:heal, val:1.0, calc:mul, animation:enhance_unit_all_heal04]",3
+334005,10,5,2001,"[effect:enhance_unit, target:unit_heal, turn:4, status:heal, val:0.7, calc:mul, animation:enhance_unit_all_heal04]",1
+410001,7,5,2001,"[effect:reduction, target:unit_all, turn:1, color:all, val:0.3, animation:reduction_one02]",1
+410002,8,5,2001,"[effect:reduction, target:unit_all, turn:1, color:all, val:0.5, animation:reduction_one03]",3
+410003,10,5,2001,"[effect:reduction, target:unit_all, turn:1, color:all, val:0.8, animation:reduction_one04]",3
+410004,12,5,2001,"[effect:reduction, target:unit_all, turn:1, color:all, val:1.0, animation:reduction_one04]",1
+410005,8,5,2001,"[effect:reduction, target:unit_all, turn:1, color:all, val:0.5, animation:reduction_one03]",3
+413003,10,5,2001,"[effect:reduction, target:unit_all, turn:2, color:blue, val:0.5, animation:reduction_one04]",3
+413004,12,5,2001,"[effect:reduction, target:unit_all, turn:2, color:blue, val:0.75, animation:reduction_one04]",3
+414003,10,5,2001,"[effect:reduction, target:unit_all, turn:3, color:yellow, val:0.75, animation:reduction_one04]",3
+414004,12,5,2001,"[effect:reduction, target:unit_all, turn:3, color:yellow, val:1.0, animation:reduction_one04]",3
+420001,6,3,2001,"[effect:guard_break, target:enemy_all, turn:3, val:200, calc:add, animation:guard_break01]",1
+420002,7,5,2001,"[effect:guard_break, target:enemy_all, turn:3, val:400, calc:add, animation:guard_break02]",3
+420003,8,5,2001,"[effect:guard_break, target:enemy_all, turn:3, val:800, calc:add, animation:guard_break03]",3
+420004,12,5,2001,"[effect:guard_break, target:enemy_all, turn:3, val:1.0, calc:mul, animation:guard_break04]",3
+420005,8,5,2001,"[effect:guard_break, target:enemy_all, turn:3, val:800, calc:add, animation:guard_break03]",3
+422001,8,5,2001,"[effect:guard_break, target:enemy_green, turn:3, val:800, calc:add, animation:guard_break03]",3
+422002,10,5,2001,"[effect:guard_break, target:enemy_green, turn:3, val:1600, calc:add, animation:guard_break04]",3
+422003,12,5,2001,"[effect:guard_break, target:enemy_green, turn:3, val:1.0, calc:mul, animation:guard_break04]",3
+430001,8,5,2001,"[effect:virus, target:enemy_all, turn:5, rate:1.0, val:0.5, animation:virus01]",1
+430002,9,5,2001,"[effect:virus, target:enemy_all, turn:5, rate:1.0, val:0.75, animation:virus02]",3
+430003,10,5,2001,"[effect:virus, target:enemy_all, turn:5, rate:1.0, val:1.0, animation:virus03]",3
+430004,11,5,2001,"[effect:virus, target:enemy_all, turn:5, rate:1.0, val:1.2, animation:virus04]",3
+430005,14,5,2001,"[effect:virus, target:enemy_all, turn:5, rate:1.0, val:1.4, animation:virus04]",1
+430006,16,5,2001,"[effect:virus, target:enemy_all, turn:5, rate:1.0, val:1.0, animation:virus04]",1
+430007,18,5,2001,"[effect:virus, target:enemy_all, turn:5, rate:1.0, val:1.0, animation:virus04]",1
+430008,9,5,2001,"[effect:virus, target:enemy_all, turn:5, rate:1.0, val:0.75, animation:virus02]",3
+430009,10,5,2001,"[effect:virus, target:enemy_all, turn:5, rate:1.0, val:1.0, animation:virus03]",3
+430010,12,5,2001,"[effect:damage, target:enemy_one, color:red, val:1.224, animation:damage_one_red01],[effect:guard_break, target:enemy_all, turn:2, val:180, calc:add, animation:guard_break01],[effect:attack_break, target:enemy_all, turn:2, val:0.1, animation:attack_break01]",3
+430011,14,5,2001,"[effect:damage, target:enemy_one, color:red, val:1.8, animation:damage_one_red02],[effect:guard_break, target:enemy_all, turn:2, val:360, calc:add, animation:guard_break02],[effect:attack_break, target:enemy_all, turn:2, val:0.2, animation:attack_break02]",3
+440001,9,5,2001,"[effect:sleep, target:enemy_all, turn:1, rate:1.0, animation:sleep01]",3
+440002,14,5,2001,"[effect:sleep, target:enemy_all, turn:2, rate:1.0, animation:sleep02]",3
+440003,10,5,2001,"[effect:sleep, target:enemy_all, turn:3, rate:1.0, animation:sleep03]",1
+440004,20,5,2001,"[effect:sleep, target:enemy_all, turn:3, rate:1.0, animation:sleep03]",3
+441001,20,5,2001,"[effect:sleep, target:enemy_red, turn:3, rate:1.0, animation:sleep04]",3
+445001,9,5,2001,"[effect:sleep,target:enemy_red, turn:1, rate:1.0, animation:sleep04]",3
+450001,8,5,2001,"[effect:hungup, target:enemy_all, turn:1, rate:1.0, animation:hungup01]",3
+450002,9,5,2001,"[effect:hungup, target:enemy_all, turn:2, rate:1.0, animation:hungup02]",1
+450003,10,5,2001,"[effect:hungup, target:enemy_all, turn:3, rate:1.0, animation:hungup03]",3
+450004,12,5,2001,"[effect:hungup, target:enemy_all, turn:4, rate:1.0, animation:hungup04]",1
+453001,14,5,2001,"[effect:hungup, target:enemy_blue, turn:4, rate:1.0, animation:hungup_effect]",3
+460001,9,5,2001,"[effect:attack_break, target:enemy_all, turn:3, val:0.3, animation:attack_break02]",3
+460002,10,5,2001,"[effect:attack_break, target:enemy_all, turn:3, val:0.5, animation:attack_break03]",3
+460003,12,5,2001,"[effect:attack_break, target:enemy_all, turn:2, val:0.8, animation:attack_break04]",1
+460004,14,5,2001,"[effect:attack_break, target:enemy_all, turn:2, val:1.0, animation:attack_break04]",1
+511001,10,5,2001,"[effect:change_block, new_block:block_red, target:block_heart, count:0, val:0, animation:change_block]",3
+511002,10,5,2001,"[effect:change_block, new_block:block_red, target:block_green, count:0, val:0, animation:change_block]",3
+512001,12,5,2001,"[effect:change_block, new_block:block_heart, target:block_green, count:0, val:0, animation:change_block],[effect:enhance_unit, target:unit_green, turn:3, status:heal, val:0.42, calc:mul, animation:enhance_unit_all_heal03_unit01]",3
+512002,10,5,2001,"[effect:change_block, new_block:block_green, target:block_yellow, count:0, val:0, animation:change_block]",3
+513001,12,5,2001,"[effect:guard_break, target:enemy_all, turn:3, val:200, calc:add, animation:guard_break02],[effect:enhance_unit, target:unit_blue, turn:3, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack04],[effect:change_block, new_block:block_blue, target:block_heart, count:0, val:0, animation:change_block]",3
+513002,10,5,2001,"[effect:change_block, new_block:block_blue, target:block_red, count:0, val:0, animation:change_block]",3
+514001,10,5,2001,"[effect:change_block, new_block:block_yellow, target:block_heart, count:0, val:0, animation:change_block]",3
+514002,10,5,2001,"[effect:change_block, new_block:block_yellow, target:block_blue, count:0, val:0, animation:change_block]",3
+514003,12,5,2001,"[effect:enhance_unit, target:unit_yellow, turn:3, status:action, val:1.0, calc:mul, animation:enhance_unit_one_action01],[effect:change_block, new_block:block_yellow, target:block_blue, count:0, val:0, animation:change_block]",3
+514004,13,5,2001,"[effect:degrade_unit, target:unit_all, turn:2, status:action, val:5.0, animation:enemy_tap_down],[effect:force_change_block, new_block:block_green, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:color_break, ignore04:magnet, count:0, val:0, animation:change_block]",3
+514005,10,5,2001,"[effect:enhance_unit, target:unit_blue, turn:3, status:action, val:1.0, calc:mul, animation:enhance_unit_one_action01]",3
+514007,14,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:action, val:1.0, calc:mul, animation:enhance_unit_one_action01],[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.175, calc:mul, animation:enhance_unit_all_attack04],[effect:enhance_unit, target:unit_red, turn:3, status:heal, val:0.315, calc:mul, animation:enhance_unit_all_heal04_unit01]",3
+514008,12,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:action, val:1.0, calc:mul, animation:enhance_unit_one_action01],[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.14, calc:mul, animation:enhance_unit_all_attack04],[effect:enhance_unit, target:unit_red, turn:3, status:heal, val:0.18, calc:mul, animation:enhance_unit_all_heal04_unit01]",3
+514009,11,5,2001,"[effect:change_block, new_block:crack_bomb, target:jammer,color:block_red,count:0, val:20, animation:change_block],[effect:change_block, new_block:crack_bomb, target:time_bomb,color:block_red,count:0, val:20, animation:change_block],[effect:change_block, new_block:block_red, target:block_blue, count:0, val:0, animation:change_block]",3
+521001,13,5,2001,"[effect:freq_block, color:red, turn:4, val:1.2]",1
+521002,14,5,2001,"[effect:freq_block, color:green, turn:4, val:1.4]",1
+522001,13,5,2001,"[effect:freq_block, color:green, turn:4, val:1.2]",1
+522002,14,5,2001,"[effect:freq_block, color:green, turn:4, val:1.4]",1
+523001,13,5,2001,"[effect:freq_block, color:blue, turn:4, val:1.2]",1
+523002,14,5,2001,"[effect:freq_block, color:blue, turn:4, val:1.4]",1
+524001,13,5,2001,"[effect:freq_block, color:yellow, turn:4, val:1.2]",1
+524002,14,5,2001,"[effect:freq_block, color:yellow, turn:4, val:1.4]",1
+530001,9,5,2001,"[effect:counter, target:enemy_all, turn:5, val:2.04]",3
+530002,10,5,2001,"[effect:counter, target:enemy_all, turn:5, val:3.0]",3
+530003,10,5,2001,"[effect:counter, target:enemy_all, turn:5, val:4.08]",1
+530004,12,5,2001,"[effect:counter, target:enemy_all, turn:5, val5.95]",1
+530005,8,5,2001,"[effect:counter, target:enemy_all, turn:5, val:2.04]",3
+530006,10,5,2001,"[effect:counter_new, target:unit_all, invoke_condition:enemy_all, counter_target:attacker, turn:5, val:1.5]",3
+530007,12,5,2001,"[effect:counter_new, target:unit_all, invoke_condition:enemy_all, counter_target:attacker, turn:5, val:2.0]",3
+530008,14,5,2001,"[effect:counter_new,target:unit_all,invoke_condition:enemy_all,counter_target:attacker,turn:3, val:3.0],[effect:attack_break, target:unit_all, turn:3, val:0.4, calc:mul, animation:null],[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:1080, calc:add, animation:enhance_unit_all_defense02_unit01]",3
+530009,13,5,2001,"[effect:counter_new,target:unit_all,invoke_condition:enemy_all,counter_target:attacker,turn:5, val:2.0],[effect:heal_ratio, val:1.35, animation:heal02_unit01]",3
+531001,14,5,2001,"[effect:damage_status_break, target:enemy_one, status:counter, color:green, val1:12.9, val2:8.16, animation:damage_counter_break05]",3
+534001,6,3,2001,"[effect:change_block, new_block:block_yellow, target:jammer, count:0, val:0, animation:change_block]",3
+535001,8,5,2001,"[effect:change_block, new_block:block_yellow, target:time_bomb, count:0, val:0, animation:change_block]",3
+535002,6,5,2001,"[effect:change_block, new_block:block_yellow, target:time_bomb, count:0, val:0, animation:change_block]",3
+535003,6,3,2001,"[effect:change_block, new_block:block_yellow, target:time_bomb, count:0, val:0, animation:change_block]",3
+535004,10,5,2001,"[effect:change_block, new_block:block_heart, target:time_bomb, count:0, val:0, animation:change_block],[effect:damage, target:enemy_all, color:yellow, val:1.632, animation:damage_all_yellow03]",3
+536001,8,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.24, calc:mul, animation:enhance_unit_all_heal02_unit01],[effect:change_block, new_block:block_heart, target:jammer, count:0, val:0, animation:change_block]",3
+536002,10,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.42, calc:mul, animation:enhance_unit_all_heal03_unit01],[effect:change_block, new_block:block_heart, target:jammer, count:0, val:0, animation:change_block]",3
+536003,11,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack02_unit01],[effect:change_block, new_block:block_red, target:jammer, count:0, val:0, animation:change_block]",3
+540001,6,3,2001,"[effect:special_block,val:6, count:1, animation:change_block]",3
+540002,9,5,2001,"[effect:special_block,val:14, count:2, animation:change_block]",3
+540003,8,5,2001,"[effect:special_block,val:6, count:3, animation:change_block]",1
+540004,9,5,2001,"[effect:special_block,val:8, count:4, animation:change_block]",3
+540005,7,5,2001,"[effect:special_block,val:12, count:2, animation:change_block]",3
+540006,5,3,2001,"[effect:special_block, val:6, count:5, animation:change_block]",3
+540011,8,5,2001,"[effect:crash_growth,count:-1, val:1, animation:change_block]",3
+540012,9,5,2001,"[effect:crash_growth,count:-1, val:2, animation:change_block]",3
+540013,10,5,2001,"[effect:crash_growth,count:-1, val:3, animation:change_block]",3
+540014,9,5,2001,"[effect:special_block,val:36, count:1, animation:change_block]",3
+540015,13,5,2001,"[effect:crash_growth,count:-1, val:2, animation:change_block],[effect:special_block,val:10, count:3, animation:change_block]",3
+541001,10,5,2001,"[effect:damage, target:enemy_one, color:blue, val:3.264, animation:damage_one_blue03],[effect:special_block,val:6, count:2, animation:change_block]",3
+550001,14,5,2001,"[effect:damage_block_break, target:enemy_all, color:red, val:0.2, animation:damage_all_red03]",1
+550002,24,5,2001,"[effect:damage_block_break, target:enemy_all, color:red, val:0.36, animation:damage_block_break_all_red03]",1
+550003,20,5,2001,"[effect:damage_block_break, target:enemy_all, color:red, val:0.531, animation:damage_block_break_all_red03]",3
+550004,12,5,2001,"[effect:change_block, new_block:block_heart, target:block_blue, count:0, val:0, animation:change_block],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.315, calc:mul, animation:enhance_unit_all_heal02_unit01],[effect:damage, target:enemy_all, color:red, val:1.8, animation:damage_all_red04]",3
+550005,12,5,2001,"[effect:guard_break, target:enemy_all, turn:3, val:800, calc:add, animation:guard_break02],[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.175, calc:mul, animation:enhance_unit_all_attack04_unit01],[effect:enhance_unit, target:unit_green, turn:3, status:defense, val:720, calc:add, animation:enhance_unit_all_defense04_unit01]",3
+550006,14,5,2001,"[effect:guard_break, target:enemy_all, turn:3, val:800, calc:add, animation:guard_break02],[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.21, calc:mul, animation:enhance_unit_all_attack04_unit01],[effect:enhance_unit, target:unit_green, turn:3, status:defense, val:1080, calc:add, animation:enhance_unit_all_defense04_unit01]",3
+611001,8,5,2001,"[effect:guard_break, target:enemy_all, turn:3, val:480, calc:add, animation:guard_break02],[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack04],[effect:enhance_unit, target:unit_green, turn:3, status:defense, val:960, calc:add, animation:enhance_unit_all_defense04_unit01]",1
+611002,9,5,2001,"[effect:damage, target:enemy_all, color:red, val:1.2, animation:damage_all_red03],[effect:heal_ratio, val:0.75, animation:heal02_unit01]",1
+611003,10,5,2001,"[effect:damage, target:enemy_all, color:red, val:1.632, animation:damage_all_red04],[effect:heal_ratio, val:0.75, animation:heal02_unit01]",1
+611004,12,5,2001,"[effect:damage, target:enemy_all, color:red, val:2.4, animation:damage_all_red04],[effect:heal_ratio, val:0.75, animation:heal02_unit01]",1
+614001,6,3,2001,"[effect:damage, target:enemy_one, color:red, val:1.632, animation:damage_one_red02],[effect:heal_ratio, val:0.3, animation:heal02_unit01]",1
+614002,8,5,2001,"[effect:damage, target:enemy_one, color:red, val:3.264, animation:damage_one_red03],[effect:heal_ratio, val:0.75, animation:heal02_unit01]",3
+614003,10,5,2001,"[effect:damage, target:enemy_one, color:red, val:4.76, animation:damage_one_red04],[effect:heal_ratio, val:0.75, animation:heal02_unit01]",3
+615001,6,3,2001,"[effect:damage, target:enemy_one, color:yellow, val:1.632, animation:damage_onel_yellow02],[effect:heal_ratio, val:0.3, animation:heal02_unit01]",1
+615002,8,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:3.264, animation:damage_one_yellow02],[effect:heal_ratio, val:0.75, animation:heal02_unit01]",3
+615003,10,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:4.76, animation:damage_one_yellow03],[effect:heal_ratio, val:0.75, animation:heal02_unit01]",3
+615004,12,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:6.528, animation:damage_one_yellow04],[effect:heal_ratio, val:1.35, animation:heal02_unit01]",3
+633001,8,5,2001,"[effect:damage, target:enemy_one, color:blue, val:3.264, animation:damage_one_blue02],[effect:heal_ratio, val:0.75, animation:heal02_unit1]",3
+633002,10,5,2001,"[effect:damage, target:enemy_one, color:blue, val:4.76, animation:damage_one_blue03],[effect:heal_ratio, val:0.75, animation:heal02_unit1]",3
+633003,12,5,2001,"[effect:damage, target:enemy_one, color:blue, val:6.528, animation:damage_one_blue04],[effect:heal_ratio, val:1.35, animation:heal02_unit01]",3
+633004,11,5,2001,"[effect:damage, target:enemy_all, color:blue, val:2.38, animation:damage_all_blue03],[effect:heal_ratio, val:0.75, animation:heal02_unit01]",3
+633005,13,5,2001,"[effect:damage, target:enemy_all, color:blue, val:3.264, animation:damage_all_blue04],[effect:heal_ratio, val:1.35, animation:heal02_unit01]",3
+711001,8,5,2001,"[effect:damage, target:enemy_all, color:red, val:0.816, animation:damage_all_red01],[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.128, calc:mul, animation:enhance_unit_all_attack01_unit01]",3
+711002,9,5,2001,"[effect:damage, target:enemy_all, color:red, val:0.816, animation:damage_all_red02],[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack02_unit01]",3
+711003,14,5,2001,"[effect:damage, target:enemy_all, color:red, val:1.632, animation:damage_all_red03],[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.255, calc:mul, animation:enhance_unit_all_attack03_unit01]",3
+711004,10,5,2001,"[effect:damage, target:enemy_all, color:red, val:0.816, animation:damage_all_red01],[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack01_unit01]",3
+711005,12,5,2001,"[effect:damage, target:enemy_all, color:red, val:0.816, animation:damage_all_red02],[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack02_unit01]",3
+712001,9,5,2001,"[effect:enhance_unit, target:unit_all, turn:1, status:defense, val:480, calc:add, animation:enhance_unit_all_defense01_unit01],[effect:change_block, new_block:block_heart, target:block_all, count:5, val:0, animation:change_block]",3
+712002,10,5,2001,"[effect:damage, target:enemy_all, color:green, val:0.816, animation:damage_all_green02],[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:480, calc:add, animation:enhance_unit_all_defense02_unit01]",3
+712003,14,5,2001,"[effect:damage, target:enemy_all, color:green, val:1.632, animation:damage_all_green03],[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:1440, calc:add, animation:enhance_unit_all_defense03_unit01]",3
+713001,6,3,2001,"[effect:damage, target:enemy_one, color:blue, val:1.632, animation:damage_one_blue01],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.075, calc:mul, animation:enhance_unit_all_heal01_unit01]",1
+713002,8,5,2001,"[effect:damage, target:enemy_one, color:blue, val:1.632, animation:damage_one_blue02],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.24, calc:mul, animation:enhance_unit_all_heal02_unit01]",3
+713003,12,5,2001,"[effect:damage, target:enemy_one, color:blue, val:3.264, animation:damage_one_blue03],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.6, calc:mul, animation:enhance_unit_all_heal03_unit01]",3
+714001,6,3,2001,"[effect:damage, target:enemy_one, color:yellow, val:1.224, animation:damage_one_yellow01],[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.105, calc:mul, animation:enhance_unit_all_attack01],[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:180, calc:add, animation:enhance_unit_all_defense01_unit01]",3
+714002,7,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:1.224, animation:damage_one_yellow02],[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.14, calc:mul, animation:enhance_unit_all_attack02_unit01],[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:360, calc:add, animation:enhance_unit_all_defense02_unit01]",3
+714003,8,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:1.8, animation:damage_one_yellow03],[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.21, calc:mul, animation:enhance_unit_all_attack03_unit01],[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:1080, calc:add, animation:enhance_unit_all_defense03_unit01]",1
+714004,14,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:defense, val:1080, calc:add, animation:enhance_unit_all_defense03_unit01],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.45, calc:mul, animation:enhance_unit_all_heal02_unit01],[effect:regenerate, turn:3, val:0.405, animation:heal_unit]",3
+811001,10,5,2001,"[effect:damage, target:enemy_all, color:red, val:0.816, animation:damage_all_red02],[effect:guard_break, target:enemy_all, turn:3, val:480, calc:add, animation:guard_break02]",3
+811002,14,5,2001,"[effect:damage, target:enemy_all, color:red, val:1.632, animation:damage_all_red03],[effect:guard_break, target:enemy_all, turn:3, val:1440, calc:add, animation:guard_break03]",3
+822001,9,5,2001,"[effect:damage, target:enemy_all, color:green, val:0.816, animation:damage_all_green01],[effect:reduction, target:unit_all, turn:1, color:all, val:0.2, animation:reduction_one01]",3
+822002,10,5,2001,"[effect:damage, target:enemy_all, color:green, val:0.816, animation:damage_all_green02],[effect:reduction, target:unit_all, turn:1, color:all, val:0.3, animation:reduction_one02]",3
+822003,12,5,2001,"[effect:damage, target:enemy_all, color:green, val:1.632, animation:damage_all_green03],[effect:reduction, target:unit_all, turn:1, color:all, val:0.5, animation:reduction_one03]",3
+822004,12,5,2001,"[effect:crash_condition, target:unit_all, val:-2, turn:4, animation:crash_panel_reduce04],[effect:reduction, target:unit_all, turn:1, color:all, val:0.5, animation:reduction_one03]",3
+822005,12,5,2001,"[effect:crash_condition, target:unit_all, val:-1, turn:4, animation:crash_panel_reduce01],[effect:change_block, new_block:block_blue, target:block_heart, count:0, val:0, animation:change_block]",3
+822006,12,5,2001,"[effect:special_block,val:8, count:3, animation:change_block],[effect:enhance_unit, target:myself, turn:3, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack03]",3
+900001,20,5,2001,"[effect:cure, bad_status:all, animation:cure01]",1
+910001,11,5,2001,"[effect:heal_ratio, val:0.75, animation:heal02],[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.128, calc:mul, animation:enhance_unit_all_attack02_unit01]",3
+910002,12,5,2001,"[effect:heal_ratio, val:1.35, animation:heal03],[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.128, calc:mul, animation:enhance_unit_all_attack03_unit01]",3
+910003,14,5,2001,"[effect:heal_ratio, val:0.9, animation:heal03],[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.128, calc:mul, animation:enhance_unit_all_attack03_unit01]",1
+920001,10,5,2001,"[effect:heal_ratio, val:0.3, animation:heal01],[effect:reduction, target:unit_all, turn:3, val:0.2, animation:reduction_one01_unit01]",1
+920002,11,5,2001,"[effect:heal_ratio, val:0.75, animation:heal02],[effect:reduction, target:unit_all, turn:3, val:0.2, animation:reduction_one02_unit01]",1
+920003,12,5,2001,"[effect:heal_ratio, val:1.35, animation:heal03],[effect:reduction, target:unit_all, turn:3, val:0.2, animation:reduction_one03_unit01]",1
+930001,12,5,2001,"[effect:heal_ratio, val:0.75, animation:heal02],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.24, calc:mul, animation:enhance_unit_all_heal03_unit01]",3
+930002,14,5,2001,"[effect:heal_ratio, val:1.35, animation:heal03],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.24, calc:mul, animation:enhance_unit_all_heal03_unit01]",3
+930003,10,5,2001,"[effect:heal_ratio, val:0.75, animation:heal02],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.24, calc:mul, animation:enhance_unit_all_heal03_unit01]",3
+930004,12,5,2001,"[effect:heal_ratio, val:1.35, animation:heal03],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.24, calc:mul, animation:enhance_unit_all_heal03_unit01]",3
+950001,8,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.085, calc:mul, animation:enhance_unit_all_attack01],[effect:reduction, target:unit_all, turn:3, val:0.2, animation:reduction_one01_unit01]",1
+950002,9,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.128, calc:mul, animation:enhance_unit_all_attack02],[effect:reduction, target:unit_all, turn:3, val:0.25, animation:reduction_one02_unit01]",1
+950003,10,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack03],[effect:reduction, target:unit_all, turn:3, val:0.3, animation:reduction_one03_unit01]",1
+950004,12,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack04],[effect:reduction, target:unit_all, turn:3, val:0.4, animation:reduction_one04_unit01]",1
+960001,10,5,2001,"[effect:guard_break, target:enemy_all, turn:1, val:480, calc:add, animation:guard_break03],[effect:enhance_unit, target:unit_all, turn:1, status:attack, val:0.17, calc:mul, animation:enhance_unit_all_attack03]",1
+960002,12,5,2001,"[effect:guard_break, target:enemy_all, turn:1, val:960, calc:add, animation:guard_break04],[effect:enhance_unit, target:unit_all, turn:1, status:attack, val:0.213, calc:mul, animation:enhance_unit_all_attack04]",1
+970001,10,5,2001,"[effect:special_block, val:3],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.24, calc:mul, animation:enhance_unit_all_heal03]",1
+974001,7,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:3.264, animation:damage_one_yellow02],[effect:change_block, new_block:block_yellow, target:jammer, count:0, val:0, animation:change_block]",3
+974002,8,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:4.76, animation:damage_one_yellow03][effect:change_block, new_block:block_yellow, target:jammer, count:0, val:0, animation:change_block]",3
+980001,15,5,2001,"[effect:sp_boost, target:unit_right, val:5, animation:sp_boost_one02]",1
+990001,0,1,2001,,3
+990002,0,1,2001,,3
+990003,0,1,2001,,3
+990004,0,1,2001,,3
+990005,0,1,2001,,3
+990006,0,1,2001,,3
+990007,0,1,2001,,3
+990008,0,1,2001,,3
+990009,0,1,2001,,3
+990010,0,1,2001,,3
+990011,0,1,2001,,3
+990012,0,1,2001,,3
+990013,0,1,2001,,3
+990014,0,1,2001,,3
+990015,0,1,2001,,1
+990016,0,1,2001,,1
+990017,0,1,2001,,1
+990018,0,1,2001,,1
+990019,0,1,2001,,3
+990020,0,1,2001,,3
+990021,0,1,2001,,3

@@ -1,0 +1,30 @@
+30036001,"[effect:spread, val:0.3]",3
+30036002,,3
+30036003,"[effect:spread, val:0.3]",3
+30036004,,3
+30036005,,3
+30036006,,3
+30036007,"[effect:break_attack, val:0.03, lowest_val:2000, count:15, block:block_heart, target:unit_one]",3
+30036008,,3
+30036009,,3
+30036010,,3
+30036011,"[effect:enhance_enemy, target:enemy_all, turn:-1, status:attack, val:0.3, calc:mul, animation:enemy_enhance_attack]",3
+30036012,,3
+30036013,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1284, calc:add, animation:enemy_enhance_attack]",3
+30036014,"[effect:rush, count:2, val:0.52]",3
+30036015,,3
+30036016,"[effect:damage_fix_absolute, target:unit_one, color:red, val:3000],[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:enemy_message, val1:3.4, val2:1.2]",3
+30036017,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:unit_one, turn:-1, val:0.11, animation:enemy_counter]",3
+30036018,"[effect:rush, count:2, val:0.46]",3
+30036019,"[effect:rush, count:3, val:0.33]",3
+30036020,"[effect:damage_fix_absolute, target:unit_one, color:red, val:3500],[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:enemy_message, val1:3.4, val2:1.2]",3
+30036021,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:unit_one, turn:-1, val:0.1, animation:enemy_counter]",3
+30036022,"[effect:nothing]",3
+30036023,"[effect:rush, count:3, val:0.28]",3
+30036024,"[effect:rush, count:2, val:0.38]",3
+30036025,"[effect:damage_fix_absolute, target:unit_one, color:red, val:2000],[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:enemy_message, val1:3.4, val2:1.2]",3
+30036026,"[effect:damage_fix_absolute, target:unit_one, color:red, val:2800],[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:enemy_message, val1:3.4, val2:1.2]",3
+30036027,"[effect:damage_fix_absolute, target:unit_one, color:red, val:1800],[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:enemy_message, val1:3.4, val2:1.2]",3
+30036028,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:unit_one, turn:-1, val:0.09, animation:enemy_counter]",3
+30036029,"[effect:rush, count:2, val:0.46]",3
+30036030,"[effect:rush, count:3, val:0.37]",3

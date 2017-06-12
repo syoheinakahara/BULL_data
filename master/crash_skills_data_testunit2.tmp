@@ -1,0 +1,6 @@
+10003,"[effect:damage_anti_tribe, target:enemy_one, tribe:god, val1:3.75, val2:1.5, animation:damage_one_red04]",1
+10004,"[effect:damage_anti_tribe, target:enemy_one, tribe:god, val1:3.75, val2:1.5, animation:damage_one_red04]",1
+10005,"[effect:damage, target:enemy_all, color:yellow, val:1.125, animation:damage_all_yellow04],[effect:damage, target:enemy_all, color:yellow, val:1.25, animation:damage_all_yellow04]",1
+10006,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:2, val2:1.2, animation:damage_one_red04],[effect:enhance_unit, target:unit_animal, turn:1, status:defense, val:100, calc:add, animation:enhance_unit_all_defense01_unit01]",1
+10007,"[effect:damage_heal, target:enemy_one, color:yellow, val:1.5, animation:damage_one_yellow04],[effect:heal_ratio, val:0.3, animation:heal03_unit01]",1
+10008,"[effect:damage_heal, target:enemy_one, color:yellow, val:1.5, animation:damage_one_yellow04],[effect:heal_ratio, val:0.3, animation:heal03_unit01]",1

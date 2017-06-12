@@ -1,0 +1,3 @@
+11226100,"[effect:hungup, target:unit_all, turn:-1, rate:1][effect:suicide, val:1, dead_type:escape, target:enemy_all][effect:sleep, target:unit_all, turn:1, rate:1][effect:degrade_unit, target:unit_all, turn:3, status:attack, val:1.0, calc:mul]",3
+11226101,"[effect:suicide, val:1, dead_type:escape, target:enemy_all][effect:sleep, target:unit_all, turn:1, rate:1][effect:hungup, target:unit_all, turn:-1, rate:1][effect:degrade_unit, target:unit_all, turn:-1, status:attack, val:1, calc:mul]",3
+11226102,"[effect:sleep, target:unit_all, turn:1, rate:1],[effect:hungup, target:unit_all, turn:-1, rate:1],[effect:suicide, val:1, dead_type:escape, target:enemy_all],[effect:degrade_unit, target:unit_all, turn:-1, status:attack, val:1.0, calc:mul]",3

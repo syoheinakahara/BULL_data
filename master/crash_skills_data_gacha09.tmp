@@ -1,0 +1,10 @@
+462,"[effect:damage_laughter, target:enemy_all, color:red, val1:1.05, val2:0.875, val3:0.7, val4:0.525, val5:0.35, animation:damage_all_red03]",3
+463,"[effect:damage_laughter, target:enemy_all, color:red, val1:1.05, val2:0.875, val3:0.7, val4:0.525, val5:0.35, animation:damage_all_red03]",3
+464,"[effect:damage_laughter, target:enemy_all, color:red, val1:1.2, val2:1.0, val3:0.8, val4:0.6, val5:0.4, animation:damage_all_red04]",3
+465,"[effect:damage, target:enemy_one, color:green, val:1.75, animation:damage_one_green03],[effect:enhance_unit, target:unit_all, turn:2, status:heal, val:0.015, calc:mul,animation:enhance_unit_all_heal01_unit01]",3
+466,"[effect:damage, target:enemy_one, color:green, val:2.0, animation:damage_one_green04],[effect:enhance_unit, target:unit_all, turn:2, status:heal, val:0.015, calc:mul,animation:enhance_unit_all_heal01_unit01]",3
+467,"[effect:damage_anger, target:enemy_one, color:blue, val1:0.7, val2:1.05, val3:1.4, val4:1.75, val5:2.1, animation:damage_one_blue03]",3
+468,"[effect:damage_anger, target:enemy_one, color:blue, val1:0.8, val2:1.2, val3:1.6, val4:2.0, val5:2.4, animation:damage_one_blue04]",3
+469,"[effect:damage, target:enemy_all, color:yellow, val:1.0, animationdamage_all_yellow04]",3
+470,"[effect:damage, target:enemy_all, color:yellow, val:1.0, animationdamage_all_yellow04]",3
+471,"[effect:damage,target:enemy_all,color:yellow,val:1.125,animationdamage_all_yellow05]",3

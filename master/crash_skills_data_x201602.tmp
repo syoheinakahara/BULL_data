@@ -1,0 +1,8 @@
+1282,"[effect:damage, target:enemy_one, color:red, val:2, animation:damage_one_red03]",3
+1283,"[effect:damage, target:enemy_one, color:red, val:2.25, animation:damage_one_red04]",3
+1284,"[effect:damage_hp, target:enemy_one, color:blue, val:1.125, animation:damage_one_blue04]",3
+1285,"[effect:damage_hp, target:enemy_one, color:blue, val:1.125, animation:damage_one_blue04]",3
+1289,"[effect:damage, target:enemy_one, color:blue, val:2.5, animation:damage_one_blue04]",3
+1290,"[effect:damage, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04]",3
+1291,"[effect:damage, target:enemy_one, color:yellow, val:2.25, animation:damage_one_yellow04]",3
+1292,"[effect:damage, target:enemy_one, color:yellow, val:2.25, animation:damage_one_yellow04]",3

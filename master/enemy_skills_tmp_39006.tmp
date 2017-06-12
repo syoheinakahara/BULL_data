@@ -1,0 +1,81 @@
+39006001,"[effect:damage_fix_absolute, target:unit_one, val:4500],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:100, calc:add, animation:enemy_enhance_defense]",3
+39006002,"[effect:damage_fix_absolute, target:unit_one, val:5500],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:200, calc:add, animation:enemy_enhance_defense]",3
+39006003,"[effect:damage_fix_absolute, target:unit_one, val:6500],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:300, calc:add, animation:enemy_enhance_defense]",3
+39006004,"[effect:damage_fix_absolute, target:unit_one, val:7500],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:400, calc:add, animation:enemy_enhance_defense]",3
+39006005,"[effect:critical, val:1.55]",3
+39006006,"[effect:enemy_message, val1:0,dead_type:escape]",3
+39006007,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:2, val:1.0, animation:enemy_counter]",3
+39006008,"[effect:rush, count:2, val:0.6]",3
+39006009,"[effect:spread, val:0.3]",3
+39006010,"[effect:fix_speed, target:enemy_all, turn:1],[effect:enhance_enemy, target:enemy_all, turn:-1, status:attack, val:3000, calc:add, animation:enemy_enhance_attack],[effect:enemy_message, dead_type:escape]",3
+39006011,"[effect:enhance_unit, target:unit_all, turn:-1, status:attack, val:100, calc:add, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_all, turn:-1, status:heal, val:100, calc:add],[effect:force_change_block, new_block:block_heart, target:block_all, ignore:crack_bomb, ignore02:crash, color:block_blue, count:6, val:0, animation:change_block],[effect:suicide, val:1, dead_type:escape, target:myself]",3
+39006012,"[effect:enhance_unit, target:unit_all, turn:-1, status:attack, val:100, calc:add, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_all, turn:-1, status:heal, val:100, calc:add],[effect:force_change_block, new_block:block_heart, target:block_all, ignore:crack_bomb, ignore02:crash, color:block_blue, count:6, val:0, animation:change_block],[effect:suicide, val:1, dead_type:escape, target:myself]",3
+39006013,"[effect:enhance_unit, target:unit_all, turn:-1, status:attack, val:100, calc:add, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_all, turn:-1, status:heal, val:100, calc:add],[effect:force_change_block, new_block:block_heart, target:block_all, ignore:crack_bomb, ignore02:crash, color:block_blue, count:8, val:0, animation:change_block],[effect:suicide, val:1, dead_type:escape, target:myself]",3
+39006014,"[effect:enhance_unit, target:unit_all, turn:-1, status:attack, val:100, calc:add, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_all, turn:-1, status:heal, val:100, calc:add],[effect:force_change_block, new_block:block_heart, target:block_all, ignore:crack_bomb, ignore02:crash, color:block_blue, count:10, val:0, animation:change_block],[effect:suicide, val:1, dead_type:escape, target:myself]",3
+39006015,"[effect:enhance_unit, target:unit_all, turn:-1, status:attack, val:200, calc:add, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_all, turn:-1, status:defense, val:200, calc:add],[effect:enhance_unit, target:unit_all, turn:-1, status:heal, val:250, calc:add],[effect:suicide, val:1, dead_type:escape, target:myself]",3
+39006016,"[effect:enhance_unit, target:unit_all, turn:-1, status:attack, val:250, calc:add, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_all, turn:-1, status:defense, val:200, calc:add],[effect:enhance_unit, target:unit_all, turn:-1, status:heal, val:200, calc:add],[effect:suicide, val:1, dead_type:escape, target:myself]",3
+39006017,"[effect:enhance_unit, target:unit_all, turn:-1, status:attack, val:225, calc:add, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_all, turn:-1, status:defense, val:225, calc:add],[effect:enhance_unit, target:unit_all, turn:-1, status:heal, val:200, calc:add],[effect:suicide, val:1, dead_type:escape, target:myself]",3
+39006018,"[effect:enhance_unit, target:unit_all, turn:-1, status:attack, val:300, calc:add, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_all, turn:-1, status:heal, val:300, calc:add],[effect:enhance_fever, val:500.0, animation:fevergauge_up04],[effect:suicide, val:1, dead_type:escape, target:myself]",3
+39006019,"[effect:enhance_unit, target:unit_all, turn:-1, status:attack, val:300, calc:add, animation:enhance_unit_all_attack02],[effect:enhance_unit, target:unit_all, turn:-1, status:heal, val:300, calc:add],[effect:enhance_fever, val:1000.0, animation:fevergauge_up04],[effect:suicide, val:1, dead_type:escape, target:myself]",3
+39006020,"[effect:enhance_unit, target:unit_all, turn:-1, status:attack, val:550, calc:add],[effect:enhance_unit, target:unit_all, turn:-1, status:heal, val:450, calc:add],[effect:change_bomb_range, turn:-1, val:1.4, rate:1, animation:bomb_big],[effect:suicide, val:1, dead_type:escape, target:myself]",3
+39006021,"[effect:enhance_unit, target:unit_all, turn:-1, status:attack, val:500, calc:add],[effect:enhance_unit, target:unit_all, turn:-1, status:heal, val:500, calc:add],[effect:change_bomb_range, turn:-1, val:1.2, rate:1, animation:bomb_big],[effect:suicide, val:1, dead_type:escape, target:myself]",3
+39006022,"[effect:enhance_unit, target:unit_all, turn:-1, status:attack, val:550, calc:add],[effect:enhance_unit, target:unit_all, turn:-1, status:heal, val:500, calc:add],[effect:force_change_block, new_block:crack_bomb, target:block_all, ignore:crack_bomb, ignore02:crash, color:block_red, count:1, val:40, animation:change_block],[effect:change_bomb_range, turn:-1, val:1.5, rate:1, animation:bomb_big],[effect:suicide, val:1, dead_type:escape, target:myself]",3
+39006023,"[effect:enemy_message, val1:1.2, val2:2.2]",3
+39006024,"[effect:rush, count:2, val:0.6]",3
+39006025,"[effect:rush, count:3, val:0.5]",3
+39006026,"[effect:rush, count:4, val:0.45]",3
+39006027,"[effect:spread, val:0.5]",3
+39006028,"[effect:heal, target:enemy_one, val:0.1, animation:enemy_heal],[effect:rush, count:1, val:1.0]",3
+39006029,"[effect:heal, target:enemy_one, val:0.15, animation:enemy_heal],[effect:rush, count:2, val:0.6]",3
+39006030,"[effect:heal, target:enemy_one, val:0.2, animation:enemy_heal],[effect:rush, count:3, val:0.5]",3
+39006031,"[effect:heal, target:enemy_one, val:0.25, animation:enemy_heal],[effect:rush, count:4, val:0.45]",3
+39006032,"[effect:rush, count:4, val:0.4],[effect:spread, val:0.35]",3
+39006033,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:2, val:0.25, animation:enemy_counter],[effect:crash_condition, target:unit_all, val:2, turn:4, animation:enemy_crash_extend]",3
+39006034,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:2, val:0.35, animation:enemy_counter],[effect:crash_condition, target:unit_all, val:2, turn:4, animation:enemy_crash_extend]",3
+39006035,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:3, val:0.45, animation:enemy_counter],[effect:crash_condition, target:unit_all, val:2, turn:4, animation:enemy_crash_extend]",3
+39006036,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:3, val:0.6, animation:enemy_counter],[effect:crash_condition, target:unit_all, val:2, turn:4, animation:enemy_crash_extend]",3
+39006037,"[effect:rush, count:2, val:0.7]",3
+39006038,"[effect:spread, val:0.55]",3
+39006039,"[effect:rush, count:3, val:0.6]",3
+39006040,"[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:2000, calc:add, animation:enemy_enhance_defense],[effect:fix_speed, target:myself, turn:3]",3
+39006041,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:100, calc:add, animation:enemy_enhance_defense]",3
+39006042,"[effect:rush, count:1, val:1.1],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:150, calc:add, animation:enemy_enhance_defense]",3
+39006043,"[effect:rush, count:1, val:1.20],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:200, calc:add, animation:enemy_enhance_defense]",3
+39006044,"[effect:rush, count:1, val:1.5],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:250, calc:add, animation:enemy_enhance_defense]",3
+39006045,"[effect:break_attack_fix, val:120, lowest_val:2000, count:8, block:block_red, target:unit_all]",3
+39006046,"[effect:break_attack_fix, val:120, lowest_val:2000, count:8, block:block_green, target:unit_all]",3
+39006047,"[effect:break_attack_fix, val:120, lowest_val:2000, count:8, block:block_blue, target:unit_all]",3
+39006048,"[effect:break_attack_fix, val:120, lowest_val:2000, count:8, block:block_yellow, target:unit_all]",3
+39006049,"[effect:break_attack_fix, val:120, lowest_val:2000, count:8, block:block_heart, target:unit_all]",3
+39006050,"[effect:fix_speed, target:myself, turn:2]",3
+39006051,"[effect:fix_speed, target:myself, turn:1]",3
+39006052,"[effect:rush, count:2, val:0.7]",3
+39006053,"[effect:ability_lock, target:unit_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1, calc_type:target_all],[effect:fix_speed, target:myself, turn:1]",3
+39006054,"[effect:ability_lock, target:unit_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1, calc_type:target_all],[effect:fix_speed, target:myself, turn:1]",3
+39006055,"[effect:ability_lock, target:unit_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1, calc_type:target_all],[effect:fix_speed, target:myself, turn:1]",3
+39006056,"[effect:ability_lock, target:unit_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1, calc_type:target_all],[effect:fix_speed, target:myself, turn:1]",3
+39006057,"[effect:ability_lock, target:unit_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1, calc_type:target_all],[effect:fix_speed, target:myself, turn:1]",3
+39006058,"[effect:ability_lock, target:unit_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1, calc_type:target_all],[effect:fix_speed, target:myself, turn:1]",3
+39006059,"[effect:ability_lock, target:unit_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1, calc_type:target_all],[effect:fix_speed, target:myself, turn:1]",3
+39006060,"[effect:ability_lock, target:unit_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1, calc_type:target_all],[effect:fix_speed, target:myself, turn:1]",3
+39006061,"[effect:ability_lock, target:unit_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1, calc_type:target_all],[effect:fix_speed, target:myself, turn:1]",3
+39006062,"[effect:ability_lock, target:unit_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1, calc_type:target_all],[effect:fix_speed, target:myself, turn:1]",3
+39006063,"[effect:ability_lock, target:unit_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1, calc_type:target_all],[effect:fix_speed, target:myself, turn:1]",3
+39006064,"[effect:ability_lock, target:unit_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1, calc_type:target_all],[effect:fix_speed, target:myself, turn:1]",3
+39006065,"[effect:break_attack_fix, val:60, lowest_val:1500, count:5, block:block_red, target:unit_all]",3
+39006066,"[effect:break_attack_fix, val:60, lowest_val:1500, count:5, block:block_green, target:unit_all]",3
+39006067,"[effect:break_attack_fix, val:60, lowest_val:1500, count:5, block:block_blue, target:unit_all]",3
+39006068,"[effect:break_attack_fix, val:60, lowest_val:1500, count:5, block:block_yellow, target:unit_all]",3
+39006069,"[effect:break_attack_fix, val:60, lowest_val:1500, count:5, block:block_heart, target:unit_all]",3
+39006070,"[effect:break_attack_fix, val:80, lowest_val:1600, count:6, block:block_red, target:unit_all]",3
+39006071,"[effect:break_attack_fix, val:80, lowest_val:1600, count:6, block:block_green, target:unit_all]",3
+39006072,"[effect:break_attack_fix, val:80, lowest_val:1600, count:6, block:block_blue, target:unit_all]",3
+39006073,"[effect:break_attack_fix, val:80, lowest_val:1600, count:6, block:block_yellow, target:unit_all]",3
+39006074,"[effect:break_attack_fix, val:80, lowest_val:1600, count:6, block:block_heart, target:unit_all]",3
+39006075,"[effect:break_attack_fix, val:100, lowest_val:1800, count:7, block:block_red, target:unit_all]",3
+39006076,"[effect:break_attack_fix, val:100, lowest_val:1800, count:7, block:block_green, target:unit_all]",3
+39006077,"[effect:break_attack_fix, val:100, lowest_val:1800, count:7, block:block_blue, target:unit_all]",3
+39006078,"[effect:break_attack_fix, val:100, lowest_val:1800, count:7, block:block_yellow, target:unit_all]",3
+39006079,"[effect:break_attack_fix, val:100, lowest_val:1800, count:7, block:block_heart, target:unit_all]",3
+39006080,"[effect:nothing]",3
+39006081,"[effect:kamikaze, val:3.0, animation:enemy_kamikaze]",3

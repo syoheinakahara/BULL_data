@@ -1,0 +1,35 @@
+6001001,"[effect:fix_speed, target:myself, turn:1],[effect:rush, count:1, val:1]",3
+6001002,"[effect:fix_speed, target:myself, turn:2],[effect:rush, count:1, val:1]",3
+6001003,"[effect:fix_speed, target:myself, turn:3],[effect:rush, count:1, val:1]",3
+6001004,"[effect:fix_speed, target:myself, turn:1],[effect:rush, count:1, val:1]",3
+6001005,"[effect:fix_speed, target:myself, turn:2],[effect:rush, count:1, val:1]",3
+6001006,"[effect:fix_speed, target:myself, turn:3],[effect:rush, count:1, val:1]",3
+6001007,"[effect:fix_speed, target:myself, turn:1],[effect:rush, count:1, val:1]",3
+6001008,"[effect:fix_speed, target:myself, turn:2],[effect:rush, count:1, val:1]",3
+6001009,"[effect:fix_speed, target:myself, turn:3],[effect:rush, count:1, val:1]",3
+6001010,"[effect:fix_speed, target:myself, turn:1],[effect:rush, count:5, val:0.2]",3
+6001011,"[effect:fix_speed, target:myself, turn:2],[effect:rush, count:5, val:0.2]",3
+6001012,"[effect:fix_speed, target:myself, turn:3],[effect:rush, count:5, val:0.2]",3
+6001013,"[effect:fix_speed, target:myself, turn:3],[effect:force_change_block, new_block:jammer, target:block_all, count:8, val:0, animation:change_block]",3
+6001014,"[effect:spread, val:0.3],[effect:force_change_block, new_block:jammer, target:block_all, count:8, val:0, animation:change_block]",3
+6001018,"[effect:fix_speed, target:myself, turn:2],[effect:force_change_block, new_block:jammer, target:block_all, count:8, val:0, animation:change_block]",3
+6001019,"[effect:spread, val:0.3],[effect:force_change_block, new_block:jammer, target:block_all, count:3, val:0, animation:change_block]",3
+6001023,"[effect:fix_speed, target:myself, turn:2]",3
+6001024,"[effect:enhance_enemy, target:myself, turn:5, status:attack, val:1.5, calc:mul, animation:enemy_enhance_attack]",3
+6001025,"[effect:enhance_enemy, target:enemy_all, turn:3, status:defense, val:10000, calc:add, animation:enemy_enhance_defense]",3
+6001033,"[effect:fix_speed, target:myself, turn:3]",3
+6001034,"[effect:charge, status:attack, val:1.5]",3
+6001035,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+6001043,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:force_change_block, new_block:jammer, target:block_all, count:10, val:0, animation:change_block],[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:buff, animation:frozen_wave]",3
+6001045,"[effect:critical, val:1.2]",3
+6001046,"[effect:spread, val:0.3]",3
+6001053,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance]",3
+6001054,"[effect:critical, val:1.2]",3
+6001055,"[effect:force_change_block, new_block:jammer, target:block_all, count:10, val:0, animation:change_block]",3
+6001056,"[effect:break_enchance_enemy, val:0.1, lowest_val:0, count :-1, status:attack, turn:3, block:block_red, target:myself, calc:mul, animation:enemy_enhance_attack]",3
+6001057,"[effect:rush, count:5, val:0.2]",3
+6001063,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+6001064,"[effect:force_change_block, new_block:jammer, target:block_all, count:4, val:0, animation:change_block],[effect:rush, count:5, val:0.2]",3
+6001065,"[effect:force_change_block, new_block:jammer, target:block_all, count:8, val:0, animation:change_block],[effect:rush, count:5, val:0.2]",3
+6001066,"[effect:force_change_block, new_block:jammer, target:block_all, count:12, val:0, animation:change_block],[effect:rush, count:5, val:0.2],[effect:enhance_enemy, target:myself, turn:5, status:defense, val:10000, calc:add, animation:enemy_enhance_defense]",3
+6001067,"[effect:break_enchance_enemy, val:0.1, lowest_val:0, count :-1, status:attack, turn:-1, block:jammer, target:myself, calc:mul, animation:enemy_enhance_attack]",3

@@ -1,0 +1,43 @@
+20013100,"[effect:suicide, val:1, dead_type:escape, target:myself, animation:enemy_suicide]",3
+20013101,"[effect:break_attack, val:0.05, lowest_val:1000, count:10, block:block_heart, target:unit_all]",3
+20013102,"[effect:change_block, new_block:block_green, target:block_heart, count:5, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block]",3
+20013103,"[effect:change_block, new_block:jammer, target:block_heart, count:4, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block]",3
+20013104,"[effect:enhance_enemy, target:enemy_all, turn:2, status:defense, val:1.5, calc:mul, animation:enemy_enhance_defense]",3
+20013105,"[effect:change_block, new_block:block_yellow, target:block_heart, count:4, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:change_block, new_block:block_heart, target:block_red, count:2, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block]",3
+20013106,"[effect:degrade_unit, target:unit_all, turn:2, status:action, val:1, calc:add, animation:enemy_tap_down]",3
+20013107,"[effect:change_block, new_block:time_bomb, target:block_heart, color:block_yellow, count:5, val:0.1, min_time_count:3, max_time_count:5, no_effect_msg:no_effect_msg_change_block, animation:change_block]",3
+20013108,"[effect:heal, target:myself, val:0.75, animation:enemy_heal]",3
+20013109,"[effect:dis_heart, turn:5, animation:enemy_dis_heart]",3
+20013110,"[effect:change_block, new_block:block_heart, target:block_red, count:5, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:rush, count:1, val:1]",3
+20013111,"[effect:change_block, new_block:block_heart, target:block_green, count:5, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:rush, count:1, val:1]",3
+20013112,"[effect:change_block, new_block:block_heart, target:block_blue, count:5, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:rush, count:1, val:1]",3
+20013113,"[effect:change_block, new_block:block_heart, target:block_yellow, count:5, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:rush, count:1, val:1]",3
+20013114,"[effect:panel_freeze, target:block_heart, color:block_heart, count:-1]",3
+20013115,"[effect:break_enchance_enemy, val:0.02, lowest_val:0, count :-1, status:attack, turn:1, block:block_heart, target:myself, calc:mul, animation:enemy_enhance_attack],[effect:rush, count:1, val:1]",3
+20013116,"[effect:break_enchance_enemy, val:100, lowest_val:0, count :-1, status:defense, turn:3, block:block_heart, target:myself, calc:add, animation:enemy_enhance_attack]",3
+20013117,"[effect:damage_anti_color, target:unit_all, color:blue, val1:1.5, val2:0.5]",3
+20013118,"[effect:change_block, new_block:block_heart, target:block_red, count:1, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_green, count:1, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_yellow, count:1, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_blue, count:1, val:0, animation:change_block],[effect:rush, count:1, val:1]",3
+20013119,"[effect:change_block, new_block:jammer, target:block_heart, count:3, val:0, animation:change_block]",3
+20013120,"[effect:dis_heart, turn:5, animation:enemy_dis_heart]",3
+20013121,"[effect:change_block, new_block:block_heart, target:block_red, count:7, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:rush, count:1, val:1]",3
+20013122,"[effect:change_block, new_block:block_heart, target:block_green, count:7, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:rush, count:1, val:1]",3
+20013123,"[effect:change_block, new_block:block_heart, target:block_blue, count:7, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:rush, count:1, val:1]",3
+20013124,"[effect:change_block, new_block:block_heart, target:block_yellow, count:7, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:rush, count:1, val:1]",3
+20013125,"[effect:panel_freeze, target:block_heart, color:block_heart, count:-1]",3
+20013126,"[effect:break_enchance_enemy, val:0.03, lowest_val:0, count :-1, status:attack, turn:1, block:block_heart, target:myself, calc:mul, animation:enemy_enhance_attack],[effect:rush, count:1, val:1]",3
+20013127,"[effect:break_enchance_enemy, val:500, lowest_val:0, count :-1, status:defense, turn:3, block:block_heart, target:myself, calc:add, animation:enemy_enhance_attack]",3
+20013128,"[effect:damage_anti_color, target:unit_all, color:blue, val1:1.5, val2:0.5]",3
+20013129,"[effect:change_block, new_block:block_heart, target:block_red, count:1, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_green, count:1, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_yellow, count:1, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_blue, count:1, val:0, animation:change_block],[effect:rush, count:2, val:0.8]",3
+20013130,"[effect:change_block, new_block:jammer, target:block_heart, count:4, val:0, animation:change_block]",3
+20013131,"[effect:dis_heart, turn:5, animation:enemy_dis_heart]",3
+20013132,"[effect:change_block, new_block:block_heart, target:block_red, count:9, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:rush, count:1, val:1]",3
+20013133,"[effect:change_block, new_block:block_heart, target:block_green, count:9, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:rush, count:1, val:1]",3
+20013134,"[effect:change_block, new_block:block_heart, target:block_blue, count:9, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:rush, count:1, val:1]",3
+20013135,"[effect:change_block, new_block:block_heart, target:block_yellow, count:9, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:rush, count:1, val:1]",3
+20013136,"[effect:panel_freeze, target:block_heart, color:block_heart, count:-1]",3
+20013137,"[effect:break_enchance_enemy, val:0.04, lowest_val:0, count :-1, status:attack, turn:1, block:block_heart, target:myself, calc:mul, animation:enemy_enhance_attack],[effect:rush, count:1, val:1]",3
+20013138,"[effect:break_enchance_enemy, val:1000, lowest_val:0, count :-1, status:defense, turn:3, block:block_heart, target:myself, calc:add, animation:enemy_enhance_attack]",3
+20013139,"[effect:damage_anti_color, target:unit_all, color:blue, val1:1.5, val2:0.5]",3
+20013140,"[effect:change_block, new_block:block_heart, target:block_red, count:1, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_green, count:1, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_yellow, count:1, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_blue, count:1, val:0, animation:change_block],[effect:rush, count:3, val:0.75]",3
+20013141,"[effect:change_block, new_block:jammer, target:block_heart, count:4, val:0, animation:change_block]",3
+20013142,"[effect:change_block, new_block:block_heart, target:block_red, count:5, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block]",3

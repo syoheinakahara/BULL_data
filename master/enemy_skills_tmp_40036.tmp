@@ -1,0 +1,86 @@
+40036000,"[effect:damage_anti_tribe, target:unit_all, tribe:god, val1:0.1, val2:99.9],[effect:damage_anti_tribe, target:unit_all, tribe:god, val1:0.1, val2:99.9],[effect:reduction, target:myself, color:all, turn:5, val:0.7, animation:reduction_one04],[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1.0, val2:3.5]",3
+40036001,"[effect:heal, target:enemy_all, val:0.4, animation:enemy_heal],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036002,"[effect:heal, target:enemy_all, val:0.4, animation:enemy_heal],[effect:enemy_message, val1:1.3, val2:1.5]",3
+40036003,"[effect:heal, target:enemy_all, val:0.4, animation:enemy_heal],[effect:enemy_message, val1:1.4, val2:1.5]",3
+40036004,"[effect:heal, target:enemy_all, val:0.4, animation:enemy_heal],[effect:enemy_message, val1:1.0, val2:1.5]",3
+40036005,"[effect:heal, target:enemy_all, val:0.4, animation:enemy_heal],[effect:degrade_unit, target:unit_all, turn:5, status:attack, val:0.5, calc:mul],[effect:enemy_message, val1:1.4, val2:2.7]",3
+40036006,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.0, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036007,"[effect:damage_anti_tribe, target:unit_all, tribe:god, val1:0.1, val2:99.9],[effect:damage_anti_tribe, target:unit_all, tribe:god, val1:0.1, val2:99.9],[effect:reduction, target:myself, color:all, turn:7, val:0.5, animation:reduction_one04],[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1.0, val2:3.5]",3
+40036008,"[effect:heal, target:enemy_all, val:0.3, animation:enemy_heal],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036009,"[effect:heal, target:enemy_all, val:0.3, animation:enemy_heal],[effect:enemy_message, val1:1.3, val2:1.5]",3
+40036010,"[effect:heal, target:enemy_all, val:0.3, animation:enemy_heal],[effect:enemy_message, val1:1.4, val2:1.5]",3
+40036011,"[effect:heal, target:enemy_all, val:0.3, animation:enemy_heal],[effect:enemy_message, val1:1.0, val2:1.5]",3
+40036012,"[effect:heal, target:enemy_all, val:0.3, animation:enemy_heal],[effect:enemy_message, val1:1.0, val2:1.5]",3
+40036013,"[effect:heal, target:enemy_all, val:0.3, animation:enemy_heal],[effect:enemy_message, val1:1.0, val2:1.5]",3
+40036014,"[effect:heal, target:enemy_all, val:0.3, animation:enemy_heal],[effect:enemy_message, val1:1.4, val2:1.5]",3
+40036015,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.5, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036100,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.25, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036101,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.5, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036102,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.75, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036103,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.0, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036104,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.25, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036105,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.5, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036106,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:2.0, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036107,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:2.5, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036108,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.2, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036109,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.4, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036110,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.6, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036111,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.8, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036112,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.0, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036113,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.2, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036114,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.4, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036115,"[effect:rush, count:1, val:1.0],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.6, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036200,"[effect:damage_gravity, val:0.6, animation:fevergauge_down],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036201,"[effect:spread, val:0.30],[effect:enemy_message, val1:1.0, val2:1.5]",3
+40036202,"[effect:enemy_message, val1:1.4, val2:1.8]",3
+40036300,"[effect:degrade_unit, target:unit_all, turn:5, status:attack, val:0.5, calc:mul],[effect:enemy_message, val1:1.5, val2:2.1]",3
+40036301,"[effect:spread, val:0.30],[effect:enemy_message, val1:1.0, val2:1.5]",3
+40036302,"[effect:enemy_message, val1:1.4, val2:0],[effect:fix_speed, target:enemy_all, turn:1]",3
+40036400,"[effect:heal, target:myself/not, val:0.3, animation:enemy_heal],[effect:enemy_message, val1:1.3, val2:1.5]",3
+40036401,"[effect:spread, val:0.30],[effect:enemy_message, val1:1.0, val2:1.5]",3
+40036500,"[effect:crash_growth, val:-46, count:-1, animation:change_block],[effect:degrade_unit, target:unit_all, turn:4, status:attack, val:0.5, calc:mul],[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1.2, val2:2.7]",3
+40036501,"[effect:damage_anti_color, target:unit_all, color:yellow, val1:2, val2:0.2],[effect:enemy_message, val1:1.0, val2:1.9]",3
+40036502,"[effect:degrade_unit, target:unit_all, turn:4, status:attack, val:0.5, calc:mul],[effect:enemy_message, val1:1.2, val2:2.1]",3
+40036503,"[effect:crash_growth, val:-46, count:-1, animation:change_block],[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1.2, val2:1.5]",3
+40036600,"[effect:crash_condition, target:unit_all, turn:7, val:4, animation:enemy_crash_extend],[effect:hungup, target:unit_hp, turn:7, rate:1, calc_type:target_all, animation:hungup01],[effect:fix_speed, target:myself, turn:1],[effect:enemy_message, val1:1.5, val2:4.0]",3
+40036601,"[effect:rush, count:1, val:1.0],[effect:enemy_message, val1:1.0, val2:2.0]",3
+40036602,"[effect:rush, count:1, val:1.0],[effect:enemy_message, val1:1.0, val2:2.0]",3
+40036603,"[effect:rush, count:1, val:1.0],[effect:enemy_message, val1:1.0, val2:2.0]",3
+40036604,"[effect:rush, count:1, val:1.0],[effect:enemy_message, val1:1.0, val2:2.0]",3
+40036605,"[effect:rush, count:1, val:1.0],[effect:enemy_message, val1:1.0, val2:2.0]",3
+40036606,"[effect:damage_fix_absolute, target:unit_one, val:100000]",3
+40036607,"[effect:degrade_unit, target:unit_all, turn:4, status:action, val:2, calc:add, animation:enemy_tap_down],[effect:degrade_unit, target:unit_all, turn:4, status:attack, val:0.5, calc:mul],[effect:enemy_message, val1:1.0, val2:3.3]",3
+40036700,"[effect:remove_enhancement, target:unit_all, target_effect:all, animation:frozen_wave],[effect:enemy_message, val1:1.7, val2:1.5]",3
+40036701,"[effect:degrade_unit, target:unit_all, turn:2, status:attack, val:0.6, calc:mul],[effect:spread, val:0.35],[effect:enemy_message, val1:2.0, val2:2.0]",3
+40036702,"[effect:damage_gravity, val:0.5, animation:fevergauge_down],[effect:enemy_message, val1:1.3, val2:1.6]",3
+40036703,"[effect:crash_condition, target:unit_all, turn:5, val:4, animation:enemy_crash_extend],[effect:spread, val:0.35],[effect:enemy_message, val1:1.4, val2:2.5]",3
+40036704,"[effect:degrade_unit, target:unit_all, turn:2, status:attack, val:0.6, calc:mul],[effect:spread, val:0.35],[effect:enemy_message, val1:1.9, val2:2.0]",3
+40036705,"[effect:damage_gravity, val:0.5, animation:fevergauge_down],[effect:enemy_message, val1:1.3, val2:1.7]",3
+40036706,"[effect:remove_enhancement, target:unit_all, target_effect:all, animation:frozen_wave],[effect:enemy_message, val1:1.5, val2:1.2]",3
+40036707,"[effect:remove_enhancement, target:unit_all, target_effect:all, animation:frozen_wave],[effect:enemy_message, val1:1.5, val2:1.2]",3
+40036708,"[effect:remove_enhancement, target:unit_all, target_effect:all, animation:frozen_wave],[effect:enemy_message, val1:2.1, val2:1.2]",3
+40036709,"[effect:remove_enhancement, target:unit_all, target_effect:all, animation:frozen_wave],[effect:enemy_message, val1:2.1, val2:1.2]",3
+40036710,"[effect:remove_enhancement, target:unit_all, target_effect:all, animation:frozen_wave],[effect:enemy_message, val1:1.7, val2:1.2]",3
+40036711,"[effect:remove_enhancement, target:unit_all, target_effect:all, animation:frozen_wave],[effect:enemy_message, val1:1.7, val2:1.2]",3
+40036712,"[effect:spread, val:0.35],[effect:enemy_message, val1:2.0, val2:1.5]",3
+40036713,"[effect:spread, val:0.35],[effect:enemy_message, val1:1.9, val2:1.5]",3
+40036800,"[effect:drop_block, block_type:time_bomb, block_color:block_red, color:block_all, val:0.2, rate:0.1, turn:-1, animation:time_bomb_influence04],[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:1.7, val2:2.5]",3
+40036801,"[effect:crash_condition, target:unit_all, turn:5, val:4, animation:enemy_crash_extend],[effect:spread, val:0.35],[effect:enemy_message, val1:1.5, val2:2.5]",3
+40036802,"[effect:break_attack_fix, target:unit_one, val:850, lowest_val:8500, count:-1, color:red, block01:block_red],[effect:enemy_message, val1:1.3, val2:1.6]",3
+40036803,"[effect:damage_gravity, val:0.6, animation:fevergauge_down],[effect:enemy_message, val1:1.1, val2:1.7]",3
+40036804,"[effect:break_attack_fix, target:unit_one, val:850, lowest_val:8500, count:-1, color:red, block01:block_red],[effect:enemy_message, val1:1.3, val2:1.6]",3
+40036805,"[effect:damage_gravity, val:0.6, animation:fevergauge_down],[effect:enemy_message, val1:1.1, val2:1.7]",3
+40036806,"[effect:break_attack_fix, target:unit_one, val:600, lowest_val:6000, count:-1, color:red, block01:block_red],[effect:enemy_message, val1:1.3, val2:1.6]",3
+40036807,"[effect:degrade_unit, target:unit_all, turn:5, status:attack, val:0.6, calc:mul],[effect:spread, val:0.40],[effect:enemy_message, val1:1.5, val2:2.5]",3
+40036900,"[effect:change_panel_ratio, turn:-1, block_type:blue, val:0, animation:block_incidence04],[effect:crash_condition, target:unit_all, turn:-1, val:6, animation:enemy_crash_extend],[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:2.1, val2:3.7]",3
+40036901,"[effect:degrade_unit, target:unit_all, turn:4, status:attack, val:0.6, calc:mul],[effect:spread, val:0.35],[effect:enemy_message, val1:1.1, val2:2.0]",3
+40036902,"[effect:break_attack_fix, target:unit_one, val:850, lowest_val:8500, count:-1, color:red, block01:block_red],[effect:enemy_message, val1:1.0, val2:1.6]",3
+40036903,"[effect:damage_gravity, val:0.8, animation:fevergauge_down],[effect:enemy_message, val1:1.1, val2:1.6]",3
+40036904,"[effect:degrade_unit, target:unit_all, turn:4, status:attack, val:0.8, calc:mul],[effect:spread, val:0.35],[effect:enemy_message, val1:1.1, val2:3.3]",3
+40036905,"[effect:enemy_message, val1:1.1, val2:2.4]",3
+40036906,"[effect:enemy_message, val1:1.0, val2:2.4]",3
+40036907,"[effect:enemy_message, val1:1.0, val2:2.4]",3
+40036908,"[effect:enemy_message, val1:2.0, val2:2.0]",3
+40036909,"[effect:enemy_message, val1:2.0, val2:2.0]",3
+40036910,"[effect:break_attack_fix, target:unit_one, val:600, lowest_val:6000, count:-1, color:red, block01:block_red],[effect:enemy_message, val1:1.0, val2:1.6]",3
+40036911,"[effect:spread, val:0.35],[effect:enemy_message, val1:1.1, val2:1.5]",3

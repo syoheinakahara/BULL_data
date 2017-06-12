@@ -1,0 +1,48 @@
+49007001,"[effect:fix_speed, target:myself, turn:2]",1
+49007002,"[effect:change_panel_ratio, turn:3, block_type:heal, val:0, animation:block_incidence04]",1
+49007003,"[effect:rush, count:2, val:0.55]",1
+49007004,"[effect:change_attribute, target:myself, color:red, turn:-1, animation:change_attribute_red],[effect:fix_speed, target:myself, turn:2]",1
+49007005,"[effect:spread, val:0.31]",1
+49007006,"[effect:rush, count:3, val:0.4]",1
+49007007,"[effect:critical, val:1.4]",1
+49007008,"[effect:enhance_enemy, target:myself, turn:4, status:attack, val:1.1, calc:mul, animation:enemy_enhance_attack],[effect:enhance_unit, target:unit_all, turn:4, status:heal, val:1.5, calc:mul]",1
+49007009,"[effect:enemy_message, val1:2, val2:2, dead_type:escape],[effect:suicide, val:1, dead_type:escape]",1
+49007010,"[effect:fix_speed, target:myself, turn:1],[effect:fix_speed, target:enemy_unknown, turn:2]",1
+49007011,"[effect:dis_heart, turn:1, animation:enemy_dis_heart]",1
+49007012,"[effect:heal, target:enemy_all, val:0.1, animation:enemy_heal]",1
+49007013,"[effect:spread, val:0.32]",1
+49007014,"[effect:force_change_block, new_block:time_bomb, target:block_all, count:15, val:0.2, min_time_count:2, max_time_count:3, animation:change_block]",1
+49007015,"[effect:critical, val:1.5]",1
+49007016,"[effect:damage_anti_color, target:unit_all, color:yellow, val1:1.5, val2:0.4]",1
+49007017,"[effect:rush, count:2, val:0.6]",1
+49007018,"[effect:enhance_enemy, target:enemy_all, turn:-1, status:defense, val:2000, calc:add, animation:enemy_enhance_attack]",1
+49007019,"[effect:critical, val:1.5]",1
+49007020,"[effect:degrade_unit, target:unit_all, turn:3, status:attack, val:0.5, calc:mul]",1
+49007021,"[effect:degrade_unit, target:unit_all, turn:3, status:heal, val:0.5, calc:mul]",1
+49007022,"[effect:spread, val:0.32]",1
+49007023,"[effect:change_panel_ratio, turn:1, block_type:blue, val:0, animation:block_incidence04],[effect:fix_speed, target:myself, turn:1]",1
+49007024,"[effect:break_attack_fix, val:250, lowest_val:1000, count:-1, block:block_blue, target:unit_all],[effect:fix_speed, target:myself, turn:2]",1
+49007025,"[effect:fix_speed,target:myself,turn:3]",1
+49007026,"[effect:change_block, new_block:jammer, target:block_all, count:8, val:0.0, animation:change_block][effect:critical, val:1.33, animation:enemy_critical]",1
+49007027,"[effect:rush, count:3, val:0.4]",1
+49007028,"[effect:spread, val:0.35, animation:enemy_spread]",1
+49007029,"[effect:enhance_enemy, target:myself, turn:2, status:attack, val:1.1, calc:mul, animation:enemy_enhance_attack],[effect:enhance_unit, target:unit_all, turn:2, status:attack, val:1.1, calc:mul],[effect:enhance_unit, target:unit_ss, turn:2, status:attack, val:1.13, calc:mul]",1
+49007030,"[effect:freq_turn, target:myself, turn:3, val:1, animation:enemy_freq_turn]",1
+49007031,"[effect:dark, turn:3,target:unit_all,animation:enemy_dark],[effect:spread, val:0.2, animation:enemy_spread]",1
+49007032,"[effect:rush, count:6, val:0.21]",1
+49007033,"[effect:spread, val:0.36, animation:enemy_spread]",1
+49007034,"[effect:change_block, new_block:jammer, target:block_all, count:8, val:0.0, animation:change_block][effect:critical, val:1.21, animation:enemy_critical]",1
+49007035,"[effect:fix_speed,target:myself,turn:1]",1
+49007036,"[effect:force_change_block, new_block:block_heart, target:block_green, count:15, val:0, animation:change_block],[effect:spread, val:0.41],[effect:fix_speed,target:myself,turn:2]",1
+49007037,"[effect:enhance_fever, val:500.0, animation:fevergauge_up04]",1
+49007038,"[effect:spread, val:0.28, animation:enemy_spread]",1
+49007039,"[effect:spread, val:0.09],[effect:spread, val:0.1],[effect:spread, val:0.11]",1
+49007040,"[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:0.3, animation:enemy_enhance_enemy]",1
+49007041,"[effect:fix_speed,target:myself,turn:1]",1
+49007042,"[effect:critical, val:5.0, animation:enemy_critical],[effect:fix_speed,target:myself,turn:2]",1
+49007043,"[effect:enemy_message, val1:2, val2:2, dead_type:escape]",1
+49007044,"[effect:enemy_message, val1:2, val2:2, dead_type:escape]",1
+49007045,"[effect:enemy_message, val1:2.1, val2:2.1, dead_type:escape]",1
+49007046,"[effect:enhance_fever, val:700.0, animation:fevergauge_up04]",1
+49007047,"[effect:change_block, new_block:jammer, target:block_all, count:5, val:0.0, animation:change_block][effect:critical, val:1.3, animation:enemy_critical]",1
+49007048,"[effect:change_block, new_block:jammer, target:block_all, count:5, val:0.0, animation:change_block][effect:critical, val:1.2, animation:enemy_critical]",1

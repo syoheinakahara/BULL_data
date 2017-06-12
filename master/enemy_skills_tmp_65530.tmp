@@ -1,0 +1,30 @@
+65530000,"[effect:enemy_message, val1:2.7, val2:0],[effect:fix_speed, target:enemy_one, turn:2]",1
+65530001,"[effect:enemy_message, val1:2, val2:1.8],[effect:force_change_block, new_block:damage, target:block_green, ignore01:crash, ignore02:crack_bomb, ignore03:damage, count:3, val:0.06, animation:change_block]",1
+65530002,"[effect:enemy_message, val1:2, val2:1.8],[effect:spread, val:0.26],[effect:force_change_block, new_block:damage, target:block_green, ignore01:crash, ignore02:crack_bomb, ignore03:damage, count:2, val:0.06, animation:change_block]",1
+65530003,"[effect:enemy_message, val1:2, val2:1.8],[effect:freq_turn, target:enemy_one, turn:3, val:1, animation:enemy_freq_turn]",1
+65530004,"[effect:enemy_message, val1:2.5, val2:0]",1
+65530005,"[effect:enemy_message, val1:2, val2:1.8],[effect:fix_speed, target:enemy_one, turn:2],[effect:force_change_block, new_block:damage, target:block_blue, ignore01:crash, ignore02:crack_bomb, ignore03:damage, count:5, val:0.06, animation:change_block]",1
+65530006,"[effect:enemy_message, val1:2, val2:1.8],[effect:force_change_block, new_block:damage, target:block_blue, ignore01:crash, ignore02:crack_bomb, ignore03:damage, count:4, val:0.06, animation:change_block]",1
+65530007,"[effect:enemy_message, val1:2, val2:1.8],[effect:rush, count:4, val:0.35],[effect:force_change_block, new_block:damage, target:block_blue, ignore01:crash, ignore02:crack_bomb, ignore03:damage, count:3, val:0.06, animation:change_block]",1
+65530008,"[effect:enemy_message, val1:2, val2:1.8],[effect:force_change_block, new_block:block_blue, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:block_blue, count:7, val:0, animation:change_block],[effect:rush, count:1, val:0.9]",1
+65530009,"[effect:enemy_message, val1:2, val2:1.8],[effect:critical, val:1.2]",1
+65530010,"[effect:enemy_message, val1:2, val2:1.8],[effect:rush, count:3, val:0.4]",1
+65530011,"[effect:enemy_message, val1:2, val2:1.8,],[effect:fix_speed, target:enemy_one, turn:3]",1
+65530012,"[effect:enemy_message, val1:2, val2:1.8],[effect:kamikaze, val:1.5]",1
+65530013,"[effect:enemy_message, val1:2, val2:1.8,],[effect:fix_speed, target:enemy_one, turn:3]",1
+65530014,"[effect:enemy_message, val1:2, val2:1.8],[effect:kamikaze, val:1.5]",1
+65530015,"[effect:enemy_message, val1:2, val2:1.8,],[effect:fix_speed, target:enemy_one, turn:3]",1
+65530016,"[effect:enemy_message, val1:2, val2:1.8],[effect:kamikaze, val:1.5]",1
+65530017,"[effect:enemy_message, val1:2, val2:1.8],[effect:fix_speed, target:enemy_one, turn:2],[effect:change_panel_ratio, turn:-1, block_type:blue, val:0.8, animation:block_incidence04]",1
+65530018,"[effect:enemy_message, val1:2, val2:1.8],[effect:force_change_block, new_block:damage, target:block_blue, ignore01:crash, ignore02:crack_bomb, ignore03:damage, count:4, val:0.06, animation:change_block]",1
+65530019,"[effect:enemy_message, val1:2, val2:1.8],[effect:force_change_block, new_block:damage, target:block_blue, ignore01:crash, ignore02:crack_bomb, ignore03:damage, count:3, val:0.06, animation:change_block]",1
+65530020,"[effect:enemy_message, val1:2, val2:1.8],[effect:rush, count:6, val:0.18],[effect:force_change_block, new_block:damage, target:block_blue, ignore01:crash, ignore02:crack_bomb, ignore03:damage, count:2, val:0.06, animation:change_block]",1
+65530021,"[effect:enemy_message, val1:2, val2:1.8],[effect:sleep, target:unit_one, turn:2, rate:1, animation:sleep01]",1
+65530022,"[effect:enemy_message, val1:2, val2:1.8],[effect:force_change_block, new_block:damage, target:block_blue, ignore01:crash, ignore02:crack_bomb, ignore03:damage, count:2, val:0.06, animation:change_block],[effect:critical, val:1.2, animation:enemy_critical]",1
+65530023,"[effect:enemy_message, val1:2, val2:1.8],[effect:fix_speed, target:enemy_one, turn:1],[effect:tolerance, target:enemy_one, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",1
+65530024,"[effect:enemy_message, val1:2, val2:1.8],[effect:force_change_block, new_block:damage, target:block_blue, ignore01:crash, ignore02:crack_bomb, ignore03:damage, count:4, val:0.06, animation:change_block]",1
+65530025,"[effect:enemy_message, val1:2, val2:1.8],[effect:force_change_block, new_block:damage, target:block_blue, ignore01:crash, ignore02:crack_bomb, ignore03:damage, count:3, val:0.06, animation:change_block]",1
+65530026,"[effect:enemy_message, val1:2, val2:1.8],[effect:force_change_block, new_block:damage, target:block_blue, ignore01:crash, ignore02:crack_bomb, ignore03:damage, count:2, val:0.06, animation:change_block],[effect:rush, count:1, val:0.9]",1
+65530027,"[effect:enemy_message, val1:2, val2:1.8],[effect:spread, val:0.35]",1
+65530028,"[effect:enemy_message, val1:2, val2:1.8],[effect:force_change_block, new_block:damage, target:block_blue, ignore01:crash, ignore02:crack_bomb, ignore03:damage, count:2, val:0.06, animation:change_block],[effect:rush, count:5, val:0.25]",1
+65530029,"[effect:enemy_message, val1:2, val2:1.8, dead_type:suicide]",1

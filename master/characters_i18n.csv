@@ -1,0 +1,1875 @@
+character_id,language,name,flavor_text,obtain_message,awaken_message
+1,ja,ジェリー,NULL,NULL,NULL
+2,ja,イレギュラー・ジェリー,NULL,NULL,NULL
+3,ja,エージェント ジョー,NULL,NULL,NULL
+4,ja,エースエージェント ジョー,NULL,NULL,NULL
+5,ja,パトドッグ ポチ,NULL,NULL,NULL
+6,ja,パトドッグリーダー ポチ,NULL,NULL,NULL
+7,ja,エレキポット,NULL,NULL,NULL
+8,ja,ハイボルテージ エレキポット,NULL,NULL,NULL
+9,ja,ブレット,NULL,NULL,NULL
+10,ja,燃える悪戯魂 ブレット,NULL,NULL,NULL
+11,ja,マグリット,NULL,NULL,NULL
+12,ja,癒しのグラフィティ マグリット,NULL,NULL,NULL
+13,ja,ミミ,NULL,NULL,NULL
+14,ja,ミミ・ザ・ガンマンキャット,NULL,NULL,NULL
+15,ja,アカネ,NULL,NULL,NULL
+16,ja,炎戦少女 アカネ,NULL,NULL,NULL
+17,ja,リム,NULL,NULL,NULL
+18,ja,戦闘案内人 リム,NULL,NULL,NULL
+19,ja,ティンク,NULL,NULL,NULL
+20,ja,電子妖精 ティンク,NULL,NULL,NULL
+21,ja,ヴェロキー,NULL,NULL,NULL
+22,ja,突然変異ヴェロキー,NULL,NULL,NULL
+23,ja,ミール,NULL,NULL,NULL
+24,ja,天翔のミール,NULL,NULL,NULL
+25,ja,ハチ,NULL,NULL,NULL
+26,ja,勇犬 ハチ,NULL,NULL,NULL
+27,ja,パトライン,NULL,NULL,NULL
+28,ja,現場急行 パトラインカスタム,NULL,NULL,NULL
+29,ja,スケアクロウ,NULL,NULL,NULL
+30,ja,護衛機人 スケアクロウ,NULL,NULL,NULL
+31,ja,マービー,NULL,NULL,NULL
+32,ja,沈黙のジャミング マービー,NULL,NULL,NULL
+33,ja,ゴクウ,NULL,NULL,NULL
+34,ja,斉天大聖 ゴクウ,NULL,NULL,NULL
+35,ja,F2,NULL,NULL,NULL
+36,ja,オフィス追尾型移動地雷F3,NULL,NULL,NULL
+37,ja,ガイル,NULL,NULL,NULL
+38,ja,通話対応型 ガイル,NULL,NULL,NULL
+39,ja,マーロン,NULL,NULL,NULL
+40,ja,デジタルマジシャン マーロン,NULL,NULL,NULL
+41,ja,ヒュウガ,NULL,NULL,NULL
+42,ja,燃えゆる吐息 ヒュウガ,NULL,NULL,NULL
+43,ja,ムゥ,NULL,NULL,NULL
+44,ja,遠い星からやってきたムゥ,NULL,NULL,NULL
+45,ja,ショウイン,NULL,NULL,NULL
+46,ja,微笑みの筆跡 ショウイン,NULL,NULL,NULL
+47,ja,ヒロ,NULL,NULL,NULL
+48,ja,サンダーステップのヒロ,NULL,NULL,NULL
+49,ja,ヨシタカ,NULL,NULL,NULL
+50,ja,炎銃のレジスタンス ヨシタカ,NULL,NULL,NULL
+51,ja,マイ,NULL,NULL,NULL
+52,ja,翠槍のレジスタンス マイ,NULL,NULL,NULL
+53,ja,ケンジ,NULL,NULL,NULL
+54,ja,蒼斬のレジスタンス ケンジ,NULL,NULL,NULL
+55,ja,マミコ,NULL,NULL,NULL
+56,ja,黄槌のレジスタンス マミコ,NULL,NULL,NULL
+57,ja,チェン・リー,NULL,NULL,NULL
+58,ja,ドランクマスター チェン・リー,NULL,NULL,NULL
+59,ja,マーチ,NULL,NULL,NULL
+60,ja,おでかけマーチ,NULL,NULL,NULL
+61,ja,クロウ,NULL,NULL,NULL
+62,ja,脈動旋律のクロウ,NULL,NULL,NULL
+63,ja,トニー,NULL,NULL,NULL
+64,ja,フレイムエッジ トニー,NULL,NULL,NULL
+65,ja,ファイアフォックス,NULL,NULL,NULL
+66,ja,探索者 ファイアフォックス,NULL,NULL,NULL
+67,ja,双炎の探索者 ファイアフォックス,NULL,NULL,NULL
+68,ja,ストール,NULL,NULL,NULL
+69,ja,思想家 ストール,NULL,NULL,NULL
+70,ja,自由の思想家 ストール,NULL,NULL,NULL
+71,ja,ダックス,NULL,NULL,NULL
+72,ja,探求者 ダックス,NULL,NULL,NULL
+73,ja,自由の探求者 ダックス,NULL,NULL,NULL
+74,ja,サンダーバード,NULL,NULL,NULL
+75,ja,伝令者 サンダーバード,NULL,NULL,NULL
+76,ja,閃速の伝令者 サンダーバード,NULL,NULL,NULL
+77,ja,潜伏型メリッサ,NULL,NULL,NULL
+78,ja,擬態潜伏型メリッサ2.0,NULL,NULL,NULL
+79,ja,ハッピー100,NULL,NULL,NULL
+80,ja,ハッピー101,NULL,NULL,NULL
+81,ja,増幅型モリス,NULL,NULL,NULL
+82,ja,偽装増幅型G・モリス,NULL,NULL,NULL
+83,ja,拡散性ニムダ,NULL,NULL,NULL
+84,ja,高速拡散性ニムダE,NULL,NULL,NULL
+85,ja,朱雀,NULL,NULL,NULL
+86,ja,守護者 朱雀,NULL,NULL,NULL
+87,ja,朱南の守護神 朱雀,NULL,NULL,NULL
+88,ja,玄武,NULL,NULL,NULL
+89,ja,守護者 玄武,NULL,NULL,NULL
+90,ja,翠北の守護神 玄武,NULL,NULL,NULL
+91,ja,青龍,NULL,NULL,NULL
+92,ja,守護者 青龍,NULL,NULL,NULL
+93,ja,碧東の守護神 青龍,NULL,NULL,NULL
+94,ja,白虎,NULL,NULL,NULL
+95,ja,守護者 白虎,NULL,NULL,NULL
+96,ja,金西の守護神 白虎,NULL,NULL,NULL
+97,ja,炎のミリオンダック,NULL,NULL,NULL
+98,ja,森のミリオンダック,NULL,NULL,NULL
+99,ja,水のミリオンダック,NULL,NULL,NULL
+100,ja,雷のミリオンダック,NULL,NULL,NULL
+101,ja,レッドチェシャ,NULL,NULL,NULL
+102,ja,レッドラビット,NULL,NULL,NULL
+103,ja,レッドキャタップ,NULL,NULL,NULL
+104,ja,炎のマッドハッター,NULL,NULL,NULL
+105,ja,グリーンチェシャ,NULL,NULL,NULL
+106,ja,グリーンラビット,NULL,NULL,NULL
+107,ja,グリーンキャタップ,NULL,NULL,NULL
+108,ja,森のマッドハッター,NULL,NULL,NULL
+109,ja,ブルーチェシャ,NULL,NULL,NULL
+110,ja,ブルーラビット,NULL,NULL,NULL
+111,ja,ブルーキャタップ,NULL,NULL,NULL
+112,ja,水のマッドハッター,NULL,NULL,NULL
+113,ja,イエローチェシャ,NULL,NULL,NULL
+114,ja,イエローラビット,NULL,NULL,NULL
+115,ja,イエローキャタップ,NULL,NULL,NULL
+116,ja,雷のマッドハッター,NULL,NULL,NULL
+117,ja,ゴールドピヨピヨ,NULL,NULL,NULL
+118,ja,ゴールドチック,NULL,NULL,NULL
+119,ja,ゴールドダック,NULL,NULL,NULL
+120,ja,ゴールドキング,NULL,NULL,NULL
+121,ja,攻めの果実,NULL,NULL,NULL
+122,ja,生命の果実,NULL,NULL,NULL
+123,ja,癒しの果実,NULL,NULL,NULL
+124,ja,黄金の果実,NULL,NULL,NULL
+125,ja,秘術の果実,NULL,NULL,NULL
+126,ja,骨器使い ユノ,NULL,NULL,NULL
+127,ja,狂喜の賢者 ユノ,NULL,NULL,NULL
+128,ja,野生児 アマラ,NULL,NULL,NULL
+129,ja,孤高の狼憑き アマラ,NULL,NULL,NULL
+130,ja,狼男 ローレンス,NULL,NULL,NULL
+131,ja,月下の人狼 ローレンス,NULL,NULL,NULL
+132,ja,鳥人ハヤト,NULL,NULL,NULL
+133,ja,迅雷の刀剣 ハヤト,NULL,NULL,NULL
+134,ja,妖炎の夕霧,NULL,NULL,NULL
+135,ja,京の炎華夕霧,NULL,NULL,NULL
+136,ja,お針子チハヤ,NULL,NULL,NULL
+137,ja,清福の仕立屋 チハヤ,NULL,NULL,NULL
+138,ja,蒼薙のトモエ,NULL,NULL,NULL
+139,ja,蒼昇刃姫 トモエ,NULL,NULL,NULL
+140,ja,秋祭のタマモ,NULL,NULL,NULL
+141,ja,妖狐演舞 タマモ,NULL,NULL,NULL
+142,ja,赤ずきん,NULL,NULL,NULL
+143,ja,深紅の死神 赤ずきん,NULL,NULL,NULL
+144,ja,かぐや,NULL,NULL,NULL
+145,ja,魔性妖艶 かぐや,NULL,NULL,NULL
+146,ja,マーメイド,NULL,NULL,NULL
+147,ja,蒼き閃光 元マーメイド,NULL,NULL,NULL
+148,ja,シンデレラ,NULL,NULL,NULL
+149,ja,雷撃蹴技を極めし者 シンデレラ,NULL,NULL,NULL
+150,ja,ポイズンマスターサキ,NULL,NULL,NULL
+151,ja,毒煙の処刑人サキ,NULL,NULL,NULL
+152,ja,功夫少女ランラン,NULL,NULL,NULL
+153,ja,拳聖ランラン,NULL,NULL,NULL
+154,ja,始末屋 ハンナ,NULL,NULL,NULL
+155,ja,隻眼の掃除屋 ハンナ,NULL,NULL,NULL
+156,ja,踊り子 エレナ,NULL,NULL,NULL
+157,ja,雷光舞姫 エレナ,NULL,NULL,NULL
+158,ja,シスター シャルロッテ,NULL,NULL,NULL
+159,ja,邪を狩りし者 シャルロッテ,NULL,NULL,NULL
+160,ja,反逆者 クリエ,NULL,NULL,NULL
+161,ja,咆哮の先導者 クリエ,NULL,NULL,NULL
+162,ja,狂女 クララ,NULL,NULL,NULL
+163,ja,冷酷な狂嬢 クララ,NULL,NULL,NULL
+164,ja,イブとトモダチ,NULL,NULL,NULL
+165,ja,イブとたったひとりのトモダチ,NULL,NULL,NULL
+166,ja,ベリアル,NULL,NULL,NULL
+167,ja,逆徒 ベリアル,NULL,NULL,NULL
+168,ja,猛進の大逆者 ベリアル,NULL,NULL,NULL
+169,ja,オセ,NULL,NULL,NULL
+170,ja,識徒 オセ,NULL,NULL,NULL
+171,ja,精解の預知者 オセ,NULL,NULL,NULL
+172,ja,フォルネウス,NULL,NULL,NULL
+173,ja,公爵 フォルネウス,NULL,NULL,NULL
+174,ja,偽愛の大公爵 フォルネウス,NULL,NULL,NULL
+175,ja,バフォメット,NULL,NULL,NULL
+176,ja,異教徒 バフォメット,NULL,NULL,NULL
+177,ja,黒魔の異端師 バフォメット,NULL,NULL,NULL
+178,ja,ケルベロス,NULL,NULL,NULL
+179,ja,番犬 ケルベロス,NULL,NULL,NULL
+180,ja,地獄の大門番 ケルベロス,NULL,NULL,NULL
+181,ja,ベヒモス,NULL,NULL,NULL
+182,ja,放蕩者 ベヒモス,NULL,NULL,NULL
+183,ja,鈍重な彷徨者 ベヒモス,NULL,NULL,NULL
+184,ja,クラーケン,NULL,NULL,NULL
+185,ja,海姫 クラーケン,NULL,NULL,NULL
+186,ja,誇り高き多触姫・クラーケン,NULL,NULL,NULL
+187,ja,ホルス,NULL,NULL,NULL
+188,ja,猛禽 ホルス,NULL,NULL,NULL
+189,ja,迅雷の王禽 ホルス,NULL,NULL,NULL
+190,ja,卑弥呼,NULL,NULL,NULL
+191,ja,始祖 卑弥呼,NULL,NULL,NULL
+192,ja,荘厳なる始祖帝 卑弥呼,NULL,NULL,NULL
+193,ja,ロビンフッド,NULL,NULL,NULL
+194,ja,スナイパー ロビンフッド,NULL,NULL,NULL
+195,ja,グランドハンター ロビンフッド,NULL,NULL,NULL
+196,ja,アキレス,NULL,NULL,NULL
+197,ja,鉄腕 アキレス,NULL,NULL,NULL
+198,ja,砕骨の剛腕 アキレス,NULL,NULL,NULL
+199,ja,ジークフリート,NULL,NULL,NULL
+200,ja,大剣士 ジークフリート,NULL,NULL,NULL
+201,ja,斬空の大破剣 ジークフリート,NULL,NULL,NULL
+202,ja,プロメテウス,NULL,NULL,NULL
+203,ja,焔神 プロメテウス,NULL,NULL,NULL
+204,ja,慟哭の巨焔 プロメテウス,NULL,NULL,NULL
+205,ja,アフロディーテ,NULL,NULL,NULL
+206,ja,美神 アフロディーテ,NULL,NULL,NULL
+207,ja,豊穣の麗神・アフロディーテ,NULL,NULL,NULL
+208,ja,テティス,NULL,NULL,NULL
+209,ja,孤神 テティス,NULL,NULL,NULL
+210,ja,海底の孤高神 テティス,NULL,NULL,NULL
+211,ja,アストライアー,NULL,NULL,NULL
+212,ja,星神 アストライアー,NULL,NULL,NULL
+213,ja,満天の星降神 アストライアー,NULL,NULL,NULL
+214,ja,アズラエル,NULL,NULL,NULL
+215,ja,死導者 アズラエル,NULL,NULL,NULL
+216,ja,百読の死導司書 アズラエル,NULL,NULL,NULL
+217,ja,ケツァクアトル,NULL,NULL,NULL
+218,ja,聖蛇 ケツァクアトル,NULL,NULL,NULL
+219,ja,覇翼の聖蛇竜 ケツァクアトル,NULL,NULL,NULL
+220,ja,ルキフグス,NULL,NULL,NULL
+221,ja,宰相 ルキフグス,NULL,NULL,NULL
+222,ja,避光の鉄鎖宰相 ルキフグス,NULL,NULL,NULL
+223,ja,ヘラクレス,NULL,NULL,NULL
+224,ja,巨腕 ヘラクレス,NULL,NULL,NULL
+225,ja,咆哮の巨獅腕 ヘラクレス,NULL,NULL,NULL
+226,ja,アレス,NULL,NULL,NULL
+227,ja,滅弾 アレス,NULL,NULL,NULL
+228,ja,殲滅の掃射砲 アレス,NULL,NULL,NULL
+229,ja,ヨルムンガンド,NULL,NULL,NULL
+230,ja,毒銃 ヨルムンガンド,NULL,NULL,NULL
+231,ja,必中の咬銃 ヨルムンガンド,NULL,NULL,NULL
+232,ja,パーシヴァル,NULL,NULL,NULL
+233,ja,遂行 パーシヴァル,NULL,NULL,NULL
+234,ja,精密なる照準 パーシヴァル,NULL,NULL,NULL
+235,ja,イザナミ,NULL,NULL,NULL
+236,ja,神産 イザナミ,NULL,NULL,NULL
+237,ja,森羅万象の神母 イザナミ,NULL,NULL,NULL
+238,ja,ウリエル,NULL,NULL,NULL
+239,ja,豪炎の天使 ウリエル,NULL,NULL,NULL
+240,ja,轟炎の天使 ウリエル・スレイヤー,NULL,NULL,NULL
+241,ja,ガブリエル,NULL,NULL,NULL
+242,ja,百花の天使 ガブリエル,NULL,NULL,NULL
+243,ja,万花の天使 ガブリエル・ブルーム,NULL,NULL,NULL
+244,ja,ラファエル,NULL,NULL,NULL
+245,ja,鎮癒の天使 ラファエル,NULL,NULL,NULL
+246,ja,真癒の天使 ラファエル・メディカ,NULL,NULL,NULL
+247,ja,ミカエル,NULL,NULL,NULL
+248,ja,彩電の天使 ミカエル,NULL,NULL,NULL
+249,ja,雷電の天使 ミカエル・ゲイナー,NULL,NULL,NULL
+250,ja,マンモン,NULL,NULL,NULL
+251,ja,強欲 マンモン,NULL,NULL,NULL
+252,ja,強欲の沸騰 マンモン,NULL,NULL,NULL
+253,ja,ベルフェゴール,NULL,NULL,NULL
+254,ja,怠惰 ベルフェゴール,NULL,NULL,NULL
+255,ja,怠惰の頂点 ベルフェゴール,NULL,NULL,NULL
+256,ja,アスモデウス,NULL,NULL,NULL
+257,ja,色欲 アスモデウス,NULL,NULL,NULL
+258,ja,色欲の源流 アスモデウス,NULL,NULL,NULL
+259,ja,ウロボロス,NULL,NULL,NULL
+260,ja,輪廻 ウロボロス,NULL,NULL,NULL
+261,ja,輪廻の蛇龍 ウロボロス,NULL,NULL,NULL
+262,ja,アシュリー,NULL,NULL,NULL
+263,ja,鉤爪姫 アシュリー,NULL,NULL,NULL
+264,ja,ユニコーン,NULL,NULL,NULL
+265,ja,翠角馬 ユニコーン,NULL,NULL,NULL
+266,ja,リリアンブルー,NULL,NULL,NULL
+267,ja,奇術猫 リリアンブルー,NULL,NULL,NULL
+268,ja,鵺,NULL,NULL,NULL
+269,ja,合雷獣 鵺,NULL,NULL,NULL
+270,ja,風爪のミリー,NULL,NULL,NULL
+271,ja,疾風五花 ミリー,NULL,NULL,NULL
+272,ja,魔札のシルベール,NULL,NULL,NULL
+273,ja,円環魔道 シルベール,NULL,NULL,NULL
+274,ja,砕棒のガエル,NULL,NULL,NULL
+275,ja,轟雷砕棒 ガエル,NULL,NULL,NULL
+276,ja,機拳のイリア,NULL,NULL,NULL
+277,ja,機拳恐慌 イリア,NULL,NULL,NULL
+278,ja,アマテラス,NULL,NULL,NULL
+279,ja,統空大神 アマテラス,NULL,NULL,NULL
+280,ja,リンドブルム,NULL,NULL,NULL
+281,ja,リンドブルム・コンデンス,NULL,NULL,NULL
+282,ja,ラーフ,NULL,NULL,NULL
+283,ja,ラーフ・メテオ,NULL,NULL,NULL
+284,ja,フェルニゲシュ,NULL,NULL,NULL
+285,ja,フェルニゲシュ・オーバードライヴ,NULL,NULL,NULL
+286,ja,ヒュドラ,NULL,NULL,NULL
+287,ja,ヒュドラ・フルオープン,NULL,NULL,NULL
+288,ja,ミカド,NULL,NULL,NULL
+289,ja,高圧なるミカド,NULL,NULL,NULL
+290,ja,ウィッチ・オクトパス,NULL,NULL,NULL
+291,ja,魔改造のウィッチ・オクトパス,NULL,NULL,NULL
+292,ja,アナスタシア,NULL,NULL,NULL
+293,ja,激流拳技を極めし者 アナスタシア,NULL,NULL,NULL
+294,ja,ウルフ・ザ・レッドイーター,NULL,NULL,NULL
+295,ja,ウルフ・ザ・レッドクラッシャー,NULL,NULL,NULL
+296,ja,アザゼル,NULL,NULL,NULL
+297,ja,狂靭なる双撃 アザゼル,NULL,NULL,NULL
+298,ja,炎殺のミサコ,NULL,NULL,NULL
+299,ja,狂気の炎風 ミサコ,NULL,NULL,NULL
+300,ja,毒殺のチカ,NULL,NULL,NULL
+301,ja,宿痾の葬送 チカ,NULL,NULL,NULL
+302,ja,絞殺のリサ,NULL,NULL,NULL
+303,ja,哄笑の禁縛 リサ,NULL,NULL,NULL
+304,ja,電殺のチエミ,NULL,NULL,NULL
+305,ja,螺旋の雷電 チエミ,NULL,NULL,NULL
+306,ja,メガロドン,NULL,NULL,NULL
+307,ja,古の鋼拳 メガロドン,NULL,NULL,NULL
+308,ja,アーケロン,NULL,NULL,NULL
+309,ja,古の博学 アーケロン,NULL,NULL,NULL
+310,ja,リードシクティス,NULL,NULL,NULL
+311,ja,古の暴食 リードシクティス,NULL,NULL,NULL
+312,ja,アノマロカリス,NULL,NULL,NULL
+313,ja,古の先鋭 アノマロカリス,NULL,NULL,NULL
+314,ja,ジャンヌ,NULL,NULL,NULL
+315,ja,鉄馬駆る聖女 ジャンヌ,NULL,NULL,NULL
+316,ja,テスラ,NULL,NULL,NULL
+317,ja,異能の電気師 テスラ,NULL,NULL,NULL
+318,ja,シャルル,NULL,NULL,NULL
+319,ja,夢想の学士 シャルル,NULL,NULL,NULL
+320,ja,烈志士 近藤勇,NULL,NULL,NULL
+321,ja,巌鉄の烈志士 近藤勇,NULL,NULL,NULL
+322,ja,愛志士 土方歳三,NULL,NULL,NULL
+323,ja,流麗の愛志士 土方歳三,NULL,NULL,NULL
+324,ja,凛志士 沖田総司,NULL,NULL,NULL
+325,ja,天賦の凛志士 沖田総司,NULL,NULL,NULL
+326,ja,妖志士 斎藤一,NULL,NULL,NULL
+327,ja,千殺の妖志士 斎藤一,NULL,NULL,NULL
+328,ja,麒麟クエストアイコンシルエット,NULL,NULL,NULL
+329,ja,麒麟クエストアイコンシルエット,NULL,NULL,NULL
+330,ja,Usagi-chan,NULL,NULL,NULL
+331,ja,オーディンクエストアイコンシルエット,NULL,NULL,NULL
+332,ja,炎のメタルピヨピヨ,NULL,NULL,NULL
+333,ja,炎のメタルチック,NULL,NULL,NULL
+334,ja,炎のメタルダック,NULL,NULL,NULL
+335,ja,炎のメタルジェントル,NULL,NULL,NULL
+336,ja,森のメタルピヨピヨ,NULL,NULL,NULL
+337,ja,森のメタルチック,NULL,NULL,NULL
+338,ja,森のメタルダック,NULL,NULL,NULL
+339,ja,森のメタルジェントル,NULL,NULL,NULL
+340,ja,水のメタルピヨピヨ,NULL,NULL,NULL
+341,ja,水のメタルチック,NULL,NULL,NULL
+342,ja,水のメタルダック,NULL,NULL,NULL
+343,ja,水のメタルジェントル,NULL,NULL,NULL
+344,ja,雷のメタルピヨピヨ,NULL,NULL,NULL
+345,ja,雷のメタルチック,NULL,NULL,NULL
+346,ja,雷のメタルダック,NULL,NULL,NULL
+347,ja,雷のメタルジェントル,NULL,NULL,NULL
+348,ja,炎のケロケロ,NULL,NULL,NULL
+349,ja,炎のメタルフロッグ,NULL,NULL,NULL
+350,ja,森のケロケロ,NULL,NULL,NULL
+351,ja,森のメタルフロッグ,NULL,NULL,NULL
+352,ja,水のケロケロ,NULL,NULL,NULL
+353,ja,水のメタルフロッグ,NULL,NULL,NULL
+354,ja,雷のケロケロ,NULL,NULL,NULL
+355,ja,雷のメタルフロッグ,NULL,NULL,NULL
+356,ja,炎上のドードー,NULL,NULL,NULL
+357,ja,千風のグリフォン,NULL,NULL,NULL
+358,ja,深淵の代用ウミガメ,NULL,NULL,NULL
+359,ja,醒電の眠りネズミ,NULL,NULL,NULL
+360,ja,ガンテツ,NULL,NULL,NULL
+361,ja,灼熱の鉄板 ガンテツ,NULL,NULL,NULL
+362,ja,ゆらら,NULL,NULL,NULL
+363,ja,花咲く幼精 ゆらら,NULL,NULL,NULL
+364,ja,ノエル,NULL,NULL,NULL
+365,ja,惨劇の人形 ノエル,NULL,NULL,NULL
+366,ja,トト,NULL,NULL,NULL
+367,ja,爆進の小兵 トト,NULL,NULL,NULL
+368,ja,ボイル,NULL,NULL,NULL
+369,ja,赫熱の重腕 ボイル,NULL,NULL,NULL
+370,ja,タイチ,NULL,NULL,NULL
+371,ja,行灯達磨 タイチ,NULL,NULL,NULL
+372,ja,バショー,NULL,NULL,NULL
+373,ja,夢幻俳聖 バショー,NULL,NULL,NULL
+374,ja,影丸,NULL,NULL,NULL
+375,ja,蒼術兎忍 影丸,NULL,NULL,NULL
+376,ja,勘兵衛,NULL,NULL,NULL
+377,ja,光明鹿剣 勘兵衛,NULL,NULL,NULL
+378,ja,オイラー,NULL,NULL,NULL
+379,ja,幾何の機刃 オイラー,NULL,NULL,NULL
+380,ja,バハムート,NULL,NULL,NULL
+381,ja,肉食の恋火 バハムート,NULL,NULL,NULL
+382,ja,激情の愛炎 バハムート,NULL,NULL,NULL
+383,ja,酒宴の蟒蛇 ヤマタノオロチ,NULL,NULL,NULL
+384,ja,破国の呑龍 ヤマタノオロチ,NULL,NULL,NULL
+385,ja,波烈の出奔 リヴァイアサン,NULL,NULL,NULL
+386,ja,氾乱の海龍 リヴァイアサン,NULL,NULL,NULL
+387,ja,スフィンクス,NULL,NULL,NULL
+388,ja,神円の恋姫 スフィンクス,NULL,NULL,NULL
+389,ja,操神の愛姫 スフィンクス,NULL,NULL,NULL
+390,ja,華環の旅客 親指姫,NULL,NULL,NULL
+391,ja,燕翼の旅人 親指姫,NULL,NULL,NULL
+392,ja,ピーターパン,NULL,NULL,NULL
+393,ja,影縫い ピーターパン,NULL,NULL,NULL
+394,ja,影求の悪童 ピーターパン,NULL,NULL,NULL
+395,ja,乙姫,NULL,NULL,NULL
+396,ja,竜宮の水雷 乙姫,NULL,NULL,NULL
+397,ja,禁断の追箱 乙姫,NULL,NULL,NULL
+398,ja,ヘンゼル＆グレーテル,NULL,NULL,NULL
+399,ja,信愛の兄妹 ヘンゼル＆グレーテル,NULL,NULL,NULL
+400,ja,フェンリル,NULL,NULL,NULL
+401,ja,紅銀の孤狼 フェンリル,NULL,NULL,NULL
+402,ja,天災の神狼 フェンリル,NULL,NULL,NULL
+403,ja,静撃の翠眼 八咫烏,NULL,NULL,NULL
+404,ja,空襲の神眼 八咫烏,NULL,NULL,NULL
+405,ja,エキドナ,NULL,NULL,NULL
+406,ja,美笑の蒼蛇 エキドナ,NULL,NULL,NULL
+407,ja,蠱惑の飛刀 エキドナ,NULL,NULL,NULL
+408,ja,皇魔 アスタロト,NULL,NULL,NULL
+409,ja,天眼の皇貴魔 アスタロト,NULL,NULL,NULL
+410,ja,ファラデー,NULL,NULL,NULL
+411,ja,電隷の始祖 ファラデー,NULL,NULL,NULL
+412,ja,コウネン,NULL,NULL,NULL
+413,ja,狂騒地蔵 コウネン,NULL,NULL,NULL
+414,ja,炎のミリオンダック 2,NULL,NULL,NULL
+415,ja,森のミリオンダック 2,NULL,NULL,NULL
+416,ja,水のミリオンダック 2,NULL,NULL,NULL
+417,ja,雷のミリオンダック 2,NULL,NULL,NULL
+418,ja,ウラシマ,NULL,NULL,NULL
+419,ja,宣戦の解城 ウラシマ,NULL,NULL,NULL
+420,ja,カエデ,NULL,NULL,NULL
+421,ja,反親の彩壁 カエデ,NULL,NULL,NULL
+422,ja,シュガフル,NULL,NULL,NULL
+423,ja,甘罠の魔女 シュガフル,NULL,NULL,NULL
+424,ja,フック,NULL,NULL,NULL
+425,ja,怒髪の海賊 フック,NULL,NULL,NULL
+426,ja,宮本武蔵,NULL,NULL,NULL
+427,ja,極・剣豪 宮本武蔵,NULL,NULL,NULL
+428,ja,レッドダムディ,NULL,NULL,NULL
+429,ja,ブルーダムディ,NULL,NULL,NULL
+430,ja,グリーンダムディ,NULL,NULL,NULL
+431,ja,イエローダムディ,NULL,NULL,NULL
+432,ja,麒麟,NULL,NULL,NULL
+433,ja,世稀の現獣 麒麟,NULL,NULL,NULL
+434,ja,D.R.T.H.,NULL,NULL,NULL
+435,ja,曝弾の密偵 D.R.T.H.,NULL,NULL,NULL
+436,ja,カカシ,NULL,NULL,NULL
+437,ja,忘却者 カカシ,NULL,NULL,NULL
+438,ja,記憶の奪還 カカシ,NULL,NULL,NULL
+439,ja,ブリキロガー,NULL,NULL,NULL
+440,ja,改良型 ブリキロガー,NULL,NULL,NULL
+441,ja,求心の錻装 ブリキロガー,NULL,NULL,NULL
+442,ja,ブレイブリー・ライオン,NULL,NULL,NULL
+443,ja,勇機結集 ブレイブリー・ライオン,NULL,NULL,NULL
+444,ja,炎のミリオンダック 4,NULL,NULL,NULL
+445,ja,森のミリオンダック 4,NULL,NULL,NULL
+446,ja,水のミリオンダック 4,NULL,NULL,NULL
+447,ja,雷のミリオンダック 4,NULL,NULL,NULL
+448,ja,浮上する夢想学士 シャルル,NULL,NULL,NULL
+449,ja,未定,NULL,NULL,NULL
+450,ja,イゾルデ,NULL,NULL,NULL
+451,ja,シルエットオーディン2,NULL,NULL,NULL
+452,ja,猛狐 エゾ,NULL,NULL,NULL
+453,ja,急尾の猛狐 エゾ,NULL,NULL,NULL
+454,ja,二闘 レッサとギガン,NULL,NULL,NULL
+455,ja,廃街の二闘 レッサとギガン,NULL,NULL,NULL
+456,ja,射絶 ユヅル,NULL,NULL,NULL
+457,ja,京速射絶 ユヅル,NULL,NULL,NULL
+458,ja,嵐龍 スガル,NULL,NULL,NULL
+459,ja,威喝の嵐龍 スガル,NULL,NULL,NULL
+460,ja,オズ,NULL,NULL,NULL
+461,ja,大いなる虚像 オズ,NULL,NULL,NULL
+462,ja,ガウェイン,NULL,NULL,NULL
+463,ja,燻銀 ガウェイン,NULL,NULL,NULL
+464,ja,円熟の弾導 ガウェイン,NULL,NULL,NULL
+465,ja,真撃 ランスロット,NULL,NULL,NULL
+466,ja,真断の勇覇 ランスロット,NULL,NULL,NULL
+467,ja,報復 モルドレッド,NULL,NULL,NULL
+468,ja,憎愛の尖鋒 モルドレッド,NULL,NULL,NULL
+469,ja,トリスタン,NULL,NULL,NULL
+470,ja,純心 トリスタン,NULL,NULL,NULL
+471,ja,不可避の爆激 トリスタン,NULL,NULL,NULL
+472,ja,アーサー,NULL,NULL,NULL
+473,ja,凶堅なる正義 アーサー,NULL,NULL,NULL
+474,ja,キング・ドライグ,NULL,NULL,NULL
+475,ja,緋王 キング・ドライグ,NULL,NULL,NULL
+476,ja,ファータ,NULL,NULL,NULL
+477,ja,愛羽妖精 ファータ,NULL,NULL,NULL
+478,ja,時計仕掛けの愛羽妖精 ファータ,NULL,NULL,NULL
+479,ja,フール,NULL,NULL,NULL
+480,ja,夢幻の愚者フール,NULL,NULL,NULL
+481,ja,沢庵宗彭,NULL,NULL,NULL
+482,ja,魁僧 沢庵宗彭,NULL,NULL,NULL
+483,ja,命経死遂 沢庵宗彭,NULL,NULL,NULL
+484,ja,ラグランジュ,NULL,NULL,NULL
+485,ja,超越自我 ラグランジュ,NULL,NULL,NULL
+486,ja,重なる世解 シュレディンガー,NULL,NULL,NULL
+487,ja,暴創の造物 チューリング,NULL,NULL,NULL
+488,ja,直観の異論 ヘンペル,NULL,NULL,NULL
+489,ja,宇宙の拡超 ハップル,NULL,NULL,NULL
+490,ja,グリム,NULL,NULL,NULL
+491,ja,収魂の群影 グリム,NULL,NULL,NULL
+492,ja,ブートレグ・ペロー,NULL,NULL,NULL
+493,ja,跋扈の機脚 ブートレグ・ペロー,NULL,NULL,NULL
+494,ja,ハーメルン,NULL,NULL,NULL
+495,ja,鼠災呼ぶ笛音 ハーメルン,NULL,NULL,NULL
+496,ja,エスタブ,NULL,NULL,NULL
+497,ja,偏愛の野獣 エスタブ,NULL,NULL,NULL
+498,ja,自愛の高魔 エスタブ,NULL,NULL,NULL
+499,ja,ラプンツェル,NULL,NULL,NULL
+500,ja,脈動の禁髪 ラプンツェル,NULL,NULL,NULL
+501,ja,ラプンツェルじゃなくなった,NULL,NULL,NULL
+502,ja,テラベル,NULL,NULL,NULL
+503,ja,破獣の爆姫 テラベル,NULL,NULL,NULL
+504,ja,ハイディン・オーガ,NULL,NULL,NULL
+505,ja,暴虐の漏洩 ハイディン・オーガ,NULL,NULL,NULL
+506,ja,ゴーテル,NULL,NULL,NULL
+507,ja,過保護な幽閉者 ゴーテル,NULL,NULL,NULL
+508,ja,Gスター・チルドレン,NULL,NULL,NULL
+509,ja,純粋悪意 Gスター・チルドレン,NULL,NULL,NULL
+510,ja,燃えさかる豪息 ヒュウガ,NULL,NULL,NULL
+511,ja,灼き尽くす紅息 ヒュウガ・レアル,NULL,NULL,NULL
+512,ja,聖火の逆徒 クリスマス・ベリアル,NULL,NULL,NULL
+513,ja,爆進の荷炎 クリスマス・ベリアル,NULL,NULL,NULL
+514,ja,祝宴の識徒 サンタクロース・オセ,NULL,NULL,NULL
+515,ja,聖夜の贈主 サンタクロース・オセ,NULL,NULL,NULL
+516,ja,聖母 マリア,NULL,NULL,NULL
+517,ja,真冬の誕生祭 マリア,NULL,NULL,NULL
+518,ja,秘来の聖天使 ミカエル,NULL,NULL,NULL
+519,ja,夜天の聖天使 ミカエル・ハレルヤ,NULL,NULL,NULL
+520,ja,炎のサンタダック,NULL,NULL,NULL
+521,ja,森のサンタダック,NULL,NULL,NULL
+522,ja,水のサンタダック,NULL,NULL,NULL
+523,ja,雷のサンタダック,NULL,NULL,NULL
+524,ja,あけおめダック,NULL,NULL,NULL
+525,ja,ウィンタースポーツ 雪ミク,NULL,NULL,NULL
+526,ja,大滑走 雪ミク&ラビットユキネ,NULL,NULL,NULL
+527,ja,初音ミクV3,NULL,NULL,NULL
+528,ja,新世の歌姫 初音ミクV3,NULL,NULL,NULL
+529,ja,冬服ジェリー,NULL,NULL,NULL
+530,ja,冬服ジョー,NULL,NULL,NULL
+531,ja,冬服ポチ,NULL,NULL,NULL
+532,ja,冬服エレキポット,NULL,NULL,NULL
+533,ja,冬服アカネ,NULL,NULL,NULL
+534,ja,冬服パトライン,NULL,NULL,NULL
+535,ja,冬服リム,NULL,NULL,NULL
+536,ja,冬服ミミ,NULL,NULL,NULL
+537,ja,冬服ハッピー100,NULL,NULL,NULL
+538,ja,冬服ニムダ,NULL,NULL,NULL
+539,ja,初音ミク・アペンド,NULL,NULL,NULL
+540,ja,来訪の歌姫 初音ミク・アペンド,NULL,NULL,NULL
+541,ja,初音ミク,NULL,NULL,NULL
+542,ja,革命の音撃 初音ミク,NULL,NULL,NULL
+543,ja,鏡音リン,NULL,NULL,NULL
+544,ja,反響の凛音 鏡音リン,NULL,NULL,NULL
+545,ja,鏡音レン,NULL,NULL,NULL
+546,ja,残響の連符 鏡音レン,NULL,NULL,NULL
+547,ja,巡音ルカ,NULL,NULL,NULL
+548,ja,乱舞の音環 巡音ルカ,NULL,NULL,NULL
+549,ja,MEIKO,NULL,NULL,NULL
+550,ja,解放の絶唱 MEIKO,NULL,NULL,NULL
+551,ja,KAITO,NULL,NULL,NULL
+552,ja,愉悦の愛唱 KAITO,NULL,NULL,NULL
+553,ja,雪ミク2016,NULL,NULL,NULL
+554,ja,雪ミク&ラビット・ユキネ2016,NULL,NULL,NULL
+555,ja,雪ミク2014,NULL,NULL,NULL
+556,ja,雪ミク&ラビットユキネ2014,NULL,NULL,NULL
+557,ja,ラビット・ユキネ,NULL,NULL,NULL
+558,ja,雪原の超躍 ラビット・ユキネ,NULL,NULL,NULL
+559,ja,白銀の滑光 ラビット・ユキネ,NULL,NULL,NULL
+560,ja,暴骨炎舞の狂賢者 ユノ,NULL,NULL,NULL
+561,ja,森翠統べる獣姫 アマラ,NULL,NULL,NULL
+562,ja,月夜砕く蒼狂狼 ローレンス,NULL,NULL,NULL
+563,ja,電翔紫閃の雷刃 ハヤト,NULL,NULL,NULL
+564,ja,赤ずきん,NULL,NULL,NULL
+565,ja,かぐや,NULL,NULL,NULL
+566,ja,遊歩遊泳プリンセス マーメイド,NULL,NULL,NULL
+567,ja,紅揚の祭狐宴舞 タマモ,NULL,NULL,NULL
+568,ja,空駆ける電能師 テスラ,NULL,NULL,NULL
+569,ja,ハッピー102,NULL,NULL,NULL
+570,ja,幸響の電心 ハッピー,NULL,NULL,NULL
+571,ja,ハッピー バレンタイン,NULL,NULL,NULL
+572,ja,恋する果実,NULL,NULL,NULL
+573,ja,オーディン,NULL,NULL,NULL
+574,ja,世慧の守神 オーディン,NULL,NULL,NULL
+575,ja,フレイ,NULL,NULL,NULL
+576,ja,統勝の豊穣王神 フレイ,NULL,NULL,NULL
+577,ja,ビュグヴィルとベイラ,NULL,NULL,NULL
+578,ja,穣神従事 ビュグヴィルとベイラ,NULL,NULL,NULL
+579,ja,オーズ,NULL,NULL,NULL
+580,ja,愛憐の旅神 オーズ,NULL,NULL,NULL
+581,ja,フギンとムニン,NULL,NULL,NULL
+582,ja,空を駆る双鴉 フギンとムニン,NULL,NULL,NULL
+583,ja,ミョルニル,NULL,NULL,NULL
+584,ja,自律する召雷鎚 ミョルニル,NULL,NULL,NULL
+585,ja,未定,NULL,NULL,NULL
+586,ja,ユミル,NULL,NULL,NULL
+587,ja,原初の煉鋼巨刃 ユミル,NULL,NULL,NULL
+588,ja,ニーベルゲン,NULL,NULL,NULL
+589,ja,不幸の円環 ニーベルゲン,NULL,NULL,NULL
+590,ja,永遠を廻る呪い ニーベルゲン,NULL,NULL,NULL
+591,ja,ファフニール,NULL,NULL,NULL
+592,ja,財宝への執着 ファフニール,NULL,NULL,NULL
+593,ja,妄執する邪毒龍 ファフニール,NULL,NULL,NULL
+594,ja,アルフヘイム,NULL,NULL,NULL
+595,ja,光華なる神域 アルフヘイム,NULL,NULL,NULL
+596,ja,ムスペルヘイム,NULL,NULL,NULL
+597,ja,灼熱の魂 ムスペルヘイム,NULL,NULL,NULL
+598,ja,焼燃の情熱 ムスペルヘイム,NULL,NULL,NULL
+599,ja,ニーズヘッグ,NULL,NULL,NULL
+600,ja,界下に潜む蛇 ニーズヘッグ,NULL,NULL,NULL
+601,ja,界根蝕む悪食 ニーズヘッグ,NULL,NULL,NULL
+602,ja,フレイヤ,NULL,NULL,NULL
+603,ja,掌愛の豊穣女神 フレイヤ,NULL,NULL,NULL
+604,ja,バルドル,NULL,NULL,NULL
+605,ja,祝福される光耀 バルドル,NULL,NULL,NULL
+606,ja,冀望の光芒 バルドル,NULL,NULL,NULL
+607,ja,メガ攻めの果実,NULL,NULL,NULL
+608,ja,メガ生命の果実,NULL,NULL,NULL
+609,ja,メガ癒しの果実,NULL,NULL,NULL
+610,ja,メガ秘術の果実,NULL,NULL,NULL
+611,ja,ギガ攻めの果実,NULL,NULL,NULL
+612,ja,ギガ生命の果実,NULL,NULL,NULL
+613,ja,ギガ癒しの果実,NULL,NULL,NULL
+614,ja,ギガ秘術の果実,NULL,NULL,NULL
+615,ja,ヒュドラ・コスモブラスト,NULL,NULL,NULL
+616,ja,リンドブルム・デルタクラスター,NULL,NULL,NULL
+617,ja,ラーフ・アルマゲドン,NULL,NULL,NULL
+618,ja,フェルニゲシュ・オメガドライブ,NULL,NULL,NULL
+619,ja,メビウス,NULL,NULL,NULL
+620,ja,奇跡の調和 メビウス,NULL,NULL,NULL
+621,ja,終わりなき奇跡 メビウス,NULL,NULL,NULL
+622,ja,未定,NULL,NULL,NULL
+623,ja,フェルマー,NULL,NULL,NULL
+624,ja,挑発の尖駆者 フェルマー,NULL,NULL,NULL
+625,ja,デカルト,NULL,NULL,NULL
+626,ja,デカルト,NULL,NULL,NULL
+627,ja,メガラニカ,NULL,NULL,NULL
+628,ja,玄装の指南隊 メガラニカ,NULL,NULL,NULL
+629,ja,チャリオット,NULL,NULL,NULL
+630,ja,明快の突戦車 チャリオット,NULL,NULL,NULL
+631,ja,華恋なる宮護隊 パレ,NULL,NULL,NULL
+632,ja,緋壁の城塞 アーグラ,NULL,NULL,NULL
+633,ja,麗邸の遊撃守 エリゼ,NULL,NULL,NULL
+634,ja,赤ドラゴン,NULL,NULL,NULL
+635,ja,赤ドラゴン,NULL,NULL,NULL
+636,ja,ローズR3(旧),NULL,NULL,NULL
+637,ja,ローズR4(旧),NULL,NULL,NULL
+638,ja,神さま,NULL,NULL,NULL
+639,ja,看板娘,NULL,NULL,NULL
+640,ja,ブラックマ,NULL,NULL,NULL
+641,ja,砦,NULL,NULL,NULL
+642,ja,カーマ,NULL,NULL,NULL
+643,ja,愛花天神 カーマ,NULL,NULL,NULL
+644,ja,滑瓢 ショウキ,NULL,NULL,NULL
+645,ja,百鬼夜行の創大将 ショウキ,NULL,NULL,NULL
+646,ja,雪女 ユキ,NULL,NULL,NULL
+647,ja,氷麗の雪化生 ユキ,NULL,NULL,NULL
+648,ja,パールヴァティ,NULL,NULL,NULL
+649,ja,寄咲く一輪華 パールヴァティ,NULL,NULL,NULL
+650,ja,土蜘蛛 ユウヤ,NULL,NULL,NULL
+651,ja,八重祟障 ユウヤ,NULL,NULL,NULL
+652,ja,アナンタ,NULL,NULL,NULL
+653,ja,悠久の狡蛇 アナンタ,NULL,NULL,NULL
+654,ja,酒呑童子 ヨミ,NULL,NULL,NULL
+655,ja,桜花舞う嵐鬼神 ヨミ,NULL,NULL,NULL
+656,ja,シヴァ,NULL,NULL,NULL
+657,ja,解滅の裁神 シヴァ,NULL,NULL,NULL
+658,ja,猫又 クルミ,NULL,NULL,NULL
+659,ja,跳梁する化猫 クルミ,NULL,NULL,NULL
+660,ja,烏天狗 フウガ,NULL,NULL,NULL
+661,ja,疾風の天狗礫 フウガ,NULL,NULL,NULL
+662,ja,ダイダラ,NULL,NULL,NULL
+663,ja,都揺らす地響き ダイダラ,NULL,NULL,NULL
+664,ja,山掴み国造り ダイダラ,NULL,NULL,NULL
+665,ja,座敷童子 テマリ,NULL,NULL,NULL
+666,ja,拡散する幸福 テマリ,NULL,NULL,NULL
+667,ja,最幸運の妖童 テマリ,NULL,NULL,NULL
+668,ja,アグニ,NULL,NULL,NULL
+669,ja,天地の仲界 アグニ,NULL,NULL,NULL
+670,ja,陽天の噴煙 アグニ,NULL,NULL,NULL
+671,ja,ハヌマーン,NULL,NULL,NULL
+672,ja,西遊韋駄天 ハヌマーン,NULL,NULL,NULL
+673,ja,変幻自在の猿王 ハヌマーン,NULL,NULL,NULL
+674,ja,サラスヴァティ,NULL,NULL,NULL
+675,ja,芸楽の奔流 サラスヴァティ,NULL,NULL,NULL
+676,ja,ヴィシュヌ,NULL,NULL,NULL
+677,ja,武遊闊歩 ヴィシュヌ,NULL,NULL,NULL
+678,ja,レイヴン,NULL,NULL,NULL
+679,ja,孤高の王子 レイヴン,NULL,NULL,NULL
+680,ja,炎のプレゼントケロケロ,NULL,NULL,NULL
+681,ja,炎のプレゼントフロッグ,NULL,NULL,NULL
+682,ja,森のプレゼントケロケロ,NULL,NULL,NULL
+683,ja,森のプレゼントフロッグ,NULL,NULL,NULL
+684,ja,水のプレゼントケロケロ,NULL,NULL,NULL
+685,ja,水のプレゼントフロッグ,NULL,NULL,NULL
+686,ja,雷のプレゼントケロケロ,NULL,NULL,NULL
+687,ja,雷のプレゼントフロッグ,NULL,NULL,NULL
+688,ja,ユークリッド,NULL,NULL,NULL
+689,ja,根原論理 ユークリッド,NULL,NULL,NULL
+690,ja,不朽の極論 ユークリッド,NULL,NULL,NULL
+691,ja,黒沼青葉,NULL,NULL,NULL
+692,ja,暗躍する偽帝 黒沼青葉,NULL,NULL,NULL
+693,ja,紀田正臣,NULL,NULL,NULL
+694,ja,黄巾賊の将軍 紀田正臣,NULL,NULL,NULL
+695,ja,セルティ,NULL,NULL,NULL
+696,ja,生きる都市伝説 セルティ,NULL,NULL,NULL
+697,ja,黒影の首なしライダー セルティ,NULL,NULL,NULL
+698,ja,園原杏里,NULL,NULL,NULL
+699,ja,依存の母愛　園原杏里,NULL,NULL,NULL
+700,ja,折原臨也,NULL,NULL,NULL
+701,ja,謀略の情報屋 折原臨也,NULL,NULL,NULL
+702,ja,サイモン,NULL,NULL,NULL
+703,ja,豪腕静穏な寿司屋 サイモン,NULL,NULL,NULL
+704,ja,贄川春奈,NULL,NULL,NULL
+705,ja,狂愛なる罪歌の子　贄川春奈,NULL,NULL,NULL
+706,ja,岸谷新羅,NULL,NULL,NULL
+707,ja,愛月撤灯の闇医者 岸谷新羅,NULL,NULL,NULL
+708,ja,門田京平,NULL,NULL,NULL
+709,ja,不穢の抑止力　門田京平,NULL,NULL,NULL
+710,ja,田中トム,NULL,NULL,NULL
+711,ja,平衡調和の取り立て屋　田中トム,NULL,NULL,NULL
+712,ja,竜ヶ峰帝人,NULL,NULL,NULL
+713,ja,始まりの創始者　竜ヶ峰帝人,NULL,NULL,NULL
+714,ja,粟楠茜,NULL,NULL,NULL
+715,ja,小さな殺し屋　粟楠茜,NULL,NULL,NULL
+716,ja,平和島静雄,NULL,NULL,NULL
+717,ja,池袋最強の暴走 平和島静雄,NULL,NULL,NULL
+718,ja,ヴァローナ,NULL,NULL,NULL
+719,ja,聡明な戦狂女 ヴァローナ,NULL,NULL,NULL
+720,ja,直江兼続,NULL,NULL,NULL
+721,ja,迎激の愛銃 直江兼続,NULL,NULL,NULL
+722,ja,森蘭丸,NULL,NULL,NULL
+723,ja,萌芽の密心  森蘭丸,NULL,NULL,NULL
+724,ja,武田信玄,NULL,NULL,NULL
+725,ja,泰然の暴虎 武田信玄,NULL,NULL,NULL
+726,ja,織田信長,NULL,NULL,NULL
+727,ja,真鋭の征服者 織田信長,NULL,NULL,NULL
+728,ja,井伊直虎,NULL,NULL,NULL
+729,ja,暗厄の双刀 井伊直虎,NULL,NULL,NULL
+730,ja,ガラシャ,NULL,NULL,NULL
+731,ja,敬虔なる追銃 ガラシャ,NULL,NULL,NULL
+732,ja,上杉謙信,NULL,NULL,NULL
+733,ja,夢幻の千刃 上杉謙信,NULL,NULL,NULL
+734,ja,伊達政宗,NULL,NULL,NULL
+735,ja,破天の隻眼 伊達政宗,NULL,NULL,NULL
+736,ja,オルトロス,NULL,NULL,NULL
+737,ja,狂鳴の慟哭 オルトロス,NULL,NULL,NULL
+738,ja,ラドン,NULL,NULL,NULL
+739,ja,寡言の密使 ラドン,NULL,NULL,NULL
+740,ja,テュポーン,NULL,NULL,NULL
+741,ja,皆滅の戦鬼 テュポーン,NULL,NULL,NULL
+742,ja,アポロン,NULL,NULL,NULL
+743,ja,弩級の洸源 アポロン,NULL,NULL,NULL
+744,ja,ヘルメス,NULL,NULL,NULL
+745,ja,望羅の発神 ヘルメス,NULL,NULL,NULL
+746,ja,ノルン,NULL,NULL,NULL
+747,ja,潔碧の巡励神 ノルン,NULL,NULL,NULL
+748,ja,パーン,NULL,NULL,NULL
+749,ja,光喜の牧童 パーン,NULL,NULL,NULL
+750,ja,ポアソン,NULL,NULL,NULL
+751,ja,交錯の旋匣 ポアソン,NULL,NULL,NULL
+752,ja,ムラマサ,NULL,NULL,NULL
+753,ja,皆斬の虐器 ムラマサ,NULL,NULL,NULL
+754,ja,マサムネ,NULL,NULL,NULL
+755,ja,究覇の一剣 マサムネ,NULL,NULL,NULL
+756,ja,アメノムラクモ,NULL,NULL,NULL
+757,ja,荒龍の復魂 アメノムラクモ,NULL,NULL,NULL
+758,ja,雷切,NULL,NULL,NULL
+759,ja,超光の鳴鋒 雷切,NULL,NULL,NULL
+760,ja,限論顕現 クロネッカー,NULL,NULL,NULL
+761,ja,唯限の崇嬢 クロネッカー,NULL,NULL,NULL
+762,ja,フィボナッチ,NULL,NULL,NULL
+763,ja,螺旋の皇魂比 フィボナッチ,NULL,NULL,NULL
+764,ja,ライオネル,NULL,NULL,NULL
+765,ja,逆襲獣皇 ライオネル,NULL,NULL,NULL
+766,ja,ランドラグ,NULL,NULL,NULL
+767,ja,灼炎業竜 ランドラグ,NULL,NULL,NULL
+768,ja,ガレス,NULL,NULL,NULL
+769,ja,白域・純双剣 ガレス,NULL,NULL,NULL
+770,ja,ハヅル,NULL,NULL,NULL
+771,ja,天織羽鶴 ハヅル,NULL,NULL,NULL
+772,ja,イナバ,NULL,NULL,NULL
+773,ja,浮跳天兎 イナバ,NULL,NULL,NULL
+774,ja,ミズチ,NULL,NULL,NULL
+775,ja,水底霊竜 ミズチ,NULL,NULL,NULL
+776,ja,水竜底主 ミズチ,NULL,NULL,NULL
+777,ja,ガメック,NULL,NULL,NULL
+778,ja,一亀懸明 ガメック,NULL,NULL,NULL
+779,ja,頑堅咬亀 ガメック,NULL,NULL,NULL
+780,ja,カスケード,NULL,NULL,NULL
+781,ja,崩落の大瀑布 カスケード,NULL,NULL,NULL
+782,ja,機甲雷天使 ミカエル・グロリアス,NULL,NULL,NULL
+783,ja,モールス,NULL,NULL,NULL
+784,ja,想心の恋鎖 モールス,NULL,NULL,NULL
+785,ja,あけおめダック2017,NULL,NULL,NULL
+786,ja,ヘイウェイ,NULL,NULL,NULL
+787,ja,極閃描牙 ヘイウェイ,NULL,NULL,NULL
+788,ja,アトラス,NULL,NULL,NULL
+789,ja,極闘の大鋼腕 アトラス,NULL,NULL,NULL
+790,ja,戦略級の才脳 ノイマン,NULL,NULL,NULL
+791,ja,無差別求の破者 ノイマン,NULL,NULL,NULL
+792,ja,片還の収波 フーリエ,NULL,NULL,NULL
+793,ja,熱解する求波導 フーリエ,NULL,NULL,NULL
+794,ja,卒業のウィルス ハッピー,NULL,NULL,NULL
+795,ja,桜花の果実,NULL,NULL,NULL
+796,ja,超越凌駕 ラグランジュ,NULL,NULL,NULL
+797,ja,崩烙の世解 シュレディンガー,NULL,NULL,NULL
+798,ja,煌式の大機刃 オイラー,NULL,NULL,NULL
+799,ja,電讃の魔機 チューリング,NULL,NULL,NULL
+800,ja,蒼穹包む命題 ヘンペル,NULL,NULL,NULL
+801,ja,覚世の大機神 オーディン,NULL,NULL,NULL
+802,ja,四聖結終の超獣 麒麟,NULL,NULL,NULL
+803,ja,大宇宙の膨超 ハップル,NULL,NULL,NULL
+804,ja,豪電の守護芯 ファラデー,NULL,NULL,NULL
+805,ja,熱環の大逆聖 ベリアル,NULL,NULL,NULL
+806,ja,全解の預智聖 オセ,NULL,NULL,NULL
+807,ja,襲愛の真公爵 フォルネウス,NULL,NULL,NULL
+808,ja,天地万物の烈神母 イザナミ,NULL,NULL,NULL
+809,ja,天然理心の激凛 沖田総司,NULL,NULL,NULL
+810,ja,君臨大御神 アマテラス,NULL,NULL,NULL
+811,ja,咲き誇る旅航者 親指姫,NULL,NULL,NULL
+812,ja,凶膨なる殲滅 アザゼル,NULL,NULL,NULL
+813,ja,絆の大冒険 ヘンゼル＆グレーテル,NULL,NULL,NULL
+814,ja,戦場疾駆の鋼蹄 ジャンヌ,NULL,NULL,NULL
+815,ja,解砲の鴉眼 八咫烏,NULL,NULL,NULL
+816,ja,極・二天一流 宮本武蔵,NULL,NULL,NULL
+817,ja,決戦の抗弾 D.R.T.H.,NULL,NULL,NULL
+818,ja,虚空を飾る大輪 オズ,NULL,NULL,NULL
+819,ja,讐命の我突 モルドレッド,NULL,NULL,NULL
+820,ja,凶心者の聖儀 アーサー,NULL,NULL,NULL
+821,ja,急蹴の硬機脚 ブートレグ・ペロー,NULL,NULL,NULL
+822,ja,操魂の蒐集家 グリム,NULL,NULL,NULL
+823,ja,跳鼠の睡奏楽 ハーメルン,NULL,NULL,NULL
+824,ja,悪意の団塊  Gスター・チルドレン,NULL,NULL,NULL
+825,ja,彩愛なる豊穣妃神 フレイヤ,NULL,NULL,NULL
+826,ja,崇紅なる豊穣皇神 フレイ,NULL,NULL,NULL
+827,ja,光神しき彩雲龍 アルフヘイム,NULL,NULL,NULL
+828,ja,双究の覇翼 フギンとムニン,NULL,NULL,NULL
+829,ja,銃刃乱舞の怪猫 クルミ,NULL,NULL,NULL
+830,ja,清兆の天狗礫 フウガ,NULL,NULL,NULL
+831,ja,万鬼乱襲の大創帥 ショウキ,NULL,NULL,NULL
+832,ja,狂花吹雪く旋獄鬼神 ヨミ,NULL,NULL,NULL
+833,ja,維界の復世神 ヴィシュヌ,NULL,NULL,NULL
+834,ja,破界する裁滅神 シヴァ,NULL,NULL,NULL
+835,ja,流奏の鳳楽神 サラスヴァティ,NULL,NULL,NULL
+836,ja,射愛の恋華天神 カーマ,NULL,NULL,NULL
+837,ja,リトルハンプティ,NULL,NULL,NULL
+838,ja,巌鋼の爆烈志士 近藤勇,NULL,NULL,NULL
+839,ja,真覇の勇魔剣 ランスロット,NULL,NULL,NULL
+840,ja,フェニックス,NULL,NULL,NULL
+841,ja,排斥の不死鳥 フェニックス,NULL,NULL,NULL
+842,ja,セイレーン,NULL,NULL,NULL
+843,ja,荒れ狂う乱歌 セイレーン,NULL,NULL,NULL
+844,ja,ベルゼブブ,NULL,NULL,NULL
+845,ja,妖艶なる蝿王 ベルゼブブ,NULL,NULL,NULL
+846,ja,ルシファー,NULL,NULL,NULL
+847,ja,傲慢なる堕天史 ルシファー,NULL,NULL,NULL
+848,ja,メタトロン,NULL,NULL,NULL
+849,ja,燦然たる天使 メタトロン・ラヴァ,NULL,NULL,NULL
+850,ja,バアル,NULL,NULL,NULL
+851,ja,寡黙なる凶王 バアル,NULL,NULL,NULL
+852,ja,サキエル,NULL,NULL,NULL
+853,ja,裂爪の天使 サキエル・ティア,NULL,NULL,NULL
+854,ja,フラウロス,NULL,NULL,NULL
+855,ja,豹魔の侠客 フラウロス,NULL,NULL,NULL
+856,ja,リフレクト＆M.I.R.R.O.R.,NULL,NULL,NULL
+857,ja,嫉心のリフレクト＆M.I.R.R.O.R.,NULL,NULL,NULL
+858,ja,Mr.ホエール,NULL,NULL,NULL
+859,ja,夢鯨大食 Mr.ホエール,NULL,NULL,NULL
+860,ja,叶望の幻燈 ジーナ,NULL,NULL,NULL
+861,ja,青燈の巨躯 ジーナ,NULL,NULL,NULL
+862,ja,ブレーメン,NULL,NULL,NULL
+863,ja,歓揮の楽団長 ブレーメン,NULL,NULL,NULL
+864,ja,ピノキオ,NULL,NULL,NULL
+865,ja,無情の感線 ピノキオ,NULL,NULL,NULL
+866,ja,無敗の司令姫 白雪姫,NULL,NULL,NULL
+867,ja,華麗なる作戦 白雪姫,NULL,NULL,NULL
+868,ja,アラジンと殲滅機兵LAMP,NULL,NULL,NULL
+869,ja,マスター･アラジンと殲滅機兵LAMP,NULL,NULL,NULL
+870,ja,フロイト,NULL,NULL,NULL
+871,ja,無我夢中の羊狩り フロイト,NULL,NULL,NULL
+872,ja,シュヴァルツシルト,NULL,NULL,NULL
+873,ja,時歪の特異天 シュヴァルツシルト,NULL,NULL,NULL
+874,ja,フレネル,NULL,NULL,NULL
+875,ja,覇導の光跡 フレネル,NULL,NULL,NULL
+876,ja,イフリート,NULL,NULL,NULL
+877,ja,自律の協炎 イフリート,NULL,NULL,NULL
+878,ja,イグニス,NULL,NULL,NULL
+879,ja,イグニス・フューリー,NULL,NULL,NULL
+880,ja,ハーシェル,NULL,NULL,NULL
+881,ja,銀河究星の望観者 ハーシェル,NULL,NULL,NULL
+882,ja,歪極する星壊 シュヴァルツシルト,NULL,NULL,NULL
+883,ja,灼動する猛巨炎 プロメテウス,NULL,NULL,NULL
+884,ja,咲園の爛漫神 アフロディーテ,NULL,NULL,NULL
+885,ja,御群の絶海女神 テティス,NULL,NULL,NULL
+886,ja,星義司る天聖神 アストライアー,NULL,NULL,NULL
+887,ja,エリス,NULL,NULL,NULL
+888,ja,禍根の暴送者 エリス,NULL,NULL,NULL
+889,ja,未定,NULL,NULL,NULL
+890,ja,未定,NULL,NULL,NULL
+891,ja,コルキス,NULL,NULL,NULL
+892,ja,金碧の羊星 コルキス,NULL,NULL,NULL
+893,ja,アテナ,NULL,NULL,NULL
+894,ja,聖澄の戦慧神 アテナ,NULL,NULL,NULL
+895,ja,滅焼の大神狼 フェンリル,NULL,NULL,NULL
+896,ja,天衣紡ぐ麗鶴 ハヅル,NULL,NULL,NULL
+897,ja,天跳兎破 イナバ,NULL,NULL,NULL
+898,ja,傾神の最愛姫 スフィンクス,NULL,NULL,NULL
+899,ja,楽園からの帰還 アザゼル,"(C)'76, '93, '96, '01, '16 SANRIO(E)",NULL,NULL
+900,ja,桃源郷での大宴会 アザゼル,"(C)'76, '88, '93, '96, '01, '05, '16 SANRIO(E)",NULL,NULL
+901,ja,恩愛性ニムダ,"(C)'76, '96, '01, '16 SANRIO(E)",NULL,NULL
+902,ja,集団恩愛性ニムダL,"(C)'76, '88, '93, '96, '01, '05, '16 SANRIO(E)",NULL,NULL
+903,ja,ハローキティ,"(C)'76, '16 SANRIO(E)",NULL,NULL
+904,ja,りんごの馬車　ハローキティ,"(C)'76, '16 SANRIO(E)",NULL,NULL
+905,ja,KIRIMIちゃん.,"(C)'13, '16 SANRIO(E)",NULL,NULL
+906,ja,おいしくたべてね KIRIMIちゃん.,"(C)'13, '16 SANRIO(E)",NULL,NULL
+907,ja,ハローキティのリボン,"(C)'04, '16 SANRIO(E)",NULL,NULL
+908,ja,ママの作ったアップルパイ,"(C)'76, '16 SANRIO(E)",NULL,NULL
+909,ja,光愛の弾幕 D.R.T.H.,"(C)'76, '16 SANRIO(E)",NULL,NULL
+910,ja,輝愛の大弾幕 D.R.T.H.,"(C)'76, '16 SANRIO(E)",NULL,NULL
+911,ja,マイメロディ,"(C)'76, '16 SANRIO(E)",NULL,NULL
+912,ja,フラットくんと一緒 マイメロディ,"(C)'76, '16 SANRIO(E)",NULL,NULL
+913,ja,幸福の縁廻　ニーベルゲン,"(C)'01, '16 SANRIO(E)",NULL,NULL
+914,ja,淡色を廻る倖せ　ニーベルゲン,"(C)'01, '16 SANRIO(E)",NULL,NULL
+915,ja,休息者　カカシ,"(C)'76, '16 SANRIO(E)",NULL,NULL
+916,ja,翠線譜の音色　カカシ,"(C)'76, '16 SANRIO(E)",NULL,NULL
+917,ja,けろけろけろっぴ,"(C)'88, '16 SANRIO(E)",NULL,NULL
+918,ja,てるてる天気 けろけろけろっぴ,"(C)'88, '16 SANRIO(E)",NULL,NULL
+919,ja,甘美の誘惑 モルドレッド,"(C)'96, '16 SANRIO(E)",NULL,NULL
+920,ja,甘美の誘迷 モルドレッド,"(C)'96, '16 SANRIO(E)",NULL,NULL
+921,ja,クロミ,"(C)'05, '16 SANRIO(E)",NULL,NULL
+922,ja,アタイとバク クロミ,"(C)'05, '16 SANRIO(E)",NULL,NULL
+923,ja,バッドばつ丸,"(C)'93, '16 SANRIO(E)",NULL,NULL
+924,ja,いたずら大好き　バッドばつ丸,"(C)'93, '16 SANRIO(E)",NULL,NULL
+925,ja,シナモロール,"(C)'01, '16 SANRIO(E)",NULL,NULL
+926,ja,ふわふわおさんぽ♪ シナモロール,"(C)'01, '16 SANRIO(E)",NULL,NULL
+927,ja,ポムポムプリン,"(C)'96, '16 SANRIO(E)",NULL,NULL
+928,ja,一緒におでかけ ポムポムプリン,"(C)'96, '16 SANRIO(E)",NULL,NULL
+929,ja,ゼウス,NULL,NULL,NULL
+930,ja,烙雷の全能神 ゼウス,NULL,NULL,NULL
+931,ja,ネルソン,NULL,NULL,NULL
+932,ja,隻眼の英堤 ネルソン,NULL,NULL,NULL
+933,ja,ヴェルサイユ,NULL,NULL,NULL
+934,ja,絢爛たる燈城 ヴェルサイユ,NULL,NULL,NULL
+935,ja,ルイ16世,NULL,NULL,NULL
+936,ja,憲誓の煉王 ルイ16世,NULL,NULL,NULL
+937,ja,ナポレオン,NULL,NULL,NULL
+938,ja,炎焔宿す革命皇 ナポレオン,NULL,NULL,NULL
+939,ja,バスティーユ,NULL,NULL,NULL
+940,ja,不壊の大要塞 バスティーユ,NULL,NULL,NULL
+941,ja,アントワネット,NULL,NULL,NULL
+942,ja,華戯たる傲妃 アントワネット,NULL,NULL,NULL
+943,ja,サンソン,NULL,NULL,NULL
+944,ja,王敬の執行者 サンソン,NULL,NULL,NULL
+945,ja,ブリューナク,NULL,NULL,NULL
+946,ja,ブリューナク,NULL,NULL,NULL
+947,ja,ゲイボルグ,NULL,NULL,NULL
+948,ja,裂雷の必撃鏃 ゲイボルグ,NULL,NULL,NULL
+949,ja,トライデント,NULL,NULL,NULL
+950,ja,海洪操る三叉戟 トライデント,NULL,NULL,NULL
+951,ja,グングニル,NULL,NULL,NULL
+952,ja,勝臨の機鋭槍 グングニル,NULL,NULL,NULL
+953,ja,ハイゼンベルク,NULL,NULL,NULL
+954,ja,不確の量熔者 ハイゼンベルク,NULL,NULL,NULL
+955,ja,マクローリン,NULL,NULL,NULL
+956,ja,導環の崇論 マクローリン,NULL,NULL,NULL
+957,ja,浮環の流律論 マクローリン,NULL,NULL,NULL
+958,ja,ド・モルガン,NULL,NULL,NULL
+959,ja,双世の論和 ド・モルガン,NULL,NULL,NULL
+960,ja,双対する真偽者 ド・モルガン,NULL,NULL,NULL
+961,ja,狂奏・混業剣 ガレス,NULL,NULL,NULL
+962,ja,酩酊する大宴龍 ヤマタノオロチ,NULL,NULL,NULL
+963,ja,天蛇の閃皇貴魔 アスタロト,NULL,NULL,NULL
+964,ja,海破雨散の海龍 リヴァイアサン,NULL,NULL,NULL
+965,ja,穿熱の緋龍王 キング・ドライグ,NULL,NULL,NULL
+966,ja,麗嵐の颯愛志士 土方歳三,NULL,NULL,NULL
+967,ja,討滅の凶妖志士 斎藤一,NULL,NULL,NULL
+968,ja,夢謀の愚幻者 フール,NULL,NULL,NULL
+969,ja,超排撃の焔砲巨神 ユミル,NULL,NULL,NULL
+970,ja,目醒の鋏牙 ラプンツェル,NULL,NULL,NULL
+971,ja,機獅蛮勇 ブレイブリー・ライオン,NULL,NULL,NULL
+972,ja,コーシー,NULL,NULL,NULL
+973,ja,幻蜜なる怪跡 コーシー,NULL,NULL,NULL
+974,ja,ブール,NULL,NULL,NULL
+975,ja,綺号を巡る輝翼 ブール,NULL,NULL,NULL
+976,ja,ウザリーマン,NULL,NULL,NULL
+977,ja,リヴァイ お掃除ver,NULL,NULL,NULL
+978,ja,潔癖の掃討 リヴァイ お掃除ver,NULL,NULL,NULL
+979,ja,超大型巨人,NULL,NULL,NULL
+980,ja,猛熱の災厄 超大型巨人,NULL,NULL,NULL
+981,ja,女型の巨人,NULL,NULL,NULL
+982,ja,柔靭なる剛脚 女型の巨人,NULL,NULL,NULL
+983,ja,鎧の巨人,NULL,NULL,NULL
+984,ja,破壁の剛弾 鎧の巨人,NULL,NULL,NULL
+985,ja,エレン,NULL,NULL,NULL
+986,ja,復讐の誓約 エレン,NULL,NULL,NULL
+987,ja,撃壊の眼煌 エレン巨人,NULL,NULL,NULL
+988,ja,ミカサ,NULL,NULL,NULL
+989,ja,稀代の逸材 ミカサ,NULL,NULL,NULL
+990,ja,エルヴィン,NULL,NULL,NULL
+991,ja,反撃の核心 エルヴィン,NULL,NULL,NULL
+992,ja,ハンジ,NULL,NULL,NULL
+993,ja,巨躯への執着 ハンジ,NULL,NULL,NULL
+994,ja,アルミン,NULL,NULL,NULL
+995,ja,疾駆する閃略 アルミン,NULL,NULL,NULL
+996,ja,リヴァイ,NULL,NULL,NULL
+997,ja,人類最強 リヴァイ,NULL,NULL,NULL
+998,ja,サシャ,NULL,NULL,NULL
+999,ja,無尽蔵の食猟 サシャ,NULL,NULL,NULL
+1000,ja,クリスタ,NULL,NULL,NULL
+1001,ja,細愛の女神 クリスタ,NULL,NULL,NULL
+1002,ja,ジャン,NULL,NULL,NULL
+1003,ja,真義の勇抱 ジャン,NULL,NULL,NULL
+1004,ja,アメミット,NULL,NULL,NULL
+1005,ja,恐牙なる魂喰獣 アメミット,NULL,NULL,NULL
+1006,ja,セルケト,NULL,NULL,NULL
+1007,ja,癒命の守蠍神 セルケト,NULL,NULL,NULL
+1008,ja,オシリス,NULL,NULL,NULL
+1009,ja,再醒の冥皇神 オシリス,NULL,NULL,NULL
+1010,ja,セト,NULL,NULL,NULL
+1011,ja,偉獰なる荒嵐神 セト,NULL,NULL,NULL
+1012,ja,ラー,NULL,NULL,NULL
+1013,ja,聖陽昇る緋洸神 ラー,NULL,NULL,NULL
+1014,ja,イシス,NULL,NULL,NULL
+1015,ja,繁翠なる蘇聖神 イシス,NULL,NULL,NULL
+1016,ja,ハトホル,NULL,NULL,NULL
+1017,ja,命瞳の慈母神 ハトホル,NULL,NULL,NULL
+1018,ja,バステト,NULL,NULL,NULL
+1019,ja,愛鈴鳴る寵猫神 バステト,NULL,NULL,NULL
+1020,ja,静御前,NULL,NULL,NULL
+1021,ja,焔耀の舞姫 静御前,NULL,NULL,NULL
+1022,ja,那須与一,NULL,NULL,NULL
+1023,ja,心射抜く投擲者 那須与一,NULL,NULL,NULL
+1024,ja,武蔵坊弁慶,NULL,NULL,NULL
+1025,ja,多重撃の荒法師 武蔵坊弁慶,NULL,NULL,NULL
+1026,ja,蝉丸,NULL,NULL,NULL
+1027,ja,弾丸多重奏 蝉丸,NULL,NULL,NULL
+1028,ja,牛若丸,NULL,NULL,NULL
+1029,ja,天賦の軍才 牛若丸,NULL,NULL,NULL
+1030,ja,百戦錬磨のカリスマ 源義経,NULL,NULL,NULL
+1031,ja,紫式部,NULL,NULL,NULL
+1032,ja,彩気煥発の創作人 紫式部,NULL,NULL,NULL
+1033,ja,清少納言,NULL,NULL,NULL
+1034,ja,爛漫なる随筆家 清少納言,NULL,NULL,NULL
+1035,ja,スカルズ,NULL,NULL,NULL
+1036,ja,復讐の形骸 スカルズ,NULL,NULL,NULL
+1037,ja,ミューズ,NULL,NULL,NULL
+1038,ja,歌音届ける楽愛神 ミューズ,NULL,NULL,NULL
+1039,ja,ディラック,NULL,NULL,NULL
+1040,ja,蒼流の電磁団 ディラック,NULL,NULL,NULL
+1041,ja,織姫,NULL,NULL,NULL
+1042,ja,希紡の天帝姫 織姫,NULL,NULL,NULL
+1043,ja,彦星,NULL,NULL,NULL
+1044,ja,恋狩の色星主  彦星,NULL,NULL,NULL
+1045,ja,漂解の海原 シュレディンガー,NULL,NULL,NULL
+1046,ja,涼求の炎狼 フェンリル,NULL,NULL,NULL
+1047,ja,波浪の夏閃 オイラー,NULL,NULL,NULL
+1048,ja,砂上の城主竜 ケツァクアトル,NULL,NULL,NULL
+1049,ja,深秘の水宙 メビウス,NULL,NULL,NULL
+1050,ja,廻遊の水獣宰相 ルキフグス,NULL,NULL,NULL
+1051,ja,嬌電の飛沫 ファラデー,NULL,NULL,NULL
+1052,ja,戯魚群の潜光 バルドル,NULL,NULL,NULL
+1053,ja,常夏の眩獣 麒麟,NULL,NULL,NULL
+1054,ja,炎陽の臨海 麒麟,NULL,NULL,NULL
+1055,ja,豪焔の轟暴聖 ベリアル,NULL,NULL,NULL
+1056,ja,神解の預欺皇 オセ,NULL,NULL,NULL
+1057,ja,疑愛の永遠公爵 フォルネウス,NULL,NULL,NULL
+1058,ja,黄泉守誘の命神母 イザナミ,NULL,NULL,NULL
+1059,ja,パズズ,NULL,NULL,NULL
+1060,ja,熱扇風の幼魔 パズズ,NULL,NULL,NULL
+1061,ja,フンババ,NULL,NULL,NULL
+1062,ja,停止不能の蛮躯 フンババ,NULL,NULL,NULL
+1063,ja,ティアマト,NULL,NULL,NULL
+1064,ja,混沌の猛飛沫 ティアマト,NULL,NULL,NULL
+1065,ja,ギルガメッシュ,NULL,NULL,NULL
+1066,ja,放縦の序獅子 ギルガメッシュ,NULL,NULL,NULL
+1067,ja,ウシュムガル,NULL,NULL,NULL
+1068,ja,想母の羽龍 ウシュムガル,NULL,NULL,NULL
+1069,ja,イシュタル,NULL,NULL,NULL
+1070,ja,駆脳する造愛 イシュタル,NULL,NULL,NULL
+1071,ja,イシュタル_分岐覚醒,NULL,NULL,NULL
+1072,ja,エンキドゥ,NULL,NULL,NULL
+1073,ja,静穏なる獣勇 エンキドゥ,NULL,NULL,NULL
+1074,ja,マルドゥク,NULL,NULL,NULL
+1075,ja,虚塔の神王 マルドゥク,NULL,NULL,NULL
+1076,ja,パレート,NULL,NULL,NULL
+1077,ja,彩適な幸詠隊 パレート,NULL,NULL,NULL
+1078,ja,合奏の飛論理 パレート,NULL,NULL,NULL
+1079,ja,炎のアニバーサリーダック,NULL,NULL,NULL
+1080,ja,森のアニバーサリーダック,NULL,NULL,NULL
+1081,ja,水のアニバーサリーダック,NULL,NULL,NULL
+1082,ja,雷のアニバーサリーダック,NULL,NULL,NULL
+1083,ja,マジシャン,NULL,NULL,NULL
+1084,ja,驚創する術想師  マジシャン,NULL,NULL,NULL
+1085,ja,ルメートル,NULL,NULL,NULL
+1086,ja,宇宙の線術家 ルメートル,NULL,NULL,NULL
+1087,ja,宇宙線の神業師 ルメートル,NULL,NULL,NULL
+1088,ja,ミケランジェロ,NULL,NULL,NULL
+1089,ja,破壊の発誕 ミケランジェロ,NULL,NULL,NULL
+1090,ja,ラプラス,NULL,NULL,NULL
+1091,ja,予眼する魔姫 ラプラス,NULL,NULL,NULL
+1092,ja,究護の戦王子 レイヴン,NULL,NULL,NULL
+1093,ja,未定,NULL,NULL,NULL
+1094,ja,メルクシャ,NULL,NULL,NULL
+1095,ja,誓愛の絵花 メルクシャ,NULL,NULL,NULL
+1096,ja,ジャ・リダルサ,NULL,NULL,NULL
+1097,ja,超現実才奇 ジャ・リダルサ,NULL,NULL,NULL
+1098,ja,ルピカ,NULL,NULL,NULL
+1099,ja,破築の連創 ルピカ,NULL,NULL,NULL
+1100,ja,北斎,NULL,NULL,NULL
+1101,ja,浮世万物の筆刻者 北斎,NULL,NULL,NULL
+1102,ja,ドガ,NULL,NULL,NULL
+1103,ja,舞台裏の鼠展 ドガ,NULL,NULL,NULL
+1104,ja,クリムト,NULL,NULL,NULL
+1105,ja,甘美なる背徳 クリムト,NULL,NULL,NULL
+1106,ja,ラファエロ,NULL,NULL,NULL
+1107,ja,天浄の鮮風 ラファエロ,NULL,NULL,NULL
+1108,ja,交鏡の光波 フレネル,NULL,NULL,NULL
+1109,ja,セキ,NULL,NULL,NULL
+1110,ja,天竄の炎斬式 セキ,NULL,NULL,NULL
+1111,ja,ウィグナー,NULL,NULL,NULL
+1112,ja,正統なる傑晶 ウィグナー,NULL,NULL,NULL
+1113,ja,聖結たる輝晶獣 ウィグナー,NULL,NULL,NULL
+1114,ja,ボナンザ,NULL,NULL,NULL
+1115,ja,アヴァルシアの女王 ボナンザ,NULL,NULL,NULL
+1116,ja,天檄総氏神 アマテラス,NULL,NULL,NULL
+1117,ja,凶天慟地の覇腕 アザゼル,NULL,NULL,NULL
+1118,ja,超過速路の閃導者 ジャンヌ,NULL,NULL,NULL
+1119,ja,刹・廻天一流 宮本武蔵,NULL,NULL,NULL
+1120,ja,四聖猛煌の皇獣 麒麟,NULL,NULL,NULL
+1121,ja,逆燦の機閃刃 オイラー,NULL,NULL,NULL
+1122,ja,不可能性の現翼 メビウス,NULL,NULL,NULL
+1123,ja,舞降りし綺鏡羽 ブール,NULL,NULL,NULL
+1124,ja,超絶界析 ラグランジュ,NULL,NULL,NULL
+1125,ja,累々たる世解 シュレディンガー,NULL,NULL,NULL
+1126,ja,最終焉算の鋼砲 チューリング,NULL,NULL,NULL
+1127,ja,真蒼導く対偶 ヘンペル,NULL,NULL,NULL
+1128,ja,宇宙天紡の星明 ハップル,NULL,NULL,NULL
+1129,ja,赤兎馬,NULL,NULL,NULL
+1130,ja,紅鋼の疾躁獣 赤兎馬,NULL,NULL,NULL
+1131,ja,董卓,NULL,NULL,NULL
+1132,ja,偏執なる狂騒君 董卓,NULL,NULL,NULL
+1133,ja,貂蝉,NULL,NULL,NULL
+1134,ja,月隠れの美麗酔 貂蝉,NULL,NULL,NULL
+1135,ja,呂布,NULL,NULL,NULL
+1136,ja,豪拳烈創の激将 呂布,NULL,NULL,NULL
+1137,ja,諸葛亮,NULL,NULL,NULL
+1138,ja,神算鬼謀の宰相 諸葛亮,NULL,NULL,NULL
+1139,ja,趙雲,NULL,NULL,NULL
+1140,ja,綱紀粛正の傑璧 趙雲,NULL,NULL,NULL
+1141,ja,月英,NULL,NULL,NULL
+1142,ja,蒼明な機鋼士 月英,NULL,NULL,NULL
+1143,ja,黄忠,NULL,NULL,NULL
+1144,ja,白星を射る老将 黄忠,NULL,NULL,NULL
+1145,ja,ヴリトラ,NULL,NULL,NULL
+1146,ja,宙覆す破魃竜 ヴリトラ,NULL,NULL,NULL
+1147,ja,カーリー,NULL,NULL,NULL
+1148,ja,嫉神の黎き滅意 カーリー,NULL,NULL,NULL
+1149,ja,ブラフマー,NULL,NULL,NULL
+1150,ja,封智の元創神 ブラフマー,NULL,NULL,NULL
+1151,ja,ガネーシャ,NULL,NULL,NULL
+1152,ja,衆知の富益神 ガネーシャ,NULL,NULL,NULL
+1153,ja,ラクシュミー,NULL,NULL,NULL
+1154,ja,幸吹の蓮華粧 ラクシュミー,NULL,NULL,NULL
+1155,ja,ドゥルガー,NULL,NULL,NULL
+1156,ja,麗逆の武操神 ドゥルガー,NULL,NULL,NULL
+1157,ja,インドラ,NULL,NULL,NULL
+1158,ja,天英の雷霆神 インドラ,NULL,NULL,NULL
+1159,ja,ガロア,NULL,NULL,NULL
+1160,ja,拡命の大群論 ガロア,NULL,NULL,NULL
+1161,ja,ヒルベルト,NULL,NULL,NULL
+1162,ja,夢験次元の抽唱 ヒルベルト,NULL,NULL,NULL
+1163,ja,命題唱鳴計画 ヒルベルト,NULL,NULL,NULL
+1164,ja,ガンバンテイン,NULL,NULL,NULL
+1165,ja,夢香華の耀杖 ガンバンテイン,NULL,NULL,NULL
+1166,ja,降魔宝杖,NULL,NULL,NULL
+1167,ja,月河の黄金器 降魔宝杖,NULL,NULL,NULL
+1168,ja,カドゥケウス,NULL,NULL,NULL
+1169,ja,睡醒の令杖 カドゥケウス,NULL,NULL,NULL
+1170,ja,極彩龍筆 ヘイウェイ,NULL,NULL,NULL
+1171,ja,解匣する交率 ポアソン,NULL,NULL,NULL
+1172,ja,極限解析の讃嬢 クロネッカー,NULL,NULL,NULL
+1173,ja,愛を咲かせる春羽妖精 ファータ,NULL,NULL,NULL
+1174,ja,護翼の望詠光 バルドル,NULL,NULL,NULL
+1175,ja,蘇尊の誓聖義 アーサー,NULL,NULL,NULL
+1176,ja,夢二夢斬の遊猟 フロイト,NULL,NULL,NULL
+1177,ja,虚閃を弄する豪輪 オズ,NULL,NULL,NULL
+1178,ja,大蒐集総力戦 グリム,NULL,NULL,NULL
+1179,ja,厳核なる巨大炉 ハイゼンベルク,NULL,NULL,NULL
+1180,ja,毅戦たる蒼機神 オーディン,NULL,NULL,NULL
+1181,ja,永存の究極論 ユークリッド,NULL,NULL,NULL
+1182,ja,黄金螺旋の閃鋼機 フィボナッチ,NULL,NULL,NULL
+1183,ja,世憚の悪害 Gスター・チルドレン,NULL,NULL,NULL
+1184,ja,電装の烙雷芯 ファラデー,NULL,NULL,NULL
+1185,ja,兆銀河団の星観者 ハーシェル,NULL,NULL,NULL
+1186,ja,超疾の最理者 フェルマー,NULL,NULL,NULL
+1187,ja,ハッピーハロウィン ポチ,NULL,NULL,NULL
+1188,ja,ハッピーハロウィン ジョー,NULL,NULL,NULL
+1189,ja,ハッピーハロウィン ジェリー,NULL,NULL,NULL
+1190,ja,ハッピーハロウィン エレキポット,NULL,NULL,NULL
+1191,ja,ドルチェ,NULL,NULL,NULL
+1192,ja,徹宵悪戯の甘美魔 ドルチェ,NULL,NULL,NULL
+1193,ja,血飢なる夜想卿 ランスロット,NULL,NULL,NULL
+1194,ja,ハーヴェスト,NULL,NULL,NULL
+1195,ja,賑夜の幼魔 ハーヴェスト,NULL,NULL,NULL
+1196,ja,華装の闇鋏 ラプンツェル,NULL,NULL,NULL
+1197,ja,冥装の闇黒魔 バフォメット,NULL,NULL,NULL
+1198,ja,幽縛の霊線 ピノキオ,NULL,NULL,NULL
+1199,ja,看装の巡回者 ケルベロス,NULL,NULL,NULL
+1200,ja,サイクロプス,NULL,NULL,NULL
+1201,ja,器装の眼囚徒 サイクロプス,NULL,NULL,NULL
+1202,ja,ウラヌス,NULL,NULL,NULL
+1203,ja,掌星の原天神 ウラヌス,NULL,NULL,NULL
+1204,ja,デルピュネー,NULL,NULL,NULL
+1205,ja,襲奪の竜鱗姫 デルピュネー,NULL,NULL,NULL
+1206,ja,ヘラ,NULL,NULL,NULL
+1207,ja,典麗なる悋気神 ヘラ,NULL,NULL,NULL
+1208,ja,ネメシス,NULL,NULL,NULL
+1209,ja,刹那の過罰神 ネメシス,NULL,NULL,NULL
+1210,ja,ケンタウロス,NULL,NULL,NULL
+1211,ja,奏駆の翻騎 ケンタウロス,NULL,NULL,NULL
+1212,ja,クロノス,NULL,NULL,NULL
+1213,ja,能洪の永地神 クロノス,NULL,NULL,NULL
+1214,ja,アルテミス,NULL,NULL,NULL
+1215,ja,穿潮の雷月神 アルテミス,NULL,NULL,NULL
+1216,ja,梶井基次郎,NULL,NULL,NULL
+1217,ja,鮮彩の鬱情 梶井基次郎,NULL,NULL,NULL
+1218,ja,太宰治,NULL,NULL,NULL
+1219,ja,世絶の失格者 太宰治,NULL,NULL,NULL
+1220,ja,シェイクスピア,NULL,NULL,NULL
+1221,ja,命愛の恋劇家 シェイクスピア,NULL,NULL,NULL
+1222,ja,カフカ,NULL,NULL,NULL
+1223,ja,凌蛾の変身 カフカ,NULL,NULL,NULL
+1224,ja,セルバンテス,NULL,NULL,NULL
+1225,ja,優柔なる風断者 セルバンテス,NULL,NULL,NULL
+1226,ja,トルストイ,NULL,NULL,NULL
+1227,ja,欲望の占猟者 トルストイ,NULL,NULL,NULL
+1228,ja,芥川龍之介,NULL,NULL,NULL
+1229,ja,羅生の鬼我 芥川龍之介,NULL,NULL,NULL
+1230,ja,夏目漱石,NULL,NULL,NULL
+1231,ja,思索する愛猫 夏目漱石,NULL,NULL,NULL
+1232,ja,ケプラー,NULL,NULL,NULL
+1233,ja,天体の大砲速 ケプラー,NULL,NULL,NULL
+1234,ja,ボーア,NULL,NULL,NULL
+1235,ja,哲壁の育護者 ボーア,NULL,NULL,NULL
+1236,ja,千利休,NULL,NULL,NULL
+1237,ja,夢茶の目付役 千利休,NULL,NULL,NULL
+1238,ja,服部半蔵,NULL,NULL,NULL
+1239,ja,音無の機密忍 服部半蔵,NULL,NULL,NULL
+1240,ja,竹中半兵衛,NULL,NULL,NULL
+1241,ja,巧妙なる嬢舌 竹中半兵衛,NULL,NULL,NULL
+1242,ja,豊臣秀吉,NULL,NULL,NULL
+1243,ja,新世覇の昇竜 豊臣秀吉,NULL,NULL,NULL
+1244,ja,猿飛佐助,NULL,NULL,NULL
+1245,ja,甲火の特殊忍 猿飛佐助,NULL,NULL,NULL
+1246,ja,望月千代女,NULL,NULL,NULL
+1247,ja,潜情のくノ一 望月千代女,NULL,NULL,NULL
+1248,ja,寧々,NULL,NULL,NULL
+1249,ja,君臨する姐御様 寧々,NULL,NULL,NULL
+1250,ja,真田幸村,NULL,NULL,NULL
+1251,ja,錯槍の英勇 真田幸村,NULL,NULL,NULL
+1252,ja,ギャラルホルン,NULL,NULL,NULL
+1253,ja,吹聴する廃徊者 ギャラルホルン,NULL,NULL,NULL
+1254,ja,スリュム,NULL,NULL,NULL
+1255,ja,驕奢の神犯 スリュム,NULL,NULL,NULL
+1256,ja,ヘル,NULL,NULL,NULL
+1257,ja,危能の幼魔神 ヘル,NULL,NULL,NULL
+1258,ja,ロキ,NULL,NULL,NULL
+1259,ja,崩世を叫ぶ悪戯 ロキ,NULL,NULL,NULL
+1260,ja,トール,NULL,NULL,NULL
+1261,ja,燃雷の鎚撃 トール,NULL,NULL,NULL
+1262,ja,イズン,NULL,NULL,NULL
+1263,ja,純朴なる檻理人 イズン,NULL,NULL,NULL
+1264,ja,ウルズ,NULL,NULL,NULL
+1265,ja,静観する世限者 ウルズ,NULL,NULL,NULL
+1266,ja,ガルム,NULL,NULL,NULL
+1267,ja,不遜の冥番犬 ガルム,NULL,NULL,NULL
+1268,ja,ローズ,NULL,NULL,NULL
+1269,ja,エルフラムの女王 ローズ,NULL,NULL,NULL
+1270,ja,コードレッド超覚醒,NULL,NULL,NULL
+1271,ja,ローズ(旧),NULL,NULL,NULL
+1272,ja,エルフラムの女王 ローズ(旧),NULL,NULL,NULL
+1273,ja,炎影纏う征討者 織田信長,NULL,NULL,NULL
+1274,ja,神雪と戯れる聖母 マリア,NULL,NULL,NULL
+1275,ja,聖進の贈炎 クリスマス・ベリアル,NULL,NULL,NULL
+1276,ja,聖宴の主彩 サンタクロース・オセ,NULL,NULL,NULL
+1277,ja,彩鈴鳴らす聖天使 ミカエル・イヴ,NULL,NULL,NULL
+1278,ja,ラチカ,NULL,NULL,NULL
+1279,ja,霜聖の雪姫 ラチカ,NULL,NULL,NULL
+1280,ja,聖装の始祖帝 クリスマス卑弥呼,NULL,NULL,NULL
+1281,ja,愛贈の白魔 ノエル・エスタブ,NULL,NULL,NULL
+1282,ja,ポーラとダニー,NULL,NULL,NULL
+1283,ja,連極の機関砲 ポーラとダニー,NULL,NULL,NULL
+1284,ja,マシン・シュプール,NULL,NULL,NULL
+1285,ja,災氷の魔導 シュプール,NULL,NULL,NULL
+1286,ja,ニコラ,NULL,NULL,NULL
+1287,ja,奇蹟呼ぶ聖砲 ニコラ,NULL,NULL,NULL
+1288,ja,聖伝の大主教 セント・ニコラ,NULL,NULL,NULL
+1289,ja,聖封の褒装 ベルベット,NULL,NULL,NULL
+1290,ja,想飾の響鐘 リンジー,NULL,NULL,NULL
+1291,ja,望雅の煌明鹿剣 勘兵衛,NULL,NULL,NULL
+1292,ja,風光明媚の雅鹿剣 勘兵衛,NULL,NULL,NULL
+1293,ja,トトリ,NULL,NULL,NULL
+1294,ja,酉賀なる初飛翔 トトリ,NULL,NULL,NULL
+1295,ja,星空の舞奏 ラビット・ユキネ,NULL,NULL,NULL
+1296,ja,星々駆ける乱奏 ラビット・ユキネ,NULL,NULL,NULL
+1297,ja,雪ミク2017,NULL,NULL,NULL
+1298,ja,星空の歌姫 雪ミク2017,NULL,NULL,NULL
+1299,ja,覚世の楽聖姫 初音ミクV3,NULL,NULL,NULL
+1300,ja,歌装の彩唱 紫式部,NULL,NULL,NULL
+1301,ja,歌装の萌響女 紫式部,NULL,NULL,NULL
+1302,ja,超天突符 イナバ,NULL,NULL,NULL
+1303,ja,転調･超天突符 イナバ,NULL,NULL,NULL
+1304,ja,演鼠の響笛音 ハーメルン,NULL,NULL,NULL
+1305,ja,響界廻る睡鼠楽 ハーメルン,NULL,NULL,NULL
+1306,ja,玉響の唱天 ルシファー,NULL,NULL,NULL
+1307,ja,彩翼の唱天史 ルシファー,NULL,NULL,NULL
+1308,ja,革鳴の響奏撃 初音ミク,NULL,NULL,NULL
+1309,ja,虹彩の美唱姫 初音ミク・アペンド,NULL,NULL,NULL
+1310,ja,聖律する歌姫 初音ミク・アペンド,NULL,NULL,NULL
+1311,ja,輪音する大反響 鏡音リン,NULL,NULL,NULL
+1312,ja,連譜する大残響 鏡音レン,NULL,NULL,NULL
+1313,ja,旋律する音廻 巡音ルカ,NULL,NULL,NULL
+1314,ja,救声の唱動 MEIKO,NULL,NULL,NULL
+1315,ja,快響の楽唱歌 KAITO,NULL,NULL,NULL
+1316,ja,初音ミクV4X,NULL,NULL,NULL
+1317,ja,進歌する声域 初音ミクV4X,NULL,NULL,NULL
+1318,ja,鏡音リンV4X,NULL,NULL,NULL
+1319,ja,甘恋の激唱歌 鏡音リンV4X,NULL,NULL,NULL
+1320,ja,鏡音レンV4X,NULL,NULL,NULL
+1321,ja,純凛の柔唱歌 鏡音レンV4X,NULL,NULL,NULL
+1322,ja,巡音ルカV4X,NULL,NULL,NULL
+1323,ja,吐鳴する響惹 巡音ルカV4X,NULL,NULL,NULL
+1324,ja,アウリ,NULL,NULL,NULL
+1325,ja,阿吽の神護犬 アウリ,NULL,NULL,NULL
+1326,ja,ワカヒルメ,NULL,NULL,NULL
+1327,ja,織神衣の幼神 ワカヒルメ,NULL,NULL,NULL
+1328,ja,ヒノカグツチ,NULL,NULL,NULL
+1329,ja,神抗の火産霊 ヒノカグツチ,NULL,NULL,NULL
+1330,ja,スサノオ,NULL,NULL,NULL
+1331,ja,傑戦の大強神 スサノオ,NULL,NULL,NULL
+1332,ja,クシナダヒメ,NULL,NULL,NULL
+1333,ja,神心を射る穂神 クシナダヒメ,NULL,NULL,NULL
+1334,ja,タマヨリヒメ,NULL,NULL,NULL
+1335,ja,霊司の神憑 タマヨリヒメ,NULL,NULL,NULL
+1336,ja,イザナギ,NULL,NULL,NULL
+1337,ja,成命の綜父神 イザナギ,NULL,NULL,NULL
+1338,ja,アメノウズメ,NULL,NULL,NULL
+1339,ja,復古の舞芸神 アメノウズメ,NULL,NULL,NULL
+1340,ja,ハレー,NULL,NULL,NULL
+1341,ja,攻核の翠星機導 ハレー,NULL,NULL,NULL
+1342,ja,ヘルレイザー,NULL,NULL,NULL
+1343,ja,処命する凶掌 ヘルレイザー,NULL,NULL,NULL
+1344,ja,空き,NULL,NULL,NULL
+1345,ja,空き,NULL,NULL,NULL
+1346,ja,セルシウス,NULL,NULL,NULL
+1347,ja,帝冷の剣氏 セルシウス,NULL,NULL,NULL
+1348,ja,パウリ,NULL,NULL,NULL
+1349,ja,機壊の輪旋 パウリ,NULL,NULL,NULL
+1350,ja,ブラウニーR5,NULL,NULL,NULL
+1351,ja,甘頬の魔糖菓 プラリーヌ,NULL,NULL,NULL
+1352,ja,トウカ,NULL,NULL,NULL
+1353,ja,恋待つ帰り道 トウカ,NULL,NULL,NULL
+1354,ja,放課後の恋妃神 フレイヤ,NULL,NULL,NULL
+1355,ja,恋する燦天使 メタトロン・エモ,NULL,NULL,NULL
+1356,ja,恋狐の甘味振舞 タマモ,NULL,NULL,NULL
+1357,ja,甘美なる想導司書 アズラエル,NULL,NULL,NULL
+1358,ja,暴走する恋激火 バハムート,NULL,NULL,NULL
+1359,ja,コルネ,NULL,NULL,NULL
+1360,ja,恋話の散弾 コルネ,NULL,NULL,NULL
+1361,ja,ショコラR6(使用せず),NULL,NULL,NULL
+1362,ja,刺撃する尖甘槍 フォンデュ,NULL,NULL,NULL
+1363,ja,聖白の夢菓子 ヴァニレ,NULL,NULL,NULL
+1364,ja,百菓の甘味家 パティ,NULL,NULL,NULL
+1365,ja,バリアテスト,NULL,NULL,NULL
+1366,ja,バリアテスト,NULL,NULL,NULL
+1367,ja,ベルヌーイ,NULL,NULL,NULL
+1368,ja,憤流する水鳴砲 ベルヌーイ,NULL,NULL,NULL
+1369,ja,トロイア,NULL,NULL,NULL
+1370,ja,美審なる神争 トロイア,NULL,NULL,NULL
+1373,ja,スリー・ピギーズ,NULL,NULL,NULL
+1374,ja,一級建築兄弟 スリー・ピギーズ,NULL,NULL,NULL
+1375,ja,ジキル&ハイド,NULL,NULL,NULL
+1376,ja,剥離性異常衝動 ジキル&ハイド,NULL,NULL,NULL
+1377,ja,ダンテ・クリスト,NULL,NULL,NULL
+1378,ja,巌窟の魔主 ダンテ・クリスト,NULL,NULL,NULL
+1379,ja,アンデルセン,NULL,NULL,NULL
+1380,ja,詩線上の導話 アンデルセン,NULL,NULL,NULL
+1381,ja,ガリバー,NULL,NULL,NULL
+1382,ja,賢巨なる渡来者 ガリバー,NULL,NULL,NULL
+1383,ja,シンドバッド,NULL,NULL,NULL
+1384,ja,獲宝の航界者 シンドバッド,NULL,NULL,NULL
+1385,ja,いばら姫,NULL,NULL,NULL
+1386,ja,荊棘の覚醒姫 いばら姫,NULL,NULL,NULL
+1387,ja,ダルタニャン,NULL,NULL,NULL
+1388,ja,讃勇の銃士長 ダルタニャン,NULL,NULL,NULL
+1389,ja,ユング,NULL,NULL,NULL
+1390,ja,夢誘心解の蒼翼 ユング,NULL,NULL,NULL
+1393,ja,ライプニッツ,NULL,NULL,NULL
+1394,ja,永普の存在論 ライプニッツ,NULL,NULL,NULL
+1395,ja,神和の表象展開 ライプニッツ,NULL,NULL,NULL
+1399,ja,ラヴァーズ,NULL,NULL,NULL
+1400,ja,奏愛する虜籠 ラヴァーズ,NULL,NULL,NULL
+1401,ja,レムリア,NULL,NULL,NULL
+1402,ja,縞彩の豊嬢 レムリア,NULL,NULL,NULL
+1403,ja,炎帝の守護獣神 朱雀,NULL,NULL,NULL
+1404,ja,玄帝の守護獣神 玄武,NULL,NULL,NULL
+1405,ja,蒼帝の守護獣神 青龍,NULL,NULL,NULL
+1406,ja,白帝の守護獣神 白虎,NULL,NULL,NULL
+1407,ja,グリム・ザ・ダンディ,NULL,NULL,NULL
+1408,ja,爽愛の求魂 グリム・ザ・ダンディ,NULL,NULL,NULL
+1409,ja,マシロ,NULL,NULL,NULL
+1410,ja,浮遊する白恋 マシロ,NULL,NULL,NULL
+1411,ja,ピーターパン・イノセンス,NULL,NULL,NULL
+1412,ja,アレス・パッション,NULL,NULL,NULL
+1413,ja,クリムト・ペリューシド,NULL,NULL,NULL
+1414,ja,炎のミリオンダック 7,NULL,NULL,NULL
+1415,ja,森のミリオンダック 7,NULL,NULL,NULL
+1416,ja,水のミリオンダック 7,NULL,NULL,NULL
+1417,ja,雷のミリオンダック 7,NULL,NULL,NULL
+1418,ja,擬潜送侵型メリッサ2.0,NULL,NULL,NULL
+1419,ja,感潜する侵感 メリッサ,NULL,NULL,NULL
+1420,ja,脆侵増殖型G・モリス,NULL,NULL,NULL
+1421,ja,拡勢する偽増 モリス,NULL,NULL,NULL
+1422,ja,解錠放散性ニムダE,NULL,NULL,NULL
+1423,ja,電播する環染 ニムダ,NULL,NULL,NULL
+1424,ja,波打際の宴麗 フロイト,NULL,NULL,NULL
+1425,ja,ヴォルタ,NULL,NULL,NULL
+1426,ja,灼々たる電花 ヴォルタ,NULL,NULL,NULL
+1427,ja,プラトー,NULL,NULL,NULL
+1428,ja,幻影の泡沫 プラトー,NULL,NULL,NULL
+1431,ja,センコ,NULL,NULL,NULL
+1432,ja,華宴の千年狐 センコ,NULL,NULL,NULL
+1433,ja,超越の果実,NULL,NULL,NULL
+1434,ja,メガ超越の果実,NULL,NULL,NULL
+1435,ja,ギガ超越の果実,NULL,NULL,NULL
+1436,ja,スパルタ,NULL,NULL,NULL
+1437,ja,暴厳の練磨師 スパルタ,NULL,NULL,NULL
+1438,ja,ゼノビア,NULL,NULL,NULL
+1439,ja,狡貴なる女傑 ゼノビア,NULL,NULL,NULL
+1440,ja,ブルータス,NULL,NULL,NULL
+1441,ja,背信の謀剣 ブルータス,NULL,NULL,NULL
+1442,ja,アレキサンダー,NULL,NULL,NULL
+1443,ja,征世の大英雄 アレキサンダー,NULL,NULL,NULL
+1444,ja,クレオパトラ,NULL,NULL,NULL
+1445,ja,絶征の魅女 クレオパトラ,NULL,NULL,NULL
+1446,ja,カエサル,NULL,NULL,NULL
+1447,ja,拓越の軍官 カエサル,NULL,NULL,NULL
+1448,ja,ハンニバル,NULL,NULL,NULL
+1449,ja,天賦の閃術家 ハンニバル,NULL,NULL,NULL
+1450,ja,ブーディカ,NULL,NULL,NULL
+1451,ja,沈黙の禁領 ブーディカ,NULL,NULL,NULL
+1452,ja,メルセンヌ,NULL,NULL,NULL
+1453,ja,数解の自鳴琴 メルセンヌ,NULL,NULL,NULL
+1454,ja,ストレングス,NULL,NULL,NULL
+1455,ja,豪毅なる征獣師 ストレングス,NULL,NULL,NULL
+1456,ja,ネセバル,NULL,NULL,NULL
+1457,ja,碧影の聖跡 ネセバル,NULL,NULL,NULL
+1458,ja,ロイ・マスタング,NULL,NULL,NULL
+1459,ja,焔の錬金術師 ロイ・マスタング,NULL,NULL,NULL
+1460,ja,リザ・ホークアイ,NULL,NULL,NULL
+1461,ja,鷹眼の国軍中尉 リザ・ホークアイ,NULL,NULL,NULL
+1462,ja,エドワード・エルリック,NULL,NULL,NULL
+1463,ja,鋼の錬金術師 エドワード,NULL,NULL,NULL
+1464,ja,アルフォンス・エルリック,NULL,NULL,NULL
+1465,ja,鋼腕なる闘鎧 アルフォンス,NULL,NULL,NULL
+1466,ja,スカー,NULL,NULL,NULL
+1467,ja,十字傷の男 スカー,NULL,NULL,NULL
+1468,ja,嫉妬の猛心 エンヴィー,NULL,NULL,NULL
+1469,ja,憤怒の大総統 ブラッドレイ,NULL,NULL,NULL
+1470,ja,傲慢なる悪鬼 プライド,NULL,NULL,NULL
+1471,ja,エイプリルアーサー,NULL,NULL,NULL
+1488,ja,デカルトR5,NULL,NULL,NULL
+1489,ja,デカルトR6,NULL,NULL,NULL
+1490,ja,パラケルスス,NULL,NULL,NULL
+1491,ja,真緋の紅玉 パラケルスス,NULL,NULL,NULL
+1495,ja,桜乱の武奏術 牛若丸,NULL,NULL,NULL
+1496,ja,晴眼桜花一文字 沖田総司,NULL,NULL,NULL
+1497,ja,ヨシノ,NULL,NULL,NULL
+1498,ja,咲誇る夢見草 ヨシノ,NULL,NULL,NULL
+1499,ja,コノハナサクヤ,NULL,NULL,NULL
+1500,ja,櫻歌する開華 コノハナサクヤ,NULL,NULL,NULL
+1501,ja,晴舞台の桜舞 ドガ,NULL,NULL,NULL
+1502,ja,打咲かす桜花灯 トリスタン,NULL,NULL,NULL
+1503,ja,春纏う蛇撫子 ヨルムンガンド,NULL,NULL,NULL
+1504,ja,ネコ,NULL,NULL,NULL
+1505,ja,タンクネコ,NULL,NULL,NULL
+1506,ja,バトルネコ,NULL,NULL,NULL
+1507,ja,キモネコ,NULL,NULL,NULL
+1508,ja,ネコノトリ,NULL,NULL,NULL
+1509,ja,巨神ネコ,NULL,NULL,NULL
+1510,ja,ネコヴァルキリー,NULL,NULL,NULL
+1511,ja,ネコヴァルキリー･真,NULL,NULL,NULL
+1512,ja,ネコヴァルキリー･聖,NULL,NULL,NULL
+1513,ja,金ネコ,NULL,NULL,NULL
+1514,ja,金ネコビルダー,NULL,NULL,NULL
+1515,ja,赤メタルネコ,NULL,NULL,NULL
+1516,ja,赤メタルネコビルダー,NULL,NULL,NULL
+1517,ja,青メタルネコ,NULL,NULL,NULL
+1518,ja,青メタルネコビルダー,NULL,NULL,NULL
+1519,ja,緑メタルネコ,NULL,NULL,NULL
+1520,ja,緑メタルネコビルダー,NULL,NULL,NULL
+1521,ja,黄メタルネコ,NULL,NULL,NULL
+1522,ja,黄メタルネコビルダー,NULL,NULL,NULL
+1523,ja,ネコムート,NULL,NULL,NULL
+1524,ja,狂乱のネコムート,NULL,NULL,NULL
+1525,ja,狂乱のネコ,NULL,NULL,NULL
+1526,ja,狂乱のネコビルダー,NULL,NULL,NULL
+1527,ja,ネコ魔剣士,NULL,NULL,NULL
+1528,ja,双剣ネコ魔剣士,NULL,NULL,NULL
+1529,ja,ねこ海賊,NULL,NULL,NULL
+1530,ja,ニャーコック船長,NULL,NULL,NULL
+1531,ja,ねこジュラ,NULL,NULL,NULL
+1532,ja,ねこジュラシッター,NULL,NULL,NULL
+1533,ja,ネコエステ,NULL,NULL,NULL
+1534,ja,ネコジェンヌ,NULL,NULL,NULL
+1535,ja,ねこナース,NULL,NULL,NULL
+1536,ja,ハートフルねこナース,NULL,NULL,NULL
+1537,ja,キャットマンダディ,NULL,NULL,NULL
+1538,ja,キャットマンダーク,NULL,NULL,NULL
+1539,ja,雷神のサンディア,NULL,NULL,NULL
+1540,ja,雷神のサンディアβ,NULL,NULL,NULL
+1541,ja,美女神アフロディーテ,NULL,NULL,NULL
+1542,ja,メガロディーテ,NULL,NULL,NULL
+1543,ja,ツルの恩返し,NULL,NULL,NULL
+1544,ja,銀河戦士コスモ,NULL,NULL,NULL
+1545,ja,ネコルガ,NULL,NULL,NULL
+1546,ja,ケサランパサラン,NULL,NULL,NULL
+1547,ja,ネコフラワー,NULL,NULL,NULL
+1548,ja,にゃんこ扇風,NULL,NULL,NULL
+1549,ja,ネコリンゴ,NULL,NULL,NULL
+1550,ja,カオルくん,NULL,NULL,NULL
+1551,ja,Leo01,NULL,NULL,NULL
+1552,ja,Leo02,NULL,NULL,NULL
+1553,ja,Andromeda01,NULL,NULL,NULL
+1554,ja,Andromeda02,NULL,NULL,NULL
+1555,ja,Taurus01,NULL,NULL,NULL
+1556,ja,Capricornus01,NULL,NULL,NULL
+1557,ja,Capricornus02,NULL,NULL,NULL
+1558,ja,Aries01,NULL,NULL,NULL
+1559,ja,Aries02,NULL,NULL,NULL
+1560,ja,Pisces01,NULL,NULL,NULL
+1561,ja,Sagittarius01,NULL,NULL,NULL
+1562,ja,Sagittarius02,NULL,NULL,NULL
+1563,ja,Cassiopeia01,NULL,NULL,NULL
+1564,ja,Cassiopeia02,NULL,NULL,NULL
+1565,ja,Aquila01,NULL,NULL,NULL
+1566,ja,Phoenix01,NULL,NULL,NULL
+1567,ja,Phoenix02,NULL,NULL,NULL
+1568,ja,Orion01,NULL,NULL,NULL
+1569,ja,Orion02,NULL,NULL,NULL
+1570,ja,Centaurus01,NULL,NULL,NULL
+1571,ja,Lupus01,NULL,NULL,NULL
+1572,ja,Lupus02,NULL,NULL,NULL
+1573,ja,Scorpius01,NULL,NULL,NULL
+1574,ja,Cancer01,NULL,NULL,NULL
+1575,ja,Aquarius01,NULL,NULL,NULL
+1576,ja,Aquarius02,NULL,NULL,NULL
+1577,ja,Perseus01,NULL,NULL,NULL
+1578,ja,Hydra01,NULL,NULL,NULL
+1579,ja,Lyra01,NULL,NULL,NULL
+1580,ja,Lyra02,NULL,NULL,NULL
+1581,ja,Gemini01,NULL,NULL,NULL
+1582,ja,Gemini02,NULL,NULL,NULL
+1583,ja,Corvus01,NULL,NULL,NULL
+1584,ja,Sirius01,NULL,NULL,NULL
+1585,ja,Sirius02,NULL,NULL,NULL
+1586,ja,Sirius03,NULL,NULL,NULL
+1587,ja,Virgo01,NULL,NULL,NULL
+1588,ja,Virgo02,NULL,NULL,NULL
+1603,ja,麗貴なる洒落魔 エスタブ,NULL,NULL,NULL
+1604,ja,籠絡する魔戦線 ピノキオ,NULL,NULL,NULL
+1613,ja,ボスA,NULL,NULL,NULL
+1614,ja,ボスB,NULL,NULL,NULL
+1615,ja,ボスC,NULL,NULL,NULL
+1616,ja,空欄,NULL,NULL,NULL
+1617,ja,空欄,NULL,NULL,NULL
+1618,ja,空欄,NULL,NULL,NULL
+1619,ja,空欄,NULL,NULL,NULL
+1620,ja,空欄,NULL,NULL,NULL
+1621,ja,空欄,NULL,NULL,NULL
+1622,ja,空欄,NULL,NULL,NULL
+1623,ja,空欄,NULL,NULL,NULL
+1624,ja,空欄,NULL,NULL,NULL
+1687,ja,ファルネーゼ,NULL,NULL,NULL
+1688,ja,ファルネーゼ・ロッソ,NULL,NULL,NULL
+1689,ja,ファルネーゼ・ヴェルデ,NULL,NULL,NULL
+1690,ja,ファルネーゼ・アズロ,NULL,NULL,NULL
+1691,ja,ファルネーゼ・ジャロ,NULL,NULL,NULL
+1692,ja,ロッソ・ハート,NULL,NULL,NULL
+1693,ja,ヴェルデ・ハート,NULL,NULL,NULL
+1694,ja,アズロ・ハート,NULL,NULL,NULL
+1695,ja,ジャロ・ハート,NULL,NULL,NULL
+1696,ja,ファルネーゼ・コア,NULL,NULL,NULL
+1697,ja,駆動する機会 ガーネット,NULL,NULL,NULL
+1698,ja,炎断の華嫁 ガーネット,NULL,NULL,NULL
+1699,ja,崇高祝言 アマテラス,NULL,NULL,NULL
+1700,ja,大慶総氏神 アマテラス,NULL,NULL,NULL
+1701,ja,蒼嵐の婚戦 フォルトゥナ,NULL,NULL,NULL
+1702,ja,求愛の夢想剣 フォルトゥナ,NULL,NULL,NULL
+1703,ja,可恋なる花乙女 リリィ,NULL,NULL,NULL
+1704,ja,恋焦がす夢乙女 リリィ,NULL,NULL,NULL
+1705,ja,純白の新婦軍 白雪姫,NULL,NULL,NULL
+1706,ja,幸福なる大祝砲 白雪姫,NULL,NULL,NULL
+1707,ja,親愛なる猫嫁神 バステト,NULL,NULL,NULL
+1708,ja,御聖婚の幸猫神 バステト,NULL,NULL,NULL
+1709,ja,情花降る神婦 イズン,NULL,NULL,NULL
+1710,ja,慎愛なる女神の契 イズン,NULL,NULL,NULL
+1711,ja,誓愛求婚の新郎 諸葛亮,NULL,NULL,NULL
+1712,ja,一蓮托生の双環 諸葛亮,NULL,NULL,NULL
+1713,ja,誓約の挙剣 ジークフリート,NULL,NULL,NULL
+1714,ja,仁愛の祝賀剣 ジークフリート,NULL,NULL,NULL
+1715,ja,森歓の祝宴 アマラ,NULL,NULL,NULL
+1716,ja,森婚の祝福祭 アマラ,NULL,NULL,NULL
+1717,ja,ラブリーエンジェル,NULL,NULL,NULL
+1718,ja,マリッジリング,NULL,NULL,NULL
+1719,ja,トゥルー・マリッジリング,NULL,NULL,NULL
+5001,ja,ガルーダ,NULL,NULL,NULL
+5002,ja,光輝する美翼聖鳥 ガルーダ,NULL,NULL,NULL
+5003,ja,ナーガ,NULL,NULL,NULL
+5004,ja,深淵翠緑 ナーガ,NULL,NULL,NULL
+5005,ja,カーミラ,NULL,NULL,NULL
+5006,ja,カーミラ★６,NULL,NULL,NULL
+5007,ja,ヘルシング,NULL,NULL,NULL
+5008,ja,ヘルシング★６,NULL,NULL,NULL
+5009,ja,星の王子様,NULL,NULL,NULL
+5010,ja,星の王子様★６,NULL,NULL,NULL
+5011,ja,サン=テグジュペリ,NULL,NULL,NULL
+5012,ja,サン=テグジュペリ★６,NULL,NULL,NULL
+6001,ja,ジェリー,NULL,NULL,NULL
+6002,ja,ヨシタカ,NULL,NULL,NULL
+6003,ja,朱雀,NULL,NULL,NULL
+6004,ja,ブレット,NULL,NULL,NULL
+6005,ja,孤神 テティス,NULL,NULL,NULL
+6006,ja,海底の孤高神 テティス,NULL,NULL,NULL
+6007,ja,番犬 ケルベロス,NULL,NULL,NULL
+6008,ja,焔神 プロメテウス,NULL,NULL,NULL
+6009,ja,超越自我 ラグランジュ,NULL,NULL,NULL
+6010,ja,超越凌駕 ラグランジュ,NULL,NULL,NULL
+6011,ja,パトドッグリーダー ポチ,NULL,NULL,NULL
+6012,ja,ミミ,NULL,NULL,NULL
+6013,ja,護衛機人 スケアクロウ,NULL,NULL,NULL
+6014,ja,月下の人狼 ローレンス,NULL,NULL,NULL
+6015,ja,フレイヤ,NULL,NULL,NULL
+6016,ja,根原論理 ユークリッド,NULL,NULL,NULL
+6017,ja,不朽の極論 ユークリッド,NULL,NULL,NULL
+6018,ja,ハヅル,NULL,NULL,NULL
+6019,ja,天織羽鶴 ハヅル,NULL,NULL,NULL
+6020,ja,ミズチ,NULL,NULL,NULL
+8001,ja,媽祖,NULL,NULL,NULL
+8002,ja,宣導する天海妃 媽祖,NULL,NULL,NULL
+8003,ja,蛟龍,NULL,NULL,NULL
+8004,ja,呼嵐の蒼棲龍 蛟龍,NULL,NULL,NULL
+8005,ja,三蔵法師,NULL,NULL,NULL
+8006,ja,慈戒の呪封使 三蔵法師,NULL,NULL,NULL
+8007,ja,孫悟空,NULL,NULL,NULL
+8008,ja,花果の天猿仙人 孫悟空,NULL,NULL,NULL
+8009,ja,西王娘娘,NULL,NULL,NULL
+8010,ja,極楽瑶池の聖母 西王娘娘,NULL,NULL,NULL
+8011,ja,月下老人,NULL,NULL,NULL
+8012,ja,破戀斬る縁剣 月下老人,NULL,NULL,NULL
+8013,ja,初音ミクV3,NULL,NULL,NULL
+8014,ja,初音ミクV3,NULL,NULL,NULL
+8015,ja,初音ミク・アペンド,NULL,NULL,NULL
+8016,ja,初音ミク・アペンド,NULL,NULL,NULL
+8017,ja,初音ミク,NULL,NULL,NULL
+8018,ja,初音ミク,NULL,NULL,NULL
+8019,ja,鏡音リン,NULL,NULL,NULL
+8020,ja,鏡音リン,NULL,NULL,NULL
+8021,ja,鏡音レン,NULL,NULL,NULL
+8022,ja,鏡音レン,NULL,NULL,NULL
+8023,ja,巡音ルカ,NULL,NULL,NULL
+8024,ja,巡音ルカ,NULL,NULL,NULL
+8025,ja,MEIKO,NULL,NULL,NULL
+8026,ja,MEIKO,NULL,NULL,NULL
+8027,ja,KAITO,NULL,NULL,NULL
+8028,ja,KAITO,NULL,NULL,NULL
+8029,ja,Expoミク,NULL,NULL,NULL
+8030,ja,Expoミク,NULL,NULL,NULL
+8031,ja,閻羅王,NULL,NULL,NULL
+8032,ja,六道輪廻の絶獄 閻羅王,NULL,NULL,NULL
+8033,ja,牛頭馬面,NULL,NULL,NULL
+8034,ja,冥府狩る魂使 牛頭馬面,NULL,NULL,NULL
+8035,ja,飛衛,NULL,NULL,NULL
+8036,ja,レア６飛衛,NULL,NULL,NULL
+8037,ja,紀昌,NULL,NULL,NULL
+8038,ja,レア６紀昌,NULL,NULL,NULL
+8039,ja,何仙姑,NULL,NULL,NULL
+8040,ja,荷咲く九天 何仙姑,NULL,NULL,NULL
+8041,ja,藍采和,NULL,NULL,NULL
+8042,ja,天真浪漫 藍采和,NULL,NULL,NULL
+8043,ja,サンリオキャラ大集合+アザゼル,NULL,NULL,NULL
+8044,ja,サンリオキャラ大集合+アザゼル,NULL,NULL,NULL
+8045,ja,ニムダ_サンリオキャラ混じり,NULL,NULL,NULL
+8046,ja,ニムダ_サンリオキャラ混じり,NULL,NULL,NULL
+8047,ja,ハローキティ,NULL,NULL,NULL
+8048,ja,ハローキティ,NULL,NULL,NULL
+8049,ja,KIRIMIちゃん,NULL,NULL,NULL
+8050,ja,KIRIMIちゃん,NULL,NULL,NULL
+8051,ja,ハローキティのリボン,NULL,NULL,NULL
+8052,ja,ママの作ったアップルパイ,NULL,NULL,NULL
+8053,ja,D.R.T.H__キティコスプレ,NULL,NULL,NULL
+8054,ja,D.R.T.H__キティコスプレ,NULL,NULL,NULL
+8055,ja,マイメロディ,NULL,NULL,NULL
+8056,ja,マイメロディ,NULL,NULL,NULL
+8057,ja,ニーベルゲン_シナモロールコスプレ,NULL,NULL,NULL
+8058,ja,ニーベルゲン_シナモロールコスプレ,NULL,NULL,NULL
+8059,ja,カカシ_マイメロディコスプレ,NULL,NULL,NULL
+8060,ja,カカシ_マイメロディコスプレ,NULL,NULL,NULL
+8061,ja,ケロケロけろっぴ,NULL,NULL,NULL
+8062,ja,ケロケロけろっぴ,NULL,NULL,NULL
+8063,ja,モルドレッド_ポムポムプリンコスプレ,NULL,NULL,NULL
+8064,ja,モルドレッド_ポムポムプリンコスプレ,NULL,NULL,NULL
+8065,ja,クロミ,NULL,NULL,NULL
+8066,ja,クロミ,NULL,NULL,NULL
+8067,ja,バッドばつ丸,NULL,NULL,NULL
+8068,ja,バッドばつ丸,NULL,NULL,NULL
+8069,ja,シナモロール,NULL,NULL,NULL
+8070,ja,シナモロール,NULL,NULL,NULL
+8071,ja,ポムポムプリン,NULL,NULL,NULL
+8072,ja,ポムポムプリン,NULL,NULL,NULL
+8073,ja,星海祈る天光妃 媽祖,NULL,NULL,NULL
+8074,ja,海戀の絶龍姫 蛟龍,NULL,NULL,NULL
+8075,ja,解脱天の知徳 三蔵法師,NULL,NULL,NULL
+8076,ja,天暴の斉天大聖 孫悟空,NULL,NULL,NULL
+8077,ja,鄭成功,NULL,NULL,NULL
+8078,ja,レア６鄭成功,NULL,NULL,NULL
+8079,ja,赤鬼,NULL,NULL,NULL
+8080,ja,レア６赤鬼,NULL,NULL,NULL
+8081,ja,関羽,NULL,NULL,NULL
+8082,ja,千里突撃 関羽,NULL,NULL,NULL
+8083,ja,曹操,NULL,NULL,NULL
+8084,ja,混沌の覇道行者 曹操,NULL,NULL,NULL
+8085,ja,九霊無上の聖母 西王娘娘,NULL,NULL,NULL
+8086,ja,砕縁の情滅剣 月下老人,NULL,NULL,NULL
+8087,ja,財神,NULL,NULL,NULL
+8088,ja,★６財神,NULL,NULL,NULL
+8089,ja,年獣,NULL,NULL,NULL
+8090,ja,★６年獣,NULL,NULL,NULL
+8095,ja,バハムートダック赤,NULL,NULL,NULL
+8096,ja,バハムートダック緑,NULL,NULL,NULL
+8097,ja,バハムートダック青,NULL,NULL,NULL
+8098,ja,バハムートダック黄,NULL,NULL,NULL
+8099,ja,韓湘子,NULL,NULL,NULL
+8100,ja,韓湘子★６,NULL,NULL,NULL
+8101,ja,張果老,NULL,NULL,NULL
+8102,ja,張果老★６,NULL,NULL,NULL
+8103,ja,李鐵拐,NULL,NULL,NULL
+8104,ja,李鐵拐★６,NULL,NULL,NULL
+8105,ja,曹國舅,NULL,NULL,NULL
+8106,ja,曹國舅★６,NULL,NULL,NULL
+8111,ja,福_正神,NULL,NULL,NULL
+8112,ja,福_正神★６,NULL,NULL,NULL
+8113,ja,孔子,NULL,NULL,NULL
+8114,ja,孔子★６,NULL,NULL,NULL
+8115,ja,贏政,NULL,NULL,NULL
+8116,ja,贏政★６,NULL,NULL,NULL
+8117,ja,白娘子,NULL,NULL,NULL
+8118,ja,白娘子★６,NULL,NULL,NULL
+8119,ja,小青,NULL,NULL,NULL
+8120,ja,小青★６,NULL,NULL,NULL
+8121,ja,法海,NULL,NULL,NULL
+8122,ja,法海★６,NULL,NULL,NULL
+8123,ja,__,NULL,NULL,NULL
+8124,ja,★6__,NULL,NULL,NULL
+8125,ja,東海龍王,NULL,NULL,NULL
+8126,ja,★6東海龍王,NULL,NULL,NULL
+8127,ja,鐵扇公主 _ 羅_女,NULL,NULL,NULL
+8128,ja,聖賢哲者 _ 唐三藏,NULL,NULL,NULL
+8129,ja,放任_魔 _ 撒旦,NULL,NULL,NULL
+8130,ja,變臉火術 _ 切西亞,NULL,NULL,NULL
+8131,ja,預知者之_劫 _ _珊_拉,NULL,NULL,NULL
+8132,ja,罪與責之承諾 _ 美狄亞,NULL,NULL,NULL
+8133,ja,大魔導士 _ 莫莉,NULL,NULL,NULL
+8134,ja,龍_騎士 _ 肖恩,NULL,NULL,NULL
+8135,ja,混沌之翼 _ 路西法,NULL,NULL,NULL
+8136,ja,混沌之翼 _ 路西法★6,NULL,NULL,NULL
+8137,ja,_巫術之疚惡 _ 喀耳刻,NULL,NULL,NULL
+8138,ja,死靈魔導 _ 安多,NULL,NULL,NULL
+9001,ja,春香,NULL,NULL,NULL
+9002,ja,春香★６,NULL,NULL,NULL
+9003,ja,夢龍,NULL,NULL,NULL
+9004,ja,夢龍★６,NULL,NULL,NULL
+9005,ja,降臨,NULL,NULL,NULL
+9006,ja,降臨★６,NULL,NULL,NULL
+9007,ja,田禹治,NULL,NULL,NULL
+9008,ja,田禹治★６,NULL,NULL,NULL
+9009,ja,薔花,NULL,NULL,NULL
+9010,ja,薔花★６,NULL,NULL,NULL
+9011,ja,紅蓮,NULL,NULL,NULL
+9012,ja,紅蓮★６,NULL,NULL,NULL
+10001,ja,テストユニット01,NULL,NULL,NULL
+10002,ja,テストユニット02,NULL,NULL,NULL
+10003,ja,テストユニット03,NULL,NULL,NULL
+10004,ja,テストユニット04,NULL,NULL,NULL
+10005,ja,テストユニット05,NULL,NULL,NULL
+10006,ja,テストユニット06,NULL,NULL,NULL
+10007,ja,テストユニット07,NULL,NULL,NULL
+10008,ja,テストユニット08,NULL,NULL,NULL
+10009,ja,青テスト01,NULL,NULL,NULL
+10010,ja,赤テスト01,NULL,NULL,NULL
+10011,ja,テストユニット11,NULL,NULL,NULL
+10012,ja,レイドテストユニット青,NULL,NULL,NULL
+10013,ja,テストユニット13,NULL,NULL,NULL
+10014,ja,テストユニット14,NULL,NULL,NULL
+10015,ja,テストユニット15,NULL,NULL,NULL
+10016,ja,テストユニット16,NULL,NULL,NULL
+10017,ja,テストユニット17,NULL,NULL,NULL
+10018,ja,テストユニット18,NULL,NULL,NULL
+10019,ja,テストユニット19,NULL,NULL,NULL
+10020,ja,テストユニット20,NULL,NULL,NULL
+10021,ja,テストユニット21,NULL,NULL,NULL
+10022,ja,テストユニット22,NULL,NULL,NULL
+10023,ja,テストユニット23,NULL,NULL,NULL
+10024,ja,テストユニット24,NULL,NULL,NULL
+10025,ja,テストユニット25,NULL,NULL,NULL
+10026,ja,テストユニット26,NULL,NULL,NULL
+10027,ja,テストユニット27,NULL,NULL,NULL
+10028,ja,テストユニット28,NULL,NULL,NULL
+10029,ja,テストユニット29,NULL,NULL,NULL
+10030,ja,テストユニット30,NULL,NULL,NULL
+10031,ja,テストユニット31,NULL,NULL,NULL
+10032,ja,テストユニット32,NULL,NULL,NULL
+10033,ja,テストユニット33,NULL,NULL,NULL
+10034,ja,テストユニット34,NULL,NULL,NULL
+10035,ja,テストユニット35,NULL,NULL,NULL
+10036,ja,テストユニット36,NULL,NULL,NULL
+10037,ja,テストユニット37,NULL,NULL,NULL
+10038,ja,テストユニット38,NULL,NULL,NULL
+10039,ja,テストユニット39,NULL,NULL,NULL
+10040,ja,テストユニット40,NULL,NULL,NULL
+10041,ja,テストユニット41,NULL,NULL,NULL
+10042,ja,テストユニット42,NULL,NULL,NULL
+10043,ja,テストユニット43,NULL,NULL,NULL
+10044,ja,テストユニット44,NULL,NULL,NULL
+10045,ja,テストユニット45,NULL,NULL,NULL
+10046,ja,テストユニット46,NULL,NULL,NULL
+10047,ja,テストユニット47,NULL,NULL,NULL
+10048,ja,テストユニット48,NULL,NULL,NULL
+10049,ja,テストユニット49,NULL,NULL,NULL
+10050,ja,テストユニット50,NULL,NULL,NULL
+10051,ja,テストユニット51,NULL,NULL,NULL
+10052,ja,テストユニット52,NULL,NULL,NULL
+10053,ja,テストユニット53,NULL,NULL,NULL
+10054,ja,テストユニット54,NULL,NULL,NULL
+10055,ja,テストユニット55,NULL,NULL,NULL
+10056,ja,テストユニット56,NULL,NULL,NULL
+10057,ja,テストユニット57,NULL,NULL,NULL
+10058,ja,テストユニット58,NULL,NULL,NULL
+10059,ja,テストユニット59,NULL,NULL,NULL
+10060,ja,テストユニット60,NULL,NULL,NULL
+10061,ja,テストユニット61,NULL,NULL,NULL
+10062,ja,テストユニット62,NULL,NULL,NULL
+10063,ja,テストユニット63,NULL,NULL,NULL
+10064,ja,テストユニット64,NULL,NULL,NULL
+10065,ja,テストユニット65,NULL,NULL,NULL
+10066,ja,テストユニット66,NULL,NULL,NULL
+10067,ja,テストユニット67,NULL,NULL,NULL
+10068,ja,テストユニット68,NULL,NULL,NULL
+10069,ja,テストユニット69,NULL,NULL,NULL
+10070,ja,テストユニット70,NULL,NULL,NULL
+10071,ja,テストユニット71,NULL,NULL,NULL
+10072,ja,テストユニット72,NULL,NULL,NULL
+10073,ja,テストユニット73,NULL,NULL,NULL
+10074,ja,テストユニット74,NULL,NULL,NULL
+10075,ja,テストユニット75,NULL,NULL,NULL
+10076,ja,テストユニット76,NULL,NULL,NULL
+10077,ja,テストユニット77,NULL,NULL,NULL
+10078,ja,テストユニット78,NULL,NULL,NULL
+10079,ja,テストユニット79,NULL,NULL,NULL
+10080,ja,テストユニット80,NULL,NULL,NULL
+10081,ja,テストユニット81,NULL,NULL,NULL
+10082,ja,テストユニット82,NULL,NULL,NULL
+10083,ja,テストユニット83,NULL,NULL,NULL
+10084,ja,テストユニット84,NULL,NULL,NULL
+10085,ja,テストユニット85,NULL,NULL,NULL
+10086,ja,テストユニット86,NULL,NULL,NULL
+10087,ja,テストユニット87,NULL,NULL,NULL
+10088,ja,テストユニット88,NULL,NULL,NULL
+10089,ja,テストユニット89,NULL,NULL,NULL
+10090,ja,テストユニット90,NULL,NULL,NULL
+10101,ja,Usagi-kun,NULL,NULL,NULL
+10102,ja,ローズ,NULL,NULL,NULL
+10103,ja,ローズ,NULL,NULL,NULL

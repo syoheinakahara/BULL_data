@@ -1,0 +1,4 @@
+9009,"[effect:damage_heal, target:enemy_one, color:green, val:1.2, animation:damage_one_green03],[effect:heal_ratio, val:0.18, animation:heal02_unit01]",1
+9010,"[effect:damage_heal, target:enemy_one, color:green, val:1.5, animation:damage_one_green04],[effect:heal_ratio, val:0.18, animation:heal02_unit01]",1
+9011,"[effect:damage, target:enemy_one, color:yellow, val:1.5, animation:damage_one_yellow04],[effect:guard_break, target:enemy_one, turn:1, val:200, calc:add, animation:guard_break01]",1
+9012,"[effect:damage, target:enemy_one, color:yellow, val:2, animation:damage_one_yellow04],[effect:guard_break, target:enemy_one, turn:1, val:200, calc:add, animation:guard_break01]",1

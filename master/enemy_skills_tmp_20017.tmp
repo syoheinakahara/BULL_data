@@ -1,0 +1,10 @@
+20017003,"[effect:critical, val:3.0]",3
+20017005,"[effect:drop_block, block_type:time_bomb, color:block_red, val:0.09, rate:0.80, turn:-1, min_time_count:2, animation:time_bomb_influence04]",3
+20017006,"[effect:force_change_block, new_block:block_red, target:block_heart, count:5, val:0, animation:change_block],[effect:spread, val:0.30]",3
+20017007,"[effect:remove_enhancement, target:unit_all, target_effect:drop_block, target_type:all, status:time_bomb],[effect:drop_block, block_type:time_bomb, color:block_green, val:0.09, rate:0.60, turn:-1, min_time_count:3, animation:time_bomb_influence04]",3
+20017008,"[effect:force_change_block, new_block:block_green, target:block_heart, count:3, val:0, animation:change_block],[effect:spread, val:0.30]",3
+20017009,"[effect:drop_block, block_type:time_bomb, color:block_red, val:0.09, rate:0.65, turn:-1, min_time_count:2, animation:time_bomb_influence04],[effect:enemy_message, val1:2.5]",3
+20017010,"[effect:nothing]",3
+20017011,"[effect:spread, val:0.46]",3
+20017012,"[effect:drop_block, block_type:time_bomb, color:block_red, val:0.09, rate:0.80, turn:-1, min_time_count:2, animation:time_bomb_influence04]",3
+20017013,"[effect:drop_block, block_type:time_bomb, color:block_red, val:0.09, rate:0.80, turn:-1, min_time_count:2, animation:time_bomb_influence04]",3

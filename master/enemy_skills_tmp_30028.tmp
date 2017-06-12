@@ -1,0 +1,32 @@
+30028001,"[effect:rush, count:2, val:0.6]",3
+30028002,"[effect:suicide, val:1, dead_type:escape, target:myself]",3
+30028003,"[effect:fix_speed, target:enemy_animal, turn:1],[effect:fix_speed, target:myself, turn:2]",3
+30028004,"[effect:suicide, val:1, dead_type:escape, target:myself]",3
+30028005,"[effect:change_panel_ratio, turn:8, block_type:yellow, val:0.3, animation:block_incidence04]",3
+30028006,"[effect:rush, count:1, val:1]",3
+30028007,"[effect:change_block, new_block:time_bomb, target:block_yellow, count:0, val:0.1, animation:change_block]",3
+30028008,"[effect:critical, val:1.4]",3
+30028009,"[effect:damage_anti_abnormal, target:unit_all, target_effect01:counter, target_effect02:counter_new, val1:0.8, val2:0.28],[effect:remove_enhancement, target:unit_all, target_effect:counter, target_type:buff],[effect:remove_enhancement, target:unit_all, target_effect:counter_new, target_type:buff, animation:frozen_wave]",3
+30028010,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+30028011,"[effect:rush, count:1, val:1]",3
+30028012,"[effect:break_attack_fix, val:1250, lowest_val:800, count:-1, block:block_yellow, target:unit_one]",3
+30028013,"[effect:critical, val:1.4]",3
+30028014,"[effect:damage_anti_abnormal, target:unit_all, target_effect01:counter, target_effect02:counter_new, val1:0.8, val2:0.28],[effect:remove_enhancement, target:unit_all, target_effect:counter, target_type:buff]    ,[effect:remove_enhancement, target:unit_all, target_effect:counter_new, target_type:buff, animation:frozen_wave]",3
+30028015,"[effect:rush, count:2, val:0.6]",3
+30028016,"[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:1.3, animation:enemy_enhance_attack]",3
+30028017,"[effect:virus, turn:-1, rate:1, val:0.05, animation:enemy_virus]",3
+30028020,"[effect:virus, turn:-1, rate:1, val:0.11, animation:enemy_virus]",3
+30028021,"[effect:damage_anti_abnormal, target:unit_all, target_effect01:virus, val1:0.5, val2:0.3]",3
+30028022,"[effect:rush, count:1, val:1]",3
+30028023,"[effect:rush, count:8, val:0.26]",3
+30028024,"[effect:spread, val:0.2],[effect:heal, target:enemy_one, val:0.1, animation:enemy_heal]",3
+30028025,"[effect:rush, count:4, val:0.3]",3
+30028026,"[effect:virus, turn:-1, rate:1, val:0.05, animation:enemy_virus]",3
+30028029,"[effect:virus, turn:-1, rate:1, val:0.11, animation:enemy_virus]",3
+30028030,"[effect:damage_anti_abnormal, target:unit_all, target_effect01:virus, val1:0.5, val2:0.3],[effect:heal, target:enemy_one, val:0.08, animation:enemy_heal]",3
+30028031,"[effect:rush, count:1, val:1]",3
+30028032,"[effect:rush, count:8, val:0.28]",3
+30028033,"[effect:critical, val:1.5],[effect:heal, target:enemy_one, val:0.1, animation:enemy_heal]",3
+30028034,"[effect:rush, count:4, val:0.3]",3
+30028035,"[effect:damage_anti_abnormal, target:unit_all, target_effect01:virus, val1:0.4, val2:0.3],[effect:heal, target:enemy_one, val:0.05, animation:enemy_heal]",3
+30028036,"[effect:spread, val:0.28]",3

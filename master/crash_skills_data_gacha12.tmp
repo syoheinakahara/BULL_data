@@ -1,0 +1,10 @@
+586,"[effect:damage, target:enemy_one, color:red, val:2.0, animation:damage_one_red04]",3
+587,"[effect:damage, target:enemy_one, color:red, val:2.25, animation:damage_one_red04]",3
+588,"[effect:damage_anti_tribe, target:enemy_one, tribe:machine, val1:2.63, val2:0.94,  animation:damage_one_green03]",3
+589,"[effect:damage_anti_tribe, target:enemy_one, tribe:machine, val1:2.63, val2:0.94,  animation:damage_one_green03]",3
+590,"[effect:damage_anti_tribe, target:enemy_one, tribe:machine, val1:3.0, val2:1.13,  animation:damage_one_green04]",3
+591,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:2.63, val2:0.94,  animation:damage_one_blue03]",3
+592,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:2.63, val2:0.94,  animation:damage_one_blue03]",3
+593,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.0, val2:1.13,  animation:damage_one_blue04]",3
+594,"[effect:damage, target:enemy_one, color:yellow, val:2.0, animation:damage_one_yellow04]",3
+595,"[effect:damage, target:enemy_one, color:yellow, val:2.0, animation:damage_one_yellow04]",3

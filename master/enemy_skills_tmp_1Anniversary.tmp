@@ -1,0 +1,5 @@
+112260010,"[effect:crash_condition, target:unit_all, val:50, turn:-1, ],[effect:hungup, target:unit_all, turn:-1, rate:1, ],[effect:fix_speed, target:myself, turn:1]",3
+112260015,"[effect:crash_condition, target:unit_all, val:50, turn:-1, ],[effect:hungup, target:unit_all, turn:-1, rate:1, ],[effect:ability_lock, target:unit_all, turn:-1]",0
+112260020,"[effect:enemy_message, val1:1.5, val2:2],[effect:fix_speed, target:myself, turn:1],[effect:force_change_block, new_block:block_heart, target:block_all, color:block_heart, count:0, val:0.0]",3
+112260030,"[effect:enemy_message, val1:1.5, val2:2],[effect:fix_speed, target:myself, turn:1]",3
+112260050,"[effect:enemy_message, val1:1.5, val2:2],[effect:suicide, val:1, dead_type:escape, target:myself],[effect:fix_speed, target:myself, turn:1]",3

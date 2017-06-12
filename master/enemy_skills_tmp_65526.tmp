@@ -1,0 +1,70 @@
+65526000,"[effect:spread, val:0.4]",1
+65526001,"[effect:nothing]",1
+65526002,"[effect:nothing]",1
+65526003,"[effect:nothing]",1
+65526004,"[effect:nothing]",1
+65526005,"[effect:critical, val:2, animation:enemy_critical]",1
+65526006,"[effect:nothing]",1
+65526007,"[effect:nothing]",1
+65526008,"[effect:nothing]",1
+65526009,"[effect:nothing]",1
+65526010,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:time_bomb, ignore05:color_break, count:5, val:0, animation:change_block]",1
+65526011,"[effect:nothing]",1
+65526012,"[effect:nothing]",1
+65526013,"[effect:nothing]",1
+65526014,"[effect:nothing]",1
+65526015,"[effect:break_attack, target:unit_one, val:0.2, lowest_val:0, count:-1, color:yellow, block_color:block_heart, block01:block_all, ignore01:crack_bomb]",1
+65526016,"[effect:nothing]",1
+65526017,"[effect:nothing]",1
+65526018,"[effect:nothing]",1
+65526019,"[effect:nothing]",1
+65526020,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",1
+65526021,"[effect:rush, count:5, val:0.1]",1
+65526022,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:time_bomb, ignore05:color_break, count:5, val:0, animation:change_block]",1
+65526023,"[effect:break_attack, target:unit_one, val:0.2, lowest_val:0, count:-1, color:yellow, block_color:block_heart, block01:block_all, ignore01:crack_bomb, ignore02:color_break]",1
+65526024,"[effect:nothing]",1
+65526025,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",1
+65526026,"[effect:rush, count:5, val:0.1]",1
+65526027,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:time_bomb, ignore05:color_break, count:5, val:0, animation:change_block]",1
+65526028,"[effect:force_change_block, new_block:jammer, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:time_bomb, ignore05:color_break, count:5, val:0, animation:change_block]",1
+65526029,"[effect:break_attack, target:unit_one, val:0.2, lowest_val:0, count:-1, color:yellow, block_color:block_heart, block01:block_all, block02:jammer, ignore01:crack_bomb, ignore02:color_break]",1
+65526030,"[effect:change_panel_ratio, turn:5, block_type:green, val:0.05, animation:block_incidence04]",1
+65526031,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:time_bomb, ignore05:color_break, count:5, val:0, animation:change_block]",1
+65526032,"[effect:freq_turn, target:enemy_blue, turn:-1, val:1, animation:enemy_freq_turn]",1
+65526033,"[effect:rush, count:5, val:0.1]",1
+65526034,"[effect:nothing]",1
+65526035,"[effect:break_attack, target:unit_one, val:0.2, lowest_val:0, count:-1, color:blue, block_color:block_heart, block01:block_all, ignore01:crack_bomb, ignore02:color_break]",1
+65526036,"[effect:enhance_enemy, target:enemy_green, turn:-1, status:attack, val:0.5, calc:mul, animation:enemy_enhance_attack]",1
+65526037,"[effect:nothing]",1
+65526038,"[effect:nothing]",1
+65526039,"[effect:nothing]",1
+65526040,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:drop_block, block_type:jammer, block_color:block_green, color:block_green, val:0, rate:1, turn:-1, animation:block_incidence04]",1
+65526041,"[effect:spread, val:0.4]",1
+65526042,"[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.3, val2:0.1],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.3, val2:0.1],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.3, val2:0.1],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.3, val2:0.1]",1
+65526043,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:time_bomb, ignore05:color_break, count:5, val:0, animation:change_block]",1
+65526044,"[effect:break_attack, target:unit_one, val:0.2, lowest_val:0, count:-1, color:yellow, block_color:block_heart, block01:block_all, block02:jammer, ignore01:crack_bomb, ignore02:color_break]",1
+65526045,"[effect:nothing]",1
+65526046,"[effect:nothing]",1
+65526047,"[effect:nothing]",1
+65526048,"[effect:nothing]",1
+65526049,"[effect:nothing]",1
+65526050,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:drop_block, block_type:normal, block_color:block_heart, color:block_green, val:0, rate:1, turn:-1, animation:block_incidence04]",1
+65526051,"[effect:spread, val:0.4]",1
+65526052,"[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.3, val2:0.1],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.3, val2:0.1],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.3, val2:0.1],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.3, val2:0.1]",1
+65526053,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:time_bomb, ignore05:color_break, count:5, val:0, animation:change_block]",1
+65526054,"[effect:break_attack, target:unit_one, val:0.2, lowest_val:0, count:-1, color:yellow, block_color:block_heart, block01:block_all, ignore01:crack_bomb, ignore02:color_break]",1
+65526055,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:time_bomb, ignore05:block_heart, count:-1, val:0, animation:change_block]",1
+65526056,"[effect:break_attack, target:unit_one, val:0.2, lowest_val:0, count:-1, color:yellow, block_color:block_heart, block01:block_all, ignore01:crack_bomb, ignore02:color_break]",1
+65526057,"[effect:nothing]",1
+65526058,"[effect:nothing]",1
+65526059,"[effect:nothing]",1
+65526060,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:drop_block, block_type:normal, block_color:block_heart, color:block_green, val:0, rate:1, turn:-1, animation:block_incidence04]",1
+65526061,"[effect:spread, val:0.4]",1
+65526062,"[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.3, val2:0.1],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.3, val2:0.1],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.3, val2:0.1],[effect:damage_anti_tribe, target:unit_one, tribe:samurai, val1:0.3, val2:0.1]",1
+65526063,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:time_bomb, ignore05:color_break, count:5, val:0, animation:change_block]",1
+65526064,"[effect:break_attack, target:unit_one, val:0.2, lowest_val:0, count:-1, color:yellow, block_color:block_heart, block01:block_all, ignore01:crack_bomb, ignore02:color_break]",1
+65526065,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:damage, ignore04:time_bomb, ignore05:block_heart, count:-1, val:0, animation:change_block]",1
+65526066,"[effect:break_attack, target:unit_one, val:0.2, lowest_val:0, count:-1, color:yellow, block_color:block_heart, block01:block_all, ignore01:crack_bomb, ignore02:color_break]",1
+65526067,"[effect:nothing]",1
+65526068,"[effect:nothing]",1
+65526069,"[effect:nothing]",1

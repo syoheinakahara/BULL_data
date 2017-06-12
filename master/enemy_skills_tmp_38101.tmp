@@ -1,0 +1,30 @@
+38101001,"[effect:enemy_message, val1:1.2, val2:2.2],[effect:force_change_block, new_block:time_bomb, target:block_green, color:block_green, count:2, val:0.1, animation:change_block]",1
+38101002,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.1, animation:enemy_critical]",1
+38101003,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:3, val:0.4]",1
+38101004,"[effect:enemy_message, val1:1.2, val2:3.9],[effect:degrade_unit, target:unit_all, turn:1, status:action, val:1, calc:add, animation:enemy_tap_down]",1
+38101005,"[effect:enemy_message, val1:1.2, val2:4.5],[effect:degrade_unit, target:unit_all, turn:1, status:action, val:1, calc:add, animation:enemy_tap_down]",1
+38101006,"[effect:enemy_message, val1:1.2, val2:4.5],[effect:degrade_unit, target:unit_all, turn:1, status:action, val:1, calc:add, animation:enemy_tap_down]",1
+38101007,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.2, animation:enemy_critical]",1
+38101008,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:force_change_block, new_block:jammer, target:block_green, count:2, val:0, animation:change_block]",1
+38101009,"[effect:enemy_message, val1:1.2, val2:2.3]",1
+38101010,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack, target:unit_all, val:0.02, lowest_val:800, count:-1, block01:jammer]",1
+38101011,"[effect:enemy_message, val1:1.2, val2:1.7],[effect:rush, count:1, val:1],[effect:force_change_block, new_block:block_blue, target:block_yellow, count:0, val:0, animation:change_block]",1
+38101012,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",1
+38101013,"[effect:enemy_message, val1:1.8, val2:0.0]",1
+38101014,"[effect:enemy_message, val1:1.3, val2:2.7]",1
+38101015,"[effect:enemy_message, val1:1.6, val2:2.9]",1
+38101016,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.25]",1
+38101017,"[effect:enemy_message, val1:1.2, val2:2.2],[effect:force_change_block, new_block:time_bomb, target:block_red, color:block_red, count:4, val:0.15, animation:change_block]",1
+38101018,"[effect:enemy_message, val1:1.5, val2:2.6],[effect:rush, count:1, val:1],[effect:degrade_unit, target:unit_all, turn:3, status:action, val:1, calc:add, animation:enemy_tap_down]",1
+38101019,"[effect:enemy_message, val1:1.4, val2:1.9],[effect:rush, count:3, val:0.4],[effect:force_change_block, new_block:block_red, target:block_green, count:0, val:0,  animation:change_block]",1
+38101020,"[effect:enemy_message, val1:2.5, val2:0.0]",1
+38101021,"[effect:enemy_message, val1:2.3, val2:0.0]",1
+38101022,"[effect:enemy_message, val1:1.7, val2:1.6]",1
+38101023,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:3, val:0.4]",1
+38101024,"[effect:enemy_message, val1:1.2, val2:2.2],[effect:force_change_block, new_block:time_bomb, target:block_red, color:block_red, count:6, val:0.1, min_time_count:2, max_time_count:3, animation:change_block]",1
+38101025,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:dark, target:unit_all, turn:2, animation:enemy_dark]",1
+38101026,"[effect:enemy_message, val1:2.1, val2:2.6],[effect:rush, count:1, val:1],[effect:degrade_unit, target:unit_all, turn:5, status:action, val:1, calc:add, animation:enemy_tap_down]",1
+38101027,"[effect:enemy_message, val1:1.8, val2:2.1],[effect:rush, count:4, val:0.3],[effect:force_change_block, new_block:block_heart, target:block_yellow, count:0, val:0, animation:change_block]",1
+38101028,"[effect:enemy_message, val1:1.7, val2:2.2]",1
+38101029,"[effect:enemy_message, val1:2.5, val2:2.3]",1
+38101030,"[effect:enemy_message, val1:2.0, val2:2.7]",1

@@ -1,0 +1,15 @@
+character_type_id,language,name
+none,ja,タイプなし
+attack,ja,攻撃タイプ
+balance,ja,バランスタイプ
+hp,ja,体力タイプ
+technical,ja,テクニカルタイプ
+heal,ja,回復タイプ
+exp,ja,強化素材タイプ
+evolution,ja,覚醒素材タイプ
+coin,ja,コインタイプ
+limitbreak,ja,限界突破素材
+skilllevel,ja,スキルレベル素材
+dr,ja,デュラララ!!
+ra,ja,ラグランジュチャレンジ
+ra002,ja,ユークリッドチャレンジ

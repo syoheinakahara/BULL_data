@@ -1,0 +1,36 @@
+11227000,"[effect:ability_lock, target:unit_all, turn:-1][effect:hungup, target:unit_all, turn:-1, rate:1][effect:enemy_message, val1:1.8, val2:2.5][effect:fix_speed, target:myself, turn:1][effect:change_panel_ratio, turn:3, block_type:heal, val:0]",3
+11227001,"[effect:enemy_message, val1:1.8, val2:2.2][effect:fix_speed, target:myself, turn:2]",3
+11227002,"[effect:enemy_message, val1:2.5, val2:3][effect:suicide, val:1, dead_type:escape, target:myself]",3
+11227003,"[effect:enemy_message, val1:2.5, val2:3][effect:suicide, val:1, dead_type:escape, target:myself]",3
+11227004,"[effect:enemy_message, val1:2.5, val2:3][effect:suicide, val:1, dead_type:escape, target:myself]",3
+11227005,"[effect:enemy_message, val1:2.5, val2:3][effect:suicide, val:1, dead_type:escape, target:myself]",3
+11227100,"[effect:enemy_message, val1:1.8, val2:2.5][effect:fix_speed, target:myself, turn:1][effect:force_change_block, new_block:block_heart, target:block_all, ignore01:block_heart, count:3, val:0]",3
+11227101,"[effect:enemy_message, val1:1.8, val2:2.5]",3
+11227102,"[effect:enemy_message, val1:1.8, val2:2.5][effect:suicide, val:1, dead_type:escape, target:myself]",3
+11227200,"[effect:enemy_message, val1:1.8, val2:2.5][effect:fix_speed, target:myself, turn:1][effect:fix_speed, target:enemy_red, turn:1]",3
+11227201,"[effect:enemy_message, val1:2.2, val2:2]",3
+11227202,"[effect:enemy_message, val1:0, val2:0][effect:suicide, val:1, dead_type:escape, target:myself]",3
+11227203,"[effect:fix_speed, target:myself, turn:2]",3
+11227300,"[effect:fix_speed, target:myself, turn:1][effect:force_change_block, new_block:block_heart, target:block_all, ignore01:block_heart, count:3, val:0]",3
+11227301,"[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:block_heart, count:5, val:0]",3
+11227302,"[effect:enemy_message, val1:2.5, val2:2.2][effect:force_change_block, new_block:block_heart, target:block_all, ignore01:block_heart, count:10, val:0][effect:suicide, val:1, dead_type:escape, target:enemy_blue]",3
+11227303,"[effect:nothing]",3
+11227400,"[effect:fix_speed, target:myself, turn:1][effect:change_panel_ratio, turn:1, block_type:heal, val:0][effect:force_change_block, new_block:time_bomb, target:block_heart, color:block_heart, count:0, val:0.03, min_time_count:1, max_time_count:1]",3
+11227401,"[effect:enemy_message, val1:2.8, val2:1.8][effect:suicide, val:1, dead_type:suicide, target:enemy_all, animation:enemy_suicide]",3
+11227700,"[effect:enemy_message, val1:1.8, val2:2.5][effect:fix_speed, target:enemy_all, turn:1]",3
+11227701,"[effect:enemy_message, val1:1.8, val2:2.5][effect:suicide, val:1, dead_type:escape, target:myself]",3
+11227800,"[effect:enemy_message, val1:1.8, val2:2.5]",3
+11227801,"[effect:enemy_message, val1:1.8, val2:0][effect:suicide, val:1, dead_type:escape, target:myself]",3
+11227500,"[effect:enemy_message, val1:1.8, val2:2.5][effect:fix_speed, target:myself, turn:1][effect:change_panel_ratio, turn:-1, block_type:heal, val:0.2][effect:force_change_block, new_block:block_heart, target:block_all, ignore01:block_heart, count:3, val:0]",3
+11227501,"[effect:enemy_message, val1:2.2, val2:2][effect:force_change_block, new_block:block_heart, target:block_all, ignore01:block_heart, count:3, val:0]",3
+11227502,"[effect:fix_speed, target:myself, turn:1][effect:force_change_block, new_block:block_heart, target:block_all, ignore01:block_heart, count:3, val:0]",3
+11227503,"[effect:enemy_message, val1:3, val2:2][effect:fix_speed, target:myself, turn:1][effect:force_change_block, new_block:crack_bomb, target:block_heart, color:block_red, count:0, val:0][effect:degrade_unit, target:unit_all, turn:1, status:action, val:2, calc:add][effect:suicide, val:0.8, dead_type:escape, target:myself]",3
+11227504,"[effect:enemy_message, val1:1.8, val2:0][effect:suicide, val:1, dead_type:escape, target:myself]",3
+11227505,"[effect:enemy_message, val1:1.8, val2:2.2][effect:suicide, val:1, dead_type:escape, target:myself]",3
+11227600,"[effect:ability_lock, target:unit_all, turn:-1][effect:hungup, target:unit_all, turn:-1, rate:1][effect:enemy_message, val1:1.8, val2:2][effect:fix_speed, target:myself, turn:1][effect:force_change_block, new_block:block_heart, target:block_all, ignore01:block_heart, count:3, val:0][effect:change_panel_ratio, turn:-1, block_type:heal, val:1][effect:change_panel_ratio, turn:-1, block_type:red, val:0][effect:change_panel_ratio, turn:-1, block_type:blue, val:0][effect:change_panel_ratio, turn:-1, block_type:yellow, val:0][effect:change_panel_ratio, turn:-1, block_type:green, val:0]",3
+11227601,"[effect:enemy_message, val1:1.8, val2:1.8][effect:force_change_block, new_block:block_heart, target:block_all, ignore01:block_heart, count:3, val:0]",3
+11227602,"[effect:enemy_message, val1:0, val2:0][effect:suicide, val:1, dead_type:escape, target:myself]",3
+11227603,"[effect:enemy_message, val1:2.8, val2:1.8][effect:force_change_block, new_block:block_heart, target:block_all, ignore01:block_heart, count:3, val:0][effect:fix_speed, target:myself, turn:1]",3
+11227604,"[effect:enemy_message, val1:0, val2:0][effect:suicide, val:1, dead_type:escape, target:myself]",3
+11227605,"[effect:enemy_message, val1:2, val2:2.5][effect:fix_speed, target:myself, turn:1][effect:suicide, val:0.75, dead_type:escape, target:myself][effect:enemy_message, val1:2.4, val2:0][effect:force_change_block, new_block:crack_bomb, color:block_heart, target:block_heart, count:0, val:0][effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crack_bomb, count:0, val:0][effect:degrade_unit, target:unit_all, turn:1, status:action, val:2, calc:add][effect:change_panel_ratio, turn:-1, block_type:heal, val:0][effect:change_panel_ratio, turn:-1, block_type:red, val:0.25][effect:change_panel_ratio, turn:-1, block_type:blue, val:0.25][effect:change_panel_ratio, turn:-1, block_type:yellow, val:0.25][effect:change_panel_ratio, turn:-1, block_type:green, val:0.25]",3
+11227606,"[effect:enemy_message, val1:2, val2:0][effect:suicide, val:1, dead_type:escape, target:myself][effect:force_change_block, new_block:block_heart, target:block_all, count:0, val:0]",3

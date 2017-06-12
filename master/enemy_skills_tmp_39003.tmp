@@ -1,0 +1,28 @@
+39003001,"[effect:heal, target:enemy_all, val:0.2, animation:enemy_heal]",3
+39003002,"[effect:freq_turn, target:enemy_all, turn:3, val:1, animation:enemy_freq_turn]",3
+39003003,"[effect:spread, val:0.3]",3
+39003004,"[effect:heal, target:enemy_all, val:0.4, animation:enemy_heal]",3
+39003005,"[effect:spread, val:0.36]",3
+39003006,"[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:0.2, animation:enemy_enhance_attack]",3
+39003007,"[effect:critical, val:1.3]",3
+39003008,"[effect:spread, val:0.3]",3
+39003009,"[effect:break_attack, val:0.06, lowest_val:0.2, count:-1, block:crash, target:unit_all]",3
+39003010,"[effect:rush, count:2, val:0.5],[effect:hungup, target:unit_one, turn:2, rate:1, animation:hungup01]",3
+39003011,"[effect:spread, val:0.13],[effect:panel_freeze, target:block_blue, count:-1]",3
+39003012,"[effect:spread, val:0.15],[effect:spread, val:0.15]",3
+39003013,"[effect:damage_fix_absolute, target:enemy_all, val:2222]",3
+39003014,"[effect:degrade_unit, target:unit_all, turn:3, status:action, val:1, calc:add, animation:enemy_tap_down]",3
+39003015,"[effect:critical, val:1],[effect:heal, target:enemy_one, val:0.2, animation:enemy_heal]",3
+39003016,"[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+39003017,"[effect:rush, count:3, val:0.4]",3
+39003018,"[effect:change_panel_ratio, turn:-1, block_type:blue, val:0.8, animation:block_incidence04]",3
+39003019,"[effect:change_panel_ratio, turn:-1, block_type:blue, val:0.8, animation:block_incidence04]",3
+39003020,"[effect:break_attack, val:0.044, lowest_val:0.2, count:8, block:block_blue, target:unit_all]",3
+39003021,"[effect:change_block, new_block:block_blue, target:block_yellow, count:8, val:0, animation:change_block],[effect:critical, val:1]",3
+39003022,"[effect:rush, count:4, val:0.3]",3
+39003023,"[effect:dis_panel, target:block_blue, turn:-1, animation:enemy_dis_blue],[effect:suicide, val:1, dead_type:escape, target:enemy_animal]",3
+39003024,"[effect:dis_panel, target:block_blue, turn:-1, animation:enemy_dis_blue],[effect:suicide, val:1, dead_type:escape, target:enemy_animal]",3
+39003025,"[effect:spread, val:0.3],[effect:hungup, target:unit_all, turn:4, rate:1, animation:hungup01]",3
+39003026,"[effect:enemy_message, val1:4, val2:4, dead_type:suicide]",3
+39003027,"[effect:damage_anti_tribe, target:unit_one, tribe:machine, val1:2, val2:1]",3
+39003028,"[effect:rush, count:2, val:0.6]",3

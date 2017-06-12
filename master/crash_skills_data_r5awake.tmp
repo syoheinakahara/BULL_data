@@ -1,0 +1,4 @@
+560,"[effect:damage_anti_color, target:enemy_one, color:green, val1:3.37, val2:1.68, animation:damage_one_red05]",3
+561,"[effect:enhance_unit, target:unit_green, turn:2, status:defense, val:72, calc:add,animation:enhance_unit_all_defence02_unit01],[effect:damage_anti_color, target:enemy_one, color:yellow, val1:3.37, val2:1.68, animation:damage_one_green05]",3
+562,"[effect:damage_anti_color, target:enemy_one, color:red, val1:3.37, val2:1.68, animation:damage_one_blue05]",3
+563,"[effect:damage_anti_color, target:enemy_one, color:blue, val1:3.37, val2:1.68, animation:damage_one_yellow05]",3

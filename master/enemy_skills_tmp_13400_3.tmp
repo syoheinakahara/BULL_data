@@ -1,0 +1,8 @@
+13400060,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:2, val:0.5]",3
+13400061,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:time_bomb, ignore04:jammer, ignore05:color_break, ignore06:damage, ignore07:magnet, count:3, val:0, animation:change_block]",3
+13400062,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:force_change_block, new_block:block_heart, target:jammer, count:0, val:0, animation:change_block]",3
+13400063,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.2]",3
+13400064,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:time_bomb, ignore04:jammer, ignore05:color_break, ignore06:damage, ignore07:magnet, count:5, val:0, animation:change_block]",3
+13400067,"[effect:enemy_message, val1:1.6, val2:1.2]",3
+13400065,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack_fix, target:unit_all, val:100, lowest_val:850, count:-1, color:red, block01:jammer]",3
+13400066,"[effect:enemy_message, val1:1.2, val2:1.9]",3

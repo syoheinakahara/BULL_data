@@ -1,0 +1,9 @@
+966,"[effect:damage_anti_tribe, target:enemy_all, tribe:unknown, val1:2.625, val2:1.125, animation:damage_all_green04]",3
+967,"[effect:damage_anti_tribe, target:enemy_all, tribe:samurai, val1:2.625, val2:1.125, animation:damage_all_yellow04]",3
+963,"[effect:damage, target:enemy_one, color:yellow, val:1.35, animation:damage_one_yellow03],[effect:damage, target:enemy_one, color:yellow, val:1.35, animation:damage_one_yellow03]",3
+968,"[effect:damage_anti_color, target:enemy_one, color:red, val1:3.375, val2:1.2, animation:damage_one_blue04]",3
+564,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:3.75, val2:2, animation:damage_one_red04],[effect:enhance_unit, target:unit_all, turn:1, status:heal, val:0.3, calc:mul, animation:enhance_unit_all_heal02]",1
+565,"[effect:damage, target:enemy_all, color:green, val:1.125, animation:damage_all_green04]",1
+971,"[effect:damage, target:enemy_one, color:yellow, val:2.25, animation:damage_one_yellow04]",3
+969,"[effect:damage, target:enemy_one, color:red, val:2.25, animation:damage_one_red04]",3
+782,"[effect:damage, target:enemy_one, color:yellow, val:1.5, animation:damage_one_yellow04],[effect:enhance_unit, target:myself, turn:10, status:attack, val:0.002, calc:mul, animation:enhance_unit_all_attack01_unit01]",3

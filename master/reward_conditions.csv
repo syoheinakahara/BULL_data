@@ -1,0 +1,3 @@
+reward_condition_id,source,reward_type,interval_hour
+1,adstir,home,4
+2,adstir,quest,24

@@ -1,0 +1,32 @@
+60001100,"[effect:fix_speed, target:enemy_blue, turn:1],[effect:fix_speed, target:enemy_red, turn:2],[effect:fix_speed, target:enemy_yellow, turn:3],[effect:fix_speed, target:enemy_green, turn:4]",3
+60001101,"[effect:critical, val:1.0, animation:enemy_critical],[effect:fix_speed,target:enemy_human,turn:2],[effect:fix_speed,target:enemy_animal,turn:3]",3
+60001102,"[effect:rush,count:3,val:0.5]",3
+60001103,"[effect:fix_speed,target:enemy_green,turn:5]",3
+60001104,"[effect:kamikaze, val:200.0, animation:enemy_kamikaze]",3
+60001105,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance]",3
+60001106,"[effect:rush, count:2, val:0.7]",3
+60001107,"[effect:rush, count:1, val:0.8],[effect:change_panel_ratio, turn:2, block_type:green, val:0, animation:block_incidence04]",3
+60001108,"[effect:break_attack_fix, val:800, lowest_val:800, count:-1, block:block_green, target:unit_all]",3
+60001109,"[effect:critical,val:0.8,animation:enemy_critical],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance]",3
+60001110,"[effect:rush, count:5, val:0.3]",3
+60001111,"[effect:heal, target:enemy_one, val:0.1, animation:enemy_heal][effect:change_block, new_block:block_red, target:block_heart, count:0, val:0, animation:change_block],[effect:rush, count:1, val:1]",3
+60001112,"[effect:rush, count:3, val:0.4]",3
+60001113,"[effect:rush, count:3, val:0.5]",3
+60001114,"[effect:rush, count:3, val:0.6]",3
+60001115,"[effect:fix_speed,target:myself,turn:5]",3
+60001116,"[effect:critical, val:1.6, animation:enemy_critical]",3
+60001117,"[effect:fix_speed,target:myself,turn:1],[effect:degrade_unit, target:unit_all, turn:-1, status:heal, val:1.0, calc:mul, animation:degrade_unit_all_heal]",3
+60001118,"[effect:dis_panel, target:block_red, turn:1, animation:enemy_dis_red]",3
+60001119,"[effect:dis_panel, target:block_green, turn:1, animation:enemy_dis_green]",3
+60001120,"[effect:dis_panel, target:block_blue, turn:1, animation:enemy_dis_blue]",3
+60001121,"[effect:dis_panel, target:block_yellow, turn:1, animation:enemy_dis_yellow]",3
+60001122,"[effect:freq_turn, target:enemy_green, turn:1, val:1, animation:enemy_freq_turn]",3
+60001123,"[effect:fix_speed,target:myself,turn:1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance],[effect:hungup, target:unit_all, turn:1, rate:1, animation:hungup01],[effect:force_change_block, new_block:jammer, target:block_all, count:0, val:0, animation:change_block],[effect:enhance_fever, val:1000.0, animation:fevergauge_up04]",3
+60001124,"[effect:critical, val:2.0, animation:enemy_critical]",3
+60001125,"[effect:fix_speed,target:myself,turn:1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:virus, count:-1],[effect:tolerance, target:myself, turn:-1, tolerance_effect:sleep, count:-1, animation:enemy_tolerance]",3
+60001126,"[effect:rush, count:15, val:0.1]",3
+60001127,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.75, val2:0.25]",3
+60001128,"[effect:dark, turn:-1,target:unit_all,animation:enemy_dark]",3
+60001129,"[effect:cure, bad_status:dark, animation:cure01],[effect:fix_speed,target:myself,turn:1],[effect:time_limit,count:5,turn:-1,animation:enemy_time_limit]",3
+60001130,"[effect:rush, count:15, val:0.12]",3
+60001131,"[effect:degrade_fever, val:1000, animation:fevergauge_down],[effect:spread, val:0.5]",3

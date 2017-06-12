@@ -1,0 +1,60 @@
+48009100,"[effect:critical, val:1.2, animation:enemy_critical]",1
+48009101,"[effect:nothing]",1
+48009102,"[effect:nothing]",1
+48009103,"[effect:nothing]",1
+48009104,"[effect:nothing]",1
+48009105,"[effect:degrade_unit, target:unit_one, turn:4, status:heal, val:0.5, calc:mul, animation:degrade_unit_all_heal]",1
+48009106,"[effect:critical, val:1.0, animation:enemy_critical],[effect:heal, target:myself, val:0.2, animation:enemy_heal]",1
+48009107,"[effect:nothing]",1
+48009108,"[effect:nothing]",1
+48009109,"[effect:nothing]",1
+48009110,"[effect:crash_condition, target:unit_all, turn:-1, val:4, animation:enemy_crash_extend]",1
+48009111,"[effect:spread, val:0.5]",1
+48009112,"[effect:damage_abnormal, target:unit_one, val:1.2, status:sleep, turn:2, rate:1, animation:sleep01],[effect:damage_abnormal, target:unit_one, val:1.2, status:sleep, turn:2, rate:1, animation:sleep01]",1
+48009113,"[effect:nothing]",1
+48009114,"[effect:nothing]",1
+48009115,"[effect:crash_condition, target:unit_all, turn:-1, val:4, animation:enemy_crash_extend]",1
+48009116,"[effect:spread, val:0.5]",1
+48009117,"[effect:damage_abnormal, target:unit_one, val:1.2, status:sleep, turn:2, rate:1, animation:sleep01],[effect:damage_abnormal, target:unit_one, val:1.2, status:sleep, turn:2, rate:1, animation:sleep01]",1
+48009118,"[effect:nothing]",1
+48009119,"[effect:nothing]",1
+48009120,"[effect:spread, val:0.4]",1
+48009121,"[effect:dis_heart, turn:-1, animation:enemy_dis_heart]",1
+48009122,"[effect:nothing]",1
+48009123,"[effect:nothing]",1
+48009124,"[effect:nothing]",1
+48009125,"[effect:dis_heart, turn:-1, animation:enemy_dis_heart]",1
+48009126,"[effect:damage_abnormal, target:unit_one, val:1.2, status:sleep, turn:2, rate:1, animation:sleep01]",1
+48009127,"[effect:nothing]",1
+48009128,"[effect:nothing]",1
+48009129,"[effect:nothing]",1
+48009130,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:crash_condition, target:unit_all, turn:-1, val:4, animation:enemy_crash_extend]",1
+48009131,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:crash_condition, target:unit_all, turn:-1, val:4, animation:enemy_crash_extend]",1
+48009132,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.6, val2:0.4]",1
+48009133,"[effect:damage_gravity, val:0.4, animation:fevergauge_down]",1
+48009134,"[effect:nothing]",1
+48009135,"[effect:nothing]",1
+48009136,"[effect:nothing]",1
+48009137,"[effect:nothing]",1
+48009138,"[effect:nothing]",1
+48009139,"[effect:nothing]",1
+48009140,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:dis_heart, turn:-1, animation:enemy_dis_heart]",1
+48009141,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.6, val2:0.4]",1
+48009142,"[effect:damage_gravity, val:0.4, animation:fevergauge_down]",1
+48009143,"[effect:heal, target:myself, val:0.2, animation:enemy_heal],[effect:critical, val:1.0, animation:enemy_critical]",1
+48009144,"[effect:nothing]",1
+48009145,"[effect:nothing]",1
+48009146,"[effect:nothing]",1
+48009147,"[effect:nothing]",1
+48009148,"[effect:nothing]",1
+48009149,"[effect:nothing]",1
+48009150,"[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:crash_condition, target:unit_all, turn:-1, val:4, animation:enemy_crash_extend]",1
+48009151,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.6, val2:0.4]",1
+48009152,"[effect:damage_gravity, val:0.4, animation:fevergauge_down]",1
+48009153,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.5, calc:mul, animation:enemy_enhance_attack],[effect:critical, val:1.0, animation:enemy_critical]",1
+48009154,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.0, calc:mul, animation:enemy_enhance_attack],[effect:critical, val:1.0, animation:enemy_critical]",1
+48009155,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.5, calc:mul, animation:enemy_enhance_attack],[effect:critical, val:1.0, animation:enemy_critical]",1
+48009156,"[effect:enemy_message, val1:2, val2:2.4]",1
+48009157,"[effect:enemy_message, val1:2, val2:2.4]",1
+48009158,"[effect:enemy_message, val1:2, val2:2.4]",1
+48009159,"[effect:nothing]",1

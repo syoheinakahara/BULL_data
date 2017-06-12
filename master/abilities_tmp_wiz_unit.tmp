@@ -1,0 +1,1 @@
+88801,"{""ver"":""1.9.0"",""type"":""ability"",""effects"":""[effect:enhance_unit, target:unit_red, turn:-1, status:attack, val:400, calc:add, animation:enhance_unit_all_attack04]"",""conditions"":""[condition:panel_total,count:10,type:crack_bomb]"",""priority"":0}",3

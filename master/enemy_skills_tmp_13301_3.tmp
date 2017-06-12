@@ -1,0 +1,15 @@
+13301246,"[effect:tolerance, target:enemy_all, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:enemy_message, val1:1.4, val2:2]",3
+13301247,"[effect:spread, val:0.18],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301248,"[effect:spread, val:0.28],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301249,"[effect:enhance_enemy, target:myself, turn:5, status:attack, val:0.35, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301250,"[effect:spread, val:0.18],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301251,"[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:color_break, ignore02:crash, ignore03:crack_bomb, ignore04:time_bomb, color:block_green, count:6, val:0.2, min_time_count:3, max_time_count:4, animation:change_block],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301322,"[effect:rush, count:1, val:1.6],[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:color_break, ignore02:crash, ignore03:crack_bomb, ignore04:jammer, count:6, val:0, animation:change_block],[effect:enemy_message, val1:1.4, val2:2]",3
+13301323,"[effect:break_attack_fix, target:unit_all, val:170, lowest_val:200, count:-1, color:green, block_color:block_heart, block01:block_heart],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301324,"[effect:rush, count:1, val:1],[effect:force_change_block, new_block:jammer, target:block_all, ignore01:color_break, ignore02:crash, ignore03:crack_bomb, ignore04:jammer, count:3, val:0, animation:change_block],[effect:enemy_message, val1:1.4, val2:2.2]",3
+13301325,"[effect:rush, count:1, val:1.15],[effect:change_panel_ratio, turn:3, block_type:heal, val:0, animation:block_incidence04],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301326,"[effect:change_panel_ratio, turn:-1, block_type:yellow, val:0.38, animation:block_incidence04],[effect:dis_panel, target:block_yellow, turn:-1, animation:enemy_dis_yellow],[effect:enemy_message, val1:1.4, val2:2.2]",3
+13301327,"[effect:rush, count:1, val:1.3],[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:color_break, ignore02:crash, ignore03:crack_bomb, ignore04:jammer, count:5, val:0, animation:change_block],[effect:enemy_message, val1:1.4, val2:2]",3
+13301328,"[effect:break_attack_fix, target:unit_all, val:200, lowest_val:200, count:-1, color:red, block_color:block_heart, block01:block_heart],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301329,"[effect:rush, count:1, val:0.9],[effect:degrade_unit, target:unit_all, turn:3, status:attack, val:0.5, calc:mul],[effect:enemy_message, val1:1.4, val2:2.3]",3
+13301330,"[effect:spread, val:0.15],[effect:virus, target:unit_all, turn:4, rate:1, val:0.13, animation:enemy_virus],[effect:enemy_message, val1:1.4, val2:1.8]",3

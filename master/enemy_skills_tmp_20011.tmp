@@ -1,0 +1,8 @@
+55006,"[effect:dark, turn:1,target:unit_all,animation:enemy_dark],[effect:spread, val:0.35, animation:enemy_spread]",3
+220031,"[effect:rush, count:3, val:0.5]",3
+230031,"[effect:spread, val:0.4, animation:enemy_spread]",3
+410030,"[effect:freq_turn, target:myself, turn:-1, val:2, animation:enemy_freq_turn],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.0, animation:enemy_enhance_enemy]",3
+410029,"[effect:freq_turn, target:myself, turn:-1, val:3, animation:enemy_freq_turn],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.5, animation:enemy_enhance_enemy]",3
+23032,"[effect:spread, val:0.55, animation:enemy_spread],[effect:heal, target:myself, val:0.1, animation:enemy_heal]",3
+320016,"[effect:virus, turn:10, rate:1.0, val:0.08, animation:enemy_virus],[effect:rush, count:1, val:0.25]",3
+350009,"[effect:degrade_unit, target:unit_all, turn:3, status:heal, val:0.5, calc:mul, animation:degrade_unit_all_heal],[effect:rush, count:1, val:0.5]",3

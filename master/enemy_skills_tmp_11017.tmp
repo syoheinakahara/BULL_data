@@ -1,0 +1,3 @@
+11017001,"[effect:nothing]",3
+11017002,"[effect:critical, val:1.5.0, animation:enemy_critical]",3
+11017003,"[effect:dis_heart, turn:7, rate:1.0, animation:enemy_dis_heart]",3

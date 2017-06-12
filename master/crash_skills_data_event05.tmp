@@ -1,0 +1,12 @@
+452,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:2.63, val2:0.94,  animation:damage_one_red04]",3
+453,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:3.375, val2:1.13,  animation:damage_one_red05]",3
+454,"[effect:damage, target:enemy_all, color:green, val:0.675, animation:damage_all_green04],[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green04]",3
+455,"[effect:damage, target:enemy_all, color:green, val:0.76, animation:damage_all_green04],[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green05]",3
+456,"[effect:damage_anti_tribe, target:enemy_all, tribe:human, val1:1.31, val2:0.56, animation:damage_all_blue04]",3
+457,"[effect:damage_anti_tribe, target:enemy_all, tribe:human, val1:1.31, val2:0.56, animation:damage_all_blue04]",3
+458,"[effect:damage_anti_tribe, target:enemy_one, tribe:god, val1:2.63, val2:0.94,  animation:damage_one_yellow04]",3
+459,"[effect:damage_anti_tribe, target:enemy_one, tribe:god, val1:3.375, val2:1.13,  animation:damage_one_yellow04]",3
+460,"[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green02],[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green02]",3
+461,"[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green02],[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green02]",3
+472,"[effect:damage_anti_tribe, target:enemy_one, tribe:human, val1:3.0, val2:1.5,  animation:damage_one_red04]",3
+473,"[effect:damage_anti_tribe, target:enemy_one, tribe:human, val1:3.0, val2:1.5,  animation:damage_one_red04]",3

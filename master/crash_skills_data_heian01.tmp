@@ -1,0 +1,14 @@
+1020,"[effect:damage, target:enemy_one, color:red, val:1.2, animation:damage_one_red02],[effect:enhance_unit, target:unit_red, turn:2, status:heal, val:0.015, calc:mul,animation:enhance_unit_all_heal01_unit01]",3
+1021,"[effect:damage, target:enemy_one, color:red, val:1.2, animation:damage_one_red02],[effect:enhance_unit, target:unit_red, turn:2, status:heal, val:0.015, calc:mul,animation:enhance_unit_all_heal01_unit01]",3
+1022,"[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green03],[effect:damage_fix_pierce, target:enemy_one, color:green, val:1000],",3
+1023,"[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green03],[effect:damage_fix_pierce, target:enemy_one, color:green, val:1000],",3
+1024,"[effect:damage_anti_tribe, target:enemy_one, tribe:god, val1:3.375, val2:1.6,  animation:damage_one_yellow03]",3
+1025,"[effect:damage_anti_tribe, target:enemy_one, tribe:god, val1:3.375, val2:1.6,  animation:damage_one_yellow03]",3
+1026,"[effect:damage_anti_tribe, target:enemy_one, tribe:samurai, val1:3.375, val2:1.6,  animation:damage_one_red03]",3
+1027,"[effect:damage_anti_tribe, target:enemy_one, tribe:samurai, val1:3.375, val2:1.6,  animation:damage_one_red03]",3
+1028,"[effect:damage_anti_tribe, target:enemy_one, tribe:samurai, val1:3.375, val2:1.6,  animation:damage_one_green03]",3
+1029,"[effect:damage_anti_tribe, target:enemy_one, tribe:samurai, val1:3.75, val2:1.5,  animation:damage_one_green04]",3
+1031,"[effect:damage, target:enemy_one, color:blue, val:1.5, animation:damage_one_blue04],[effect:enhance_unit, target:unit_blue, turn:1, status:attack, val:0.075, calc:mul,animation:enhance_unit_all_attack03_unit01]",3
+1032,"[effect:damage, target:enemy_one, color:blue, val:2.0, animation:damage_one_blue04],[effect:enhance_unit, target:unit_blue, turn:1, status:attack, val:0.075, calc:mul,animation:enhance_unit_all_attack03_unit01]",3
+1033,"[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal02_unit01],[effect:enhance_unit, target:unit_all, turn:2, status:heal, val:0.015, calc:mul,animation:enhance_unit_all_heal01_unit01]",3
+1034,"[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal02_unit01],[effect:enhance_unit, target:unit_all, turn:2, status:heal, val:0.015, calc:mul,animation:enhance_unit_all_heal01_unit01]",3

@@ -1,0 +1,35 @@
+525,12,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.6, calc:mul, animation:enhance_unit_all_heal02_unit01],[effect:regenerate, turn:3, val:0.405, animation:heal_unit]",3
+526,12,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.6, calc:mul, animation:enhance_unit_all_heal02_unit01],[effect:regenerate, turn:3, val:0.405, animation:heal_unit]",3
+527,11,5,2001,"[effect:special_block,val:12, count:3, animation:change_block]",3
+528,11,5,2001,"[effect:special_block,val:12, count:3, animation:change_block]",3
+529,9,5,2001,"[effect:damage, target:enemy_all, color:red, val:1.02, animation:damage_all_red01]",3
+530,9,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.1, calc:mul, animation:enhance_unit_all_attack01]",3
+531,11,5,2001,"[effect:heal_fix, val:150, animation:heal01]",3
+532,7,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:2.04, animation:damage_one_yellow01]",3
+533,7,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:attack, val:0.1, calc:mul, animation:enhance_unit_all_attack01]",3
+534,7,5,2001,"[effect:damage, target:enemy_one, color:green, val:2.04, animation:damage_one_green01]",3
+535,8,5,2001,"[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.125, calc:mul, animation:enhance_unit_all_heal01]",3
+536,7,5,2001,"[effect:damage, target:enemy_one, color:yellow, val:2.04, animation:damage_one_yellow01]",3
+537,10,5,2001,"[effect:heal_ratio, val:1.8, animation:heal03]",3
+538,8,5,2001,"[effect:reduction, target:unit_all, turn:1, color:all, val:0.5, animation:reduction_one03]",3
+539,11,5,2001,"[effect:break_enchance_unit, val:0.005, lowest_val:0.2, count :0, status:attack, turn:1, block01:jammer,block02:time_bomb, target:unit_green, calc:mul, animation:enhance_unit_all_attack04],[effect:force_change_block, new_block:crash, target:block_all, ignore01:jammer, ignore02:time_bomb, color:block_heart, count:1, val:24, animation:change_block]",3
+540,11,5,2001,"[effect:break_enchance_unit, val:0.005, lowest_val:0.2, count :0, status:attack, turn:1, block01:jammer,block02:time_bomb, target:unit_green, calc:mul, animation:enhance_unit_all_attack04],[effect:force_change_block, new_block:crash, target:block_all, ignore01:jammer, ignore02:time_bomb, color:block_heart, count:1, val:24, animation:change_block]",3
+541,13,5,2001,"[effect:change_panel_ratio, turn:1, block_type:green, val:0.8,animation:block_incidence04],[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.28, calc:mul, animation:enhance_unit_all_attack04_unit01],[effect:enhance_unit, target:unit_green, turn:3, status:defense, val:1440, calc:add, animation:enhance_unit_all_defense04_unit01]",3
+542,13,5,2001,"[effect:change_panel_ratio, turn:1, block_type:green, val:0.8,animation:block_incidence04],[effect:enhance_unit, target:unit_green, turn:3, status:attack, val:0.28, calc:mul, animation:enhance_unit_all_attack04_unit01],[effect:enhance_unit, target:unit_green, turn:3, status:defense, val:1440, calc:add, animation:enhance_unit_all_defense04_unit01]",3
+543,12,5,2001,"[effect:change_panel_ratio, turn:3, block_type:blue, val:0.05],[effect:enhance_unit, target:unit_yellow, turn:3, status:attack, val:0.175, calc:mul, animation:enhance_unit_all_attack04_unit01],,[effect:enhance_unit, target:unit_yellow, turn:3, status:heal, val:0.315, calc:mul, animation:enhance_unit_all_heal04_unit01]",3
+544,13,5,2001,"[effect:change_panel_ratio, turn:3, block_type:blue, val:0.05],[effect:enhance_unit, target:unit_yellow, turn:3, status:attack, val:0.21, calc:mul, animation:enhance_unit_all_attack04_unit01],,[effect:enhance_unit, target:unit_yellow, turn:3, status:heal, val:0.45, calc:mul, animation:enhance_unit_all_heal04_unit01]",3
+545,12,5,2001,"[effect:cure, bad_status:dis_heart, animation:cure01],[effect:heal_ratio, val:1.35, animation:heal03],[effect:change_panel_ratio, turn:3, block_type:heal, val:0.6]",3
+546,13,5,2001,"[effect:cure, bad_status:dis_heart, animation:cure01],[effect:heal_ratio, val:2.625, animation:heal03],[effect:change_panel_ratio, turn:3, block_type:heal, val:0.6]",3
+547,12,5,2001,"[effect:damage, target:enemy_one, color:red, val:8.16, animation:damage_one_red04]",3
+548,12,5,2001,"[effect:damage, target:enemy_one, color:red, val:8.16, animation:damage_one_red04]",3
+549,12,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.21, calc:mul, animation:enhance_unit_all_attack04_unit01],[effect:enhance_unit, target:unit_red, turn:3, status:defense, val:1080, calc:add, animation:enhance_unit_all_defense04_unit01],[effect:enhance_unit, target:unit_red, turn:3, status:heal, val:0.45, calc:mul, animation:enhance_unit_all_heal04_unit01]",3
+550,12,5,2001,"[effect:enhance_unit, target:unit_red, turn:3, status:attack, val:0.21, calc:mul, animation:enhance_unit_all_attack04_unit01],[effect:enhance_unit, target:unit_red, turn:3, status:defense, val:1080, calc:add, animation:enhance_unit_all_defense04_unit01],[effect:enhance_unit, target:unit_red, turn:3, status:heal, val:0.45, calc:mul, animation:enhance_unit_all_heal04_unit01]",3
+551,12,5,2001,"[effect:enhance_unit, target:unit_blue, turn:3, status:action, val:1.0, calc:mul, animation:enhance_unit_one_action01],[effect:change_block, new_block:block_blue, target:block_green, count:0, val:0, animation:change_block]",3
+552,12,5,2001,"[effect:enhance_unit, target:unit_blue, turn:3, status:action, val:1.0, calc:mul, animation:enhance_unit_one_action01],[effect:change_block, new_block:block_blue, target:block_green, count:0, val:0, animation:change_block]",3
+553,9,5,2001,"[effect:damage, target:enemy_one, color:blue, val:5.95, animation:damage_one_blue04]",3
+554,9,5,2001,"[effect:damage, target:enemy_one, color:blue, val:5.95, animation:damage_one_blue04]",3
+555,12,5,2001,"[effect:change_block, new_block:block_heart, target:block_red, count:0, val:0, animation:change_block],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.6, calc:mul, animation:enhance_unit_all_heal04]",3
+556,12,5,2001,"[effect:change_block, new_block:block_heart, target:block_red, count:0, val:0, animation:change_block],[effect:enhance_unit, target:unit_all, turn:3, status:heal, val:0.6, calc:mul, animation:enhance_unit_all_heal04]",3
+557,12,5,2001,"[effect:special_block,val:8, count:3, animation:change_block]",3
+558,12,5,2001,"[effect:special_block,val:8, count:3, animation:change_block]",3
+559,12,5,2001,"[effect:special_block,val:8, count:3, animation:change_block]",3

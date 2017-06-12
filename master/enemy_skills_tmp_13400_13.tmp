@@ -1,0 +1,35 @@
+13400700,"[effect:enemy_message, val1:1.7, val2:2.2],[effect:fix_speed, target:myself, turn:1],[effect:ability_lock, target:unit_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1]",3
+13400701,"[effect:enemy_message, val1:1.7, val2:1.7],[effect:suicide, target:myself, val:1, dead_type:escape],[effect:set_background, turn:-1, background_id:2601, switching_mode:go_back, duration:3],[effect:damage_anti_cost, target:unit_all, lower:31, val1:99.9, val2:0.01, cost_type:unit]",3
+13400702,"[effect:enemy_message, val1:1.8, val2:1.7],[effect:play_bgm, turn:-1, bgm_path:BGM/BattleNormal0011],[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+13400703,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.25]",3
+13400704,"[effect:enemy_message, val1:1.3, val2:5.7],[effect:dis_panel, target:block_yellow, turn:2, animation:enemy_dis_yellow],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:2, val:3.5, animation:enemy_counter],[effect:force_change_block, new_block:time_bomb, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:color_break, ignore04:magnet, color:block_yellow, count:15, val:1.0, min_time_count:2, max_time_count:2, animation:change_block]",3
+13400705,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:5, val:0.1]",3
+13400706,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.7]",3
+13400707,"[effect:enemy_message, val1:1.2, val2:3.3],[effect:set_background, turn:-1, background_id:22, switching_mode:go_back, duration:3],[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:enhance_enemy, target:myself, turn:5, status:defense, val:2500, calc:add, animation:enemy_enhance_defense]",3
+13400708,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:2, val:0.6]",3
+13400709,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.3, calc:mul, animation:enemy_enhance_attack]",3
+13400710,"[effect:enemy_message, val1:1.7, val2:1.2],[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+13400711,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.4]",3
+13400712,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:enemy_message, val1:1.2, val2:1.2]",3
+13400713,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:8, animation:enemy_critical]",3
+13400714,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:fix_speed, target:myself, turn:1],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.2, calc:mul, animation:enemy_enhance_attack],[effect:play_bgm, turn:-1, bgm_path:BGM/BattleBoss0040],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+13400715,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:2, val:0.6]",3
+13400716,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_type, target:unit_all, type:attack, val1:4, val2:0.25]",3
+13400717,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:3, val:1.0, animation:enemy_counter]",3
+13400718,"[effect:enemy_message, val1:1.2, val2:1.3],[effect:fix_speed, target:myself, turn:1],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:5000, calc:add, animation:enemy_enhance_defense],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+13400719,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:4, val:0.35]",3
+13400720,"[effect:enemy_message, val1:1.2, val2:1.3],[effect:break_attack_fix, target:unit_all, val:150, lowest_val:1000, count:-1, block01:block_blue]",3
+13400721,"[effect:enemy_message, val1:1.2, val2:1.3],[effect:break_attack_fix, target:unit_all, val:150, lowest_val:1000, count:-1, block01:block_red]",3
+13400722,"[effect:enemy_message, val1:1.2, val2:1.3],[effect:break_attack_fix, target:unit_all, val:150, lowest_val:1000, count:-1, block01:block_green]",3
+13400723,"[effect:enemy_message, val1:1.2, val2:1.3],[effect:break_attack_fix, target:unit_all, val:150, lowest_val:1000, count:-1, block01:block_yellow]",3
+13400724,"[effect:enemy_message, val1:1.2, val2:1.5],[effect:break_attack_fix, target:unit_all, val:150, lowest_val:1000, count:-1, block01:block_heart]",3
+13400725,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:break_heal_fix, target:myself, val:30000, lowest_val:10000, count:-1, block01:crash, animation:enemy_heal]",3
+13400726,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:fix_speed, target:myself, turn:1],[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.2, calc:mul, animation:enemy_enhance_attack],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:5000, calc:add, animation:enemy_enhance_defense]",3
+13400727,"[effect:enemy_message, val1:1.2, val2:3.2],[effect:remove_enhancement, target:unit_all, target_effect:all, animation:frozen_wave],[effect:set_background, turn:-1, background_id:904, switching_mode:none, duration:0],[effect:damage_anti_tribe, target:unit_all, tribe:dragon, val1:5, val2:0.25]",3
+13400728,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:8, val:0.2]",3
+13400729,"[effect:enemy_message, val1:1.2, val2:2.1],[effect:damage_anti_type, target:unit_all, type:attack, val1:4, val2:0.25]",3
+13400730,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:1, val:3.0, animation:enemy_counter]",3
+13400731,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:enemy_message, val1:1.2, val2:1.2]",3
+13400732,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:rush, count:2, val:99]",3
+13400733,"[effect:enemy_message, val1:2.2, val2:2.1],[effect:ability_lock, target:unit_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1],[effect:set_background, turn:-1, background_id:965, switching_mode:go_back, duration:3],[effect:fix_speed, target:myself, turn:1],[effect:play_bgm, turn:-1, bgm_path:BGM/BattleNormal0013]",3
+13400734,"[effect:enemy_message, val1:1.7, val2:1.7],[effect:suicide, target:myself, val:1, dead_type:escape],[effect:set_background, turn:-1, background_id:904, switching_mode:go_back, duration:3]",3

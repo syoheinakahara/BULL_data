@@ -1,0 +1,36 @@
+30018001,"[effect:damage_anti_type, target:unit_all, type:hp, val1:0.1, val2:0.5]",3
+30018002,"[effect:nothing]",3
+30018003,"[effect:nothing]",3
+30018004,"[effect:nothing]",3
+30018005,"[effect:crash_condition, target:unit_all, val:2, turn:5, animation:enemy_crash_extend]",3
+30018006,"[effect:heal, target:enemy_one, val:0.2, animation:enemy_heal]",3
+30018007,"[effect:critical, val:1.5]",3
+30018008,"[effect:nothing]",3
+30018009,"[effect:virus, turn:5, rate:1.0, val:0.1, animation:virus03],[effect:spread, val:0.3]",3
+30018010,"[effect:nothing]",3
+30018011,"[effect:enhance_enemy, target:enemy_all, turn:-1, status:defense, val:3000.0, animation:enemy_enhance_defense]",3
+30018012,"[effect:rush, count:6, val:0.2]",3
+30018013,"[effect:spread, val:0.3],[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, count:0, val:0.0]",3
+30018014,"[effect:nothing]",3
+30018015,"[effect:spread, val:0.4]",3
+30018016,"[effect:heal, target:enemy_one, val:0.1, animation:enemy_heal]",3
+30018017,"[effect:nothing]",3
+30018018,"[effect:nothing]",3
+30018019,"[effect:nothing]",3
+30018020,"[effect:enhance_enemy, target:myself, turn:5, status:defense, val:3000.0, animation:enemy_enhance_defense]",3
+30018021,"[effect:freq_turn, target:myself, turn:3, val:1, animation:enemy_freq_turn]",3
+30018022,"[effect:rush, count:8, val:0.2]",3
+30018023,"[effect:heal, target:enemy_one, val:0.2, animation:enemy_heal]",3
+30018024,"[effect:nothing]",3
+30018025,"[effect:nothing]",3
+30018026,"[effect:nothing]",3
+30018027,"[effect:virus, turn:-1, rate:1.0, val:0.1, animation:virus03]",3
+30018028,"[effect:damage_anti_tribe, target:unit_all, tribe:animal, val1:1.5, val2:0.1]",3
+30018029,"[effect:enhance_enemy, target:myself, turn:5, status:defense, val:3000.0, animation:enemy_enhance_defense]",3
+30018030,"[effect:charge, status:attack, val:10.0]",3
+30018031,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+30018032,"[effect:nothing]",3
+30018033,"[effect:tolerance,target:myself, turn:-1, tolerance_effect:all, count:-1],[effect:fix_speed,target:myself,turn:1]",3
+30018034,"[effect:damage_anti_type, target:unit_all, type:hp, val1:0.05, val2:5.0],[effect:damage_anti_type, target:unit_all, type:hp, val1:0.05, val2:5.0]",3
+30018035,"[effect:kamikaze, val:0.0],[effect:force_change_block, new_block:block_heart, target:block_all, ignore01:crash, count:0, val:0.0]",3
+30018036,"[effect:nothing]",3

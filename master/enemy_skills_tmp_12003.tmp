@@ -1,0 +1,64 @@
+12003199,"[effect:nothing]",3
+12003100,"[effect:kamikaze, val:1.3, animation:enemy_kamikaze]",3
+12003101,"[effect:rush, count:2, val:1.5]",3
+12003102,"[effect:rush, count:5, val:0.6]",3
+12003103,"[effect:fix_speed, target:myself, turn:3],[effect:charge, status:attack, val:4.0, animation:enemy_charge]",3
+12003104,"[effect:fix_speed, target:myself, turn:4],[effect:charge, status:attack, val:4.0, animation:enemy_charge]",3
+12003110,"[effect:nothing]",3
+12003111,"[effect:nothing]",3
+12003112,"[effect:nothing]",3
+12003120,"[effect:fix_speed, target:myself, turn:1]",3
+12003121,"[effect:nothing]",3
+12003122,"[effect:rush, count:5, val:1.0]",3
+12003123,"[effect:fix_speed, target:myself, turn:1]",3
+12003124,"[effect:fix_speed, target:myself, turn:3]",3
+12003125,"[effect:critical, val:5.0.0, animation:enemy_critical]",3
+12003126,"[effect:kamikaze, val:0.0]",3
+12003299,"[effect:nothing]",3
+12003200,"[effect:kamikaze, val:1.3, animation:enemy_kamikaze]",3
+12003201,"[effect:rush, count:2, val:1.5]",3
+12003202,"[effect:rush, count:5, val:0.6]",3
+12003203,"[effect:fix_speed, target:myself, turn:3],[effect:charge, status:attack, val:4.0, animation:enemy_charge]",3
+12003204,"[effect:fix_speed, target:myself, turn:4],[effect:charge, status:attack, val:4.0, animation:enemy_charge]",3
+12003210,"[effect:nothing]",3
+12003211,"[effect:nothing]",3
+12003212,"[effect:nothing]",3
+12003220,"[effect:fix_speed, target:myself, turn:1]",3
+12003221,"[effect:nothing]",3
+12003222,"[effect:rush, count:5, val:1.0]",3
+12003223,"[effect:fix_speed, target:myself, turn:1]",3
+12003224,"[effect:fix_speed, target:myself, turn:3]",3
+12003225,"[effect:critical, val:5.0.0, animation:enemy_critical]",3
+12003226,"[effect:kamikaze, val:0.0]",3
+12003399,"[effect:nothing]",3
+12003300,"[effect:kamikaze, val:1.3, animation:enemy_kamikaze]",3
+12003301,"[effect:rush, count:2, val:1.5]",3
+12003302,"[effect:rush, count:5, val:0.6]",3
+12003303,"[effect:fix_speed, target:myself, turn:3],[effect:charge, status:attack, val:4.0, animation:enemy_charge]",3
+12003304,"[effect:fix_speed, target:myself, turn:4],[effect:charge, status:attack, val:4.0, animation:enemy_charge]",3
+12003310,"[effect:nothing]",3
+12003311,"[effect:nothing]",3
+12003312,"[effect:nothing]",3
+12003320,"[effect:fix_speed, target:myself, turn:1]",3
+12003321,"[effect:nothing]",3
+12003322,"[effect:rush, count:5, val:1.0]",3
+12003323,"[effect:fix_speed, target:myself, turn:1]",3
+12003324,"[effect:fix_speed, target:myself, turn:3]",3
+12003325,"[effect:critical, val:5.0.0, animation:enemy_critical]",3
+12003326,"[effect:kamikaze, val:0.0]",3
+12003499,"[effect:nothing]",3
+12003400,"[effect:kamikaze, val:1.3, animation:enemy_kamikaze]",3
+12003401,"[effect:rush, count:2, val:1.5]",3
+12003402,"[effect:rush, count:5, val:0.6]",3
+12003403,"[effect:fix_speed, target:myself, turn:3],[effect:charge, status:attack, val:4.0, animation:enemy_charge]",3
+12003404,"[effect:fix_speed, target:myself, turn:4],[effect:charge, status:attack, val:4.0, animation:enemy_charge]",3
+12003410,"[effect:nothing]",3
+12003411,"[effect:nothing]",3
+12003412,"[effect:nothing]",3
+12003420,"[effect:fix_speed, target:myself, turn:1]",3
+12003421,"[effect:nothing]",3
+12003422,"[effect:rush, count:5, val:1.0]",3
+12003423,"[effect:fix_speed, target:myself, turn:1]",3
+12003424,"[effect:fix_speed, target:myself, turn:3]",3
+12003425,"[effect:critical, val:5.0.0, animation:enemy_critical]",3
+12003426,"[effect:kamikaze, val:0.0]",3

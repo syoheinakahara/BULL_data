@@ -1,0 +1,35 @@
+525,"[effect:heal_ratio, val:0.45, animation:heal_unit, animation:heal03_unit01]",3
+526,"[effect:heal_ratio, val:0.45, animation:heal_unit, animation:heal03_unit01]",3
+527,"[effect:damage_heal, target:enemy_one, color:yellow, val:2.0, animation:damage_one_yellow04]",3
+528,"[effect:damage_heal, target:enemy_one, color:yellow, val:2.0, animation:damage_one_yellow04]",3
+529,"[effect:damage, target:enemy_one, color:red, val:1.5, animation:damage_one_red02]",3
+530,"[effect:damage, target:enemy_one, color:green, val:1.5, animation:damage_one_green02]",3
+531,"[effect:damage, target:enemy_one, color:blue, val:1.5, animation:damage_one_blue02]",3
+532,"[effect:damage, target:enemy_one, color:yellow, val:1.5, animation:damage_one_yellow02]",3
+533,"[effect:damage_fix, target:enemy_all, color:red, val:800, animation:damage_all_red02]",3
+534,"[effect:damage_fix, target:enemy_one, color:green, val:1600, animation:damage_one_green02]",3
+535,"[effect:damage, target:enemy_all, color:blue, val:0.75, animation:damage_all_blue02]",3
+536,"[effect:damage, target:enemy_all, color:yellow, val:0.75, animation:damage_all_yellow02]",3
+537,"[effect:damage_fix, target:enemy_all, color:green, val:400, animation:damage_all_green01]",3
+538,"[effect:damage_fix, target:enemy_all, color:yellow, val:800, animation:damage_all_yellow01]",3
+539,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.0, val2:0.94, animation:damage_one_green04],[effect:enhance_unit, target:unit_all, turn:1, status:attack, val:0.015, calc:mul,animation:enhance_unit_all_attack01_unit01]",3
+540,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.0, val2:0.94, animation:damage_one_green04],[effect:enhance_unit, target:unit_all, turn:1, status:attack, val:0.015, calc:mul,animation:enhance_unit_all_attack01_unit01]",3
+541,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.375, val2:0.94,  animation:damage_one_green05]",3
+542,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.375, val2:0.94,  animation:damage_one_green05]",3
+543,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.375, val2:1.31,  animation:damage_one_yellow04]",3
+544,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.375, val2:1.31,  animation:damage_one_yellow04]",3
+545,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.0, val2:0.94, animation:damage_one_yellow04],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal03_unit01]",3
+546,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.0, val2:0.94, animation:damage_one_yellow04],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal03_unit01]",3
+547,"[effect:damage, target:enemy_one, color:red, val:2.0, animation:damage_one_red04]",3
+548,"[effect:damage, target:enemy_one, color:red, val:2.0, animation:damage_one_red04]",3
+549,"[effect:damage_anti_tribe, target:enemy_all, tribe:unknown, val1:2.0, val2:0.66, animation:damage_all_red04]",3
+550,"[effect:damage_anti_tribe, target:enemy_all, tribe:unknown, val1:2.0, val2:0.66, animation:damage_all_red04]",3
+551,"[effect:damage, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04]",3
+552,"[effect:damage, target:enemy_one, color:blue, val:2.25, animation:damage_one_blue04]",3
+553,"[effect:damage, target:enemy_all, color:blue, val:1.0, animation:damage_all_blue04]",3
+554,"[effect:damage, target:enemy_all, color:blue, val:1.0, animation:damage_all_blue04]",3
+555,"[effect:damage, target:enemy_one, color:blue, val:0.75, animation:damage_one_blue01],[effect:heal_ratio, val:0.18, animation:heal_unit, animation:heal02_unit01]",3
+556,"[effect:damage, target:enemy_one, color:blue, val:0.75, animation:damage_one_blue01],[effect:heal_ratio, val:0.18, animation:heal_unit, animation:heal02_unit01]",3
+557,"[effect:damage, target:enemy_one, color:blue, val:1.75, animation:damage_one_blue03]",3
+558,"[effect:damage, target:enemy_one, color:blue, val:1.75, animation:damage_one_blue03]",3
+559,"[effect:damage, target:enemy_one, color:blue, val:2.0, animation:damage_one_blue04]",3

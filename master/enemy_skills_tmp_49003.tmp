@@ -1,0 +1,82 @@
+49003001,"[effect:dark, target:unit_all, turn:1, animation:enemy_dark],[effect:enemy_message, val1:2, val2:2]",3
+49003002,"[effect:dis_heart, turn:1, animation:enemy_dis_heart]",3
+49003003,"[effect:dis_panel, target:block_red, turn:1],[effect:dis_panel, target:block_yellow, turn:1]",3
+49003005,"[effect:dis_panel, target:block_green, turn:1],[effect:dis_panel, target:block_blue, turn:1]",3
+49003007,"[effect:spread, val:0.25]",3
+49003008,"[effect:hungup, target:unit_one, turn:1, rate:1, animation:hungup01],[effect:rush, count:1, val:0.8]",3
+49003009,"[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+49003010,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:2]",3
+49003011,"[effect:rush, count:3, val:0.4]",3
+49003012,"[effect:spread, val:0.3]",3
+49003013,"[effect:critical, val:1.3]",3
+49003014,"[effect:spread, val:0.1],[effect:enhance_enemy, target:enemy_all, turn:-1, status:attack, val:1, calc:add, animation:enemy_enhance_attack],,[effect:fix_speed, target:myself, turn:2]",3
+49003015,"[effect:rush, count:3, val:0.4]",3
+49003016,"[effect:spread, val:0.3]",3
+49003017,"[effect:critical, val:1.3]",3
+49003018,"[effect:degrade_unit, target:unit_all, turn:1, status:attack, val:1, calc:mul],[effect:change_block, new_block:block_heart, target:block_red, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_green, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_blue, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_yellow, count:5, val:0, animation:change_block]",3
+49003047,"[effect:rush, count:1, val:1]",3
+49003048,"[effect:rush, count:1, val:1]",3
+49003049,"[effect:rush, count:1, val:1]",3
+49003020,"[effect:rush, count:1, val:1]",3
+49003021,"[effect:critical, val:1.4]",3
+49003022,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:-1, val:0.1, animation:enemy_counter],[effect:fix_speed, target:myself, turn:1]",3
+49003023,"[effect:spread, val:0.3]",3
+49003024,"[effect:rush, count:1, val:1]",3
+49003025,"[effect:enhance_enemy, target:enemy_all, turn:-1, status:attack, val:0.2, calc:mul, animation:enemy_enhance_attack],[effect:fix_speed, target:myself, turn:2]",3
+49003026,"[effect:critical, val:1.3],[effect:fix_speed, target:myself, turn:1]",3
+49003028,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.1, val2:0.9],[effect:fix_speed, target:myself, turn:1]",3
+49003029,"[effect:rush, count:1, val:1]",3
+49003030,"[effect:change_block, new_block:time_bomb, target:block_all, count:3, val:0.2, min_time_count:1, max_time_count:1, animation:change_block],[effect:rush, count:1, val:1]",3
+49003031,"[effect:panel_freeze, target:block_red,count:1, break_count:1],[effect:panel_freeze, target:block_green,count:1, break_count:1],[effect:panel_freeze, target:block_yellow,count:1, break_count:1],[effect:panel_freeze, target:block_blue,count:1, break_count:1],[effect:rush, count:1, val:1]",3
+49003032,"[effect:critical, val:1.6]",3
+49003033,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:2, val2:2]",3
+49003034,"[effect:rush, count:1, val:1]",3
+49003035,"[effect:change_block, new_block:jammer, target:block_all, count:3, val:0, animation:change_block],[effect:rush, count:1, val:1]",3
+49003036,"[effect:panel_freeze, target:block_red,count:1, break_count:1],[effect:panel_freeze, target:block_green,count:1, break_count:1],[effect:panel_freeze, target:block_yellow,count:1, break_count:1],[effect:panel_freeze, target:block_blue,count:1, break_count:1],[effect:rush, count:1, val:1]",3
+49003037,"[effect:critical, val:1.6]",3
+49003038,"[effect:change_block, new_block:jammer, target:block_red, count:5, val:0, animation:change_block],[effect:change_block, new_block:jammer, target:block_yellow, count:5, val:0, animation:change_block],[effect:change_block, new_block:time_bomb, target:block_green, count:5, val:0.2, animation:change_block],[effect:change_block, new_block:time_bomb, target:block_blue, count:5, val:0.2, animation:change_block]",3
+49003039,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:degrade_fever, val:1000, animation:fevergauge_down],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn],[effect:enemy_message, val1:2, val2:2]",3
+49003040,"[effect:rush, count:1, val:1]",3
+49003041,"[effect:change_block, new_block:jammer, target:block_all, count:5, val:0, animation:change_block],[effect:rush, count:1, val:1]",3
+49003042,"[effect:change_block, new_block:time_bomb, target:block_all, count:5, val:0.2, min_time_count:1, max_time_count:1, animation:change_block],[effect:rush, count:1, val:1]",3
+49003043,"[effect:panel_freeze, target:block_red,count:1, break_count:1],[effect:panel_freeze, target:block_green,count:1, break_count:1],[effect:panel_freeze, target:block_yellow,count:1, break_count:1],[effect:panel_freeze, target:block_blue,count:1, break_count:1],[effect:rush, count:1, val:1]",3
+49003044,"[effect:critical, val:1.6]",3
+49003045,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.2, val2:1.5]",3
+49003046,"[effect:enemy_message, val1:2, val2:2, dead_type:suicide]",3
+49003050,"[effect:enemy_message, val1:2, val2:2, dead_type:suicide]",3
+49003051,"[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+49003052,"[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+49003053,"[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+49003054,"[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+49003055,"[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+49003056,"[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+49003057,"[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+49003058,"[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+49003059,"[effect:degrade_unit, target:unit_all, turn:1, status:attack, val:1, calc:mul],[effect:change_block, new_block:block_heart, target:block_red, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_green, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_blue, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_yellow, count:5, val:0, animation:change_block]",3
+49003060,"[effect:degrade_unit, target:unit_all, turn:1, status:attack, val:1, calc:mul],[effect:change_block, new_block:block_heart, target:block_red, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_green, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_blue, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_yellow, count:5, val:0, animation:change_block]",3
+49003061,"[effect:degrade_unit, target:unit_all, turn:1, status:attack, val:1, calc:mul],[effect:change_block, new_block:block_heart, target:block_red, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_green, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_blue, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_yellow, count:5, val:0, animation:change_block]",3
+49003062,"[effect:degrade_unit, target:unit_all, turn:1, status:attack, val:1, calc:mul],[effect:change_block, new_block:block_heart, target:block_red, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_green, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_blue, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_yellow, count:5, val:0, animation:change_block]",3
+49003063,"[effect:degrade_unit, target:unit_all, turn:1, status:attack, val:1, calc:mul],[effect:change_block, new_block:block_heart, target:block_red, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_green, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_blue, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_yellow, count:5, val:0, animation:change_block]",3
+49003064,"[effect:degrade_unit, target:unit_all, turn:1, status:attack, val:1, calc:mul],[effect:change_block, new_block:block_heart, target:block_red, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_green, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_blue, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_yellow, count:5, val:0, animation:change_block]",3
+49003065,"[effect:degrade_unit, target:unit_all, turn:1, status:attack, val:1, calc:mul],[effect:change_block, new_block:block_heart, target:block_red, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_green, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_blue, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_yellow, count:5, val:0, animation:change_block]",3
+49003066,"[effect:degrade_unit, target:unit_all, turn:1, status:attack, val:1, calc:mul],[effect:change_block, new_block:block_heart, target:block_red, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_green, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_blue, count:5, val:0, animation:change_block],[effect:change_block, new_block:block_heart, target:block_yellow, count:5, val:0, animation:change_block]",3
+49003067,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:2]",3
+49003068,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:2]",3
+49003069,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:2]",3
+49003070,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:2]",3
+49003071,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:2]",3
+49003072,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:2]",3
+49003073,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:2]",3
+49003074,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:2]",3
+49003075,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.1, val2:0.9]",3
+49003076,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.1, val2:0.9]",3
+49003077,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.1, val2:0.9]",3
+49003078,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.1, val2:0.9]",3
+49003079,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.1, val2:0.9]",3
+49003080,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.1, val2:0.9]",3
+49003081,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.1, val2:0.9]",3
+49003082,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.1, val2:0.9]",3
+49003083,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.1, val2:0.9]",3
+49003084,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.1, val2:0.9]",3
+49003085,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:2, val2:2]",3
+49003086,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:2],[effect:enemy_message, val1:2, val2:2]",3

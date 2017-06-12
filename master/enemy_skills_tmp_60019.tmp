@@ -1,0 +1,42 @@
+60019000,"[effect:rush, count:3, val:0.4]",3
+60019005,"[effect:spread, val:0.3, animation:enemy_spread]",3
+60019010,"[effect:critical, val:1.1, animation:enemy_critical],[effect:fix_speed, target:myself, turn:1]",3
+60019011,"[effect:critical, val:1.1, animation:enemy_critical],[effect:fix_speed, target:myself, turn:2]",3
+60019012,"[effect:critical, val:1.1, animation:enemy_critical],[effect:fix_speed, target:myself, turn:3]",3
+60019015,"[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.7, val2:0.25]",3
+60019016,"[effect:force_change_block, new_block:damage, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:color_break, ignore04:time_bomb, ignore05:jammer, count:3, val:0.05, animation:change_block]",3
+60019020,"[effect:fix_speed, target:myself, turn:2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+60019021,"[effect:enemy_message, val2:2.8],[effect:force_change_block, new_block:block_red, target:block_yellow, ignore01:crash, ignore02:time_bomb, ignore03:jammer, ignore04:damage, ignore05:color_break, color:block_red, count:5, val:0, animation:change_block],[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.7, val2:0.3]",3
+60019022,"[effect:force_change_block, new_block:damage, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:color_break, ignore04:time_bomb, ignore05:jammer, count:3, val:0.02, animation:change_block]",3
+60019023,"[effect:break_attack, target:unit_all, val:0.05, lowest_val:1000, count:-1, color:blue, block01:damage]",3
+60019024,"[effect:rush, count:25, val:0.05]",3
+60019030,"[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+60019031,"[effect:enemy_message, val2:2.8],[effect:force_change_block, new_block:block_red, target:block_yellow, ignore01:crash, ignore02:time_bomb, ignore03:jammer, ignore04:damage, ignore05:color_break, color:block_red, count:5, val:0, animation:change_block],[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.7, val2:0.3]",3
+60019032,"[effect:force_change_block, new_block:damage, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:color_break, ignore04:time_bomb, ignore05:jammer, color:block_blue, count:5, val:0.02, animation:change_block]",3
+60019033,"[effect:break_attack, target:unit_all, val:0.1, lowest_val:1000, count:-1, color:blue, block_color:block_blue, block01:damage]",3
+60019040,"[effect:fix_speed, target:myself, turn:2]",3
+60019041,"[effect:critical, val:1.1, animation:enemy_critical]",3
+60019042,"[effect:dis_heart, turn:5, animation:enemy_dis_heart]",3
+60019043,"[effect:freq_turn, target:enemy_red, turn:-1, val:1, animation:enemy_freq_turn]",3
+60019045,"[effect:fix_speed, target:myself, turn:3]",3
+60019046,"[effect:rush, count:3, val:0.45]",3
+60019047,"[effect:enhance_enemy, target:myself, turn:5, status:attack, val:0.35, calc:mul, animation:enemy_enhance_attack]",3
+60019048,"[effect:enhance_enemy, target:enemy_yellow, turn:5, status:defense, val:3000, calc:add, animation:enemy_enhance_defense]",3
+60019049,"[effect:nothing]",3
+60019050,"[effect:fix_speed, target:myself, turn:2],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+60019051,"[effect:rush, count:5, val:0.25]",3
+60019052,"[effect:enemy_message, val2:2.8],[effect:force_change_block, new_block:block_red, target:block_yellow, ignore01:crash, ignore02:time_bomb, ignore03:jammer, ignore04:damage, ignore05:color_break, color:block_red, count:5, val:0, animation:change_block],[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.7, val2:0.3]",3
+60019053,"[effect:damage_anti_color, target:unit_all, color:red, val1:0.7, val2:0.25]",3
+60019054,"[effect:rush, count:25, val:0.1]",3
+60019060,"[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+60019061,"[effect:rush, count:5, val:0.25]",3
+60019062,"[effect:enemy_message, val2:2.8],[effect:force_change_block, new_block:block_red, target:block_yellow, ignore01:crash, ignore02:time_bomb, ignore03:jammer, ignore04:damage, ignore05:color_break, color:block_red, count:5, val:0, animation:change_block],[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.7, val2:0.3]",3
+60019063,"[effect:force_change_block, new_block:damage, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:color_break, ignore04:time_bomb, ignore05:jammer, color:block_yellow, count:5, val:0.05, animation:change_block]",3
+60019064,"[effect:break_attack, target:unit_all, val:0.1, lowest_val:500, count:-1, color:yellow, block_color:block_yellow, block01:damage]",3
+60019065,"[effect:rush, count:25, val:0.1]",3
+60019070,"[effect:fix_speed, target:myself, turn:1],[effect:tolerance, target:myself, turn:-1, count:-1, tolerance_effect:all, animation:enemy_tolerance]",3
+60019071,"[effect:rush, count:5, val:0.25]",3
+60019072,"[effect:enemy_message, val2:2.8],[effect:force_change_block, new_block:block_red, target:block_yellow, ignore01:crash, ignore02:time_bomb, ignore03:jammer, ignore04:damage, ignore05:color_break, color:block_red, count:5, val:0, animation:change_block],[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.7, val2:0.25]",3
+60019073,"[effect:force_change_block, new_block:damage, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:color_break, ignore04:time_bomb, ignore05:jammer, color:block_yellow, count:5, val:0.05, animation:change_block]",3
+60019074,"[effect:break_attack, target:unit_all, val:0.1, lowest_val:750, count:-1, color:yellow, block_color:block_yellow, block01:damage]",3
+60019076,"[effect:enemy_message, dead_type:suicide, val1:1.4, val2:2]",3

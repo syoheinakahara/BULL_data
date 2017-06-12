@@ -1,0 +1,4 @@
+52,"[effect:damage_anti_color, target:enemy_one, color:yellow, val1:2.25, val2:1.13, animation:damage_one_green05]",3
+56,"[effect:damage_anti_color, target:enemy_one, color:blue, val1:2.25, val2:1.13, animation:damage_one_yellow05]",3
+41,"[effect:damage, target:enemy_one, color:red, val:1.5, animation:damage_one_red05]",3
+42,"[effect:damage, target:enemy_one, color:red, val:1.75, animation:damage_one_red05]",3

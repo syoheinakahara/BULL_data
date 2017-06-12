@@ -1,0 +1,26 @@
+13301825,"[effect:enemy_message, val1:1, val2:2.8],[effect:damage_anti_tribe, target:unit_all, tribe:human, val1:0.01, val2:99.9],[effect:damage_anti_cost, target:unit_all, lower:31, val1:99.9, val2:0.01, cost_type:unit],[effect:damage_anti_cost, target:unit_all, lower:31, val1:99.9, val2:0.01, cost_type:unit]",3
+13301826,"[effect:virus, target:unit_heal, turn:12, rate:1, val:0.66, animation:enemy_virus],[effect:enemy_message, val1:1.4, val2:2.1]",3
+13301801,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.1, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.4, val2:1.6]",3
+13301802,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:1.1, calc:mul, animation:enemy_enhance_attack],[effect:enemy_message, val1:1.4, val2:1.6]",3
+13301803,"[effect:enemy_message, val1:1, val2:2.8],[effect:degrade_unit, target:unit_all, turn:8, status:attack, val:0.6, calc:mul],[effect:degrade_unit, target:unit_all, turn:3, status:heal, val:0.6, calc:mul, animation:degrade_unit_all_heal]",3
+13301804,"[effect:force_change_block, new_block:crack_bomb, target:block_all, ignore01:crash, color:block_green, count:1, val:36, animation:change_block]",3
+13301805,"[effect:damage_anti_color, target:unit_one, color:red, val1:1.6, val2:0.5],[effect:damage_anti_color, target:unit_one, color:red, val1:2.5, val2:0.9],[effect:sp_boost, target:unit_balance, val:1, animation:sp_boost_one03],[effect:enemy_message, val1:1.1, val2:2.8]",3
+13301806,"[effect:damage_anti_color, target:unit_one, color:yellow, val1:1.6, val2:0.5],[effect:damage_anti_color, target:unit_one, color:yellow, val1:2.5, val2:0.9],[effect:sp_boost, target:unit_balance, val:1, animation:sp_boost_one03],[effect:enemy_message, val1:1.1, val2:2.8]",3
+13301807,"[effect:enhance_enemy, target:myself, turn:-1, status:attack, val:0.2, calc:mul, animation:enemy_enhance_attack],",3
+13301808,"[effect:rush, count:6, val:0.2]",3
+13301809,"[effect:degrade_unit, target:unit_all, turn:3, status:heal, val:0.65, calc:mul, animation:degrade_unit_all_heal],[effect:enemy_message, val1:1.4, val2:1.8]",3
+13301810,"[effect:rush, count:8, val:0.2]",3
+13301811,"[effect:enhance_enemy, target:myself, turn:3, status:attack, val:0.4, calc:mul, animation:enemy_enhance_attack]",3
+13301812,"[effect:degrade_unit, target:unit_all, turn:3, status:heal, val:0.75, calc:mul, animation:degrade_unit_all_heal],[effect:degrade_unit, target:unit_all, turn:3, status:attack, val:0.75, calc:mul],[effect:enemy_message, val1:1.4, val2:2.3]",3
+13301813,"[effect:enhance_enemy, target:myself, turn:3, status:attack, val:0.6, calc:mul, animation:enemy_enhance_attack]",3
+13301814,"[effect:degrade_unit, target:unit_all, turn:5, status:heal, val:0.95, calc:mul, animation:degrade_unit_all_heal],[effect:degrade_unit, target:unit_all, turn:5, status:attack, val:0.95, calc:mul],[effect:enemy_message, val1:1.4, val2:2.3]",3
+13301815,"[effect:dis_panel, target:block_green, turn:3, animation:enemy_dis_green]",3
+13301816,"[effect:dis_panel, target:block_blue, turn:3, animation:enemy_dis_blue]",3
+13301817,"[effect:enemy_message, val1:1, val2:2.4],[effect:change_panel_ratio, turn:2, block_type:green, val:0, animation:block_incidence04],[effect:force_change_block, new_block:crack_bomb, target:block_all, ignore01:crash, color:block_blue, count:1, val:36, animation:change_block]",3
+13301818,"[effect:enemy_message, val1:1, val2:2.4],[effect:change_panel_ratio, turn:2, block_type:blue, val:0, animation:block_incidence04],[effect:force_change_block, new_block:crack_bomb, target:block_all, ignore01:crash, color:block_green, count:1, val:36, animation:change_block]",3
+13301819,"[effect:suicide, val:0.50, animation:enemy_suicide],[effect:break_attack_fix, target:unit_all, val:145, lowest_val:1500, count:-1, color:red, block01:block_red]",3
+13301820,"[effect:suicide, val:0.50, animation:enemy_suicide],[effect:break_attack_fix, target:unit_all, val:145, lowest_val:1500, count:-1, color:yellow, block01:block_yellow]",3
+13301821,"[effect:suicide, val:0.50, animation:enemy_suicide],[effect:spread, val:0.2],[effect:spread, val:0.2],[effect:spread, val:0.2]",3
+13301822,"[effect:spread, val:0.2]",3
+13301823,"[effect:suicide, val:0.50, animation:enemy_suicide],[effect:rush, count:12, val:0.2]",3
+13301824,"[effect:rush, count:4, val:0.25]",3

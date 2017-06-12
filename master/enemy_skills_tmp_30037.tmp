@@ -1,0 +1,20 @@
+30037001,"[effect:degrade_unit, target:unit_all, turn:2, status:action, val:1, animation:enemy_tap_down]",3
+30037002,"[effect:nothing]",3
+30037003,"[effect:spread, val:1.05]",3
+30037004,"[effect:enemy_message, val1:2.0, val2:0]",3
+30037005,"[effect:break_attack_fix, val:250, lowest_val:1500, count:-1, block:block_green, target:unit_one]",3
+30037006,"[effect:break_attack_fix, val:350, lowest_val:4000, count:-1, block:block_yellow, target:unit_one]",3
+30037007,"[effect:dark, target:unit_all, turn:3, animation:enemy_dark]",3
+30037008,"[effect:dis_heart, turn:5, animation:enemy_dis_heart]",3
+30037009,"[effect:damage_anti_abnormal, target:unit_all, target_effect01:dis_heart, val1:0.4, val2:0.25]",3
+30037010,"[effect:break_heal_ratio, val:0.03, lowest_val:0.01, count:-1, block:block_heart, target:myself, animation:enemy_heal]",3
+30037011,"[effect:critical, val:1.6]",3
+30037012,"[effect:nothing]",3
+30037013,"[effect:enemy_message, val1:1.5, val2:0]",3
+30037014,"[effect:enemy_message, val1:1.5, val2:0]",3
+30037015,"[effect:spread, val:0.3]",3
+30037016,"[effect:break_attack_fix, val:150, lowest_val:1200, count:-1, block:block_green, target:unit_one]",3
+30037017,"[effect:break_attack_fix, val:250, lowest_val:2500, count:-1, block:block_yellow, target:unit_one]",3
+30037018,"[effect:break_attack_fix, val:200, lowest_val:1500, count:-1, block:block_green, target:unit_one]",3
+30037019,"[effect:break_attack_fix, val:300, lowest_val:3500, count:-1, block:block_yellow, target:unit_one]",3
+30037020,"[effect:hungup, target:unit_all, turn:4, rate:1, calc_type:target_all, animation:hungup01]",3

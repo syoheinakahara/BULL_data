@@ -1,0 +1,12 @@
+512,"[effect:damage, target:enemy_one, color:red, val:2.0, animation:damage_one_red04]",3
+513,"[effect:damage, target:enemy_one, color:red, val:2.0, animation:damage_one_red04]",3
+514,"[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green04],[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green04]",3
+515,"[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green04],[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green04]",3
+516,"[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal02_unit01]",3
+517,"[effect:heal_ratio, val:0.45, animation:heal_unit, animation:heal03_unit01]",3
+518,"[effect:damage, target:enemy_all, color:yellow, val:1.0, animation:damage_all_yellow04]",3
+519,"[effect:damage,target:enemy_all,color:yellow,val:1.125,animation:damage_all_yellow05]",3
+520,,3
+521,,3
+522,,3
+523,,3

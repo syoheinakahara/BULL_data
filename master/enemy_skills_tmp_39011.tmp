@@ -1,0 +1,28 @@
+39011001,"[effect:heal, target:enemy_all, val:0.2, animation:enemy_heal]",3
+39011002,"[effect:freq_turn, target:enemy_all, turn:3, val:1, animation:enemy_freq_turn]",3
+39011003,"[effect:spread, val:0.3]",3
+39011004,"[effect:heal, target:enemy_all, val:0.4, animation:enemy_heal]",3
+39011005,"[effect:spread, val:0.36]",3
+39011006,"[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:0.2, animation:enemy_enhance_attack]",3
+39011007,"[effect:critical, val:1.3, animation:enemy_critical]",3
+39011008,"[effect:spread, val:0.3]",3
+39011009,"[effect:break_attack, val:0.06, lowest_val:0.2, count:-1, block:crash, target:unit_all]",3
+39011010,"[effect:enemy_message, val1:1, val2:2.2],[effect:rush, count:2, val:0.5],[effect:hungup, target:unit_one, turn:2, rate:1, animation:hungup01]",3
+39011011,"[effect:spread, val:0.13],[effect:panel_freeze, target:block_blue, count:-1]",3
+39011012,"[effect:spread, val:0.15],[effect:spread, val:0.15]",3
+39011013,"[effect:damage_fix_absolute, target:unit_all, val:2222]",3
+39011014,"[effect:enemy_message, val1:1, val2:2],[effect:degrade_unit, target:unit_all, turn:3, status:action, val:1, calc:add, animation:enemy_tap_down]",3
+39011015,"[effect:critical, val:1],[effect:heal, target:enemy_one, val:0.2, animation:enemy_heal]",3
+39011016,"[effect:dark, target:unit_all, turn:1, animation:enemy_dark]",3
+39011017,"[effect:rush, count:3, val:0.4]",3
+39011018,"[effect:enemy_message, val1:1.4, val2:1.8],[effect:change_panel_ratio, turn:-1, block_type:blue, val:0.8, animation:block_incidence04]",3
+39011019,"[effect:enemy_message, val1:1.4, val2:1.8],[effect:change_panel_ratio, turn:-1, block_type:blue, val:0.8, animation:block_incidence04]",3
+39011020,"[effect:break_attack, val:0.044, lowest_val:0.2, count:8, block:block_blue, target:unit_all]",3
+39011021,"[effect:critical, val:1],[effect:force_change_block, new_block:block_blue, target:block_yellow, ignore01:crash, ignore02:crack_bomb, ignore03:time_bomb, ignore04:jammer, ignore05:damage, count:8, val:0, animation:change_block]",3
+39011022,"[effect:rush, count:4, val:0.3]",3
+39011023,"[effect:enemy_message, val1:1.8, val2:1.8],[effect:dis_panel, target:block_blue, turn:-1, animation:enemy_dis_blue],[effect:suicide, val:1, dead_type:escape, target:enemy_animal]",3
+39011024,"[effect:dis_panel, target:block_blue, turn:-1, animation:enemy_dis_blue],[effect:suicide, val:1, dead_type:escape, target:enemy_animal]",3
+39011025,"[effect:enemy_message, val1:1, val2:2],[effect:spread, val:0.3],[effect:hungup, target:unit_all, turn:4, rate:1, animation:hungup01]",3
+39011026,"[effect:enemy_message, val1:1.6, val2:2, dead_type:suicide]",3
+39011027,"[effect:enemy_message, val1:1, val2:2],[effect:damage_anti_tribe, target:unit_one, tribe:machine, val1:2, val2:1]",3
+39011028,"[effect:rush, count:2, val:0.6]",3

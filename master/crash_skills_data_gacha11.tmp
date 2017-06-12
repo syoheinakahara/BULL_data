@@ -1,0 +1,10 @@
+492,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.0, val2:1.13,  animation:damage_one_red04]",3
+493,"[effect:damage_anti_tribe, target:enemy_one, tribe:unknown, val1:3.375, val2:1.31,  animation:damage_one_red05]",3
+494,"[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green0‚S],[effect:sleep, target:enemy_one, turn:1, rate:0.25, animation:sleep02]",3
+495,"[effect:damage, target:enemy_one, color:green, val:1.2, animation:damage_one_green0‚S],[effect:sleep, target:enemy_one, turn:1, rate:0.25, animation:sleep02]",3
+496,"[effect:damage_anti_tribe, target:enemy_one, tribe:human, val1:2.25, val2:0.94,  animation:damage_one_blue02]",3
+497,"[effect:damage_anti_tribe, target:enemy_one, tribe:human, val1:2.63, val2:1.13,  animation:damage_one_blue03]",3
+498,"[effect:damage_anti_tribe, target:enemy_one, tribe:human, val1:2.63, val2:1.13,  animation:damage_one_blue03]",3
+499,"[effect:damage, target:enemy_one, color:yellow, val:1.75, animation:damage_one_yellow03]",3
+500,"[effect:damage, target:enemy_one, color:yellow, val:2.0, animation:damage_one_yellow04]",3
+501,"[effect:damage, target:enemy_one, color:yellow, val:2.0, animation:damage_one_yellow04]",3

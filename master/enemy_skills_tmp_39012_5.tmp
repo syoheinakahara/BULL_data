@@ -1,0 +1,45 @@
+39012500,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.3, animation:enemy_critical]",3
+39012502,"[effect:enemy_message, val1:0.0, val2:0.0],[effect:fix_speed, target:myself, turn:1]",3
+39012503,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.2, animation:enemy_critical]",3
+39012504,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:degrade_unit, target:unit_all, turn:3, status:heal, val:0.3, calc:mul, animation:degrade_unit_all_heal], [effect:fix_speed, target:myself, turn:2]",3
+39012505,"[effect:enemy_message, val1:1.2, val2:2.9],[effect:damage_abnormal, target:unit_one, val:0.5, status:attack, turn:2, rate:1, val_abnormal:0.5, calc:mul, animation:attack_break01]",3
+39012506,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+39012507,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.5, animation:enemy_critical]",3
+39012508,"[effect:enemy_message, val1:2.1, val2:0.0]",3
+39012509,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.1, animation:enemy_critical]",3
+39012511,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:critical, val:1.7, animation:enemy_critical]",3
+39012512,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:dis_panel, target:block_red, turn:2, animation:enemy_dis_red]",3
+39012513,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:enhance_enemy, target:myself, turn:1, status:defense, val:1000, calc:add, animation:enemy_enhance_defense]",3
+39012514,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.2]",3
+39012520,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:5000, calc:add, animation:enemy_enhance_defense]",3
+39012521,"[effect:enemy_message, val1:1.2, val2:1.6],[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:2, val:0.1, animation:enemy_counter]",3
+39012522,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.6]",3
+39012523,"[effect:enemy_message, val1:1.2, val2:1.8],[effect:force_change_block, new_block:jammer, target:block_green, count:8, val:0, animation:change_block]",3
+39012524,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:break_enchance_enemy, target:myself, val:500, lowest_val:0, count:-1, status:defense, turn:2, block01:jammer, calc:add, animation:enemy_enhance_defense]",3
+39012599,"[effect:enemy_message, val1:1.6, val2:1.9],[effect:ability_lock, target:unit_all, turn:1],[effect:sleep, target:unit_all, turn:1, rate:1, calc_type:target_all],[effect:fix_speed, target:myself, turn:1]",3
+39012598,"[effect:enemy_message, val1:1.2, val2:2.4],[effect:force_change_block, new_block:crash, target:block_all, ignore01:crash, ignore02:crack_bomb, ignore03:color_break, ignore04:magnet, count:5, val:12],[effect:suicide, val:1, dead_type:escape, target:myself]",3
+39012533,"[effect:enemy_message, val1:1.7, val2:1.2],[effect:panel_freeze, target:normal, color:block_green, count:-1]",3
+39012534,"[effect:enemy_message, val1:1.6, val2:1.2],[effect:panel_freeze, target:normal, color:block_green, count:-1]",3
+39012535,"[effect:enemy_message, val1:2.2, val2:1.2],[effect:panel_freeze, target:normal, color:block_green, count:-1]",3
+39012536,"[effect:enemy_message, val1:2.2, val2:1.2],[effect:panel_freeze, target:normal, color:block_green, count:-1]",3
+39012537,"[effect:enemy_message, val1:3.0, val2:1.2],[effect:panel_freeze, target:normal, color:block_green, count:-1]",3
+39012538,"[effect:enemy_message, val1:1.7, val2:1.2],[effect:panel_freeze, target:normal, color:block_green, count:-1]",3
+39012539,"[effect:enemy_message, val1:1.6, val2:1.2],[effect:panel_freeze, target:normal, color:block_green, count:-1]",3
+39012530,"[effect:enemy_message, val1:1.6, val2:1.2],[effect:panel_freeze, target:normal, color:block_green, count:-1]",3
+39012532,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:degrade_unit, target:unit_all, turn:2, status:heal, val:0.5, calc:mul, animation:degrade_unit_all_heal]",3
+39012531,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.4]",3
+39012540,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:hungup, target:unit_one, turn:2, rate:1, animation:hungup01],[effect:hungup, target:unit_one, turn:2, rate:1, animation:hungup01]",3
+39012541,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.5]",3
+39012542,"[effect:enemy_message, val1:1.4, val2:2.0],[effect:attack_break, target:unit_all, turn:2, val:0.3, calc:mul, animation:attack_break01]",3
+39012551,"[effect:enemy_message, val1:1.5, val2:1.8],[effect:crash_condition, target:unit_all, turn:3, val:3, animation:enemy_crash_extend]",3
+39012552,"[effect:enemy_message, val1:1.2, val2:1.2],[effect:spread, val:0.4]",3
+39012553,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:panel_freeze, target:normal, color:block_red, count:3], [effect:rush, count:1, val:1.0]",3
+39012554,"[effect:enemy_message, val1:1.2, val2:2.0],[effect:panel_freeze, target:normal, color:block_blue, count:3], [effect:rush, count:1, val:1.0]",3
+39012555,"[effect:enemy_message, val1:2.6, val2:3.0]",3
+39012556,"[effect:enemy_message, val1:2.8, val2:3.0]",3
+39012557,"[effect:enemy_message, val1:2.2, val2:3.0]",3
+39012558,"[effect:enemy_message, val1:2.3, val2:3.0]",3
+39012559,"[effect:enemy_message, val1:1.7, val2:3.0]",3
+39012560,"[effect:enemy_message, val1:2.1, val2:3.0]",3
+39012561,"[effect:enemy_message, val1:1.7, val2:3.0]",3
+39012562,"[effect:enemy_message, val1:2.6, val2:3.0]",3

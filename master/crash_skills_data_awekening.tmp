@@ -1,0 +1,2 @@
+567,"[effect:damage_anti_color, target:enemy_one, color:blue, val1:3, val2:1.5, animation:damage_one_yellow03]",3
+566,"[effect:damage_anti_tribe, target:enemy_one, tribe:animal, val1:3.375, val2:1.31, animation:damage_one_blue03]",3

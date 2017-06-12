@@ -1,0 +1,10 @@
+474,"[effect:damage, target:enemy_one, color:red, val:1.75, animation:damage_one_red04]",3
+475,"[effect:damage, target:enemy_one, color:red, val:2.0, animation:damage_one_red05]",3
+476,"[effect:damage, target:enemy_all, color:green, val:0.45, animation:damage_all_green03],[effect:heal_ratio, val:0.2, animation:heal_unit, animation:heal02_unit01]",3
+477,"[effect:damage, target:enemy_all, color:green, val:0.45, animation:damage_all_green03],[effect:heal_ratio, val:0.2, animation:heal_unit, animation:heal02_unit01]",3
+478,"[effect:damage, target:enemy_all, color:green, val:0.45, animation:damage_all_green03],[effect:heal_ratio, val:0.3, animation:heal_unit, animation:heal03_unit01]",3
+479,"[effect:damage_anti_color, target:enemy_one, color:red, val1:2.63, val2:0.94, animation:damage_one_blue04]",3
+480,"[effect:damage_anti_color, target:enemy_one, color:red, val1:3.00, val2:1.13, animation:damage_one_blue05]",3
+481,"[effect:damage, target:enemy_one, color:yellow, val:2.0, animation:damage_one_yellow04]",3
+482,"[effect:damage, target:enemy_one, color:yellow, val:2.0, animation:damage_one_yellow04]",3
+483,"[effect:damage, target:enemy_one, color:yellow, val:2.25, animation:damage_one_yellow04]",3

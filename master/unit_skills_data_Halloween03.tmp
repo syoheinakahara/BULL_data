@@ -1,0 +1,2 @@
+1197,10,5,2001,"[effect:break_attack, target:enemy_one, val:0.43, lowest_val:1000, count:-1, color:green, block01:crash, block02:block_blue, animation:damage_one_green04]",3
+1193,10,5,2001,"[effect:change_panel_ratio, turn:1, block_type:red, val:0.92, animation:block_incidence04],[effect:force_change_block, new_block:crack_bomb, target:block_all, color:block_red, count:1, val:42, animation:change_block]",3

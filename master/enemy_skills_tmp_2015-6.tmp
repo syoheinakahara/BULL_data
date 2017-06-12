@@ -1,0 +1,29 @@
+112161100,"[effect:nothing]",3
+112161200,"[effect:heal, target:myself, val:1.0, animation:enemy_heal]",3
+112161201,"[effect:fix_speed, target:myself, turn:1]",3
+112161210,"[effect:nothing]",3
+112161300,"[effect:nothing]",3
+112161309,"[effect:kamikaze, val:0]",3
+112161310,"[effect:spread, val:0.5]",3
+112161311,"[effect:fix_speed, target:myself, turn:1]",3
+112161320,"[effect:rush, count:1, val:1]",3
+112161400,"[effect:enemy_counter, target:myself, invoke_condition:unit_all, counter_target:attacker, turn:3, val:1, animation:enemy_counter]",3
+112161410,"[effect:rush, count:1, val:1]",3
+112161500,"[effect:rush, count:3, val:0.33]",3
+112161510,"[effect:critical, val:1]",3
+112161520,"[effect:nothing]",3
+112161530,"[effect:nothing]",3
+112171100,"[effect:fix_speed, target:myself, turn:1][effect:hungup, target:unit_all, turn:-1, rate:1]",3
+112171101,"[effect:fix_speed, target:myself, turn:1][effect:force_change_block, new_block:crack_bomb, target:block_all, color:block_yellow, count:1, val:46, animation:change_block]",3
+112171109,"[effect:kamikaze, val:0]",3
+112171110,"[effect:fix_speed, target:myself, turn:1]",3
+112171111,"[effect:fix_speed, target:myself, turn:1]",3
+112171119,"[effect:kamikaze, val:0]",3
+112171120,"[effect:fix_speed, target:myself, turn:1]",3
+112171121,"[effect:fix_speed, target:myself, turn:1][effect:dark, target:unit_all, turn:1]",3
+112171129,"[effect:kamikaze, val:0]",3
+112171130,"[effect:fix_speed, target:myself, turn:1]",3
+112171131,"[effect:fix_speed, target:myself, turn:1]",3
+112171140,"[effect:fix_speed, target:myself, turn:1][effect:force_change_block, new_block:block_yellow, target:block_all, count:46, val:0][effect:force_change_block, new_block:crack_bomb, target:block_all, color:block_heart, count:1, val:46, animation:change_block]",3
+112171141,"[effect:fix_speed, target:myself, turn:1]",3
+112171150,"[effect:kamikaze, val:0]",3

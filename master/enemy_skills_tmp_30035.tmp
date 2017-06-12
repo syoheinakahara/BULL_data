@@ -1,0 +1,26 @@
+30035001,"[effect:rush, count:2, val:0.6]",3
+30035002,"[effect:hungup, target:unit_one, turn:2, rate:1, animation:hungup01]",3
+30035003,"[effect:force_change_block, new_block:time_bomb, target:block_all, count:5, val:0.15, min_time_count:3, max_time_count:3, animation:change_block]",3
+30035004,"[effect:spread, val:0.35]",3
+30035005,"[effect:spread, val:0.25]",3
+30035006,"[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:5000, calc:add, animation:enemy_enhance_defense]",3
+30035007,"[effect:force_change_block, new_block:time_bomb, target:block_yellow, count:5, val:0.15, animation:change_block]",3
+30035008,"[effect:panel_freeze, target:block_red, color:block_red, count:5],[effect:panel_freeze, target:block_blue, color:block_blue, count:5],[effect:panel_freeze, target:block_green, color:block_green, count:5],[effect:panel_freeze, target:block_yellow, color:block_yellow, count:5],[effect:panel_freeze, target:block_heart, color:block_heart, count:5],[effect:panel_freeze, target:crash, count:5],[effect:panel_freeze, target:crack_bomb, count:5]",3
+30035009,"[effect:break_attack, val:0.12, lowest_val:1000, count:12, block:block_yellow, target:unit_one]",3
+30035010,"[effect:spread, val:0.3]",3
+30035011,"[effect:force_change_block, new_block:time_bomb, target:block_green, count:0, val:0.2, min_time_count:2, max_time_count:2, animation:change_block],[effect:force_change_block, new_block:time_bomb, target:block_heart, count:0, val:0.2, min_time_count:2, max_time_count:2, animation:change_block]",3
+30035012,"[effect:break_attack, val:0.03, lowest_val:1000, count:-1, block:block_green, target:unit_all]",3
+30035013,"[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:5000, calc:add, animation:enemy_enhance_defense]",3
+30035014,"[effect:spread, val:0.33]",3
+30035015,"[effect:nothing]",3
+30035016,"[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:2500, calc:add, animation:enemy_enhance_defense]",3
+30035017,"[effect:panel_freeze, target:block_red, color:block_red, count:4],[effect:panel_freeze, target:block_blue, color:block_blue, count:4],[effect:panel_freeze, target:block_green, color:block_green, count:4],[effect:panel_freeze, target:block_yellow, color:block_yellow, count:4],[effect:panel_freeze, target:block_heart, color:block_heart, count:4],[effect:panel_freeze, target:crash, count:4],[effect:panel_freeze, target:crack_bomb, count:4]",3
+30035018,"[effect:force_change_block, new_block:time_bomb, target:block_green, count:0, val:0.2, min_time_count:4, max_time_count:4, animation:change_block],[effect:force_change_block, new_block:time_bomb, target:block_heart, count:0, val:0.2, min_time_count:4, max_time_count:4, animation:change_block]",3
+30035019,"[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:2500, calc:add, animation:enemy_enhance_defense]",3
+30035020,"[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:1000, calc:add, animation:enemy_enhance_defense]",3
+30035021,"[effect:force_change_block, new_block:time_bomb, target:block_yellow, count:5, val:0.1, animation:change_block]",3
+30035022,"[effect:panel_freeze, target:block_red, color:block_red, count:3],[effect:panel_freeze, target:block_blue, color:block_blue, count:3],[effect:panel_freeze, target:block_green, color:block_green, count:3],[effect:panel_freeze, target:block_yellow, color:block_yellow, count:3],[effect:panel_freeze, target:block_heart, color:block_heart, count:3],[effect:panel_freeze, target:crash, count:3],[effect:panel_freeze, target:crack_bomb, count:3]",3
+30035023,"[effect:spread, val:0.25]",3
+30035024,"[effect:force_change_block, new_block:time_bomb, target:block_green, count:0, val:0.15, min_time_count:4, max_time_count:4, animation:change_block],[effect:force_change_block, new_block:time_bomb, target:block_heart, count:0, val:0.2, min_time_count:4, max_time_count:4, animation:change_block]",3
+30035025,"[effect:enhance_enemy, target:myself, turn:-1, status:defense, val:1500, calc:add, animation:enemy_enhance_defense]",3
+30035026,"[effect:spread, val:0.3]",3

@@ -1,0 +1,12 @@
+40001001,"[effect:rush, count:2, val:0.6]",1
+40001002,"[effect:hungup, target:unit_one, turn:3, rate:1.0, animation:enemy_hungup]",1
+40001003,"[effect:charge, status:attack, val:3.0, animation:enemy_charge]",1
+40001004,"[effect:enhance_enemy, target:enemy_all, turn:3, status:attack, val:1.25, animation:enemy_enhance_enemy]",1
+40001005,"[effect:damage_anti_color, target:unit_one, color:red, val1:2.0, val2:1.0]",1
+40001006,"[effect:damage_anti_color, target:unit_one, color:yellow, val1:2.0, val2:1.0]",1
+40001007,"[effect:damage_anti_color, target:unit_one, color:green, val1:2.0, val2:1.0]",1
+40001008,"[effect:virus, turn:-1, rate:1.0, val:0.22, animation:enemy_virus]",1
+40001009,"[effect:virus, turn:5, rate:1.0, val:0.35, animation:enemy_virus]",1
+40001010,"[effect:degrade_unit, target:unit_all, turn:-1, status:heal, val:1.0, calc:mul, animation:degrade_unit_all_heal]",1
+40001011,"[effect:damage_anti_tribe, target:unit_one, tribe:god, val1:3.0, val2:1.0]",1
+40001012,"[effect:enhance_enemy, target:enemy_all, turn:-1, status:defense, val:5000, calc:add, animation:enemy_enhance_enemy],[effect:enhance_enemy, target:enemy_all, turn:-1, status:attack, val:0.4, calc:mul, animation:enemy_enhance_enemy]",1

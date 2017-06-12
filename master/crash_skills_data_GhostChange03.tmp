@@ -1,0 +1,4 @@
+1399,"[effect:damage, target:enemy_one, color:green, val:2, animation:damage_one_green03]",3
+1400,"[effect:damage, target:enemy_one, color:green, val:2.5, animation:damage_one_green04]",3
+1401,"[effect:damage, target:enemy_all, color:yellow, val:1, animation:damage_all_yellow03],[effect:damage_hp, target:enemy_one, color:yellow, val:0.75, animation:damage_one_yellow03]",3
+1402,"[effect:damage, target:enemy_all, color:yellow, val:1.125, animation:damage_all_yellow04],[effect:damage_hp, target:enemy_one, color:yellow, val:0.75, animation:damage_one_yellow03],[effect:enhance_unit, target:unit_attack/unit_hp/or, turn:1, status:attack, val:0.018, calc:mul, animation:enhance_unit_all_attack01_unit01]",3

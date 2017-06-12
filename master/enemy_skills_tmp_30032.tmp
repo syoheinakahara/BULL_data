@@ -1,0 +1,25 @@
+30032001,"[effect:change_panel_ratio, turn:5, block_type:blue, val:0.1, animation:block_incidence04]",3
+30032002,"[effect:rush, count:1, val:0.4],[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+30032003,"[effect:break_enchance_enemy, val:0.1, lowest_val:0, count :-1, status:attack, turn:-1, block:block_red, target:myself, calc:mul, animation:enemy_enhance_attack]",3
+30032004,"[effect:change_block, new_block:block_red, target:block_green, count:3, val:0, min_time_count:2, max_time_count:2, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:rush, count:1, val:0.4]",3
+30032005,"[effect:virus, turn:5, rate:1, val:0.1, animation:enemy_virus]",3
+30032006,"[effect:damage_anti_tribe, target:unit_one, tribe:unknown, val1:0.6, val2:0.2]",3
+30032007,"[effect:spread, val:0.3]",3
+30032008,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+30032009,"[effect:remove_enhancement, target:unit_all, target_effect:enhance, target_type:buff, status:defense, animation:frozen_wave],[effect:spread, val:0.12],[effect:spread, val:0.14]",3
+30032010,"[effect:heal, target:enemy_one, val:0.08, animation:enemy_heal]",3
+30032011,"[effect:dis_panel, target:block_yellow, turn:3, animation:enemy_dis_yellow]",3
+30032012,"[effect:damage_anti_color, target:unit_one, color:green, val1:0.7, val2:0.3]",3
+30032013,"[effect:rush, count:2, val:0.4]",3
+30032014,"[effect:suicide, val:1, dead_type:escape, target:myself]",3
+30032015,"[effect:change_block, new_block:block_yellow, target:block_blue, count:3, val:0, min_time_count:2, max_time_count:2, no_effect_msg:no_effect_msg_change_block, animation:change_block]",3
+30032016,"[effect:crash_growth, count:-1, val:-3, animation:change_block]",3
+30032017,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:all, animation:frozen_wave],[effect:spread, val:0.4]",3
+30032018,"[effect:critical, val:1.5]",3
+30032019,"[effect:freq_turn, target:myself, turn:-1, val:1, animation:enemy_freq_turn]",3
+30032020,"[effect:break_enchance_enemy, val:0.08, lowest_val:0.08, count :-1, status:attack, turn:1, block:block_yellow, target:myself, calc:mul, animation:enemy_enhance_attack],[effect:freq_turn, target:myself, turn:2, val:1, animation:enemy_freq_turn]",3
+30032021,"[effect:enhance_enemy, target:myself, turn:1, status:attack, val:1.2, calc:mul, animation:enemy_enhance_attack],[effect:freq_turn, target:myself, turn:2, val:1, animation:enemy_freq_turn]",3
+30032022,"[effect:spread, val:0.25],[effect:rush, count:8, val:0.15],[effect:change_block, new_block:block_red, target:block_green, count:10, val:0, no_effect_msg:no_effect_msg_change_block_heal, animation:change_block]",3
+30032023,"[effect:barrier_attack_skill_color, target:myself, option:guard, color:red, turn:-1, val:0.5, animation:crash_panel_reduce04_unit02],[effect:barrier_attack_skill_color, target:myself, option:guard, color:yellow, turn:-1, val:0.5],[effect:barrier_attack_skill_color, target:myself, option:guard, color:green, turn:-1, val:0.5],[effect:damage_anti_color, target:unit_all, color:blue, val1:0.1, val2:0.4]",3
+30032024,"[effect:change_block, new_block:block_red, target:block_green, count:0, val:0, no_effect_msg:no_effect_msg_change_block, animation:change_block],[effect:change_block, new_block:time_bomb, target:block_heart, count:5, val:0.2, min_time_count:2, max_time_count:4, no_effect_msg:no_effect_msg_change_block, animation:change_block]",3
+30032025,"[effect:crash_growth, count:-1, val:-3, animation:change_block], [effect:rush, count:1, val:1.2]",3

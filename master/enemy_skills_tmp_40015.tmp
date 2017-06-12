@@ -1,0 +1,108 @@
+40015001,"[effect:enhance_enemy, target:enemy_yellow, turn:-1, status:attack, val:0.1, animation:enemy_enhance_attack],[effect:suicide, val:1, dead_type:escape, target:myself]",3
+40015002,"[effect:nothing]",3
+40015003,"[effect:rush, count:2, val:0.65]",3
+40015004,"[effect:spread, val:0.35]",3
+40015005,"[effect:suicide, val:0.5, dead_type:suicide, target:myself, animation:enemy_suicide]",3
+40015006,"[effect:fix_speed, target:myself, turn:1]",3
+40015007,"[effect:enhance_enemy, target:enemy_yellow, turn:-1, status:attack, val:0.1, animation:enemy_enhance_attack]",3
+40015008,"[effect:nothing]",3
+40015009,"[effect:rush, count:6, val:0.2],[effect:suicide, val:0.05, dead_type:suicide, target:myself, animation:enemy_suicide]",3
+40015010,"[effect:spread, val:0.35],[effect:suicide, val:0.1, dead_type:suicide, target:myself, animation:enemy_suicide]",3
+40015011,"[effect:suicide, val:0.2, dead_type:suicide, target:myself, animation:enemy_suicide]",3
+40015012,"[effect:critical, val:2.4],[effect:suicide, val:0.5, dead_type:suicide, target:myself, animation:enemy_suicide]",3
+40015013,"[effect:nothing]",3
+40015014,"[effect:fix_speed, target:enemy_all, turn:8]",3
+40015015,"[effect:kamikaze, val:0.25]",3
+40015016,"[effect:crash_growth, count:-1, val:-41, animation:change_block]",3
+40015017,"[effect:critical, val:1.5]",3
+40015018,"[effect:enhance_enemy, target:myself, turn:1, status:attack, val:0.5, animation:enemy_enhance_attack],[effect:freq_turn, target:myself, turn:1, val:1]",3
+40015019,"[effect:force_change_block, new_block:block_red, target:block_heart, count:0, val:0, animation:change_block],[effect:rush, count:1, val:0.75],[effect:freq_turn, target:myself, turn:1, val:1]",3
+40015020,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:buff, animation:frozen_wave],[effect:spread, val:0.4]",3
+40015021,"[effect:fix_speed, target:myself, turn:1]",3
+40015022,"[effect:spread, val:0.6],[effect:force_change_block, new_block:time_bomb, target:block_all, count:15, val:0.2, min_time_count:1, max_time_count:1, animation:change_block],[effect:fix_speed, target:myself, turn:2]",3
+40015023,"[effect:critical, val:1.5]",3
+40015024,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:buff, animation:frozen_wave],[effect:spread, val:0.4]",3
+40015025,"[effect:reduction, target:myself, turn:2, color:all, val:0.9, animation:reduction_one04]",3
+40015026,"[effect:break_enchance_enemy, val:0.04, lowest_val:0.05, count :5, status:attack, turn:5, block:block_blue, target:myself, calc:mul, animation:enemy_enhance_attack],[effect:break_attack, val:0.08, lowest_val:1000, count:5, block:block_green, target:unit_all]",3
+40015027,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015028,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015029,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015030,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015031,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015032,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015033,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015034,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015035,"[effect:virus, turn:3, rate:1, val:0.08, animation:enemy_virus],[effect:rush, count:1, val:0.8]",3
+40015036,"[effect:spread, val:0.3]",3
+40015037,"[effect:damage_anti_tribe, target:unit_one, tribe:dragon, val1:1.75, val2:1]",3
+40015038,"[effect:enhance_enemy, target:myself, turn:5, status:attack, val:0.3, animation:enemy_enhance_attack]",3
+40015039,"[effect:crash_condition, target:unit_all, val:11, turn:10, animation:crash_panel_reduce04]",3
+40015040,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015041,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015042,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015043,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015044,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015045,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015046,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015047,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015048,"[effect:rush, count:4, val:0.2]",3
+40015049,"[effect:rush, count:4, val:0.2]",3
+40015050,"[effect:rush, count:4, val:0.2]",3
+40015051,"[effect:degrade_unit, target:unit_all, turn:3, status:attack, val:0.5]",3
+40015052,"[effect:remove_enhancement, target:unit_all, target_effect:counter, target_type:buff],[effect:remove_enhancement, target:unit_all, target_effect:counter_new, target_type:buff, animation:frozen_wave],[effect:rush, count:8, val:0.14]",3
+40015053,"[effect:remove_enhancement, target:unit_all, target_effect:counter, target_type:buff],[effect:remove_enhancement, target:unit_all, target_effect:counter_new, target_type:buff, animation:frozen_wave],[effect:rush, count:8, val:0.14]",3
+40015054,"[effect:remove_enhancement, target:unit_all, target_effect:counter, target_type:buff],[effect:remove_enhancement, target:unit_all, target_effect:counter_new, target_type:buff, animation:frozen_wave],[effect:rush, count:8, val:0.14]",3
+40015055,"[effect:force_change_block, new_block:jammer, target:block_all, ignore:crash, ignore02:jammer, count:6, val:0, animation:change_block],[effect:spread, val:0.15]",0
+40015056,"[effect:remove_enhancement, target:unit_all, target_effect:counter, target_type:buff],[effect:remove_enhancement, target:unit_all, target_effect:counter_new, target_type:buff, animation:frozen_wave],[effect:spread, val:0.12],[effect:rush, count:8, val:0.12]",3
+40015057,"[effect:remove_enhancement, target:unit_all, target_effect:counter, target_type:buff],[effect:remove_enhancement, target:unit_all, target_effect:counter_new, target_type:buff, animation:frozen_wave],[effect:spread, val:0.12],[effect:rush, count:8, val:0.12]",3
+40015058,"[effect:remove_enhancement, target:unit_all, target_effect:counter, target_type:buff],[effect:remove_enhancement, target:unit_all, target_effect:counter_new, target_type:buff, animation:frozen_wave],[effect:spread, val:0.12],[effect:rush, count:8, val:0.12]",3
+40015059,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:buff, animation:frozen_wave],[effect:spread, val:0.1],[effect:spread, val:0.1],[effect:spread, val:0.1],[effect:spread, val:0.1],[effect:spread, val:0.1],[effect:spread, val:0.1]",3
+40015060,"[effect:reduction, target:myself, turn:3, color:red, val:0.5, animation:reduction_one04],[effect:reduction, target:myself, turn:3, color:green, val:0.5],[effect:reduction, target:myself, turn:3, color:blue, val:0.5]",3
+40015061,"[effect:reduction, target:myself, turn:3, color:red, val:0.5, animation:reduction_one04],[effect:reduction, target:myself, turn:3, color:gleen, val:0.5, animation:reduction_one04],[effect:reduction, target:myself, turn:3, color:blue, val:0.5, animation:reduction_one04]",0
+40015062,"[effect:crash_condition, target:unit_all, val:11, turn:10, animation:crash_panel_reduce04]",3
+40015063,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015064,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015065,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015066,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015067,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015068,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015069,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015070,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015071,"[effect:nothing]",0
+40015072,"[effect:nothing]",3
+40015073,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:buff, animation:frozen_wave],[effect:damage_fix_absolute, target:unit_all, val:11111]",3
+40015074,"[effect:nothing]",0
+40015075,"[effect:remove_enhancement, target:unit_all, target_effect:all, target_type:buff, animation:frozen_wave],[effect:damage_fix_absolute, target:unit_all, val:11111],[effect:fix_speed, target:myself, turn:1]",3
+40015076,"[effect:suicide, val:1.0, dead_type:suicide, target:myself, animation:enemy_suicide]",0
+40015080,"[effect:nothing]",3
+40015081,"[effect:nothing]",3
+40015082,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015083,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015084,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015085,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015086,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015087,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015088,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015089,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015090,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015091,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance]",3
+40015092,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015093,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015094,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015095,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015096,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015097,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015098,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015099,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015100,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015101,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:hungup, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:1]",3
+40015102,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015103,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015104,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015105,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015106,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015107,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015108,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015109,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015110,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
+40015111,"[effect:tolerance, target:myself, turn:-1, tolerance_effect:all, count:-1, animation:enemy_tolerance],[effect:fix_speed, target:myself, turn:4]",3
